@@ -4,6 +4,7 @@
   "description": "Script to generate static archive website of old PCKF forum",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "./node_modules/mocha/bin/mocha"
   },
   "author": "Adam Nielsen <malvineous@shikadi.net>",
