@@ -1,0 +1,129 @@
+body {
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 12pt;
+}
+
+img.logo {
+	display: block;
+	margin: 0 auto;
+}
+div.stamp {
+	float: right;
+	position: absolute;
+	right: 0;
+	display: grid;
+	border-top: 2px solid red;
+	border-bottom: 2px solid red;
+	text-transform: uppercase;
+	transform: rotate(30deg);
+	margin-top: 3em;
+	padding: 0.5ex;
+
+	-webkit-mask-image: url('mirror/grunge.png');
+	-webkit-mask-position: 11rem 14rem;
+  -webkit-mask-size: 944px 604px;
+  mix-blend-mode: multiply;
+}
+div.stamp h2 {
+	vertical-align: middle;
+	display: inline;
+	color: red;
+	font-size: 48pt;
+	margin: 0;
+	margin-bottom: -0.5ex;
+}
+
+ul.breadcrumb li {
+	display: inline;
+	list-style: none;
+	padding-left: 1ex;
+}
+ul.breadcrumb li:after {
+	padding-left: 1ex;
+	content: "⯈";
+}
+ul.breadcrumb li:last-child:after {
+	content: none;
+}
+
+a {
+	color: #907a00;
+	text-decoration: none;
+}
+
+center {
+	display: block; /* Required as BBCode conversion does [center] -> <center> */
+}
+
+code {
+	display: block;
+	margin: 2em;
+}
+
+table.forums,
+table.topics,
+table.posts {
+	border-collapse: collapse;
+}
+
+table.forums td,
+table.topics td,
+table.posts td {
+	vertical-align: top;
+	background-color: #fafaf4;
+	border: 1px solid black;
+	padding: 1ex;
+}
+
+table.forums thead td,
+table.topics thead td,
+table.posts thead td {
+	font-weight: bold;
+	font-size: 90%;
+	background-color: #1a7000;
+	color: #eacd03;
+	border-top: 1px solid #eacd03;
+	border-bottom: 3px solid #eacd03;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+table.forums tbody tr:nth-child(even) td,
+table.topics tbody tr:nth-child(even) td,
+table.posts tbody tr:nth-child(even) td {
+	background-color: #eef4ee;
+}
+
+table.posts .author {
+	display: block;
+	font-weight: bold;
+}
+
+table.posts .timestamp,
+table.posts .postCount {
+	font-size: 75%;
+	display: block;
+}
+table.posts .timestamp {
+	color: #1a7000;
+}
+
+table.posts .avatar {
+	display: block;
+}
+
+table.posts .title {
+	font-weight: bold;
+}
+
+table.posts .permalink {
+	font-weight: normal;
+	font-size: 90%;
+	float: right;
+}
+
+table.posts .signature {
+	margin-top: 1ex;
+	font-size: 90%;
+	color: #222;
+}

@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>{site} - {forum.title}</title>
+		<link rel="stylesheet" type="text/css" href="pckf.css">
+		<script src="sorttable.js"></script>
+	</head>
+	<body>
+		<div class="stamp"><h2>Archive</h2></div>
+		<img src="img/pckf-logo.jpg" class="logo" />
+		<ul class="breadcrumb">
+			<li>
+				<a href="index.html">{site}</a>
+			</li>
+			<li>
+				<a href="forum-{forum.id}.html">{forum.title}</a>
+			</li>
+		</ul>
+		<table class="topics sortable">
+			<thead>
+				<tr>
+					<td>Topic</td>
+					<td>Author</td>
+					<td>Views</td>
+					<td>Replies</td>
+					<td>Posted at</td>
+					<td>Last post by</td>
+					<td>Last post at</td>
+				</tr>
+			</thead>
+			<tbody>
+				{for thread in forum.threads}
+					<tr>
+						<td>
+							{if thread.sticky}
+								[Sticky]
+							{/if}
+							{if thread.hot}
+								[Hot]
+							{/if}
+							<a href="forum-{forum.id}.thread-{thread.id}.html">{thread.title}</a>
+						</td>
+						<td>
+							{thread.author_name}
+						</td>
+						<td>
+							{thread.viewCount}
+						</td>
+						<td>
+							{thread.replyCount}
+						</td>
+						<td>
+							{thread.firstReply.timestamp}
+						</td>
+						<td>
+							{thread.lastReply.author_name}
+						</td>
+						<td>
+							{thread.lastReply.timestamp}
+						</td>
+					</tr>
+				{/for}
+			</tbody>
+		</table>
+	</body>
+</html>

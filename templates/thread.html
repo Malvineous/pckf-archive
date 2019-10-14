@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>{site} - {forum.title} - {forum.thread.title}</title>
+		<link rel="stylesheet" type="text/css" href="pckf.css">
+	</head>
+	<body>
+		<div class="stamp"><h2>Archive</h2></div>
+		<img src="img/pckf-logo.jpg" class="logo" />
+		<ul class="breadcrumb">
+			<li>
+				<a href="index.html">{site}</a>
+			</li>
+			<li>
+				<a href="forum-{forum.id}.html">{forum.title}</a>
+			</li>
+			<li>
+				{forum.thread.title}
+			</li>
+		</ul>
+		<table class="posts">
+			<thead>
+				<tr>
+					<td>Author</td>
+					<td>Comment</td>
+				</tr>
+			</thead>
+			<tbody>
+				{for post in forum.thread.posts}
+					<tr>
+						<td>
+							<a name="p{post.id}"></a>
+							<span class="author">
+								<a href="user-{post.author_id}.html">
+									{post.author_name}
+								</a>
+							</span>
+							<span class="postCount">Posts: {post.userPostCount}</span>
+							<span class="timestamp">{post.timestamp_pretty}</span>
+							<span class="avatar">
+								{if post.avatar_url}
+									<img src="{post.avatar_url}" />
+								{/if}
+							</span>
+						</td>
+						<td>
+							<div class="title">
+								{post.title}
+									<span class="permalink">
+									<a href="#p{post.id}">#{post.id}</a>
+								</span>
+								<hr />
+							</div>
+							{post.content}
+							{if post.signature}
+								<div class="signature">
+									{post.signature}
+								</div>
+							{/if}
+						</td>
+					</tr>
+				{/for}
+			</tbody>
+		</table>
+	</body>
+</html>
