@@ -185,6 +185,9 @@ async function generateIndex()
 	}
 
 	// Copy the avatar images across
+	fs.mkdir(OUTPUT_DIR_AVATARS, (err) => {
+		if (err) console.error(`Unable to create folder "${OUTPUT_DIR_AVATARS}":`, err);
+	});
 	for (const userId of Object.keys(index.users)) {
 		const user = index.users[userId];
 		if (user.avatarURL) {
