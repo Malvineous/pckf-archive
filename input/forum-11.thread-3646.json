@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1480,
+		"title": "How's Monster Bash going?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-03-06T06:12:54.000Z",
+		"content": "Hi everyone, it's been rather a while since I posted here!  I just happened to be browsing around to see if anyone had figured out anything more about decompressing the Monster Bash data, and I ended up back here in an extremely fascinating thread I've never seen before!  I have to say, it's kinda weird when you hunt around for information, find someone's website that you've never heard of (Gerald Lindsly) and then it turns out he was a programmer for Monster Bash with this comment:<br />[quote]<b><i>Quote:</i></b>[hr]<br />[url=http://pub128.ezboard.com/fpubliccommanderkeenforumtheclassics.showMessage?topicID=190.topic]pub128.ezboard.com/fpubli...=190.topic[/url] Yes, that's about as real as it gets. By comparison with the ORiGINAL source, that is quite similar to a file included as part of the Apogee sponsored commercial efforts (MB2 and MB3). It is one of the files included as part of the FAST/Apogee protection/security scheme...<br />[hr][/quote]<br />So I think \"ooh, I'd better have a look at that\" and it turns out to be a message posted by Frenkel, detailing my findings on the Monster Bash file format [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]   Small world...!<br /><br />At any rate, the threads on Monster Bash are very interesting, and I just downloaded Wombat Game Tools - *very* nice work szevvy, I've waited so long to extract those IMFs!  (And judging by the URL, did you go to QUT?  I went to Griffith...lol)  I'm quite surprised at the number of game editors that are coming out now - which is a bit of a shock, because when I started my 'universal game editor' a while back there were almost none [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Anyway, hello to everyone again, and I hope to spend some more time around here now!  (And apologies to KeenRush, for never getting around to doing a Wacky Wheels editor [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img]   Looks like there are a few alternatives on the horizon though!)<br /><br />Cheers,<br />Adam (Malvineous)"
+	},
+	{
+		"id": 30702,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-03-06T10:29:43.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  Hehe, I already forgot. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  And yeah, great to see these tools coming up, only thing I would need is more spare time and better artistic skills!<br />Welcome!<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 30703,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-03-10T03:03:43.000Z",
+		"content": "My monster bash support is as complete as it'll be, as Gerald asked me to not put up a version of Wombat that would properly extract the sprites, which I respect; as I believe the Monster Bash II project is still going on (don't quote me though, I haven't caught up with Gerald for half a year or so) I don't intend to make any modding tools.  All the decompression code is posted on Gerald's site, too.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30704,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-03-12T05:43:42.000Z",
+		"content": "Waaa! A curse on joo! May you rot in the eternity of Pascal damnation! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br /><br />Um, can I have Wombat now? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] A proud member of the signature stealing society<br /><br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/antiror.jpg[/img]<br /><br />\"No one should be here.<br />\" -Level Lord"
+	},
+	{
+		"id": 30705,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-03-12T09:59:09.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Gerald asked me to not put up a version of Wombat that would properly extract the sprites[hr][/quote]Oh, why's that?  Surely the sprites will be changed extensively in any future versions of Monster Bash?  Is Gerald concerned about extracting the sprites or replacing them with custom ones? (In which case an editor would be okay so long as it could only overwrite the sprites.)"
+	},
+	{
+		"id": 30706,
+		"title": "Not sure",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-03-13T04:15:23.000Z",
+		"content": "I'm not really sure - you can try dropping him a line, he reads + responds to his emails, and the email listed on his site is current."
+	},
+	{
+		"id": 30707,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1486453,
+		"author_name": "xManofGoD",
+		"timestamp": "2005-03-24T19:08:23.000Z",
+		"content": "I've been following this one too, and I find it quite interesting that a 2D side scrolling game is taking more than six months to complete.  This project should have been wrapped a month ago.  As a comparison, most triple A titles take 15 to 18 months from start to finish; Most double A titles take 6 to 9 months to finish; yet here we have a 2D side scroller game using tech that has been around for over a decade still taking forever to get done....Even someone doing it in their spare time should be able to crank it out in six months.  Most of the games on popcap or one of those distribtion sites do not take more than 6 months to do.  I of course know the reason why; you the readers need to be asking the question why.  Any business professional would be able to recognize the reason why......I'll post again at the 12 month mark, after which MB will still not be out.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />xManofgod"
+	},
+	{
+		"id": 30708,
+		"title": "Re: How's Monster Bash going?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-03-26T05:17:44.000Z",
+		"content": "The way I see it, this is a hobby project; there's no rush.  I don't see any reason to have to crank it out within a certain timeframe.  That benig said, I have a feeling that no work has been done on MB for a while.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	}
+]

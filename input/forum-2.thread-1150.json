@@ -1,0 +1,106 @@
+[
+	{
+		"id": 232,
+		"title": "Hey folks, remember me?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-10-28T19:24:44.000Z",
+		"content": "I rele<i>ased a Commander Keen Andromeda demo made with Multimedia Fusion (or Games Factory, I forget XD)<br /><br />I know this might belong in some other forum but keep reading... it's about Commander Keen Andromeda.<br /><br />College somehow took over and lots of stuff has been going on. I haven't worked on Andromeda since I got MMF since my monitor at the time couldn't display resolutions higher than 800x600. 1042x768 was fuzzy and headache inducing.<br /><br />I got a new monitor, although it has some kinks to work out such as somehow causing my computer to crash when playing a game that is even slightly graphics intensive like Soldier of Fortune.<br /><br />Fortunately, DOOM works. Even with GZDoom.<br /><br />And Zdoom.<br /><br />And Freedoom.<br /><br />And Doombuilder......<br /></i><br />In fact, what I have been doing is playing around with Zdoom, making Doom II modifications. Lately I have been toying around with an idea that hasn't been extensively pursued by anyone before. Well, at least not with the Doom II engine. <br /><br />A Commander Keen Doom total conversion?<br /><br />I think I spotted something about a Quake TC as well.<br /><br />and then there are three other 3D Commander Keen games as well.<br /><br />I know I know... someone out there is going to say, \"But I don't have Doom!\" Say no more...<br /><br />I mentioned <i>Free Doom</i>, which is basically the entire game of Doom II with absolutely everything that was made for Doom II eliminated and condensed into a free downloadable IWAD. It is with this IWAD that I will work from to create the Commander Keen TC.<br /><br />I am also trying to decide which engine to use. I am hands down most familiar with ZDOOM, but if I were to use the GZDOOM engine there would be some clear advantages over ZDOOM. It gets tricky though, since some of the features of GZDOOM I still have to familiarize myself with (including the rather pain-in-ass task of configuring DoomBuilder to work with the GZDOOM engine). If I use GZDOOM, some limitations of the Doom engine would have work-arounds - for example some sectors can have multiple floors which would be quite useful for floating platforms. <br /><br />As for style of gameplay, it would have some similarities with Sonic Doom, which is basically the game of Doom with characteristics of Sonic (however, all the monsters and the storyline is based on Doom characters). <br /><br />Graphics wise, a combination of old and new. If I use ZDoom, no floating platforms, but I might be able to use moving platforms (they would look like a quadruplet of floating sprites though, and as I recall from Sonic Doom, they are a pain in the arse). <br /><br />As for bonus levels, I'm sure all or most of you are aware of the cameo Commander Keen makes in Doom II. <br /><br />Those last two levels are styled after Wolfenstein, but in this TC I might style them after Cosmo's Cosmic Adventure (mainly because no one actually did a Cosmo mod in Doom - and Commander Keen's true predecessor Super Mario Bros* has been done many times before). <br /><br />As for storyline, it would be a fanfic type storyline much like Commander Keen 2000 and other classic fangames. <br /><br />However, Mortimer McMire won't be the main villain. That's all I'm going to say. The main villain will be a being much more frightening.<br /><br />The title won't be Commander Keen Andromeda, although it will have some graphical similarities to Andromeda and its predecessor HyperKeen. (which I don't think I actually ever released, lol...)<br /><br />Weaponry will be quite varied, but I haven't decided on what types of weapons to use. One will be the classic neural stunner which will knock them out. The other will be the classic raygun from the original trilogy, which will have the same effect but a little more potent. I might have a baseball bat as a last-resort weapon, and a neural taser.<br /><br />For one thing, there will be different types of \"deaths\" for the enemies. Monsters can be stunned, frozen and shattered, or disintegrated. <br /><br />All monsters will be defeatable. <br /><br />As for any sidescrolling projects, I might make another Commander Keen game with Multimedia Fusion, but have it use the engine I am currently working on. This won't be for a few years at least though.<br /><br />* I think Keen was made to emulate the style of NES Super Mario into a DOS game with obvious gameplay and stylistic differences. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5998,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-28T20:31:41.000Z",
+		"content": "Heh, good luck with that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Looking forward.<br /><br />\"I think I spotted something about a Quake TC as well.\"<br />Well, it seems to have been just some random ideas, I doubt there'll be anything finished. Hopefully I'm proven wrong.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5999,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-10-28T23:08:38.000Z",
+		"content": "Heh. Years ago I wished very hard for a Doom-esque Keen game. Less so as games have gotten fancier, but now that I think of it, Doom into Keen would be a lot of fun. Enough so that I might feel motivated to contribute, if you want that.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6000,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-29T14:48:15.000Z",
+		"content": "I should love to contribute, but I have no idea what I'm doing now, let alone with this 'Doom' game. I am assuming it is close to Duke Nukum 3D or such, which I have seen and therefore look very forward to anything that is produced.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 6001,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-10-31T01:29:51.000Z",
+		"content": "Graphically, Doom II is under Duke Nukem 3D... However<br /><br />ZDoom, even with basic enhancements, will make the graphics much more superior in looks than Duke Nukem 3D<br /><br />IE... support for extremely high resolutions.<br /><br />Believe me, playing Doom (especially the Alien Vendetta and Deus Vult megawads) is a blast at 1280 X 1024<br /><br />Playing any game is a blast at 1280 X 1024...<br /><br />When game freezes, the blast is gone and is replaced by angryness.<br /><br />At least Doom II still works though.<br /><br />Anywho, does anyone know why the hell the ATI Radeon 9600 freezes while playing a 3D accelerated game with an LCD monitor?A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 6002,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-31T09:34:20.000Z",
+		"content": "You never tried JFDuke + high res pack, did you? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  <br /><br />Anyway, no matter what you use, as long as it makes a good Keen game I'm happy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />Welcome back btw, even if I don't know you.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 6003,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-31T23:00:02.000Z",
+		"content": "<i>does anyone know why the hell the ATI Radeon 9600 freezes while playing a 3D accelerated game</i><br /><br />Ten to one it or your CPU is overheating - try pointing a desk fan into your computer case while you're playing and see if it fixes it."
+	},
+	{
+		"id": 6004,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-10-31T23:26:19.000Z",
+		"content": "I don't have Duke 3D, or I do, but it's the shareware version that doesn't work. lolz<br /><br />I'm familiar with Doom though...A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 6005,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-11-01T01:16:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Graphically, Doom II is under Duke Nukem 3D... However<br /><br />ZDoom, even with basic enhancements, will make the graphics much more superior in looks than Duke Nukem 3D[hr][/quote]<br /><br />then take a look at my screenshots and tell me that doom2 still looks better<br /><br />[url=http://img.photobucket.com/albums/v177/memsys/duke0000.png]shot 1 [warning pic is 56k modem unfriendly][/url]<br />[url=http://img.photobucket.com/albums/v177/memsys/duke0002.jpg]shot 2 [warning pic is 56k modem unfriendly][/url]<br />[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 6006,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-01T11:24:07.000Z",
+		"content": "Yeah, that's what I meant when I said \"JFDuke + Hi res pack\".____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 6007,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-01T23:02:33.000Z",
+		"content": "\"Hi res pack\"???  Why are you running it all the way down at 1024x768 then?  That's hardly any better than the original unmodified version's 800x600 limit [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   Won't it do 1600x1200 or 2048x1536?"
+	},
+	{
+		"id": 6008,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-02T04:13:15.000Z",
+		"content": "Tormentor667 is a killer map maker...<br /><br />[img]http://www.doomworld.com/images/newstuff/277/sapphire-4.png[/img]<br />[img]http://www.doomworld.com/images/newstuff/277/sapphire-3.png[/img]<br />[img]http://www.doomworld.com/images/newstuff/277/sapphire-2.png[/img]<br />[img]http://www.doomworld.com/images/newstuff/277/sapphire-1.png[/img]<br /><br />That's GZDoom.<br /><br />There's a part where you can fall out of the level and you die instantly, but if you have godmode on, you can see the hi res skydome that's been implemented in this mod.<br /><br />If I go with GZDoom, the reflective floors and all the OpenGL effects are nice and all, but to emulate a sidescroller into a FPS is one thing, it'd look terrible to have it all modernized.<br /><br />With Doom, another thing that can be done that isn't necessarily easy to do with Duke 3D is really really large levels.<br /><br />Literally, Deus Vault and Holy Hell take hours to complete.<br /><br />But maps that large won't make an appearance in Commander Keen. However, maps won't necessarily be short either.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 6009,
+		"title": "Re: Hey folks, remember me?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-11-02T13:29:00.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]\"Hi res pack\"??? Why are you running it all the way down at 1024x768 then? That's hardly any better than the original unmodified version's 800x600 limit [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Won't it do 1600x1200 or 2048x1536?[hr][/quote]<br /><br />because photobucket won't let me upload anything larger than 1024X768 and i made the pic's on my laptop that has a 1280X800 thats why[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	}
+]

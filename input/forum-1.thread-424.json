@@ -1,0 +1,146 @@
+[
+	{
+		"id": 81,
+		"title": "Who has the luck...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-30T14:33:01.000Z",
+		"content": "...to play the Keen 4,5,6 games in original MS-DOS, with all hardware working?<br /><br />I am, my 2100Mhz Pentium 4 runs on Windows 98, and my sound card still even has Adlib support! Any other lucky fellows who don't need DOSbox? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2797,
+		"title": "Re: Who has the luck...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-30T15:02:46.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  I wish.. Or well, I have my Keen-O-Matic (my previous computer), but I haven't used it for a while because it makes some strange noise and I'm afraid it'll burn the house. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  I should somehow get a pure Keen-O-Matic to this room..<br /><br />And, you're lucky! Keen 1-3 works fine with PC speaker sounds on this comp, but the movement in others isn't normal without the aid of DosBox.. Not to mention I can't hear the cool sounds without DosBox..<br /><br />I think I'll play some Keen now.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2798,
+		"title": "Re: Ich hasst dur ... umm, luck.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-07-30T15:06:01.000Z",
+		"content": "I've got a hundred of those things. [url=http://jimsoft.spatang.com/sq/]Literally[/url]. I wish it was easier to give some of them to other Keeners.<br /><br />One lucky machine takes pride of place in my lounge.<br /><br />200MHz<br />32Mb RAM<br />3Gb HDD (I think)<br />PSone style four-button Gravis gamepad<br />20\" CRT monitor<br /><br />It's attached to a four-way KVM switch, which allows me to flip between the MP3 machine [also a 200MHz, running a highly tweaked Win98SE], the DOS Beast and whatever other machines I need to use, without messing around with cords.<br /><br />Plus, as it's on the same setup as my MP3 machine, it's also connected to my stereo (which also can switch between the two puters), cranking through four 10\" speakers.<br /><br />DOS + BASS = [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]  <br /><br />It boots in 5 seconds, is capable of filesharing across a Microsoft workgroup, and runs ANYTHING. No clearing TSRs for me. Check the MEM output below. The one problem at the moment is that the software to access the workgroup doesn't like running alongside an LSL IPX layer used for network gaming, so I need to dual boot for that sort of thing.<br /><br />Been meaning to document this thing for a while--I'll post a few pictures and the AUTOEXEC and CONFIG for anyone serious about DOS gaming.<br /><br />[pre]  Modules using memory below 1 MB:  Name           Total           Conventional       Upper Memory  --------  ----------------   ----------------   ----------------  SYSTEM      13,104   (13K)     13,056   (13K)         48    (0K)  COMMAND      3,280    (3K)      3,008    (3K)        272    (0K)  BASIC       13,696   (13K)     13,696   (13K)          0    (0K)  FDXMS        1,808    (2K)          0    (0K)      1,808    (2K)  IFSHLP       3,968    (4K)          0    (0K)      3,968    (4K)  PROTMAN        400    (0K)          0    (0K)        400    (0K)  RTSND       41,376   (40K)          0    (0K)     41,376   (40K)  NDISHLP      1,440    (1K)          0    (0K)      1,440    (1K)  NWLINK      10,144   (10K)          0    (0K)     10,144   (10K)  PROTMAN      2,560    (3K)          0    (0K)      2,560    (3K)  Free       725,280  (708K)    623,424  (609K)    101,856   (99K)Memory Type        Total       Used       Free----------------  --------   --------   --------Conventional          638K        29K       609KUpper                 160K        61K        99KReserved              226K       226K         0KExtended (XMS)     47,104K    15,527K    31,577K----------------  --------   --------   --------Total memory       48,128K    15,843K    32,285KTotal under 1 MB      798K        90K       708KLargest executable program size       609K (623,360 bytes)Largest free upper memory block        99K (101,616 bytes)FreeDOS is resident in the high memory area.[/pre]"
+	},
+	{
+		"id": 2799,
+		"title": "Ich habe viel Gluck! Ja, sehr gern!",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-07-30T16:49:17.000Z",
+		"content": "I use the \"craptop.\" It's an old Toshiba laptop from like 1993. 800x600 resolution.<br /><br />Pentium like... 90 or 60 megahertz. I am not quite sure which it is. It can run DOS games in 98 without any problems. AND it can pay Tyrian with the \"FM\" sound selected.<br /><br />The way it is supposed to be heard.<br /><br />Ahem yes... I should upload some pictures sometime. It's pretty funny. All ripped apart and banged up. And the cool thing is I can run MSN messenger on it. XD I have it sitting next to my bed so I can play keen or whatever I want to late at night.<br /><br />Which I hardly ever do because I usually am sleeping.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 2800,
+		"title": "Re: Ich habe viel Gluck! Ja, sehr gern!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-30T17:24:18.000Z",
+		"content": "I wish I had such a sound system.. I hope I one day hear Spleen's Dos bass.. It's so annoying I was so near hearing them, only few hundred kilometres away from him, in Melbourne. But unfortunately I had almost no money left as I was robbed in Sydney earlier that.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />Yeah, sounds pretty excellent, that Dos machine. Yeah, it's good idea to document all that stuff, as you now have a new site and all.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2801,
+		"title": "KEEN!!!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-31T01:00:36.000Z",
+		"content": "I have a really old 8mhz computer. The screen is still in back and white and doesn't support VGA. It supports keen though.<br />On the other hand, I have a better win98 which supports keen with much better hardwhere. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 2802,
+		"title": "Re: KEEN!!!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-07-31T02:12:47.000Z",
+		"content": "i have an 80286 that is able to run keen dreams but it has a 5.25inch floppy drive so i can't install games on it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  <br />i also have a 80486 88mhz 12mb ram in a lot o parts computer that i want put together but i can't do it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  cos i don;t know how to do it , it has no hd or pata cable the cd drive had its best time and the monitor is dead (i think)[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 2803,
+		"title": "Re: KEEN!!!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-31T07:31:44.000Z",
+		"content": "I *can* run Keen dosfree; but if I want quality, its DosBox all the way.<br /><br />[I have created a version of Keen 3 that *only* run in DosBox, muhahahaha!]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2804,
+		"title": "Re: KEEN!!!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-07-31T09:11:08.000Z",
+		"content": "I have my retrocomputer which currently runs Windows 98, although I'll probably set it up to run pure DOS eventually as well.<br />I just don't feel like going through the trouble right now.<br />It's a HP Vectra VEi7 C566, with a 566 MHz Celeron, although I plan on replacing it with a 633 I think it is, which I have lying around, but again, too much trouble right now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I have an original Gravis PC GamePad with it, the very object that introduced me to Commander Keen (1), or truthfully my second one, since my first has a repaired-rabbit-chewed-cord, making it slightly less cool.<br /><br />The soundcard is buggy though, MIDI sounds OK, but some wave stuff sounds completely wrong.<br />It's OK in Keen, but when I tried Goblins 3 (Goblins Quest) for instance, the voices were just clicking and garbled noise.<br />Doom on the other hand plays OK, so I'm not sure what the problem is.<br />Getting off-topic here.<br /><br />A friend of mine left me another computer, which should be a bit faster, which is nice for what I want with it.<br />Problem is he left it in the garage for quite a while, so the thing needs cleaning first.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 2805,
+		"title": "Re: KEEN!!!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-31T13:32:07.000Z",
+		"content": "Spleen has the best combination ever, wah. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I might be the only one being able to run the Keen games perfectly on a new machine, though...<br /><br />Also funny how I can hear FM sound in most MS-DOS games (yes, Tyrian too!) even through my surround set, but I can't get the gamepad to work... Ah well.<br /><br />Lol, 086s and 286s are a bit TOO far back... We had a 286 once. It was all yellow with a 4-colour monitor (yellow, darker yellow, brown, black), 640kb RAM, and an I dunno how big harddisk (I think around 64 MB? I dunno for sure.)____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2806,
+		"title": "Re: KEEN!!!",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-01T04:11:34.000Z",
+		"content": "I really don't mind using DOSbox (when it works). I'd rather Keen on the same Linux box I use for everything else. Demanding games like Tyrian and Privateer II are a little disappointing though. I do miss actual PC speaker sounds. Emulators just don't have the same charm. My desktop has a real PC speaker, but I don't suppose DOSbox can send anything to it.<br /><br />Spleen's sound system truly sounds like a wonder. I remember sitting in front of a DOS machine in a pitch-black room, just me and Privateer coming through what was (at the time) a huge monitor and my almighty 2.1 speaker system. Yet it pales in comparison to his setup.<br /><br />I wish there were some way I could hook up my Gravis gamepad to my laptop. I went to all the trouble of opening it up and rewiring it to make it work again, and now I have no place to plug it in. I'd kill for a USB version, but there's no way I'm going to hack my only one. If I had a backup I'd hack it in a second.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 2807,
+		"title": "!?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-01T18:49:28.000Z",
+		"content": "Wait wait wait, Spleen... how the devil do you have 798K free?  You got some tweaked version of DOS running, too?  I thought 640k base was all that was allowed?  That's fantastic; the wiring to have a dedicated mp3 machine sounds awesome.  The closest I have to that is an input on the entertainment speaker system in my livingroom that lets me hook up my iPod/laptop/whatever.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />What do the tweaks on your Win98SE do?  I finally upgraded my shoddy little laptop (433mhz, used to have 32MB RAM, now has 256, and used to have 4gb HD, now has 30gb)... and I'd love to tweak/customize my setup."
+	},
+	{
+		"id": 2808,
+		"title": "!)",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-08-02T00:34:42.000Z",
+		"content": "[hr]<b>Xky</b> Wait wait wait, Spleen... how the devil do you have 798K free? You got some tweaked version of DOS running, too?<br />[hr]I'm using FreeDOS 9, which takes up far less conventional memory than DOS 6.22 (about 18K when loaded high). In addition, I use [url=http://sorry.vse.cz/~roman/dimension/rdos/rdosumb/]RDOSUMB[/url], which swipes unused cache from the BIOS to be used as extra UMB space. It requires some experimentation to get it working right, but it's worth it.<br /><br />[hr][<b>fdconfig.sys</b>]<br />file=8<br />fcbs=1,0<br />device=c:\\dos\\driver\\rdosumb\\rdosumb.com * #1D<br />dos=high,umb<br />devicehigh=c:\\dos\\driver\\fdxms.sys<br />devicehigh=c:\\net\\ifshlp.sys<br />devicehigh=c:\\dos\\driver\\rdosumb\\upload.com /e<br /><br />[<b>autoexec.bat</b>]<br /><br />c:\\dos\\driver\\rdosumb\\upload.com /d<br />lh c:\\net\\net initialize<br />lh c:\\net\\nwlink<br />lh c:\\net\\net start<br />[hr]<br /><br />Without installing the network, I have abot 620k free conventional memory. The 700+ figure includes upper memory.<br /><br />As for Win98, you should look into [url=http://www.msfn.org/board/index.php?s=c92dd2348a007c3c7cbdd8794dd28e8a&showforum=91]this forum[/url].<br /><br />Definitely get Win98SE Unofficial Service Pack (ooh, new version--must grab that). Revolutions Pack is a good idea in theory, but I've only tried the previous version last year which screwed a few things up. I think those problems have been fixed now, though.<br /><br />98Lite is nice too, though not listed at that forum. It goes through and makes a whole bunch of components optional, listing them in Add/Remove. It's shareware, though, but I don't remember the limitations.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img] <br /><br />Search up the following updates, too.<br /><br />4756US8 (Fixes those stupid hangs at shutdown)<br />240075up, 241134usa8 (ME transplant for USB support)<br />98NativeUSB22e (Allows support for most USB storage, etc)<br />MeSCANFRAG (ME's faster scandisk and defrag)<br /><br />There's all sorts of fun stuff if you search around a bit for Win98 tweaks. I'll be starting a section at my site dedicated to this stuff soon, but that should be enough info for now."
+	},
+	{
+		"id": 2809,
+		"title": "Re: !)",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-03T01:04:55.000Z",
+		"content": "[img]http://jimsoft.spatang.com/sq/photos/pcs010.jpg[/img]<br /><br />ehh isn't that a pata cable [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 2810,
+		"title": "Pahtah.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-08-03T03:35:48.000Z",
+		"content": "Nay, it's a strange version of SCSI that has the same shape as a PATA but more pins."
+	},
+	{
+		"id": 2811,
+		"title": "Re: Pahtah.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-03T05:07:14.000Z",
+		"content": "I used to have a whole lot of crap like that...<br /><br />I threw it all out a year or two ago.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 2812,
+		"title": "Re: Pahtah.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-06T15:05:42.000Z",
+		"content": "Well, my computer has 2000.<br /><br />Meaning it's a piece of shit, but it still can't play Keen...~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2813,
+		"title": "Re: Pahtah.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-06T18:24:27.000Z",
+		"content": "Well, I connected my old computer today... It seems to work fine, except for the fact that I feel a sudden tension when I turn it on... I think something's wrong with the power, so I won't be turning that thing on again till I have it in a safe place to try.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	}
+]

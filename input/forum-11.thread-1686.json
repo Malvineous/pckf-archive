@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1343,
+		"title": "Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-02T14:07:40.000Z",
+		"content": "I'ts me again, whit a little crazy prosject, i have been able to use hardware that running 2 OPL3 chip at the same time.<br />By connecting a computer builded for recording, and a old Intel 133 MHZ whit dos and win3.11 , i can capture music from games like from Apogee.<br /><br />The record prossesing is 96KHZ 32bit 4chn. And whil be bounced to wav, and will be relesed as mp3 48khz 32 bit sterio.<br /><br />The story to make it running, whas quite \"heavy spend in time\"<br />i spend 14-15 hour to install and make a Dos 6.22 and Win3.11 up and running. after a while, the disk died, so i had to re-install everthing on a other disk. good it didnt tok 14 hours again, but only a few. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />the next day i spend alot of time to optimize the output volume, and get the noise floor lowest as possible. and that whas a hard task as well. i had to adjust a balanse between 2 mixers on to different soundcard, and evertime i have to re-boot, beacuse its store saved configurations in Autoexec.bat.<br /><br />anyways there is alot more annoying episodes i have had. but i'm too lazy to tell everting.<br /><br />let's see what i can relese soon"
+	},
+	{
+		"id": 28758,
+		"title": "Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-02T20:27:09.000Z",
+		"content": "the soundtracks is out:<br /><br />[url=http://www.darkocean.info/OPL3X2/apogee.mp3]www.darkocean.info/OPL3X2/apogee.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/bachbash.mp3]www.darkocean.info/OPL3X2/bachbash.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/bashdnce.mp3]www.darkocean.info/OPL3X2/bashdnce.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/cavebash.mp3]www.darkocean.info/OPL3X2/cavebash.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/chase.mp3]www.darkocean.info/OPL3X2/chase.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/cyclops.mp3]www.darkocean.info/OPL3X2/cyclops.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/demons.mp3]www.darkocean.info/OPL3X2/demons.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/fastbash.mp3]www.darkocean.info/OPL3X2/fastbash.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/ghouls.mp3]www.darkocean.info/OPL3X2/ghouls.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/goodbye.mp3]www.darkocean.info/OPL3X2/goodbye.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/haunted.mp3]www.darkocean.info/OPL3X2/haunted.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/johnny's.mp3]www.darkocean.info/OPL3X2/johnny's.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/lovebash.mp3]www.darkocean.info/OPL3X2/lovebash.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/madnbash.mp3]www.darkocean.info/OPL3X2/madnbash.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/main.mp3]www.darkocean.info/OPL3X2/main.mp3[/url]<br />[url=http://www.darkocean.info/OPL3X2/vulture.mp3]www.darkocean.info/OPL3X2/vulture.mp3[/url]<br /><br />Some info:<br />This tracks where recorded on a Intel pentium 4 , 3GHZ . 1024MB DDR RAM . Terratec Soundcard and Soundmax HD soundcard."
+	},
+	{
+		"id": 28759,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-09-03T09:32:03.000Z",
+		"content": "Allow me to correct some of your spelling/grammar. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />It's me again, with a crazy little project. I've been able to create hardware that runs two OPL3 chips at the same time.<br />By connecting it between an old Intel 133 Mhz with DOS and Windows 3.11 and a newer computer intended for recording, I can now capture music from games that play Adlib music.<br /><br />The sound processing is 96KHZ 32bit 4chn. It records to a WAV file, but I'll release the files I make as 48Khz 32 bit stereo files.<br /><br />I think the rest can be interpreted okay by everyone.<br /><br />Good job btw, I need to check this out when I'm not at school.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28760,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-03T11:27:41.000Z",
+		"content": "You forgot to correct KHZ to kHz [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img]   At any rate, I think we can excuse people who don't have English as their first language - not everyone can easily learn a second language.<br /><br />They sound quite good actually - although if you really want perfect quality you could try building an [url=http://www.cc.jyu.fi/~jrop/specials/digisnap/]Adlib Digisnap[/url] to keep the conversion 100% digital all the way.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28761,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-03T18:50:46.000Z",
+		"content": "yes that would be cool.<br />since thise 2 soundcards : SB16 and OPTi931, have opl3 chips installed, i would gladly build a external hardware synthesizer, i guss some of the cards understand MPU-401 in/out.<br />It would be quite awesome if i could play 2 opl3 synth at the same time from a keyboard.<br /><br />I imaginaze a black little box whit a midi i port and 2 jack out. :P"
+	},
+	{
+		"id": 28762,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-09-03T21:18:05.000Z",
+		"content": "Juicy sound you got there!"
+	},
+	{
+		"id": 28763,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-03T22:09:30.000Z",
+		"content": "hope you liked it anyways"
+	},
+	{
+		"id": 28764,
+		"title": "good stuff",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2007-09-04T03:32:11.000Z",
+		"content": "Good Stuff Battery, But Can you get Pure skyroads tracks? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28765,
+		"title": "Re: good stuff",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-09-04T05:34:51.000Z",
+		"content": "That is quite a nice technical do-up there.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 28766,
+		"title": "Re: good stuff",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-04T06:02:29.000Z",
+		"content": "\"Good Stuff Battery, But Can you get Pure skyroads tracks?\"<br /><br />well, yes but maybe an another time.<br />it cost me alot time actually to do a such record compared to have a soft synth.<br />but i will try to keep it mind [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28767,
+		"title": "Re: good stuff",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-09-04T15:33:41.000Z",
+		"content": "Funny how you capitalized pure there, but gave Skyroads a lowcase letter there, Nickssoft. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28768,
+		"title": "Re: good stuff",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-09-04T15:35:12.000Z",
+		"content": "Those do sound very nice, I appreciate them.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 28769,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-04T17:47:17.000Z",
+		"content": "*wonders why doesn't get what's going on here*------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28770,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-09-04T18:03:35.000Z",
+		"content": "1. Take an old computer that can play these games and output the Adlib commands to the hardware.<br />2. Build hardware that can process and capture the sound and output it to somewhere else.<br />3. Use a different computer as the recording device.<br /><br />Am I right? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28771,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-04T21:55:36.000Z",
+		"content": "Yes - and it's significant because firstly it's using the real hardware synth (so this is the reference source that Adplug, DOSBox, etc. are all trying to imitate as closely as possible) and secondly it's using two chips for synthesis, so you get a nice stereo effect that you don't normally hear with just one sound card.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28772,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-05T03:58:37.000Z",
+		"content": "keep in mind that OPL3 is allready sterio compatible, so by using 2 of them. you got sorta dual sterio.<br />thats mean i could relese 4chn mp3 or wma, if i could"
+	},
+	{
+		"id": 28773,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-05T21:54:11.000Z",
+		"content": "That's true, but most songs (like the Monster Bash ones you've got above) are only OPL2 tunes, so they only output mono sound, even when you play them on an OPL3 chip.<br /><br />That's why Hocus Pocus sounds so much nicer on an OPL3 - it's one of the few games that *does* use both channels on an OPL3 chip, and for that you don't need two sound cards to get the stereo effect.<br /><br />Although it would be interesting to hear what Hocus Pocus sounds like in four channels - it would be like a quad-mono sound, with all channels slightly out of phase.  I wonder whether it would be possible for your ears to pick it out?  If you try it, upload a four-channel Ogg file so we can have a listen.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28774,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-09-06T03:20:17.000Z",
+		"content": "But since it was composed for General MIDI (in stereo), it's pretty redundant IMO [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Also, those OPL tracks Batteryman uploaded don't sound mono to me, regardless of what they were originally.<br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28775,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-06T10:16:53.000Z",
+		"content": "The OPL tracks Batteryman uploaded aren't mono - he used one sound card for the left channel and a second sound card for the right channel.  The beauty being that the OPL chips produce a slightly different sound each time you play audio through them, so when you have two cards running in tandem they each produce sound that's slightly out of phase to the other, producing a nice sounding stereo sound, even though they're only playing mono music.<br /><br />The Hocus Pocus music is stereo yes, but when you play the GM version it doesn't have the same stereo effect that Batteryman's files have.  My point was that if Monster Bash's mono music sounds good using this stereo effect, Hocus Pocus' stereo music should sound interesting in quadraphonic.  (One stereo sound card for the front speakers and a second for the rear.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28776,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-06T13:14:33.000Z",
+		"content": "look at this:<br /><br />This spectrum shows a record using the SB16 alone:<br /><br />[img]http://www.darkocean.info/OPL3X2/mb-1sndcard-spectrum.bmp[/img]<br /><br />This spectrum shows a record using bouth SB16 and OPTi 931<br /><br />[img]http://www.darkocean.info/OPL3X2/mb-2sndcard-spectrum.bmp[/img]<br /><br /><br />yo will see the bouth settings produce sterio, but using two soundcard make the phasing different, and make an audioable differense<br /><br />\"he used one sound card for the left channel and a second sound card for the right channel\"<br /><br />thats also incorrect :P i used two soundcard as well for recording, i recordet in 4 channels. not 2. i only downmixed it to an sterio file after.<br />and also all the 4 mono signals, had smal differences"
+	},
+	{
+		"id": 28777,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T02:20:30.000Z",
+		"content": "I meant after you downmixed it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   In the files you uploaded, the left channel came from one card and the right came from the other.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28778,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-09-07T02:40:17.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The Hocus Pocus music is stereo yes, but when you play the GM version it doesn't have the same stereo effect that Batteryman's files have. My point was that if Monster Bash's mono music sounds good using this stereo effect, Hocus Pocus' stereo music should sound interesting in quadraphonic. (One stereo sound card for the front speakers and a second for the rear.)[hr][/quote] <br />I think this kind of misses the point, with due respect- Monster Bash is normally in mono and benefits from this stereo effect, whereas Hocus Pocus is a Sound Canvas score instereo and would sound worse (in my view) if it was played on an Adlib, even in quadraphonic sound.<br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28779,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T03:55:31.000Z",
+		"content": "If you're after music quality then yes I agree, it doesn't sound as good through Adlib.  But I wasn't suggesting quadraphonic Adlib to make Hocus Pocus sound *better*, I was just curious to hear what quadraphonic Adlib would sound like - whether your ears would be able to notice any difference over stereo.  Hocus Pocus was just the first game that came to mind that uses out of phase stereo, so I only mentioned it since it would be an ideal candidate to generate quadraphonic sound with two sound cards - again, just to satisfy my curiosity as to how it might sound.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28780,
+		"title": "Re: Prosject OPL3X2",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-09-07T06:38:22.000Z",
+		"content": "I have some double stereo tracks, and I must say it does sound better (if you have a surround system). Curious to hear how it would work out with OPL3 stuff.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28781,
+		"title": "Re: Project OPL3x2",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T11:33:29.000Z",
+		"content": "Interesting.  Batteryman said he tried Hocus Pocus and the sound field did appear somewhat wider, but the difference wasn't as great as the initial mono -&gt; double stereo improvement.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28782,
+		"title": "all this talk",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2007-09-07T16:03:53.000Z",
+		"content": "All this music talk is crazy, Somebody perfect it and lets get up PERFECT editions of classic dos music mp3s [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28783,
+		"title": "Re: all this talk",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-09-07T17:01:44.000Z",
+		"content": "You want perfect songs? Those don't exist. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />It's more technical talk than musical talk, really.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28784,
+		"title": "Re: all this talk",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-08T01:47:56.000Z",
+		"content": "\"All this music talk is crazy, Somebody perfect it and lets get up PERFECT editions of classic dos music mp3s \"<br /><br />check the appoge music section [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br />anybody whants to work on apogee music, or something.<br /><br />this thread whas never mean to be a proper remixing area.<br />This is aiming everthing thats include doing a double FM card recording.<br /><br />ow! i also forgot to relese the \"Theme song\"<br />sorry"
+	}
+]

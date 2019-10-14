@@ -1,0 +1,2146 @@
+[
+	{
+		"id": 227,
+		"title": "Keen: what's Next?",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-07-01T22:18:56.000Z",
+		"content": "My imagination with names is still not working, sorry [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]    <br /><br />I promised that I'm gonna show you something at the end of the month. I've finally managed to continue with the game. This is not much, but it's a beginning at least. I won't go into much detail about what I want to do now, but I can tell you that I'm gonna create more simple tile designs and when a new map is ready I will add the first monster to the game too.<br />[img]http://img.photobucket.com/albums/v505/z-one/simple.png[/img]<br />I've created this just now, and it's much more than what I could do in the previous month."
+	},
+	{
+		"id": 5594,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-01T23:13:54.000Z",
+		"content": "Yay...<br /><br />I can help with the name... Whats the game about again?[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 5595,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-02T05:54:13.000Z",
+		"content": "I like the few-colors style. Just today I was playing Keen 5, and I noticed that the tiles that make up the levels were remarkably simple. While that's due in part to the constraints of the EGA palette, the tiles are very simple in form as well. Just boxes, in a lot of cases. So I guess that makes your tiles Keenish. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5596,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-07-02T09:45:55.000Z",
+		"content": "Would it seem even more keenish if I'd make the game in EGA? I have no plans for it though, and I'm gonna upgrade the current tiles with much more colors. This is just a way to create the tiles for now, as I need more experience with them.<br /><br />Do you know any games with high-color graphics that has more complicated tiles than just squares with patterns? I mean this seemingly 3D look. I have seen many games with nice graphics and tiles, but they all were \"boring\" 2D, and not in isometric view. Maybe they just don't create such games."
+	},
+	{
+		"id": 5597,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-07-02T15:41:15.000Z",
+		"content": "The tiles are looking good so far.<br />The limited amount of colours seems to work, doesn't detract from the look if you ask me.<br />Hmmm, the grass could use a darker colour of green for some more texture, it looks too flat right now.<br />I think the paths in the Keen games is a bit narrower as well, or in other words there is a bit more grass.<br />Of course this is really a new tileset, so whatever you want will work.<br /><br />I assume the sloped surfaces will eventually have the sandy texture as well, because just 1 flat colour does look too boring. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />How are you doing to tiles by the way?<br />Is there a layer that blocks the player, think bounding box, the actual level, with a layer of graphics overlayed, or will every single tile have a bounding box property associated with it?<br />The former option could be the better one.<br /><br />As for other games, try Pickle Wars, or Prince of Persia 1 and 2.Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 5617,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-07-02T18:13:42.000Z",
+		"content": "I don't know if you're going to decrease your Keen sprites colours otherwise both are going to clanch horribel.-----------------<br />[img]http://www.jamba.nl/storage/view/upload/logo/image_multijpeg/DevilFrogVerwandlung.jpg[/img][img]http://www.jamster.com/s/jiw/img/US_logo_big.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 5618,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-02T18:46:38.000Z",
+		"content": "Looks very good.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 5619,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-07-02T20:42:00.000Z",
+		"content": "I will increase the colors in the tiles, and not decrease them in the sprites. I just need a working tileset for now. Nice graphics are a must for me or I won't be statisfied with the result, but it can wait.<br /><br />There is no blocking information in the visual tiles, but there is a \"blocking tileset\" on a block-info layer that anyone will be able to create with the map editor. This is already a working function in the editor.<br /><br />*EDIT* To show you something really new, here is a <b>work-in-progress</b> image of a tree.<br />[img]http://img.photobucket.com/albums/v505/z-one/wip_tree.png[/img]"
+	},
+	{
+		"id": 5620,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-03T01:05:08.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Heehee it looks funny.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 5621,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-03T05:30:24.000Z",
+		"content": "Hehe, funky! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke2.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 5598,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-04T03:50:24.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Would it seem even more keenish if I'd make the game in EGA? I have no plans for it though, and I'm gonna upgrade the current tiles with much more colors. This is just a way to create the tiles for now, as I need more experience with them.<br /><br />Do you know any games with high-color graphics that has more complicated tiles than just squares with patterns? I mean this seemingly 3D look. I have seen many games with nice graphics and tiles, but they all were \"boring\" 2D, and not in isometric view. Maybe they just don't create such games.[hr][/quote]<br /><br />I'm not suggesting that you need to use only a few colors to make it Keenish. I was referring to the cleanness of line which they possess. They don't try to do too much. That's a nebulous pronouncement, so feel free to ignore it.<br /><br />I do agree that a whole level of tiles like that would be a little dull. By all means, spiff them up. I didn't mean to suggest that you should limit your tiles to only a few colors.<br /><br />The most complicated tiles in an isometric game that I can think of are either in Activision's Pitfall remake or in Jazz Jackrabbit II. They're probably the most complicated isometric tiles ever. <br /><br />It's interesting that games using the isometric platformer view don't usually seem to complex tiles. I wonder why that might be.<br /><br />When I think of Keenishness I generally think of an environment that I could see a classic 4-6 (or 1-3) Keen in. So that tends to indicate a bright and clear color palette. If you were to make your Keen sprite in a fitting style, a dark and florid environment might be just what the doctor ordered.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5599,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-07-04T12:23:51.000Z",
+		"content": "So you wanna see 2.5D platformr game.<br />Captain Claw is a good one:<br /><br />[url=http://www.captainclaw.com/]www.captainclaw.com/[/url]<br /><br />I don't know if you know it. The game is too hard and the gameplay isn't that good. That's why I think the game doesn't get so popular. But it goes with level editor with plenty of tilesets and enemyes, which might be interesting for you to see.<br /><br />[img]http://www.worldvillage.com/wv/gamezone/images/screens2/claw2.jpg[/img] [img]http://www.worldvillage.com/wv/gamezone/images/screens2/claw1.jpg[/img]<br /><br />[img]http://www.csoon.com/issue29/shots/i_claw1.jpg[/img]<br /><br />[img]http://www.csoon.com/issue29/shots/i_claw2.jpg[/img]<br /><br />Can't find much more screenshots, but if you are interested, I found this site to be handy: http://www.geocities.com/clawbrasil/00MapadoSite_English.htm----"
+	},
+	{
+		"id": 5600,
+		"title": "screens",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-07-04T12:58:24.000Z",
+		"content": "Thanks, this helped a lot! I've now seen the screenshots of this captain claw game and searched the web for other games too. I just wanted to know if other games had hand drawn tiles or tiles that were made pixel by pixel, and it seems that everyone does the second.<br />I had great difficulty creating tiles by drawing and making them match. Maybe this is why nobody does it that way."
+	},
+	{
+		"id": 5601,
+		"title": "Re: screens",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-04T13:18:13.000Z",
+		"content": "Yeah, i can see why, too.<br />Maybe if you drew them by hand and edited the pixels to match?[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 5602,
+		"title": "lol",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-04T18:23:43.000Z",
+		"content": "That's what I do... I doodle with the mouse, and then sketch in the pixels where I think the \"correct\" line should be.  Sometimes I draw it by hand and keep looking at the hand-drawn stuff while I'm pixelling the picture together... but I don't have a scanner.<br /><br />What are you so nervous about, z-1?  Your stuff looks superb![img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 5603,
+		"title": "Re: lol",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-07-05T12:13:53.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I don't know if you know it. The game is too hard and the gameplay isn't that good. That's why I think the game doesn't get so popular[hr][/quote]<br /><br />Aren you serious? In my humble opinion Captain Claw is one of the greatest platformers ever.-----------------<br />[img]http://www.jamba.nl/storage/view/upload/logo/image_multijpeg/DevilFrogVerwandlung.jpg[/img][img]http://www.jamster.com/s/jiw/img/US_logo_big.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 5604,
+		"title": "wow",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-05T21:03:35.000Z",
+		"content": "I played the demo of that Captain Claw game--it is very good.  I'm just not sure I like the character... I've never really liked cats as people; and especially not as pirates.  I'm okay with them being sidekicks or pets... but humanoids?  Blech.  The gameplay in it was pretty cool, though.  I got like 60% in the first level of the demo... and of course there's some gameplay trick I don't get, because I've got no idea how to get the rest.  At least it looked very pretty."
+	},
+	{
+		"id": 5605,
+		"title": "Re: wow",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-06T16:18:00.000Z",
+		"content": "It looks like fun, I will download it and play it. (yay, pirates![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img] )<br /><br />EDIT: wow, that was fun![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   I want to buy the full version.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]   The graphics were really cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]    I wish I could draw like that...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 5606,
+		"title": "Re: wow",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-07T05:36:07.000Z",
+		"content": "I don't much like captain claw. The character animations are a little weird, and the gameplay seemed a bit lame. Overall, the graphics are pretty good, but nothing to write home about.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5607,
+		"title": "Re: wow",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-07T08:06:26.000Z",
+		"content": "I should play that sometime. Never tried..<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 5608,
+		"title": "Re: lol",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-07-07T12:59:24.000Z",
+		"content": "\"Aren you serious? In my humble opinion Captain Claw is one of the greatest platformers ever.\"<br /><br />Ok maybe for you is great. But for me the game is just a good one. The Z-1's released engine offers more addictive gameplay than this claw! Because I find myself playing his demo again and again and Captain Claw what? I just deleted it after beating some boring levels that I don't want to play again.<br />IMO the greatest platformer for PC (except Keen series) is JJ - much more fun, addictive and so on.<br />And captain claw what? Except from giving us a good graphics (not in all the parts) it doesn't offer much. I even like cats being pirates, but this \"thing\" offers boring and hard gameplay, really poor music and sound effects and 0 replay value. Even Lomax is more addictive and fun. So I was just pointing this game for it's graphics, not how great is. And I still believe that this game isn't even half popular than Jazz Jackrabbit is.----"
+	},
+	{
+		"id": 5609,
+		"title": "back",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-07-25T21:08:07.000Z",
+		"content": "Hi, I'm back from Greece where I've been on a holiday for 12 days! I can now continue on my game, the tree is ready but there's a need for a background and some tiles for underground. When that's ready I'm gonna create a new test map for you to try."
+	},
+	{
+		"id": 5610,
+		"title": "Re: back",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-25T22:01:37.000Z",
+		"content": "w00t! You were gone?? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  gimme!!!-Genius314"
+	},
+	{
+		"id": 5611,
+		"title": "Re: back",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-26T10:52:08.000Z",
+		"content": "Sounds good to me.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 5612,
+		"title": "Re: back",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-26T21:40:26.000Z",
+		"content": "That's exciting. Will we be able to play your next release in full-screen mode?________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5613,
+		"title": "Re: back",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-26T22:15:19.000Z",
+		"content": "Probably since you can on the other versions-Genius314"
+	},
+	{
+		"id": 5614,
+		"title": "Re: back",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-27T16:52:27.000Z",
+		"content": "Can you? I couldn't remember.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5615,
+		"title": "Re: back",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-27T17:04:13.000Z",
+		"content": "Yes. Press \"F\"-Genius314"
+	},
+	{
+		"id": 5616,
+		"title": "Re: back",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-07-27T22:05:23.000Z",
+		"content": "*counts down minutes till new demo* [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]"
+	},
+	{
+		"id": 5622,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-07-28T10:44:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The Z-1's released engine offers more addictive gameplay than this claw! [hr][/quote]<br /><br />Claws gameplay is one of the most complicated of all platformers. Shooting, fighting, tossing, and points gathering all included. <br /><br />[quote]<b><i>Quote:</i></b>[hr]but this \"thing\" offers boring and hard gameplay, really poor music and sound effects and 0 replay value. [hr][/quote]<br />Hard gameplay? I think the game is not to difficult and I really like the the music and sound effect, especially Claws funny onliners.<br /><br />[quote]<b><i>Quote:</i></b>[hr]And I still believe that this game isn't even half popular than Jazz Jackrabbit is. [hr][/quote]<br />Right, Keen, Jazz, and Claw together aren't half as populair as the Sims. But do you believe it's better?<br /><br />Reminds me that I haven't played claw for ages. <br />(starts looking for the full version)-----------------<br />[img]http://www.jamba.nl/storage/view/upload/logo/image_multijpeg/DevilFrogVerwandlung.jpg[/img][img]http://www.jamster.com/s/jiw/img/US_logo_big.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 5623,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-28T16:27:42.000Z",
+		"content": "Complicated gameplay isn't necessarily a good thing.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5624,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-07-28T19:26:49.000Z",
+		"content": "But it worked out really nice.-----------------<br />[img]http://www.jamba.nl/storage/view/upload/logo/image_multijpeg/DevilFrogVerwandlung.jpg[/img][img]http://www.jamster.com/s/jiw/img/US_logo_big.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 5625,
+		"title": "Re: Commander Keen in SomeGameName (previous ex-mobilegame)",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-28T21:26:41.000Z",
+		"content": "Well -- says you. I disagree. Complex gameplay can be fun and interesting, or it can be another non-contributor to a lackluster game. You can probably guess what I think of the game. Let's just agree to disagree.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5626,
+		"title": "tiles are evil",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-08-17T19:06:10.000Z",
+		"content": "I know that I've promised a working demo, but I still cannot show you anything that'd be good enough. Creating tiles are the most tiresome and boring activities in game making, at least for me, and I really start to hate it...<br /><br />Anyway, this is what I'm working on at the moment:<br />[img]http://img.photobucket.com/albums/v505/z-one/planks.png[/img] The steep tiles are not ready yet. Drawing this is not as complicated as it may seem, but it's really tiresome, 10 minutes and I become dizzy.<br /><br />When this is done I'll still have some tiles to make, for example the poles and the hole for them at the platforms. Some tile varieties should be made too to make the map less boring and the background is not completely finished either.<br /><br />*edit* typo"
+	},
+	{
+		"id": 5627,
+		"title": "Re: tiles are evil",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-08-17T19:28:07.000Z",
+		"content": "Hey, I like the shading. It adds a lot of depth.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5628,
+		"title": "cheers!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-17T22:07:54.000Z",
+		"content": "Looking good!  I'm almost to the point where I get to do this for my own Keen game... ugh.  Yours look fantastic!  Any advice for beginners?  :-)"
+	},
+	{
+		"id": 5629,
+		"title": "Re: cheers!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-08-17T23:17:18.000Z",
+		"content": "It feels nice that you ask for advice from me, but I believe you're much better in tiles then me [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Maybe one thing that anyone should consider with such tiles as the plank above (or maybe anything else?) is using layers for the different logs at different depth and maybe for anything that has such dimensions. I wish I did.<br />Creating depth means you have to draw things a bit smaller that are further away, but in isometric fake 3D view this doesn't always work.<br />I've created a template for the tilesets with every possible tile in it. The template is very simple, the tiles are plain blocks with a different color for every side. When I create a new tile, I start drawing it above the template tile.<br />For continuous tiles (like the side) I made the first tile, and then copied only the outer 1 pixel box next, above and below it, and drawn the other tiles too. When I had to change a pixel from the original box, I changed it in every other tile too.<br /><br />I can't think of anything else at the moment, and I feel the things mentioned above were obvious too."
+	},
+	{
+		"id": 5630,
+		"title": "Re: cheers!",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-08-18T11:46:50.000Z",
+		"content": "Woah! Those tiles looks cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  Reminds me of Keen Dreams.<br /><br />Maybe you should combine drawing with programing. I mean when you get bored with drawing, do some programing. Oh well, don't know if this will help or something, but anyways.----"
+	},
+	{
+		"id": 5631,
+		"title": "Re: cheers!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-18T17:50:04.000Z",
+		"content": "Yeah, they're really neat. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 5632,
+		"title": "Re: cheers!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-19T21:20:21.000Z",
+		"content": "One word: WOW!<br /><br />KEep up the good work!-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5633,
+		"title": ":D",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-08-21T14:29:40.000Z",
+		"content": "That looks great Z-1! <br /><br />Question:<br />Will the titles eventually be connected? because you can see some gaps inbetween the tiles. I know you are going to go add more detail later, or it could just be a design choice, but i think that it would look (even) better if they tiles connected more.<br /><br />keep up the amazing work! i guess you just gotta press through all that annoying title making... just know that once you get it all done, you'll be ready to actually make levels and begin working on the best Keen Fan Game EVAAAAAAARRR!!!!"
+	},
+	{
+		"id": 5634,
+		"title": "Re: :D",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-08-22T08:13:46.000Z",
+		"content": "Z, you've got plenty of exalted commander keen fans [img]http://telperion.cult.bg/ying/yahoo.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ----"
+	},
+	{
+		"id": 5635,
+		"title": "Re: :D",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-08-22T14:37:05.000Z",
+		"content": "Unfortunately I can't work as fast as they'd like me to... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5636,
+		"title": "The new demo with the new tileset. Still just a test!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-08-26T23:50:58.000Z",
+		"content": "[url=http://z-one.uw.hu/ck/CK-v0.3.zip]Click here to get the latest demo: v0.3[/url]<br /><br />For those who doesn't have a working dll for allegro, [url=http://z-one.uw.hu/ck/alleg40.dll]here is my version[/url] The one at the allegro webpage is not this big, but it's not the same version. It may work but I'm not sure. This is still the same one than before, though.<br /><br />I know that the map is crap, but please try not to see that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  There are plenty of errors with the tileset as it is, and I'm going to fix those first. There's a little problem with the engine also. Something I never thought of before, but now I have to fix that, before I want the steep branch to work (you can see it at the top of the map, but hopefully you cannot touch)<br /><br />I can read your comments before 4pm tomorrow (CET+1), but afterwards I'm going to Greece for a week ( again [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  ) I'll be back at september 4."
+	},
+	{
+		"id": 5637,
+		"title": "Re: The new demo with the new tileset. Still just a test!",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2005-08-27T02:08:57.000Z",
+		"content": "In the name of the holy pogo stick, that was Awesome!!!<br /><br />I won't be able to sleep at night until this is released now.<br /><br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <b><i>We want Keen 7</i></b><br />[url=http://kevan.org/brain.cgi?MultiMANIA]We want it now![/url]"
+	},
+	{
+		"id": 5638,
+		"title": "Re: The new demo with the new tileset. Still just a test!",
+		"author_id": 1485617,
+		"author_name": "duke4e",
+		"timestamp": "2005-08-27T02:16:51.000Z",
+		"content": "this project can already take the title of best keen game ever!<br />not just best keen fangame, but actually best KEEN GAME.<br /><br />z1, you could make your engine/game/project open-source and publish it on sourceforge. you could maybe find there some people to help you..."
+	},
+	{
+		"id": 5639,
+		"title": "Oooooh, yah...",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-08-27T06:57:03.000Z",
+		"content": "Incredible. The game is really coming together now. Those tree things look brilliant, especially the way they blend so seamlessly into the ground tiles.<br /><br />*applauds*Cave assectatorem Ductoris Alacris <br /><br />\"This is how liberty dies--with thunderous applause.\" -Padme<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5640,
+		"title": "!!!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-27T07:33:02.000Z",
+		"content": "The status screen is magnificent.  :-)  I'm gonna have to change mine so it doesn't look similar--yours is far better."
+	},
+	{
+		"id": 5641,
+		"title": "Re: !!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-08-27T10:17:50.000Z",
+		"content": "It's not so great if we think about how much time I've already spent on it to become somewhat buggy but all in all I'm proud of my little monster [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Thank you all for your support, I'm gonna need it in the future too!<br /><br />I was thinking about making this project open-source but open-source isn't just giving away source code (which I intend to do). It means that I'd have to actually put code and other ideas of other people into my game that may be different from what I've imagined at first. It may make my game better or even known, who knows, but I'd lost much of my independence. This doesn't mean that sometimes I wouldn't accept ideas or even grapics, but open-source is much more than that.<br /><br />When I can work on my game again I'm gonna fix the bugs I've found in the tileset eg.: some tiles are missing, which won't take long to create, but I'm gonna need to make the steep tiles of the tree branch dropdown-able, so Keen can drop through them. This type of block haven't been implemented in the original games at all that's why I haven't thought of it before. Another must is a type of block where I can set it's steepness not just on one side (top or bottom) but on both at the same time. When all this is ready a new enemy will be born which is gonna need some challenging coding at last and an enemy design too.<br /><br />Just one question before I go so I can read the answers when I return: do you like the style of the tileset if I leave the tiles as they are? Some of you said about it in an early stage that it doesn't go well with the keen sprite I already have. How about that now? I know I said that I'm gonna make the tiles high-color, but I start to like what I've done. Maybe I can add a few more colors here and there, but that's all I'd do. What do you think? Another option is to make the Keen sprite a bit more \"pixelated\" with less colors but does it need to change?"
+	},
+	{
+		"id": 5642,
+		"title": "Re: !!!",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-08-27T10:30:17.000Z",
+		"content": "I cannot say anything right now. I'm just amazed of the work you've done!!!<br /><br />...<br /><br />after a while...<br /><br />Wow, this really IS the BEST Keen!<br /><br />Ok, ok. About the tileset: reminds me of Earth worm jim style. It really feels like on a different planet. It's a little bit unkeenish for me, but I like it. The colors tone is too dark for my taste, but maybe that's good. The style is good.<br /><br />Keen pixelized? No. It's just ok. Maybe his eyes aren't ok. In the face he looks like an alien or scared ghost or something.<br /><br />Btw why not name the game \"Ex-mobile Keen\" or \"Keen: Ex-mobile\" or \"EXM Keen\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] .----"
+	},
+	{
+		"id": 5643,
+		"title": "Re: !!!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2005-08-27T11:01:38.000Z",
+		"content": "Omg omg omg [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />Good job , very good job<br /><br />[quote]<b><i>Quote:</i></b>[hr]Maybe his eyes aren't ok. In the face he looks like an alien or scared ghost or something.[hr][/quote]<br /><br />I agree with thatI am the bad you are the ugly There is no good"
+	},
+	{
+		"id": 5644,
+		"title": "Cool looking... I bet the full will be better, though. X_X",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-27T11:19:40.000Z",
+		"content": "REVIEW<br /><br />VIDIO 9/10<br />The art is awsome! I have to admit, though, Keen's eyes looked a little odd, but that is the only problem in the intire game graphically.<br /><br />AUDIO 1/10<br />I couldn't hear any sound from it, but that's because it's a beta. I bet it will have good audio though.<br /><br />GAME-PLAY 8/10<br />IT IS AWSOME!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]    You jump around collecting points. Unfortinetly, there are no enemies, and there is only one level, but, once again, that's because it's a beta.<br /><br />STORY 1/10<br />There isn't a story yet. I'm sure it will have a story soon, though.<br /><br />OVERALL 19/40=4.75/10<br />This is a pretty good game. Can't wait for the full![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]   <font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 5645,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-08-27T15:05:39.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]do you like the style of the tileset if I leave the tiles as they are? Some of you said about it in an early stage that it doesn't go well with the keen sprite I already have. How about that now? I know I said that I'm gonna make the tiles high-color, but I start to like what I've done. Maybe I can add a few more colors here and there, but that's all I'd do. What do you think? Another option is to make the Keen sprite a bit more \"pixelated\" with less colors but does it need to change? [hr][/quote]<br /><br />Well the tiles work, I have to admit that but it would still be nicer if they had as much colours as the Keen sprite. But I would only change that if doesn't take to much time what can prevent you from finishing the game.<br />Whatever you do, please don't pixelate Keen.<br /><br />I wouldn't release another demo if I where you, just continue working on your game keep us excited with screens but keep the surprises for the full version.-----------------<br />[img]http://jamba.nl/storage/view/335/0/cr/CrazyFrog___Axel_F_Rocket.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 5646,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-08-28T02:05:08.000Z",
+		"content": "Harvey's math once again was lost on me.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5647,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1486481,
+		"author_name": "ShagratTheTitleless",
+		"timestamp": "2005-08-28T03:06:57.000Z",
+		"content": "The game looks great Z-1.  I'm not dissapointed with the simplified tiles. In fact, their boldness of design actually seems very Keenish to me.  They fit with the detailed Keen just fine.<br /><br />I noticed a little bug on the platform that goes all the way to the left side of the map just above where you start.  If you walk left at this edge you start to leave the map and then are transported back to where you started.  Perhaps pretending any block off the map is a solid movement stopper would be any easy solution.  I think some of the keen maps had extra blocks around the edge of the map that had the \"solid\" property but the view manager would try not to show.  You can see what I mean in keen 6 on the Keens Ship micro level at the start.  Pogo jump/pull yourself up into the offscreen hole in the wall on the right of the screen.  After you fall down, save the game while you are still offscreen.  Now load that game and you will see the hidden blocks.  You probably know how to fix your code better than me though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I also had something weird happen when trying to jump from the falling platform to the moving one.  I think I just touched the moving platform and then Keen sortof floated up and left into blank space like he was riding the platform even though he wasn't!  I couldn't replicate it though.<br /><br />I can hardly wait for the full sized levels!"
+	},
+	{
+		"id": 5648,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-29T01:21:30.000Z",
+		"content": "Harvey, ever heard of a calculator? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />A very good game, I never had quite as much fun playing with myself.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5649,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-29T17:20:52.000Z",
+		"content": "Woah..<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br />WOAH.<br />This game is too awesome. This the best Keen fan game stuff I have ever played. Tom Hall will be proud.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 5650,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-03T22:49:22.000Z",
+		"content": "fricken sweet"
+	},
+	{
+		"id": 5651,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-05T10:50:17.000Z",
+		"content": "I'm back. School starts this week so my holiday is officially over... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] <br /><br />Whoa! You really seem to like my game so far, thanks! 8-) Now it's time to fix all those annoying little problems of the tileset and the game and continue with something completely different.<br />While making the demo map I found a lot of problems with the map editor, so that's what I'd like to work on for a little while. I need to add some functions to make it work better too. That's not so exciting for you I guess, but it's have to be done."
+	},
+	{
+		"id": 5652,
+		"title": "Re: This is the best game in the intire world!!",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-09-05T12:44:12.000Z",
+		"content": "It IS exciting[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  as long as you can add some external map file loading *hint hint*------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 5653,
+		"title": "level designer upgrade",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-14T12:07:16.000Z",
+		"content": "I post this to show the difficulties I am facing right now. If you don't care, just skip reading. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[img]http://img.photobucket.com/albums/v505/z-one/designer.png[/img]<br />This is how the map designer looks now. The main reason for uploading this image was to show you the new kinds of blocks I had to make in order to be able to create some effects I had in mind. For example there is the \"tree\" branch which can now be sloped while the player is still able to drop down on it. It works... almost [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img]  Sometimes Keen just falls through it without reason, when jumping and falling down. This doesn't happen most of the time but it is still frustrating.<br />Another type of block I have now is the one used on the steep planks. Look at the third block in the list (at the right side of the picture). That block is steep at it's top and at it's bottom side at the same time. Maybe I'm alone with this, but I haven't seen anything like this in other games. It's not a hard thing to create, but it generated some problems I haven't thought of.<br /><br />I'll start working on an enemy when I have finally managed to work out the problems. It doesn't seem easy though. The whole movement system have to be changed a bit."
+	},
+	{
+		"id": 5654,
+		"title": "Oooooh, yeah.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-09-14T12:41:19.000Z",
+		"content": "I like the way you've chunked the tile combinations together. That's gonna hella streamline things.<br /><br />Seeing the level editor like that is mindblowing... it's still hard to believe that such a masterpiece of Keenish proportions is actually going to be in my hands for quasi-limitless modding someday.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />Keep at it, and good luck with the floor clipping issues.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5655,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2005-09-14T14:13:57.000Z",
+		"content": "Omfg [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  cool editor , if I could help I would and I know this is a it spamy I am the bad you are the ugly There is no good"
+	},
+	{
+		"id": 5656,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-14T20:57:09.000Z",
+		"content": "About the steep planks...<br /><br />I think K5 and 6 are made with basically massive blocks, but Keen 4 is only made of relatively narrow ledges, similar in appearance to the you-can-drop-down-through-these kind, only you can't, and they still block you if you hit them from the bottom, although they don't have a nice bottom edge, because...<br />They are meant to form a shape, which is filled with background-ish tiles, which usually block, although some are foreground tiles used for hidden passages.<br />Usually the background-ish tiles are used to fill things up, create some real walls, but in a few levels they're not.<br />This results in those narrow ledges, also similar to Keen Dreams' wooden log edge thingymabobs all over the place.<br /><br />Hmmm, I hope that made sense, and I have to add that's how things appeared to me.<br />I didn't really pick apart the K456 tiles yet, and I'm sure others have.<br /><br />My point?<br />I forgot, so I'll just add that I have to admit I also like how things are looking so far; good jorb!Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5657,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-14T23:33:31.000Z",
+		"content": "Almost everything works fine now! It was much easier than I thought [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />There's still the problem of what's-wall-and-what's-ground so the game can decide which platform is ready for grabbing. It worked fine with the old blocking tiles, but eg. the plank's edge could be grabbed too and it's not a full block now as it was before. When I only had full blocks and blocks that had one side as a slope, the choice was easy, but now the new kind of blocks should be grabbed too when they have a flat surface, not just the full ones. This is a bit technical and you may not understand this at all, but don't worry, I do! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />I haven't seen sloped ceilings in Keen 4 even though the tileset contains them, and there's no such thing in Keen 6 either (as far as I remember). Keen 5 had them, but only when there were no need for too narrow walls. I think I have solved my problem, but it may return for some of the enemies, when I have them. If they are too fast or too big my engine may not work correctly, but I still have to try that when the time comes."
+	},
+	{
+		"id": 5658,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-15T15:33:51.000Z",
+		"content": "Keen 4's [url=http://www.classicgaming.com/cc314/encyclopedia/maps/maps-k4-lvl09.html]Miragia[/url] has glass domes which I think classify as sloped ceilings, if I remember my head-bumping correctly, but you're right, there doesn't seem to be any regular, sloped ceilings.<br />I would've guessed there were...<br /><br />As for Keen6, I immediately had to think about [url=http://www.classicgaming.com/cc314/encyclopedia/maps/maps-k6-lvl06.html]Bloogton Manufacturing[/url].<br />There too I think if you jump along the highest part of the ceiling, and try to move along quickly, you sometimes get a bunch of quick head-hitting sounds, because the slopes are in fact slopes to the pixel, as opposed to the Bloogdomes for instance.<br /><br />Anyway, good luck figuring things out with your slopes!Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5659,
+		"title": "Wow...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-15T21:10:13.000Z",
+		"content": "It is very nice; but what ticked me off was that whenever someone makes a fan game in EGA, they almost always make his shirt red; it is supposed to be pink!!! I really don't mind much, but I still mind it. COuld you change it, or at least tell me why his shirt is red (A good reason; like I made Keen's shirt grey in my mod because that was his sweat-shirt, not because his pink one was in the laundry).<br /><br />I love the movement feelling... but could you allow the player to choose controls (I swap the up's action with ctrl's, and have since I was a wee lad, and really don't like fan games much, because they make me do it their way).<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5660,
+		"title": "Re: Wow...",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-15T21:27:49.000Z",
+		"content": "najawa, try using the left side of the keyboard instead of the right, or vice versa.<br />That way the Ctrl and Alt will have automagically switched places, and I find that whether you have your hands right next to eachother, or spread apart quite a bit doesn't really matter for button pressing, as your brain is the place where your thinking happens, and that's the same either way.<br /><br />Also I think his shirt is really supposed to be purple, not pink.<br />I suppose usually the best way to look at it, is to see which of the 2 shades of colour is used the most.<br />Most palette colours in Keen can be regarded as a darker and a ligher shade of the same thing.<br />Of course with little sprites, and adding shadows to the darker shades this isn't an exact science.<br /><br />Also although in some ways I'm conservative, and would prefer a purple/pink shirt as opposed to a red one, thinking up an excuse for an arguably relatively minor colour change to include in the storyline seems a bit... meh.<br />That's my opinion anyway. <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5661,
+		"title": "Re: Wow...",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T22:00:54.000Z",
+		"content": "I say it's MAGENTA. Purple AND Pink. That's what the color is anyway. Pink is technically just light red."
+	},
+	{
+		"id": 5662,
+		"title": "1 handed:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-15T22:38:20.000Z",
+		"content": "I know... but I like to play keen 1 handed; plus, instead of ctrl alst for shooting, it's ^, alt.<br /><br />BTW - Conservative? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img] ! The color change would be from red to normal pink (Not Megenta [nice try though], and not purple[purple is too dark to be pink!!!]); no explaining to do. But if he kept it red, it'd be weird.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5663,
+		"title": "Re: 1 handed:",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-09-15T22:50:52.000Z",
+		"content": "Isn't the word fuschia?________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 5664,
+		"title": "No it's...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-15T22:54:15.000Z",
+		"content": "Pink [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5665,
+		"title": "Re: 1 handed:",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T22:54:41.000Z",
+		"content": "Fuschia is actually pretty close to magenta, but it has more of a red tint. Though, that would probably be a better color for Keen's shirt."
+	},
+	{
+		"id": 5666,
+		"title": "Re: 1 handed:",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T22:57:17.000Z",
+		"content": "[url=http://en.wikipedia.org/wiki/Pink]en.wikipedia.org/wiki/Pink[/url]<br />[url=http://en.wikipedia.org/wiki/Magenta]en.wikipedia.org/wiki/Magenta[/url]<br />[url=http://en.wikipedia.org/wiki/Fuchsia_%28color%29]en.wikipedia.org/wiki/Fuc...28color%29[/url]<br /><br />CASE CLOSED"
+	},
+	{
+		"id": 5667,
+		"title": "Holy Crap!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-15T23:05:55.000Z",
+		"content": "Okay, it's Magenta (Fushia's too strong to be it) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] .<br /><br />But those both are shades of pink [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] !<br /><br />CASE CLOSED (FOR GOOD; I'd agree with you unless it wasn't even close to the 3 up ^there^).<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5668,
+		"title": "Re: Holy Crap!!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-15T23:23:19.000Z",
+		"content": "I won't argue but I won't change the red shirt either. My game is not in EGA anyway :P<br /><br />As I see it, they made his shirt purple-magenta-pink-whatever-whocaresanyway because that was the best color of that limited palette that was so different from everything else. They wouldn't have used it with high-color graphics. Sorry, but I just can't see why is this so important for anyone. Even Commander Keen must have more clothing than one T-shirt. Only the helmet is something he has to keep to transform to... erm... himself.<br /><br />The controls WILL be readjustable, but is that so important to make right now?<br /><br />I've managed to solve every little problem I had with the movement so it's time to start thinking about the enemies! My girlfriend already had some nice ideas [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 5669,
+		"title": "Fine: I can live with *shudders* Red...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-15T23:42:37.000Z",
+		"content": "I can live with red, and I am glad you are going to use changable controls [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  . Good luck then...<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5670,
+		"title": "Re: Fine: I can live with *shudders* Red...",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-16T08:38:47.000Z",
+		"content": "besides, the pink shirts are girlish [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-moon.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ----"
+	},
+	{
+		"id": 5671,
+		"title": "Miragia and the glass domes",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-16T19:26:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Keen 4's Miragia has glass domes which I think classify as sloped ceilings[hr][/quote]I've tested it just now. Those ceilings are not sloped, they only look like it. Those domes are really square with tricky graphics. Nice trick though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5672,
+		"title": "Shirt Color",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-16T20:59:07.000Z",
+		"content": "id prefer the magenta color, but the red is... ok... i guess...i think it would be more keenish with the magenta colored shirt, and i think that since the game is already going to be looking different, having keen's shirt color be the original would help hold a keenish quality. but its up to z-1, tis his game."
+	},
+	{
+		"id": 5673,
+		"title": "Re: Shirt Color",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-16T21:14:43.000Z",
+		"content": "How about a magenta color patch, when the game is ready? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]"
+	},
+	{
+		"id": 5674,
+		"title": "Re: Shirt Color",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-16T21:44:29.000Z",
+		"content": "Yes, how about a palette shift feature, similar to Duke Nukem and Shadow Warrior multiplayer.<br /><br />(I just stopped (single) playing the latter... I like JonoF's port!)Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5675,
+		"title": "Re: Shirt Color",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-17T00:50:04.000Z",
+		"content": "yeah, or like a character selectish page for a fighting game but instead...<br /><br />\"CHOOSE YOUR SHIRT COLOR\""
+	},
+	{
+		"id": 5676,
+		"title": "Re: ex-mobile, New demo: v0.3! (Check my latest post)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-09-17T08:52:09.000Z",
+		"content": "cool---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 5677,
+		"title": "Re: ex-mobile, New demo: v0.3! (Check my latest post)",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-17T09:47:48.000Z",
+		"content": "Yeah. And why we don't make a Barbie-sim-like game, instead of a Keen one? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  Let's say, we will be able to change the colors of Keen clothes! Ypeeee! We will change the colors of his t-shirt, helmet, pants and even his socks! That's all in glorious 256 colors! But that's not all! We will be able to make different Keen hair-stiles! Huraaay! Believe it or not, Keen will be able to wear even Mortimer clothes! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]     Make an unique looking Keen and take him to a fashion show or share it with other Keen fans![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-foot.gif[/img]  :[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]  ----"
+	},
+	{
+		"id": 5678,
+		"title": "Re: ex-mobile, New demo: v0.3! (Check my latest post)",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-18T20:01:39.000Z",
+		"content": "hahahahaha"
+	},
+	{
+		"id": 5679,
+		"title": "Gggaaarrrggg!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-18T23:38:28.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br /><br />THAT IS NOT WHAT I MEANT!!!<br /><br />I just think it should be pink, because in all other good keen games; he wears pink (In GBC, he wears a red shirt, but I didn't really care much for that version; but I'll accept a GBA if you gave me one [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] ).<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5680,
+		"title": "enemy #1",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-24T16:05:40.000Z",
+		"content": "You won't believe your eyes! Here comes the ...<br /><br />... Dreaded EASTER EGG!!<br /><br />[img]http://img.photobucket.com/albums/v505/z-one/easteregg.gif[/img]<br />maybe not that dreaded [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] <br /><br />I won't show coloured versions of anything right now, but I work so much on every animation that I don't see the errors I make. Tell me anything that would ruin this little enemy.<br /><br />I've been thinking about the story. There won't be any mind controller machine but I stick to \"fairy tale\" creatures, though a little differently. I won't tell more about it for now..."
+	},
+	{
+		"id": 5681,
+		"title": "Well...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-24T16:39:38.000Z",
+		"content": "As long as he in't on drugs (crack [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ), he's cool with me.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5682,
+		"title": "Re: Well...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-24T16:53:53.000Z",
+		"content": "Woah, awesome editor z-1! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  As well, the new enemy sketch is wonderful.<br /><br />\"As long as he in't on drugs (crack [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ), he's cool with me.\"<br />Drugs? Please add those to the game as well.<br /><br />Oh, and pink shirt definitely. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-british.gif[/img] [url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 5683,
+		"title": "Re: Well...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-24T19:15:31.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Drugs? Please add those to the game as well.[hr][/quote]<br />That brings back memories of the \"Rehab Keen\" game I dreamed up at school camp after ODing on soda and candy. Damn that was fun.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5684,
+		"title": "Re: Well...",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-24T20:05:06.000Z",
+		"content": "Funny and interesting creature. I thought that it would be an advanced creature from your cell phone unfinished game. So, what's hiding inside the shell? An Yorp? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  Or... Garg? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  ----"
+	},
+	{
+		"id": 5685,
+		"title": "No...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-24T20:27:13.000Z",
+		"content": "No... It's the evil chicken, or the blue bird from K4, or...<br /><br />Maybe it doesn't harm you until you crack it by touching it, then... something hatches... It may look small<br /><br />But don't underestimate it...<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wormouth.gif[/img] <br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5686,
+		"title": "Re: No...",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-24T21:33:05.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]No... It's the evil chicken, or the blue bird from K4, or...[hr][/quote]<br />I haven't decided yet wether the creatures would be related to \"existing\" creatures from the original games or not, but one thing is for sure, there won't be anything in that egg that's related to them.<br /><br />This easter egg pushes the player around without causing him any harm, but you'll need the pogo stick to open it. Shooting it will kill the egg without opening it, but I can't tell you what will get out... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]  Please don't give suggestions or I won't show you anything more."
+	},
+	{
+		"id": 5687,
+		"title": "Re: No...",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-24T21:47:20.000Z",
+		"content": "reminds of Shelley from Keen 5, but still cool."
+	},
+	{
+		"id": 5688,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-09-24T22:02:08.000Z",
+		"content": "I agree with Mr12000; I thought it was Shelley.<br /><br />It'd be terrifying to see a Shikadi with proper translucency/distortion/lens effects.  O_o;;"
+	},
+	{
+		"id": 5689,
+		"title": "Cool:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-25T04:34:43.000Z",
+		"content": "Pogo on it? Like the way you K.O. the skypest in K4 (just, something new pops out?)?<br /><br />*A ton of suggestions I am holding back, because I want to play the next release*<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 5690,
+		"title": "Re: Cool:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-25T08:52:57.000Z",
+		"content": "Haha, I partly guessed. Very cool! Can't wait to see what's inside. I guess not anything cute.. mort[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 5691,
+		"title": "Re: Cool:",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-09-25T10:50:02.000Z",
+		"content": "This little guy [img]http://img.photobucket.com/albums/v505/z-one/easteregg.gif[/img] is cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 5692,
+		"title": "shikadi effects?",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-25T21:59:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Drugs? Please add those to the game as well.[hr][/quote]Definitely not :P<br /><br />I don't know the creatures by name, so I had to look up Shelley. I see the similarity. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]It'd be terrifying to see a Shikadi with proper translucency/distortion/lens effects. O_o;;[hr][/quote]Not a bad idea [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]  Unfortunately I don't know how to create the effect without using openGL (or with it BTW) and it just wouldn't work in a 2D environment. At least not a proper one..."
+	},
+	{
+		"id": 5693,
+		"title": "Re: shikadi effects?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-09-26T05:14:55.000Z",
+		"content": "<i>\"Unfortunately I don't know how to create the effect without using openGL (or with it BTW) and it just wouldn't work in a 2D environment. At least not a proper one...\"</i><br /><br />I'm sure there's a formula somewhere that'll do lens distortion, that's all you really need.  Kinda like those animations where a magnifying glass moves over the screen and enlarges everything behind it.  You could just enlarge everything behind the Shikadi in the same way.  That would look pretty nice."
+	},
+	{
+		"id": 5694,
+		"title": "Re: shikadi effects?",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-10-21T08:15:53.000Z",
+		"content": "Hmmm. No updates for a loooong time ago.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wormouth.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] oison[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sleepslug.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-gimp.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-spotkeen.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lindsey.gif[/img] ----"
+	},
+	{
+		"id": 5695,
+		"title": "No updates.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-21T12:00:27.000Z",
+		"content": "Sorry about that, I need some holiday off from my project time to time so I won't hate them. Actually I got sick of having to draw every stupid frame of every sprite, creating the engine is not hard. I will continue eventually. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]"
+	},
+	{
+		"id": 5696,
+		"title": "Re: No updates.",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-10-21T14:34:39.000Z",
+		"content": "Not that I can talk about actually finishing anything yet, but here's what helps me when I get that sick of working with no results feeling. (And wanting to just go do some other project.) Maybe it can prove useful to you:<br />Create (write or type) a list of all the things you can think of that need to be finished. Only list the \"big\" things. For example:<br />- Draw enemy sprites<br />- Program enemies<br />- Draw tiles<br />- Create levels<br />- etc.<br />Now pick from this list what you want to get done first. Break that item down into a more detailed list. Keeping picking an item and breaking it down until you have a list of specific items that you can realistically check at least one item off each time you work on it.<br />It seems to help to have something I can look at and say \"Aha, I'm that far along. Cool, I'm making progress!\"<br /><br />As to the Shikadi effect, yes this would be fantastic. Unfortunately, in the scope of a 2d platfrom game, without using a 3d api (OpenGL for example), it probably isn't realistic. It would be a problem of performance.<br />A much simplified explanation, if you care:<br />In a 2d engine, you're typically working with all of your graphics on the video card, as pictures. To put these on the screen, it is a lot like just pressing a peice of paper on the screen. That paper just gets put on top of everything, it doesn't get to take a look at whats behind it. BUT this sort of process is VERY fast.<br />For the Shikadi effect, you're asking that paper to look at whats behind it. Taking a look at what is behind is a VERY SLOW process. Plus you're changing things based on what is behind. It can be done, but trying to do that along with everything else, at least 30 or 60 times per second is asking quite a lot.<br />A 3d engine does its drawing in a fundamentally different way. Instead of giving the screen a picture, you tell the video card \"here are the shapes that are visible, here's what they are covered with, and here are some distortion formulas that should be applied\" and let the video card assemble all of that.<br />The distortion formulas are the key to the Shikadi effect."
+	},
+	{
+		"id": 5697,
+		"title": "Re: No updates.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-21T16:31:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The distortion formulas are the key to the Shikadi effect.[hr][/quote]Anyone writes me one that I can use in my game and is fast enough, in Allegro or even in AllegroGL and I'll include it. I promise. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5698,
+		"title": "Re: No updates.",
+		"author_id": 1297014,
+		"author_name": "Ness VS Ninten",
+		"timestamp": "2005-10-24T02:20:54.000Z",
+		"content": "You are truly talented.<br /><br />[center][img]http://img119.echo.cx/img119/7122/faggotpedo2ma.gif[/img][/center]"
+	},
+	{
+		"id": 5699,
+		"title": "Re: No updates.",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2005-10-29T18:41:39.000Z",
+		"content": "this game is extremely good. I dont know if you have music in the game, but this game works perfectly in linux, via wine/cedega."
+	},
+	{
+		"id": 5700,
+		"title": "Re: No updates.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-29T19:18:07.000Z",
+		"content": "^ That's nice to hear. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />And, no, it has no music yet.. But if that'll be as good as everything else in the game this far I can't wait. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5701,
+		"title": "music",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-31T14:08:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]And, no, it has no music yet.. But if that'll be as good as everything else in the game this far I can't wait.[hr][/quote]<br />Good game music is what I can only hope (or beg) for. I have absolutely no talent for music, so it must be someone else making it, or else there will only be sound fx.<br /><br />I've only started creating monster design and not on the computer yet. I hope you'll find this game worth waiting for, as there's still a lot of work with it. If I had a big professional grafix team the game would be already finished... I should stop dreaming [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-foot.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5702,
+		"title": "Re: music",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-10-31T17:26:06.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]If I had a big professional grafix team[hr][/quote]<br />Unfortunately, there's only one of me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 5703,
+		"title": "Re: music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-10-31T22:27:42.000Z",
+		"content": "lawl[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5704,
+		"title": "Re: music",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-11-01T12:01:57.000Z",
+		"content": "You're really into the perfection, aren't you?<br />But maybe if you give a specific jobs here, some people can actually help.<br />For example, take a look at what some people do in the JJ2 forums:<br />[url=http://www.jazz2online.com/jcf/showthread.php?t=13494]www.jazz2online.com/jcf/s...hp?t=13494[/url]<br /><br />They've made a great tileset in a verry interesting way. Someone post a tile, then someone takes it, made something form himself and post it again. Then another one takes it, makes something, post... etc. I think this is a great way of creating process.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  ----"
+	},
+	{
+		"id": 5705,
+		"title": "Re: music",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-01T12:26:10.000Z",
+		"content": "I like this idea, but I don't think this would work for creatures too. And as a friend of mine told me, I'm a lazy perfectionist. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5706,
+		"title": "hahaha",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-11-02T07:37:00.000Z",
+		"content": "Hey, that's neat... it's like what the CKCM never became.  :-("
+	},
+	{
+		"id": 5707,
+		"title": "hmm",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-11-05T03:16:29.000Z",
+		"content": "i could give you some files from my 3D game,I quit it a long time ago the music is here for the taking,if you want it but youll have to say"
+	},
+	{
+		"id": 5708,
+		"title": "Re: hmm",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-05T05:41:04.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Good game music is what I can only hope (or beg) for. I have absolutely no talent for music, so it must be someone else making it, or else there will only be sound fx.[hr][/quote]<br />I'd like to do some music if you're looking to for help. I'll be glad to send you (or anyone else curious) a few MIDIs I've written if you're intrigued. Please let me know if you'd like to hear me or not.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5709,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-05T09:39:02.000Z",
+		"content": "<i>\"I'll be glad to send you (or anyone else curious) a few MIDIs I've written if you're intrigued.\"</i><br /><br />Sure, if it's meant to be game music (as opposed to a real song) then I'm interested!"
+	},
+	{
+		"id": 5710,
+		"title": "Re: hmm",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-05T14:16:21.000Z",
+		"content": "Thanks for the offer guys. Any midi music is welcome! My address is z-one *at* freemail *dot* hu.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5711,
+		"title": "Re: hmm",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-11-05T15:26:29.000Z",
+		"content": "Do you really think midis are apropriate for this game? I mean even the mobile phones plays MP3s...----"
+	},
+	{
+		"id": 5712,
+		"title": "Re: hmm",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-05T22:20:50.000Z",
+		"content": "No, I don't think MIDIs would be appropriate for a modern game. I was just offering MIDIs as samples of my work. I guess they would keep the file size down, but other than that, MIDI would be a little lame. As I recall, Allegro's music system supports only MIDI though, and unless Z wanted to go with music in .wav format (or .voc), then he'd have to write his own sound loading code. So I expect he's planning to use MIDI.<br /><br />Z, are you planning on just dropping in songs that people send you, or would you prefer that music be written specially for each level? I don't think I have anything Keenish at the moment, but I'll send some files along anyway.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5713,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-06T00:50:47.000Z",
+		"content": "<i>\"Do you really think midis are apropriate for this game?\"</i><br /><br />There's nothing wrong with MIDIs - they're still one of the most popular and highest quality ways of creating music on a PC.  I mean you could convert them to MP3 if you had to, but you'd still want the MIDI files up until the last minute when you needed to put the song into the game.<br /><br />[url=http://www.shikadi.net/pckf/bloodwar-midi.ogg]Like this, for example.[/url]  It's a MIDI that comes on the SBLive demo CD, converted to an .ogg file for the benefit of those who don't have their synth set up to play it.  I reckon it sounds pretty good for a MIDI, and having game music at that quality would be pretty nice..."
+	},
+	{
+		"id": 5714,
+		"title": "MODy'all!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-06T02:38:02.000Z",
+		"content": "I much prefer MOD over MIDI and MP3 for game music. It's more versatile than MIDI and far smaller than MP3, plus it can sound bloody awesome.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5715,
+		"title": "Re: MODy'all!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-06T03:38:03.000Z",
+		"content": "Yes, I have to agree with that - MOD and its associated formats is probably the best, although I'd say that MIDI is actually more versatile than MOD (I think .it files probably come the closest to matching MIDI in terms of features.)  But of course you need pretty sophisticated/expensive hardware to use MIDI to its full potential, whereas fast software MOD synths are a dime a dozen, so they work really well for games."
+	},
+	{
+		"id": 5716,
+		"title": "blarg",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-11-06T04:45:32.000Z",
+		"content": "Spleen, question for ya:  Can MOD files have pitches which are held for more than one measure without re-voicing the pitch?  I've tried a few different MIDI-to-MOD conversion utilities over the years, and inevitably multiple measures-long notes are clipped at the bar line.<br /><br />Any advice?"
+	},
+	{
+		"id": 5717,
+		"title": "Me a sure.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-06T05:08:48.000Z",
+		"content": "As in a note lasting for longer than one bar? I'm pretty sure that's possible... bar-lines don't really seem to exist in MOD, just patterns. A note can be held for as long as you want--it's just the length of the sample that affects it, AKAIK, and even that can be worked around with some envelope effects.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5718,
+		"title": "Re: blarg",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-06T06:13:14.000Z",
+		"content": "As far as I'm aware, you can't actually turn a note off with MOD files like you can with MIDI.  The only way to stop a note playing is to play another note on the same channel, or in the case of a non-looping sample just wait until the sample has finished playing."
+	},
+	{
+		"id": 5719,
+		"title": "Hmm...",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-06T08:17:45.000Z",
+		"content": "Actually, most of the trackers I've tried have an OFF command that does that, usually via pressing CAPS or something.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5720,
+		"title": "Re: Hmm...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-06T08:28:21.000Z",
+		"content": "Oh ok, maybe they internally insert a 'null' note then to stop the sample - I've never really used any trackers, I've only used player code and I don't recall seeing anything there about switching notes off.<br /><br />Although this was with .mod and I think .s3m, the newer formats like .xm and .it may have this, I haven't used them enough to know."
+	},
+	{
+		"id": 5721,
+		"title": "Re: Hmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-06T11:57:26.000Z",
+		"content": "Mmmh.. MODs.. Yeah, that's the best option. Hopefully hear some Keen tunes.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5722,
+		"title": "Re: Hmm...",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-06T19:39:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]There's nothing wrong with MIDIs - they're still one of the most popular and highest quality ways of creating music on a PC. I mean you could convert them to MP3 if you had to, but you'd still want the MIDI files up until the last minute when you needed to put the song into the game.[hr][/quote]<br />The thing about MIDIs is that you can never be quite sure how they'll come out on the computer that plays them. And you need at least one expensive MIDI controller to make create a song unless you want to do a lot of tedious note entry by hand, so it's easy to end up with something pretty dry.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5723,
+		"title": "Game music",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-06T21:08:09.000Z",
+		"content": "I don't think that MP3 or even MOD would be an option for the game in it's demo stage, however later I'd like to use something that sounds the same on every machine and MIDI is not like that. I'd like to make separate music datafiles instead, so everyone should have the option to download the one which is better for them. The MIDI files can be converted to a high-quality MP3 with a better sound hardware without problems even if MOD is not an option.<br /><br />There must be some MOD or MP3 player addition for allegro for free somewhere, isn't it?<br /><br />*EDIT* Thanks for the MIDI files lemur821, I'm going to listen to them right away![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5724,
+		"title": "Re: Game music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-06T21:57:03.000Z",
+		"content": "It looks like there are a few libraries available to play other musics with Allegro. Allegro.cc lists some for mp3, Ogg Vorbis, and MOD type files.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5725,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-14T22:23:02.000Z",
+		"content": "I dont see any advantage of MIDI over mp3 other than space.  MIDI is a great way to compose music, but the MIDI sounds are cheap sounding, which is fine if youre looking for that old school game sound or dont know much about what you are doing when it comes to computer music.  Im a electronic music artist personally, and make things there a bit more sophisticated than MIDI files.  Allegro isnt the only MIDI composition program either [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] [img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5726,
+		"title": "Re: Game music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-14T22:54:59.000Z",
+		"content": "<i>\"the MIDI sounds are cheap sounding\"</i><br /><br />They only sound cheap if you're using something dodgy like the 4MB SoundFont that came with your sound card (or even worse, FM synthesis.)  If you have things set up properly, MIDI will sound no worse than anything else.<br /><br />The advantage I see in it (and other formats like MOD) is that they're fully editable, so it's like making the 'source code' of your composition available - if you get an MP3 it's a lot more work to figure out the notes and/or compose an alternate version of the song."
+	},
+	{
+		"id": 5727,
+		"title": "Re: Game music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-15T04:31:00.000Z",
+		"content": "\"the MIDI sounds are cheap sounding\"<br /><br />\"They only sound cheap if you're using something dodgy like the 4MB SoundFont that came with your sound card (or even worse, FM synthesis.) If you have things set up properly, MIDI will sound no worse than anything else.\"<br /><br />But how many people here have a decent MIDI setup? I do, and presumably you do, but most people don't even know  they can swap out the sounds (or can't).<br /><br />I like the editability, but another advantage is that you can use any GM instrument. You don't have to actually have a tuba lying around.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5728,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-17T00:37:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I dont see any advantage of MIDI over mp3 other than space. MIDI is a great way to compose music, but the MIDI sounds are cheap sounding, which is fine if youre looking for that old school game sound or dont know much about what you are doing when it comes to computer music. Im a electronic music artist personally, and make things there a bit more sophisticated than MIDI files. Allegro isnt the only MIDI composition program either[hr][/quote]<br /><br />Err... MIDI Has less instruments: I had a heck of a time trying to get my songs off my keyboard, and still sound like I wanted them to<br /><br />.MP3 rocks... Perfect Clarity Audio is better.Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5729,
+		"title": "Re: Game music",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-17T00:39:43.000Z",
+		"content": "My favorite music format is adlib...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-disguised.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 5730,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-17T03:45:56.000Z",
+		"content": "uhhh FM Synthesis is awesome.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5731,
+		"title": "Re: Game music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-17T22:43:45.000Z",
+		"content": "<i>\"Err... MIDI Has less instruments\"</i><br /><br />I'd be surprised if you wrote a song with more than 128 instruments, and even if you did you can use alternate sound banks which give you almost an unlimited number of instruments...  MP3 on the other hand doesn't have *any* instruments, it's just one long sound - so good luck finding out the notes in a song, or borrowing an instrument to use in your own song.<br /><br /><i>\"My favorite music format is adlib\"</i><br /><br />Yes, I have to agree with you there - given the severe limitations with the instruments, it's amazing what composers have actually done with it!"
+	},
+	{
+		"id": 5732,
+		"title": "Re: Game music",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-11-18T00:27:35.000Z",
+		"content": "can someone tell me where to download a mod player and some good mod songs, cause ive never actually heard of mod before [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] ---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 5733,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-18T03:20:58.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]MP3 on the other hand doesn't have *any* instruments, it's just one long sound - so good luck finding out the notes in a song, or borrowing an instrument to use in your own song.[hr][/quote]<br /><br />what? do you know anything about making music? you can use the midi to control virtual intruments and sequence your music.  you can use it to control different specialized plugins and synthesizers where you can use premade sounds or completely sculpt your own sound via synthesis (FM Synthesis being an example).  you can do this with programs like FL Studio, Acid, Reason, Live and many many others.  you then take your music and render it to the mp3 format.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5734,
+		"title": "Re: Game music",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-18T05:02:38.000Z",
+		"content": "I think he was saying you would have a hard time reducing a .mp3 to the midi's that created it, which is true. I have yet to see a mp3=&gt;midi tool.<br /><br />W00t! 2048th view!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5804,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-18T05:22:41.000Z",
+		"content": "Really?!!<br /><br />I thought I was limited to the sounds in my recording studio; tell me how - I am sooo interested!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5735,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-18T21:56:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>LevelLord00:</b> I think he was saying you would have a hard time reducing a .mp3 to the midi's that created it, which is true. I have yet to see a mp3=&gt;midi tool.[hr][/quote]<br /><br />huh? please clarify.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5736,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-18T22:12:42.000Z",
+		"content": "I've done it before; I just stream my audio file out my headphone jack, and back into my microphone jack. I save it as a track. sadly, the entire mp3 is thought of as an instrument. I put it in the same spot you can put voice track: Yup - You can have singing in Midi!!!Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5737,
+		"title": "Re: Game music",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-18T23:51:20.000Z",
+		"content": "To clarify:<br /><br />A midi consists of several independednt instruments; you can for example remove that drum, or insert a horn there, whatever.<br /><br />An mp3 is one long sound as mentioned above; if a midi was a jigsaw puzzle [which can easily be assembled into a picture] then the mp3 is a picture [which you can't break into pieces like a midi] You can make a '1 piece jigsaw' midi, but its larger than the midi made from instruments would be as the whole song is one big complex 'instrument'<br /><br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5738,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-19T06:31:54.000Z",
+		"content": "Well said...<br /><br />Just stick with midi; you can record that through a keyboard (I have that setup, as wel as an mp3 setup).<br /><br />If you get me music, I can make you your midi.Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudos to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5739,
+		"title": "Re: Game music",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-19T14:41:00.000Z",
+		"content": "Wow, this topic grows even without me! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />I've been ill for more than a week now and my head hurts and I feel dizzy when I use the computer, so I won't do anything with it until I feel better...[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5740,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-19T16:59:44.000Z",
+		"content": "hope you feel better Z-1!<br /><br />I'm not talking about making music with mp3s, im talking about making music with music making programs which have strong and flexible intruments, synthesizers, drum machines, and sounds; instead of just the midi sounds and instruments.  MIDI is used to send note data to the intruments. Because thats what MIDI is... its note and action data.  And in MIDI files it's just being sent to sounds that come with your soundcard. <br /><br />So then you build your song in this program, being able to change it as much as you like. Then, once completed, rendering it into a mp3 file for use where ever, not having to worry about it sounding different on anyone elses computer because the sound is in the mp3.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5741,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-19T17:19:34.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<i>The human brain is not user-friendly..</i>[hr][/quote]<br /><br />lol<br /><br />[quote]<b><i>Quote:</i></b>[hr]So then you build your song in this program, being able to change it as much as you like. Then, once completed, rendering it into a mp3 file for use where ever, not having to worry about it sounding different on anyone elses computer because the sound is in the mp3. [hr][/quote]<br /><br />Yeah, good idea - It also keeps people from screwing your masterpiece!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudos to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5742,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-20T03:32:51.000Z",
+		"content": "how do you think they get music on CDs?[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5743,
+		"title": "Re: Game music",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-20T05:33:38.000Z",
+		"content": "I'm feeling better I guess....<br /><br />The music format for my game is still undecided, and you've confused me more. The game could be bigger than 5-10 megabytes, but would you want to download it if so? Mp3 is a nice format, though it's a bit old and there are other formats just as good as it is, or even better and (what is more important) much smaller. But the game shouldn't run less smoothly because of the music. So what I need is a relatively small file with just the acceptable quality. 5.1 surround sound is not recomended [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />I don't think MIDI is a good choice, but it could be used and converted to something better.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5744,
+		"title": "Re: Game music",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-20T07:23:52.000Z",
+		"content": "So your game will be as big as a good quality song?<br /><br />So?<br /><br />A download once; 20Megs would my limit, more if its a good game.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5745,
+		"title": "Re: Game music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-20T14:15:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] I'm feeling better I guess....<br /><br />The music format for my game is still undecided, and you've confused me more. The game could be bigger than 5-10 megabytes, but would you want to download it if so?[hr][/quote]<br />I'm glad you feel better. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I don't really have a limit to my download size. I'm on a broadband connection, so anything within reason is fine. I recognize that many people aren't though. Thinking back to my dial-up days, I'd say that 20 Mb would be a little large but not a problem. 30 would be a bit of a pain, but all right. Anything larger would have bothered me, but I easily would have downloaded anything that interested me even if it was a few hundred Mb (not that I suggest that). I just would have downloaded for a few days.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5746,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-20T16:31:42.000Z",
+		"content": "I'll download any size! Cable Modem.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5747,
+		"title": "Re: Game music",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-20T18:57:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I'll download any size! Cable Modem. [hr][/quote]<br /><br />Same here; I can upload 20MB in less than 3 minutes. My best record was 15MB in 1 minute.<br /><br /><br /><br />BTW - If you want, I can record a midi for you, and ship you 3 files (Same song): yoursong.mdi, yoursond.wav, and yoursong.mp3; and you can check them out.<br /><br />Just either give me music, or otherwise, just a genra to work of of, and I'll try my best to give you something worth your game.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I love composing, so it will be a treat. Just gimmi credit, and I'll make the song shareware (I won't care if ppl download it, and say it's theres, just as long as I'm given credit in the game [as well as {If possible, though, if don't care -Would like it though-} a link to my site www.najawa.com], and I'm appesed).<br /><br />Good luck, anyways!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Tough Guys Can Fix There Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5748,
+		"title": "Re: Game music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-20T23:00:29.000Z",
+		"content": "Whoops, just came back to this topic and I think Mr12000 misunderstood me.  Lucky LL was here to explain things [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   My point was just that if you download a game with MP3 music your only choice is to listen to the MP3s.  If you download a game with MIDI, MOD, IMF, etc. music - generally anything that stores the actual notes in the song then it's much easier for someone to find out what those notes are, if they want to e.g. learn to play the tune on a piano, make a remix of your song, etc.<br /><br />Like Naj says, MP3 \"keeps people from screwing your masterpiece\" but IMKO having people create remixes and things is half the fun - we all like the remixes of the Keen music, right?  They would've been a lot harder to create if the Keen music was MP3, WAV, OGG, etc.<br /><br />Personally I think the best format for a game would be one of the MOD formats (S3M, XM, IT, etc.)  These combine the \"niceness\" of having the notes available for people who are interested, yet you get to include your own tiny software synth to play the songs, so they're guaranteed to sound the same on any PC.  Plus 300-500kB/song is a lot smaller than an MP3 of comparable quality."
+	},
+	{
+		"id": 5749,
+		"title": "Re: Game music",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-21T02:20:25.000Z",
+		"content": "i see what you are saying, which is nice.  this is still possible if you are using the same software as the composer, because you can send the project file, but it's not as universal.  i think that quality music in the game should come before people who may want to remix it though. people can also render audio tracks of the seperate instruments to work with in an audio bassed editor such as Sony's ACID.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5750,
+		"title": "Re: Game music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-21T06:50:01.000Z",
+		"content": "Maybe the best solution is to include mp3s (or Ogg Vorbis, plz!) for the actual in-game music and let people download source files or whatever seperately if they wish. Apart from the size of the compressed audio (compared to MIDI), I think that would make everyone happiest.<br /><br />As for audio files being harder to get the notes from than MIDIs, maybe that's a good thing. I'm not sure I want someone without the skill to transcribe my music remixing it anyway! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  <br /><br />[quote]<b><i>Quote:</i></b>[hr]...IMKO having people create remixes and things is half the fun - we all like the remixes of the Keen music, right?[hr][/quote]<br />I agree completely.<br /><br />I also want to echo Najawa's offer. If you want anything in particular in the way of music I'd love to write some for you. Also, what did you think of the songs I sent? I'm curious for some feedback. Like Najawa, I'd like to be in the credits if you use my stuff. You can do what you like with my music as long as people know who wrote it.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5751,
+		"title": "Keep is small, stupid.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-21T13:53:23.000Z",
+		"content": "It's not only the download speed I take into account when it comes to the size of a game, but the drive space it takes up. I use and sell alot of older computers customised to run games like this, and storage is always at a premium.<br /><br />I would rather the game include MOD by default and have an optional addon available for those who want to use MP3s instead or wish to listen to the soundtrack on an MP3 player. That way, both those who have bandwidth and HDD space to burn and others who prefer a small download are catered for.<br /><br />Mr12000's point about music quality is null and void. There is no difference in quality between MOD and MP3, it's just that MP3 is far more standard than MOD.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5752,
+		"title": "Re: Keep is small, stupid.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-21T14:48:52.000Z",
+		"content": "I recieved the music but I had many things to do and completely forgot about them, but I've listend to them now. The MIDIs I got sound a bit strange on my integrated sound card, but I think they may sound good with a better card. Could you send me Happy_Waltz.mid and Orch.mid converted to mp3? It don't have to be the highest quality mp3.<br /><br />The music I'd like to include for the game is something like the original games had. They should be funny and fast, but not too fast. I'd like to have a short music clip for dying and victory too.<br /><br />What music format did those old games used that wasn't midi, but not yet mp3, and sounded like it's not computer generated? Or my memory makes them seem better then they really were...[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5753,
+		"title": "Re: Keep is small, stupid.",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-11-21T21:14:47.000Z",
+		"content": "I think you should check this topic [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheclassics.showMessage?topicID=404.topic]p072.ezboard.com/fpublicc...=404.topic[/url] if you are talking about adlib music. There are plenty of great retro songs that I recommend you to check, though I'm not sure that they can really be implemented in a game.<br /><br />Also, you may visit the [url=http://www.modarchive.com]www.modarchive.com[/url] for thousands of free .mod, .it, .xm, .s3m and other file type songs. Some of them sounds a little bit retro and some of them are pretty good and cool even for these days. And I believe there is even some kind of plug-in for Allegro that may allows you to play them in your game.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5754,
+		"title": "Re: Keep is small, stupid.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-21T22:48:47.000Z",
+		"content": "The only problem with going down the IMF track like Keen is that unless you're writing a native DOS game, it's pretty difficult to play IMF files.  You have to include a software synth, and unlike MOD files an OPL synthesiser takes up a *lot* of CPU cycles - you can play MOD files on an XT computer (which can barely run Keen itself) whereas you pretty much need a 300+MHz CPU to play IMFs without a hardware synthesiser.<br /><br />In theory you could create a MOD file that sounds close to an IMF, but it probably wouldn't be worth the trouble - there's a reason why people here are always trying to convert the IMFs into MIDIs... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 5755,
+		"title": "Re: Keep is small, stupid.",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-21T23:14:57.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>CommanderSpleen:</b> Mr12000's point about music quality is null and void. There is no difference in quality between MOD and MP3, it's just that MP3 is far more standard than MOD.[hr][/quote]<br />I never mentioned anything about MOD... and im not talking about sound quality.  I'm talking about quality of intrumentation and how the sounds... actually sound.  Mp3, Ogg, Wma, Wav, whatever, can be used.  I don't actually know anything about MOD and have never even heard of it before. [img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5756,
+		"title": "Module!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-21T23:30:40.000Z",
+		"content": "[hr]<b>Mr12000</b> I don't actually know anything about MOD and have never even heard of it before.<br />[hr]Wow, you're missing out. It's similar to MIDI, but all the sounds used for the instruments are stored in the file itself. Thus it sounds the same as a MOD as it would converted to MP3 yet remains far smaller, often well under half a MB.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5757,
+		"title": "Re: Module!",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-22T00:00:04.000Z",
+		"content": "so MOD is limited to its sounds?[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5758,
+		"title": "Unlimited?",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-22T00:34:04.000Z",
+		"content": "It's limited to the sounds you import, but you can import any combination of sounds you like.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5759,
+		"title": "Re: Unlimited?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-22T01:05:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]There is no difference in quality between MOD and MP3, it's just that MP3 is far more standard than MOD.[hr][/quote]<br />I don't agree with that. Technically, since mp3 uses a lossy algorithm, MODs have higher fidelity. On the other hand, they're less general and flexible than mp3, since they're note based, so they sound worse in some ways.<br /><br />Z-1, I'll send along those mp3s. I think your stylistic desires for the music make a lot of sense. I'd like to try some new stuff that might suit a Keen game better if I have the time, but I'm kind of busy.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5760,
+		"title": "Re: Unlimited?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-22T13:37:43.000Z",
+		"content": "Well, just for those people here who haven't heard of a MOD before, you might be curious to hear what they sound like.  Here's a song from Unreal Tournament (in .it format) and an .ogg recording of it in case you don't have a player:<br /><br />[url=http://www.shikadi.net/pckf/foregone.ogg]foregone.ogg[/url] (3.7MB)<br />[url=http://www.shikadi.net/pckf/foregone.it]foregone.it[/url] (1.9MB)<br /><br />This file has higher than average quality instruments which is why it's so large.  It goes for about four minutes, but if you were to extend it to eight minutes you probably wouldn't go much above 2.1MB - most of the file size is taken up by the instruments."
+	},
+	{
+		"id": 5761,
+		"title": "Re: Unlimited?",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-11-22T19:52:10.000Z",
+		"content": "What I'm going to write is not about the music.<br />Today reading the latest topic name... and just come in my mind that \"ex\" shouldn't stand there. Instead of 'ex' there must be 'Next'. So the working title (or code name) can be just Keen: Next. The name says it all. It symbolyze the next step of Keen evolution. And in all aspects it is really a step forward in all directions towards Keen 4, 5 and 6, even in this early stage. Well what do you think?----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5762,
+		"title": "Re: Unlimited?",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-11-23T01:01:48.000Z",
+		"content": "hahaha! \"ex-mobile, and... um... music formats\" nice one Z-1.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5763,
+		"title": "Re: Unlimited?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-23T06:24:12.000Z",
+		"content": "Hehe, that's a good name idea! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  It might be a little 'boastful' but this game has deserved it..<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5764,
+		"title": "Re: Unlimited?",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-11-23T07:45:42.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>lv4n</b> :Today reading the latest topic name... and just come in my mind that \"ex\" shouldn't stand there. Instead of 'ex' there must be 'Next'. So the working title (or code name) can be just Keen: Next. The name says it all. It symbolyze the next step of Keen evolution. And in all aspects it is really a step forward in all directions towards Keen 4, 5 and 6, even in this early stage. Well what do you think?[hr][/quote]<br />The <b>ex</b>-mobile bit refers to the fact that this game was originally planned as a mobile phone game, but has become a PC game, if I remember rightly.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 5765,
+		"title": "A name!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-11-23T08:34:44.000Z",
+		"content": "Keen: Next is a worthy name for this project. Much better than 'ex-mobile', which it's long outgrown. Z-1, get to it! And don't be modest.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5766,
+		"title": "Re: A name!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-28T22:12:30.000Z",
+		"content": "Though I have nothing to show you yet, I finally made up some ideas about some enemies so I can continue with drawing. I haven't started it yet, but now I'm working on my map editor, so it's gonna use directx for drawing. I hope this is not a problem for anyone who is willing to use it in the future.<br /><br />*EDIT* Unfortunately M$ stopped supporting DirectDraw, so there won't be 2D spedific functions in DirectX in the future versions. I could either use the current API and forget about my map editor in the future, or use something else. I'm still thinking about OpenGL but it may not be a good choice either.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5767,
+		"title": "Re: A name!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-11-29T01:52:44.000Z",
+		"content": "Not supporting means they don't respond to support requests regarding the functions. But if you know their self-imposed rules regarding COM (which in turn governs DirectX), you know that updating a component means changing, fixing and adding features. However, it can't break existing features. So DirectX 10 still supports all the features of DirectX 1.<br /><br />To get to older implementations of particular methods (functions), you need to be explicit in what version you want. However, in the case of DirectDraw functions, there are no new functions, so the old are used and there's no need to \"be explicit.\"<br />Now what I don't know about is what happens if you use a later DirectX SDK and compile using features only available in previous versions. (It should work, but you may need to add flags to tell the compiler exactly what you're doing.)<br />In my case, I'm using the DirectX 7 SDK (the last one with DirectDraw). But don't get too worried. I have DirectX 9 installed so I can play new games. The SDK is only used by the compiler. Don't know how hard it is to get older SDK's, so if you need a copy, let me know and I'll put one up. (If I recall correctly, it's around 200mb, so you'll want a fast connection to download it.)<br /><br />My appologies if they've actually stated they are eliminating DirectDraw features. Please point me to the source of this, since it concerns me greatly.<br /><br />Finally, in a level editor, I'm sure it's unnecessary, but using Direct3d to do 2d stuff provides a lot of cool graphical features, and it's not too complicated of a technological leap. (In fact, you can just build your own backend system to hide the fact that it's actually 3d and just pretend you're working with 2d objects.)"
+	},
+	{
+		"id": 5768,
+		"title": "Re: A name!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-29T02:12:12.000Z",
+		"content": "I've changed my mind about doing anything with the editor for now. (I know it was fast).<br /><br />[quote]<b><i>Quote:</i></b>[hr]My appologies if they've actually stated they are eliminating DirectDraw features. Please point me to the source of this, since it concerns me greatly.[hr][/quote][url=http://msdn.microsoft.com/archive/default.asp?url=/archive/en-us/directx9_m_Dec_2004/directx/draw/ddraw.asp]M$ directdraw reference[/url] I guess this only means you won't be able to compile anything that uses directdraw with the newer SDK, but it may mean that the future windows' like vista won't be able to run programs with older DX API at all.<br /><br />*EDIT* I knew I forgot something. Using the D3D API for 2D seems a bit complicated for me at the moment, even though that seems to be the only way. I've never used DirectX and haven't programmed anything 3D before and I'm not about to start learning something hard now. It may be easy when you know how to do it, but the exams are near and I don't have the capacity.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5769,
+		"title": "Re: A name!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-29T10:12:17.000Z",
+		"content": "<i>\"I've never used DirectX and haven't programmed anything 3D before and I'm not about to start learning something hard now.\"</i><br /><br />In that case I'd strongly recommend using OpenGL instead - DirectX (at least from a low level C++ point of view) requires a lot of mucking around with classes and it can be *very* complicated, whereas OpenGL is more or less a bunch of function calls, so if you're new to 3D programming you'll quite likely find OpenGL easier to learn with.<br /><br />Plus OpenGL runs under Linux as well [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 5770,
+		"title": "Re: A name!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-29T11:43:09.000Z",
+		"content": "I'll consider it when I want to learn 3D, but should a hardware accelerated 3D graphics card really be necessary for a 2D map editor? I don't think so...[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5771,
+		"title": "Re: A name!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-29T12:05:54.000Z",
+		"content": "Don't forget that OpenGL and DirectX both default back to software renderers if you don't have a hardware accelerated card (but who doesn't these days?) and if you do have a 3D card you can easily get nifty 3D effects like semitransparency by using only the 2D capabilities of the card.<br /><br />I'm considering making my 2D map editor OpenGL based, simply because it'll save me the effort of coding transparency blending, it'll make animation simpler (just switch textures and refresh), and it should make scrolling *really* smooth."
+	},
+	{
+		"id": 5772,
+		"title": "Re: A name!",
+		"author_id": 1485617,
+		"author_name": "duke4e",
+		"timestamp": "2005-11-29T15:09:08.000Z",
+		"content": "how about using SDL?"
+	},
+	{
+		"id": 5773,
+		"title": "Re: A name!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-29T20:06:03.000Z",
+		"content": "It'd be better to use allegro, but I could not find headers for Delphi... SDL seems to have them, there's a JEDI translation. They translate many things to Delphi and other pascal compilers. I'm looking into it now, I can only use SDL if it can be integrated to an already written Delphi program with windows.<br /><br />*EDIT* I've downloaded an openGL component for Delphi, it won't be hard to convert the editor now. Even though it's openGL, this component needs DLL's so it won't be good for linux (but the editor isn't either).[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5774,
+		"title": "Re: A name!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-30T10:55:08.000Z",
+		"content": "No, once I read \"Delphi\" my heart sank [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   Well, there's always Wine, sometimes Windows programs will work under Linux with that.<br /><br />I'm surprised you can code in Delphi, I had to use it for a couple of projects when I was at school and coming from a C/C++ background I found it extremely limiting."
+	},
+	{
+		"id": 5775,
+		"title": "Re: A name!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-30T15:26:41.000Z",
+		"content": "Compared to C++ it is limited with pointers, but you don't have to use them too much either.<br /><br />For the map editor I needed a window system and programming it under windows was the simplest method. I could've used C++ but it wouldn't be any different for the user.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5776,
+		"title": "OpenGL and the map editor",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-01T05:58:30.000Z",
+		"content": "I write a 2D wrapper around openGL and I'm going to re-write the map editor for C++ because it'd be more work to change the code for openGL compatibility, and the code for the map editor got a \"little bit\" messy after continous extensions of the code. I thought that it's just an editor for the game so it's not so important but it is 'cos I can't stand messy code and this way it'll be easier to change it for Keen 4-6 editing (maybe).<br /><br />I've started drawing enemies I've made up too."
+	},
+	{
+		"id": 5777,
+		"title": "OOOOM!!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-12-11T13:44:51.000Z",
+		"content": "Ooooh! I just discovered something cool: static linking. No more chunky DLL getting lugged around with the game. I just tried it on my current gamedev project, and it produced a self-contained 200kb zip.<br /><br />[url=http://www.allegro.cc/forums/thread/232821]Here[/url]'s the thread with the instructions I worked from [I had to clear /allegro to make it work, though, which it doesn't mention]. It's specific to MinGW/DevCpp so if you're using a different compiler you might need to search the Allegro forums a bit.<br /><br />Also... have you done anything crazy to the code that'd break Allegro's cross-platformability? I'd like to try this game in DOS and Linux.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5778,
+		"title": "Re: OOOOM!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-11T21:53:02.000Z",
+		"content": "Nothing was changed with allegro, so I guess this game will be compatible with linux but I don't know about dos. <br /><br />I can't compile the allegro DLL... I use C++ Builder for compiling the game and it just can't do it. I started with MinGW/Dev-Cpp but it had a clumsy and unstable user interface so I changed. The final game could be compiled with MinGW though, I only use standard, or at least old c++ commands and functions that work everywhere.<br /><br />I'll post images of the new map editor when the user interface is close to finished, but no new in-game graphics yet. [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5779,
+		"title": "Re: OOOOM!!",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-12-20T22:16:25.000Z",
+		"content": "Somewhere I read that you want to make a wall walking enemy. I think it can be a great addition to make Keen to be able to run on walls just like it's in Prince of Persia for the mobile phones .[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5780,
+		"title": "Re: OOOOM!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-22T10:36:18.000Z",
+		"content": "I wan't to make an enemy that walks on the ceiling.<br /><br />Here's a screenshot of the new map editor I'm working on! I use openGl and as you can see only the current layer is hilited that I'm working on. The background and foreground layers are dimmed.<br />[img]http://z-one.uw.hu/files/editor1.png[/img][hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5781,
+		"title": "Nice",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-22T15:13:39.000Z",
+		"content": "The editor looks fantastic. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5782,
+		"title": "Re: Nice",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-12-23T16:37:08.000Z",
+		"content": "Yey christmass gift.<br />Can you make an option like that you can grab and take already builded peaces. So this can speed up level making instead of doing everything tile by tile.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5783,
+		"title": "Re: Nice",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-23T17:55:20.000Z",
+		"content": "You already can. It's not as easy as in the previous version of the editor but I'm working on it. At the moment you have to build the \"brush\" tile by tile, but you'll be able to turn the current selection into a brush. I want to add other features that make map building faster, eg. randomize tiles that has the same function (for example walls, ground etc.). Tiles can already be linked to blocking information and to layers. If you have any other idea that would work, tell me here![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5784,
+		"title": "Re: Nice",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-12-23T20:49:33.000Z",
+		"content": "Ok. But compared to the old editor, the new one looks like a big and major improvement to me. So I don't know if it will need any improvements.<br />What the \"extra\" option contains? Does it contains enemyes or they are in \"sprites\" tab?<br />Maybe you can improve usability by implementing the scrolling button, if you don't already do this, so you can scroll up/down, though I'm not sure if this was discussed before.<br />Also the left tab could need to be changeable in width as the right one does.<br />\"randomize tiles that has the same function\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  wow! This would be really nice!----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5785,
+		"title": "Re: Nice",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-23T23:28:48.000Z",
+		"content": "What scrolling button? The one on the mouse? That works fine.<br /><br />There's not much real improvement over the previous version of the editor. The new one works differently, with a simpler user interface that's all, at least from the user's point of view. Other difference is that this one is written in C++ instead of Delphi and I'm really planning to make it work with Keen 4-6 too.  I'll have to restrict the use of some features for that, though.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5786,
+		"title": "Re: Nice",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2005-12-28T17:02:59.000Z",
+		"content": "I know this is 4 or so months too late, but those graphics are fantastic.  They so much like the original Rayman game, which is totally awesome.  Congratulations!<br /><br />PS: lol, do you have AIM?~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5787,
+		"title": "Re: Nice",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-01-01T00:48:50.000Z",
+		"content": "he has MSN, like most Keeners...Tough Guys Can Fix Their Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5788,
+		"title": "icon",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-02T22:12:09.000Z",
+		"content": "Not much, just the icon for the game [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />[img]http://img.photobucket.com/albums/v505/z-one/newico.png[/img]<br />[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5789,
+		"title": "Re: icon",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-01-02T23:15:05.000Z",
+		"content": "O0o... 7074117 1337!!!<br /><br />joo h473 M3 W53N I 30 7H47... 101!!!<br /><br />But man... joo don't w4nn4 C m7 v3r510n!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  <br /><br />[hr]<br /><br />Woa... so this was origionally going to be a cell phone game? Geez... and you abbandoned it?<br /><br />Dang...<br /><br />I have akways dreamed of playing the original Keen games on a cell phone... how hard is it to learn Java?<br /><br />Man... I would do anything to get my hands on a Keen: Mobil Game!!! I'd buy an addon domain, and host up www.keen-mobil.com, and even make the page with a mobil counterpart!!! I'd do anything!!! Geez... this is great... but I want a mobil!!!Tough Guys Can Fix Their Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5790,
+		"title": "Re: icon",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-03T12:11:03.000Z",
+		"content": "Even the logo is awesome. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  I prefer to play it on PC. Mobiles wouldn't necessarily have enough power to run this kind of game, at least not yet.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5791,
+		"title": "..",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-01-03T17:29:17.000Z",
+		"content": "Icon looks tight."
+	},
+	{
+		"id": 5792,
+		"title": "Re: ..",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-01-07T00:51:16.000Z",
+		"content": "cool icon.  K:N stands for?[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5793,
+		"title": "Re: ..",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-07T02:52:26.000Z",
+		"content": "It's that \"Keen: Next\", though I don't believe that this is the next real Keen, but it's a cool name! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />BTW, don't expect much progress till the middle of February, as I have exams.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5794,
+		"title": "Keen:Next",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-01-08T03:50:40.000Z",
+		"content": "I don't think I really like that name... lol"
+	},
+	{
+		"id": 5795,
+		"title": "creating a keen 4-6 editor",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-09T13:44:38.000Z",
+		"content": "It's only a codename, and it wasn't my idea anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />The editor already has most functions I wanted to implement, but not the extra game stuff. It's time for your help if you want it to be a Keen 4-6 editor too! Please tell me about those extra things that can be edited in Ted, like teleport locations, doors, bridges, etc. and how they are controlled in Ted! I want to make this editor easy to use, but I still need the information as I cannot get Ted to run.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5796,
+		"title": "Re: creating a keen 4-6 editor",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-09T16:16:07.000Z",
+		"content": "Well, I didnt do anything with Ted till now but I've debugged many parts of the K4-Engine and know, how it works... If u want to have the piece of code I can send it to u...<br /><br />For short:<br /><br />If u press the up-key, the engine calls a function to check wether there is a switch or a door... if there's a switch||door keen needs first to slide to reach the correct position.<br /><br />After that the corresponding action is called...<br /><br />If it is a door the engine takes a look at the info layer and set's keen to the target-coordinates stores there (0x1234: 0x12 where the x-coords and 0x34 are the y-coords)<br /><br />If it is a switch the engine takes the target-coords of the info-layer from the switch and checks if at the target position the info layer contains the value 0x000F. If so then there's a bridge - if not, it's blocker tile...<br /><br />if it's a blocker-tile then the foreground-tile is just XORed with 0x001F.<br /><br />if it's a bridge the following piece of code is executed...<br />[pre]     for( word curY=newY; curY &lt; (newY+2); curY++ ) {        word offset = map_line_start[ curY ] + newX;        /* loc_1614, loc_1615, loc_1616 */        word *tile_pointer = maplayer[1] + offset + (curY != newY);        /* loc_1617, loc_1618 */        startX = newX  (curY != newY);                                /* loc_1620 */        for( word curX = startX; curX &lt; level_width; curX++ ) {                 foreground_tile_2 = *tile_pointer++;                short delta_tile = p_maphead[3942+foreground_tile_2];/* tile_fg_animlist[BX] */                if( delta_tile == 0 ) /* nothing to change */                        break; /* next run in outer for-loop */                foreground_tile_2 += delta_tile;                sub_490( &amp;foreground_tile_2, 1, curX, curY, 1, 1 ); /* change tile */        }}[/pre]<br />(my interpretation of the asm-output)<br />sub_490 changes a tile in the maplayer and refreshes the output  to the screen...<br /><br />I hope this helps a little bit...<br /><br />MfG<br /><br />[hr]<br /><br />Hi again <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/> <br /><br />ok, I'm unsure if u already know the format of the map-files, but if u need some info's here whe go...<br /><br />The engine normale uses two files for the maps: \"maphead.???\" and \"gamemaps.???\" where \"maphead.???\" just contains 100 offsets (datatype: long, 4byte) for the level-header's in \"gamemaps.???\"<br /><br />struct of levelheader:<br />[pre]  struct mapheader {  Sint32  layer_offsets[3];  Uint16  layer_length[3];  Uint16  width, height;  char    lvlName[16];  /* ted-level-name, not shown in game*/  char    sign[4];        /* signature: \"!ID! */}[/pre]<br /><br />layer[0] is the background-layer (only not maskable tiles)<br />layer[1] is the foreground-layer (only maskable tiles)<br />layer[3] is the info-layer (the first of the maskabel tiles, contains enemys and some infos like target for doors and so on...)<br /><br />every layer_offset[] points to the place, where a layer is stored... each layer is compressed twice: first u have to uncarmacize them and after that u have to unRLE them.<br />the first two bytes contain the 'uncaramacized' length of the plane and after 'uncarmacizing' the first two bytes contain the 'unRLEed' size (which has to be width*length <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif?ttinline=true\"/>. That should be all for the moment... if u need help with a carmacize/decarmacize algorithem: just ask <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/> <br /><br />MfG (again <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 5797,
+		"title": "Re: creating a keen 4-6 editor",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-10T03:28:27.000Z",
+		"content": "Thanks for the info, though all I need is:<br />1. what can be set in Ted from the user's viewpoint and how.<br />2. what to output and where to replace maps in Keen. Aren't the maps or the graphics in the exe?<br /><br />I already have seen the source of Ted about that carmacize/decarmacize algorithm and created a dll that does the \"hard\" work.<br /><br />With some help the Keen 4-6 map editor will soon be ready! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5798,
+		"title": "Re: creating a keen 4-6 editor",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-10T12:35:09.000Z",
+		"content": "1. No idea..<br /><br />2. The actual level data is in GAMEMAPS.CKx. The header data (called MAPHEAD) is stored in the exe, and thus needs to be patched. With big patches like this, the patch can be just a binary file that is read with a specific patch command. MAPHEAD tells the level data offset of GAMEMAPS; where the level data starts there.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5799,
+		"title": "Re: creating a keen 4-6 editor!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-10T13:20:25.000Z",
+		"content": "Thanks for all the help! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Adurdin've already wrote about this on K:M, but every little help... er... helps! With all the information I could write a little program that extracts the levels but I still need to convert it to my own map format. When that is ready I'm gonna upload for everyone to try, but only for debugging purposes. It won't be possible to replace existing levels and play with them yet.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5800,
+		"title": "Re: creating a keen 4-6 editor!",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-01-10T22:25:33.000Z",
+		"content": "Though it's not from TED, I would like to see sprite editor in the your editor. For example for adding new candys etc.<br />I've got other ideas, like editable messages that can be readen in the game, but they aren't in TED. Dunno what's more in TED.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5801,
+		"title": "Re: creating a keen 4-6 editor!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-01-11T05:48:26.000Z",
+		"content": "Both sound unliekly.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5802,
+		"title": "Re: creating a keen 4-6 editor!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-11T07:25:46.000Z",
+		"content": "Yeah, those are definitely not in TED. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5803,
+		"title": "Re: creating a keen 4-6 editor!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-11T11:12:04.000Z",
+		"content": "I won't write a sprite editor as there are so many programs that can do that, and much better than I'd be capable of. But I may include anything that is somehow connected with maps and you know exactly how to patch it.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5805,
+		"title": "Demo 0.3",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-01-11T18:11:16.000Z",
+		"content": "Sorry if this has been pointed out already. But there's a small bug in the 0.3 demo.<br />When on the rope just a little above and to the right of the starting point, facing right as in this picture:<br />[img]http://keen.keenx.com/temp/keenrope1.gif[/img]<br />If you press and hold the down arrow, when you get close to the wooden platform, the player will pop off the rope and end up like this:<br />[img]http://keen.keenx.com/temp/keenrope2.gif[/img]<br />However, if you start lower, here for example:<br />[img]http://keen.keenx.com/temp/keenrope3.gif[/img]<br />The player will stay on the rope and slide through the hole as expected."
+	},
+	{
+		"id": 5806,
+		"title": "Re: Demo 0.3",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-11T21:47:52.000Z",
+		"content": "it was a problem with the bounding rectangle of the player but I've fixed that. I haven't yet uploaded the \"new\" version. I'm working on a map editor, that will soon be able to load CK4-6 levels from gamemaps.ckX and edit my game's levels too.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5807,
+		"title": "Keen: Next ready ;)",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-02-13T16:52:51.000Z",
+		"content": "To tell you something funny: recently I bought a new video card (GF6600GE) and later on I've decided to test how Keen: Next is going on. So I've run the v0.3, switch to full screen mode (F) and test the FPS by pressing the 'I'. I find out that now I've got ~470 FPS (600+ at the beginning) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] . So I guess my system is Keen: Next ready :P.<br /><br />I remember that with my old GeForce 2 MX 400 I've got approx. 150 FPS.<br /><br />Btw even with this card, I've got terrible performance with Heroes 5 beta (one of the games that made me to by this card). Although it's a beta and it's not optimized, I guess I'll have to buy some more RAM.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5808,
+		"title": "Re: Keen: Next ready ;)",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-13T22:33:48.000Z",
+		"content": "My old computer could only make around 70 fps but the new one (3000+ amd) makes it 450 and I still have my old geforce 4 Ti4800 SE (the slowest one I think).[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5809,
+		"title": "Back on Business!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-25T17:25:18.000Z",
+		"content": "After recoding the whole map editor I finally reached a stage when I can tell you that it has all the necessary functions that is needed for my game. It can handle Keen 4-6 maps too, but you probably already know that. I'll soon upload the editor for those who need it for Keen 4-6 and continue working on the game.<br /><br />My priority is school right now, but I have some free time to work on my game too.<br />Here is something in advance (I've drawn this before I started to work on the new editor):<br />[img]http://img.photobucket.com/albums/v505/z-one/floweryenemy.png[/img]<br />I don't have names for my little creatures yet, but you probably can see that this one is a big flower. There will be more types of him (or her?) but I've decided not to tell anything about my enemies.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5810,
+		"title": "Re: Back on Business!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-02-26T13:13:07.000Z",
+		"content": "This project is lookin' pretty sweet, man. Good job!___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 5811,
+		"title": "water",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-26T14:09:46.000Z",
+		"content": "how would you start drawing water or some toxic slime? I use a grid but I don't know if this works out or not:<br />[img]http://img.photobucket.com/albums/v505/z-one/watery.png[/img]<br /><br />any suggestions?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5812,
+		"title": "Re: water",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-26T14:13:47.000Z",
+		"content": "maybe add bubbles?<br />Also, you should see through it a little (so you should be able to see the outline of the floor below it, maybe?)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5813,
+		"title": "well",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-26T19:58:30.000Z",
+		"content": "Depending on how many frames of animation you devoted to it, that grid could work nicely.  If you're looking for something more static, I'd say try to make everything a bit more translucent, so we can see the floor/walls/etc. through it.  Making the surface more opaque is fine--but having a huge brick of solid green junk is kinda jarring, compared to the beauty of your other graphics.  :-)<br /><br />This may be entirely too measured on my part, but why not try hexes instead of a grid, just for the water?"
+	},
+	{
+		"id": 5814,
+		"title": "Re: well",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-26T21:07:19.000Z",
+		"content": "That thing looks like a huge brick of solid green junk because it is a huge brick of solid green junk. I want to work out the watery movement first. Creating the real graphics is only secondary at the moment. The main idea of the grid is to make it move until it looks right then draw the real tiles over that. So do you think that this could work out nicely then? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]This may be entirely too measured on my part, but why not try hexes instead of a grid, just for the water?[hr][/quote]I don't know how would that look, but even if it'd be lightyears better, it may be hard to draw and could actually take lightyears to do it. Or maybe I've misunderstood what you meant.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5815,
+		"title": "Nifty, but indeed ugly.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-02-26T23:59:08.000Z",
+		"content": "I've never attempted 2.5D water, but it sounds like your approach could work. Though if I were you I'd work with different colours for the moment to save myself from throwing up while it's still opaque. Hmm... maybe you could add in some dead critters on the floor when it's translucent.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5816,
+		"title": "oh, totally",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-27T07:54:48.000Z",
+		"content": "Oh, absolutely--as far as a base-line grid goes, you're golden.  How many frames are you gonna pour into this?  :-)"
+	},
+	{
+		"id": 5817,
+		"title": "Re: oh, totally",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-03-01T02:29:46.000Z",
+		"content": "Hooray! Progress!  Love seening new pictures![img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5818,
+		"title": "Re: oh, totally",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-02T01:19:58.000Z",
+		"content": "This'll be interesting -- will Keen be able to swim?3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5819,
+		"title": "Re: oh, totally",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-02T18:25:23.000Z",
+		"content": "Yes, I'd like keen to be able to swim but it's hard to decide how. The game must be keenish whatever I make with it!<br /><br />Animating believable water is incredibly hard and I haven't succeeded yet...<br /><br />*edit: I've abandoned the idea with this grid. It was too complicated to create all the lines move as they should. Maybe I draw the base water tiles on them with as few colors as possible, and try to create the animation with small changes. I still don't know what is the best way.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5820,
+		"title": "Re: oh, totally",
+		"author_id": 1485617,
+		"author_name": "duke4e",
+		"timestamp": "2006-03-03T12:41:09.000Z",
+		"content": "Z1<br /><br />you could make normal 2D animated square, and then render it into your games perspective."
+	},
+	{
+		"id": 5821,
+		"title": "Bu... d... g... hmm. Wow.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-03T14:17:54.000Z",
+		"content": "That's an awesome solution right there. And so simple.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  Must remember that one. *applauds*<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5822,
+		"title": "Re: Bu... d... g... hmm. Wow.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-04T00:07:19.000Z",
+		"content": "My problem is not the 2D but the 3D looking waves. I could draw a flat water surface on isometric view anytime, but how do could I draw the waves that move up and down as waves do?<br /><br />Could you describe it a bit more precisely? Maybe I just misunderstood.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5823,
+		"title": "*ponders*",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-04T01:39:17.000Z",
+		"content": "Use the tile like a terrain map, with a bunch of different shades to represent varying heights. When you go to translate each frame into isometric, each pixel will have a place. You'll still need to fix up some details, but as far as I can see it would work well.<br /><br />It's probably easier to go with your plan of creating a 3D model as a template, though.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5824,
+		"title": "Re: *ponders*",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-03-05T10:04:17.000Z",
+		"content": "Maybe you should try to draw a water without waves first.<br /><br />[url=http://www.captainclaw.com/screenshots/claw5.gif][img]http://www.captainclaw.com/screenshots/clawfr5.gif[/img][/url]<br />Yeah, It's that game again.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5825,
+		"title": "Re: *ponders*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-05T12:07:39.000Z",
+		"content": "The water in Isis II looks almost like this. I thought about it but I decided to do the right thing right away! I've already made a 4 frame animation with a different method as planned, and I'm gonna insert more frames before it is ready. It's still just the silhouette of the waves but I'm on the right track.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5826,
+		"title": "well....",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-03-05T20:21:40.000Z",
+		"content": "Why not use one of those modern-day graphics shaders to make some water effects for you?  *grins*"
+	},
+	{
+		"id": 5827,
+		"title": "Re: well....",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-03-05T20:52:35.000Z",
+		"content": "Yeah definitly! I would like to see water waves such as these in Far Cry Instincts:<br /><br />[url=http://xboxmovies.teamxbox.com/xbox-360/2898/Far-Cry-Instincts-PREDATOR-Xbox-360-vs-PC-Water-Comparison/]xboxmovies.teamxbox.com/x...omparison/[/url] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  ----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5828,
+		"title": "Re: well....",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-05T20:59:09.000Z",
+		"content": "Does allegro support this? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5829,
+		"title": "strange water",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-19T18:53:14.000Z",
+		"content": "This is my first water test, the image is from the latest version of the program. The water has partial translucency, but any tile could have it from now on. The graphics will change and Keen doesn't have swimming spirtes yet, but this all was made in 2 days...<br />[img]http://img.photobucket.com/albums/v505/z-one/watertest.png[/img][hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5830,
+		"title": "Re: strange water",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-19T18:55:59.000Z",
+		"content": "Awesome. Orange Juice!! <br />Can you make the egg guys outline lighter? It doesn't seem to fit.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5831,
+		"title": "Re: strange water",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-03-19T20:30:33.000Z",
+		"content": "WOW!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Quite impressive! And the egg enemy is finished! I'm so speechless...----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5832,
+		"title": "hum...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-03-19T21:16:18.000Z",
+		"content": "That looks very nice, z-1.  I've got a question, though--the water clearly passes <i>behind</i> the pieces of ground, but stops short of passing in <i>front</i> of them.  Are you going to devote the tilespace to this effect?  Or just leave it as-is?  (I think it looks great as-is)<br /><br />I like your status bar, too!  Keen looks so awesome. :-)"
+	},
+	{
+		"id": 5833,
+		"title": "Re: hum...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-19T21:21:10.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I like your status bar, too! Keen looks so awesome. :-)[hr][/quote]<br /><br />Hasn't the status bar been there already? For like, a year?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5834,
+		"title": "Re: hum...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-20T05:50:49.000Z",
+		"content": "Dood, you are *amazing*<br /><br />I'm gonna go run around the tree out back again.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5835,
+		"title": "e",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-20T13:05:51.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]That looks very nice, z-1. I've got a question, though--the water clearly passes behind the pieces of ground, but stops short of passing in front of them. Are you going to devote the tilespace to this effect? Or just leave it as-is? (I think it looks great as-is)[hr][/quote]<br />Without a doubt it looks good this way but still it's like having little islands in a sea of orange juice. But if it's meant that way...."
+	},
+	{
+		"id": 5836,
+		"title": "Re:",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-20T14:29:21.000Z",
+		"content": "The color of water is intentional. Apart from that, the background is not finished yet, and it may look different in the final version.<br />Only the top of the water will be something similar, I'm not sure about the rest.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5837,
+		"title": "Re: Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T22:58:15.000Z",
+		"content": "Just great. And so Keenish at the same time.<br /><br />Sigh, good job man. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 5838,
+		"title": "Re: Re:",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-03-24T04:02:06.000Z",
+		"content": "Yay for progress!  Looks fantastic Z-1![img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5839,
+		"title": "Re: Re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-25T00:51:20.000Z",
+		"content": "Whoaly garg!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  That is so cool!<br /><br />Better do the yorp dance.. again.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5840,
+		"title": "Re: Re:",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-06T00:14:53.000Z",
+		"content": "***WOW***<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />this. is. going. to. be. great.<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 5841,
+		"title": "Re: Re:",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-05-14T17:04:22.000Z",
+		"content": "Hey! It's been ages since Z1's last post! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br />What's going on?<br />----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5842,
+		"title": "Re: Re:",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-05-21T12:10:59.000Z",
+		"content": "Looks awesome man, props!~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5843,
+		"title": "just a bit of info",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-06-10T01:30:39.000Z",
+		"content": "I'm in the middle of my university exams and I won't come here until it's over which is around the first few days of July. Don't worry, I won't give up this game, I've put too much work into it for that.<br /><br />Bad news for me, but maybe good for you, I have nothing to do for this summer. No plans at all, except making this game. This summer will suck, but the game won't![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5844,
+		"title": "Re: just a bit of info",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-06-10T07:27:56.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Bad news for me, but maybe good for you, I have nothing to do for this summer. No plans at all, except making this game. This summer will suck, but the game won't![hr][/quote]<br />Excellent. I rejoice in your misfortune. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <br /><br />Good luck with your exams.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 5845,
+		"title": "Re: just a bit of info",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-06-11T17:23:05.000Z",
+		"content": "hellz yes [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] [img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 5846,
+		"title": "Re: just a bit of info",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-06-25T19:36:53.000Z",
+		"content": "Can anyone reupload the old demo if this? The old link that was posted seems to be broken and I'm really interested in seeing this!"
+	},
+	{
+		"id": 5847,
+		"title": "-",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2006-06-26T20:05:26.000Z",
+		"content": "You have created some neat artwork for your game project. This stuff already stands poles apart and above previous fangames. Hopefully you got the determination to get through with it! For the finalized version, you could try to add some depth to the background too [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 5848,
+		"title": "Re: -",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-06-27T17:49:31.000Z",
+		"content": "I can upload the latest demo, though I don't know what you mean by the \"old demo\".----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5849,
+		"title": "Re: -",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-07-01T19:13:30.000Z",
+		"content": "By the old demo I mean the fact that it was quite a while since it was released, but I'm talking about the most recent one! Sorry for confusing you!"
+	},
+	{
+		"id": 5850,
+		"title": "Re: -",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-07-02T20:18:01.000Z",
+		"content": "[url=http://vision-schools.com/iv4n/CK-v0.3.zip]CK-v0.3.zip[/url]----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5851,
+		"title": "Re: -",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-07-03T13:42:50.000Z",
+		"content": "Thanks a lot!<br />The game looks quite nice, I hope there's full screen support in the full version!"
+	},
+	{
+		"id": 5852,
+		"title": "Re: -",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-07-04T20:26:22.000Z",
+		"content": "Try pressing the F key![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5853,
+		"title": "Re: -",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-07-07T19:16:35.000Z",
+		"content": "Nice one, thanks for the tip! The screen seems to blink a lot though, but I bet it's only a problem on my end..."
+	},
+	{
+		"id": 5854,
+		"title": "Re: -",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-07T20:06:11.000Z",
+		"content": "That's a refreshing rate problem, where the screen doesn't refresh fast enough. An option in the game to switch the refresh rate 65-75 Hz would be useful for people with these problems.<br /><br />I have the same with this monitor, actually.<br /><br /><br />EDIT: Sorry to say, the program asks for the Allegro 4.0 DLL. I downloaded 4.2 (found out too late lol), and it still didn't work because apparently I need some sort of Visual C 8 DLL too.<br /><br />Include DLLs next time please, even if they're just in a seperate zip to save on download speed for 56k'ers...___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 5855,
+		"title": "Re: -",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-07-08T10:41:11.000Z",
+		"content": "I downloaded my alleg40.dll from [url=http://www.tradebit.com/filedetail.php/30763]www.tradebit.com/filedetail.php/30763[/url] and it seems to work perfectly with that one. It's version 4.0.1.0! And for me it didn't ask for anykind of Visual C dll, maybe it requires Microsoft Visual C++ runtimes installed and you haven't installed those? Just a guess on my end, I'm no expert on these things..."
+	},
+	{
+		"id": 5856,
+		"title": "Re: -",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-12-11T17:47:47.000Z",
+		"content": "Well Z, you said before that you won't abandon this project, but if you feel you don't want to work on it anymore, or if you are still working on it, please let us know!!!----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5857,
+		"title": "Re: -",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-12-20T02:02:30.000Z",
+		"content": "He said (as I just asked him) he isn't working on it at the moment, but will later.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5858,
+		"title": "Re: -",
+		"author_id": 1486613,
+		"author_name": "Commander Keen.e",
+		"timestamp": "2006-12-21T02:09:23.000Z",
+		"content": "[url=http://vision-schools.com/iv4n/CK-v0.3.zip]CK-v0.3.zip[/url]<br /><br />you are awesome dude! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5859,
+		"title": "Re: -",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-12-21T05:40:05.000Z",
+		"content": "CK, your zip is missing alleg40.dll <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5860,
+		"title": "Re: -",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-12-22T09:06:37.000Z",
+		"content": "Andrew, why do you post under that clone? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	}
+]

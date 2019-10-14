@@ -1,0 +1,98 @@
+[
+	{
+		"id": 970,
+		"title": "XML",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-11T19:44:17.000Z",
+		"content": "I guess Miscellaneous is the only place this topic will fit.<br /><br />Recently, I've been researching and testing new solutions for a next-generation version for my website (from crappy HTML table layout to floating and other creepy words). More recently, I've been experimenting with XML. I'm using an external CSS (cascading style sheet) to define and display the XML. For a language that is basically based on nothing, my first tests look surprisingly well.<br /><br />To the question: What is a good way to seperate elements in XML? In HTML it was line breaks at first, paragraphs later on. But in XML, I've had to make this virtual &lt;block&gt; tag (that I made up, that's what XML is all about I guess) which is probably messed up. Then I gave that box a height bigger than the contents I put in it (a title and some button links). However, using this method means I have to define the height and any changes I make must include adjusting heights to stop things from stacking on top of each other. I'd like to find a method that will either allow me to define some space once, like margin-bottom but that didn't work, or basically add something  to make each &lt;block&gt; skip a line between each other.<br /><br />Yeah my words are vague. Here is the source:<br /><br /><b>XML FILE Untitled2.xml or something. yeah I'm lazy</b><br /><br />[pre] &lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;&lt;?xml-stylesheet type=\"text/css\" href=\"xml2.css\"?&gt;&lt;xml&gt;&lt;block1&gt;&lt;text1&gt;Alec's World 4.0&lt;/text1&gt;&lt;menu&gt;&lt;li&gt;&lt;link1&gt;News&lt;/link1&gt;&lt;/li&gt;&lt;li&gt;&lt;link1&gt;Home&lt;/link1&gt;&lt;/li&gt;&lt;/menu&gt;&lt;/block1&gt;&lt;block2&gt;&lt;text2&gt;This is a sample XML document. It uses CSS to interpret the XML and convertit to readable HTML. XML allows freedom from long and confusing markup and allows more possibilites forany web page.This page should include tests of SVG graphics when Firefox 1.5 is officially released.&lt;/text2&gt;&lt;/block2&gt;&lt;/xml&gt;[/pre]<br /><br /><b>xml2.css</b><br /><br />[pre] xml {background-color:#00CCFF;display:block;margin:20px;width:760px;******}block1 {display:block;height:60px}block2 {display:block;height:auto}text1 {background-color:#FFFFFF;border:2px groove red;font-size:45px;font-variant:small-caps;font-weight:bold;opacity:0.5;******;width:auto;float:left}menu {float:right;width:100%;padding:0;margin:0;list-style-type:none}text2 {background-color:#FFFFFF;border:2px groove red;opacity:0.5;******;width:100%}link1 {float:right;width:6em;text-decoration:none;color:white;background-color:purple;padding:0.2em 0.6em;border-right:1px solid white;font-weight:bold;text-align:center}link1:hover {background-color:#ff3300}listbr {list-style:none;margin-left:0;padding:0}[/pre]<br /><br />I am willing to forget css and learn xsl if I have to use that, but I have a feeling that there is something I'm overlooking.<br /><br />To test the code, have both of them saved as their filenames and load the xml file into a browser. I used Firefox to test, will try IE a bit later.<br /><br />Thanks in advance for reading all that &gt;&lt;.<br /><br />EDIT: When I first previewed, there were a million keen smilies in the CSS code mocking me.[center][img]http://members.cox.net/aborlan/sig/sigpng.png[/img]<br />Crisp Grayscale Signature! 2152 bytes!<br />[/center]"
+	},
+	{
+		"id": 23096,
+		"title": "Re: XML",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-11-11T22:48:39.000Z",
+		"content": "Why are you using XML to present web pages, out of asking? HTML is not only perfectly adequate for this, but is probably also better suited to the job. XML <i>is</i> cool, but I don't see any need to substitute it for HTML.<br /><br />However, SVG does kick ass and will actually be really useful once Firefox 1.5 is released and grabs market share. (Over the previous versions, that is - not everyone will immediately upgrade)[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[url=http://www.last.fm/user/grafix5000/][img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img][/url]"
+	},
+	{
+		"id": 23097,
+		"title": "Re: XML",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-12T00:37:28.000Z",
+		"content": "I can give it in one sentence:<br />Maybe 2.<br />Possibly 3?<br /><br />I don't know if I'm going to use XML at all, at least at the moment. However, once I get my fake tags straight, and if I add a couple of extra tricks, I can make really good looking pages real fast with less size.<br /><br />At the very least, I'm redoing my entire website in XHTML, maybe working on the layout I've already started up there.[center][img]http://members.cox.net/aborlan/sig/sigpng.png[/img]<br />Crisp Grayscale Signature! 2152 bytes!<br />[/center]"
+	},
+	{
+		"id": 23098,
+		"title": "Re: XML",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-12T03:17:46.000Z",
+		"content": "As things are going nowadays, it's never a bad idea to learn something that many people find cool, even if it's completely stupid in such situation. You could earn a lot of money with it later, who knows. Knowledge is good.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 23099,
+		"title": "Re: XML",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-12T08:56:28.000Z",
+		"content": "Darn... and I'm still working on HTML<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br /><br />I kinda use MS Word for my webpages...<br /><br />Xtraverse wrote his whole site in Notepad!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img] <br /><br />Darn... I know Jack Squat!!![hr]<br />Proud Leader of the \"Tough Guys Wear Pink\" Society<br />------------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 23100,
+		"title": "Re: XML",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-11-12T11:00:22.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Xtraverse wrote his whole site in Notepad!!![hr][/quote]<br />Best way to do it, IMKO. WYSIWYG editors fill the document with crap and tend to hinder advanced designers and coders more than they help. And don't get me started on Word's HTML editing.<br /><br />BTW, nice new custom title Najawa. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[url=http://www.last.fm/user/grafix5000/][img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img][/url]"
+	},
+	{
+		"id": 23101,
+		"title": "Re: XML",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-12T11:14:57.000Z",
+		"content": "<i>\"I kinda use MS Word for my webpages...\"</i><br /><br />Ouch - yes, best to learn real HTML if you can.  It's extremely easy and it doesn't take long before you can do so much more than those \"other programs\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Plus, doing the HTML yourself always seems to make the pages come out neater, for some reason..."
+	},
+	{
+		"id": 23102,
+		"title": "Re: XML",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-12T20:01:25.000Z",
+		"content": "Ya, I have a program called 1st page, and I used it a bit; but m first goal was to get my sites structure up. Then I'd improve.<br /><br />1st page uses HTML, but can do some more complicated commands (Like coustom text color, in which the hex is a bit daunting, and it's easier just to pick from a counstom color picker).Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 23103,
+		"title": "Re: XML",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-13T02:23:54.000Z",
+		"content": "<i>\"1st page uses HTML, but can do some more complicated commands (Like coustom text color,\"</i><br /><br />You mean &lt;FONT COLOR=RED&gt;hello&lt;/FONT&gt; is complicated?!?<br /><br /><i>\"in which the hex is a bit daunting\"</i><br /><br />I guess it can be a bit tricky if you're new to it, but if you know how it works and pick random values you get the hang of it pretty quickly.  If I want an exact colour I used to fire up Paint Shop Pro (or now GIMP) and copy and paste the hex values out of there.  Given that a good web page only has a handful of colours in the CSS code at the start and that's all, it's not a big deal.<br /><br />The only problem when you don't use something like Notepad is that you don't force yourself to learn it.  If you have to go look things up yourself all the time then although it takes a little bit longer you do learn *much* faster."
+	},
+	{
+		"id": 23104,
+		"title": "Re: XML",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-13T19:46:45.000Z",
+		"content": "it's that easy?<br /><br />I thought you had to do the hexdecimal equivelant; e.g. #000000 = black, and #FFFFFF = white, and then there are so many darn number in between<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 23105,
+		"title": "Re: XML",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-13T21:29:40.000Z",
+		"content": "Hi there najawa,<br /><br />There are too many websites that have neat charts with colors and hex values you can use for your webpage.<br /><br />there's plenty of them out there, but just choosing a random one I found this, which you can print out if you have a color printer:<br /><br />[img]http://www.ilovejackdaniels.com/colourchart.png[/img]<br /><br />there's better ones, but it's fairly straightforward. Back in the day, when I didn't know what colors to choose, I just made up a hex value. Then you can just test it out by yourself and see what looks good.<br /><br />note that some colors (I believe the 216 \"web safe\" colors) have their own names. most of them are probably straightforward, ex. red, blue, yellow, green. then theres probably some like cyan, teal, dark purple, who knows. you'll have to find out by yourself.<br /><br />a trick for you najawa, if you decide to use notepad to make HTML, the first time you save the file, load into a web browser (Firefox, IE, etc.) to see how it looks. then when you edit it some more and save, you can just refresh the page to see your new changes. I assume that's what xtra and people do when they don't feel like using Dreamweaver or some other program.<br /><br />Also, a tip, put attributes in quotes, ex.<br />[pre] &lt;font color=\"blue\"&gt;Text&lt;/font&gt; and not &lt;font color=blue&gt;Crap&lt;/font&gt;.[/pre]<br /><br />Not using quotes will still usually work in your browser, but it's better coding.<br /><br />Yet another tip, use this: [url=http://validator.w3.org/]validator.w3.org/[/url]<br /><br />It can tell you if your html is valid html or not, as well as help to point out dumb mistakes that can happen sometimes when you're coding.<br /><br />Hope I've taught you something...[center][img]http://members.cox.net/aborlan/sig/sigpng.png[/img]<br />Crisp Grayscale Signature! 2152 bytes!<br />[/center]"
+	},
+	{
+		"id": 23106,
+		"title": "Re: XML",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-17T01:06:20.000Z",
+		"content": "Gaa!!! My site stinks when it comes to \"Validicity\"!!!<br /><br />On the other hand, Xtraverse's site is spottless!!!<br /><br />I have much work to do, and didn't understand a word they said... because... I stink!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudus to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	}
+]

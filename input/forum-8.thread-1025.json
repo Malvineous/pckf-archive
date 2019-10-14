@@ -1,0 +1,218 @@
+[
+	{
+		"id": 682,
+		"title": "Base 4 computer",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-05T02:28:52.000Z",
+		"content": "Hey all, I've been looking around on Google and Wikipedia and am getting stifled trying to find some useful information about the possibilities of computers using base 4.<br /><br />From what I read, it is difficult (but possible) to make efficient transistors to distinguish more than 2 voltage states because of heating or something, as well as there'd be more error. I'd love to hear about that from anyone who knows what they're talking about, but what I'd love even more are the theoretical possibilities of using such a base, such as speed, memory, and w/e else kind of improvements. I'm a computer science major myself but don't know yet lol.<br /><br />All i really know for certain is that a base4 bit can hold 4 states instead of 2 like a binary bit, and that means that the memory capacity is doubled given a certain amount of bits. I suppose that means data can be processed twice as fast as well, since it would be handling twice as much info at once. It seems like, if we can somehow get around the physical problems, the higher the base, the better advantage we have, right? It sounds so obvious but i wanna know specifically what that advantage is.<br /><br />The reason I ask is cuz I like to think about these things, like super things that Mortimer would have to dominate all. Just imagine a base-64 computer [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]  Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18293,
+		"title": "fasosfd",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-09-05T09:42:34.000Z",
+		"content": "by that reasoning, a base 64 computer would be 6 times as fast, have 6 times the memory storage, etc"
+	},
+	{
+		"id": 18294,
+		"title": "Re: fasosfd",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-05T16:40:31.000Z",
+		"content": "Meh. I'm just waiting for a base-2, but 256-bit microprocessor to be invented.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18295,
+		"title": "Re: fasosfd",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-09-05T18:13:40.000Z",
+		"content": "I've never even thought of this! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Interesting idea. But would the change of base really get it much faster? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  Well, I don't know anything at all about such stuff!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18296,
+		"title": "Re: fasosfd",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-09-05T18:31:46.000Z",
+		"content": "Isn't a dual-core system similar to a base-4 processor?--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 18297,
+		"title": "Re: fasosfd",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-09-05T19:12:20.000Z",
+		"content": "Not really - the \"base\" is the type of number the computer deals with. Just about every single computer ever constructed uses binary, or \"base 2\". Base 2 has two digits, 0 and 1. Decimal, or base 10, has 10 digits (0 to 9), and hexadecimal has 16 (0 to F). (I'm sure you knew a fair bit of that already, but it might help jog your memory)"
+	},
+	{
+		"id": 18298,
+		"title": "The thing is 3.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-05T19:28:23.000Z",
+		"content": "Yes it is, in a sense, Flaose. But not in the way that was described here. he is talking more about making the entire system revolving around 1 processor on 4 base.<br /><br />This is kind of something that I have been thinking about on and off over the years... A base 3 computer.<br /><br />The current um... mockup I have for a base THREE computer works with using 6 processors (Or processor LIKE chips or circuit boards.), 3 on one side of a cube, the other three on the other side of a cube and the pathways between the processors and memory is held within the cube. I don't think 6 boards / CPUs are neccecary but that's the latest design I had written down. One half of the cube would be sort of a \"constructor\" that would PUT the values in the cpu its self and the other half would be an \"accessor\" / processor that would changes switches in the pathway depending on what the \"constructor\" values were put in.<br /><br />It is sort of an abstract concept but my point is instead of making a computer count to 3 or 4 make the pathways more. So for example a CPU has the ability to take an electron and make it go 1, 2, or 3. Left, Right or Up. X, Y and Z. True, False, Maybe.<br /><br />The CPU would be able to make any value take a different path, edit that value, store it all using hardware IN the cpu its self and perhaps return more than one string of data when you only put one process in. Also this design can lead to a process, that was put into the CPU, come out after the process put in AFTER it comes out. In other words... you can have commands completed after new ones come in.<br /><br />Don't ask me how this works specifically. That's just how I see the basic design being.<br /><br />Anyway THAT is my idea of a 3 base or trinary computer.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18299,
+		"title": "Re: The thing is 3.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-05T19:33:19.000Z",
+		"content": "Glad to see I'm not the only person who uses the word \"trinary\" instead of \"ternary\" or \"triple\".------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18300,
+		"title": "Re: The thing is 3.",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-05T20:55:31.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]by that reasoning, a base 64 computer would be 6 times as fast, have 6 times the memory storage, etc[hr][/quote]<br />-ShdowMaster<br />i think it's rather 32 times faster than binary, because we're comparing base 2 to base 64, and 64/2 = 32. At the very least, i know that one bit of base64 implicitly has 32 times more info, even though it's just 1 digit.<br /><br />And I don't see why base 3 is so preferable when u can just jump to base 4. Odd number bases just seem a worse and probably harder idea. In particle, numbers that are powers of two seem best to me because surely they have some sort of natural method to convert binary machine code into its own, i think.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18301,
+		"title": "goajgiwoa",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-09-06T10:06:10.000Z",
+		"content": "a base 64 \"number\" is uniquely represented in base 2 by 6 bits"
+	},
+	{
+		"id": 18302,
+		"title": "Re: The thing is 3.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-06T10:06:57.000Z",
+		"content": "Actually that's not quite right - a base-2 computer means that a one-bit number can hold a maximum of two different combinations, and an eight-bit number (a byte) can hold 256 different combinations (two to the power of eight.)<br /><br />A base-4 computer wouldn't be twice as fast, it would be n^2 times as fast - because a one-bit number could hold a maximum of four different combinations, but an eight-bit byte could hold 65,536 different combinations (four to the power of eight) - that's 256 times as much as the base-2 computer.<br /><br />Basically doubling the base halves the number of bits you need to store the same amount of information.  The speed wouldn't increase dramatically, because the only difference would be that you'd be able to process more information per clock cycle - in exactly the same way as the recent jump from 32-bit to 64-bit processors meant you could process twice as much information per clock cycle - but unfortunately programs really need to be written specifically to take advantage of the architecture change, so you'd run into the same issue with a base-4 computer.<br /><br />The main problem of course is that binary is easy - either there's power there or there's not.  If there's a leak of a little bit of power, it's close enough to no power for it to be treated as a binary zero, and if there's not quite full power, that's close enough to full to be considered a binary one.  Once you start having to measure individual voltages before you can decide on the bit value things get really complicated.  Not to mention that logic (which is directly translatable into binary) suddenly stops making sense.  If you say \"A is not equal to B\", then it's obvious that when B=0, A=1, and when B=1, A=0.  What happens in a base-4 system when B=2?  A can be 0, 1 or 3 - which one is it?<br /><br />To simplify these problems you'd probably find that a base-4 system would be split into two base-2 systems, thus defeating the purpose of the base-4 system to begin with.  But whether you have four base-4 bits or eight base-2 bits, you still end up with 256 different combinations - you're not actually reducing the amount of calculation required.<br /><br />Of course when you move into the natural world things change.  Binary is great for computers, but there's a *huge* amount of wastage when you try to save binary data in the real world.  An electrical current in a wire can store a near infinite number of different electrical charges, yet of those billions upon billions of different values we use just two - on and off, or five volts and zero volts as the case often is.  If we only have one wire at our disposal, then like this we can only send one binary bit at a time.  Seems kinda wasteful when the wire is capable of virtually infinite capacity right?  Well what happens if you send data over the wire in base-4?  You could say zero volts is binary 00, one volt is binary 01, two volts is 10 and three volts is 11.  Suddenly now, when we send a single base-4 bit over the wire, it takes the same amount of time as before but we're actually sending two binary bits instead - the speed has doubled.<br /><br />This scheme is actually used quite widely - when you record CD-quality audio on your PC, the analogue sound wave is being digitised in base-65536 (sure puts base-4 into perspective.)  Each bit (or \"sample\") of the audio is a number between 0 and 65535 (which is why it takes 16 bits in base-2 to represent the same number.)  But of course if you record the same thing twice, there's enough interference that the data arriving on your PC won't be the same both times - when you've got 65,536 different values to choose from, the normal background noise in the world is enough to randomly shift the numbers around to the point where they'd be unusable for storing data.<br /><br />Which of course is precisely the reason why computers still use base-2 even though it wastes a huge amount of space - the space isn't really wasted, because base-2 can sure take a beating from interference in the natural world without missing a beat.<br /><font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18303,
+		"title": "Re: The thing is 3.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-06T20:46:50.000Z",
+		"content": "Now I have a question for you, Mal. What if you don't USE electrity as your wires and you use some... non-conventional form of energy and material for representing a 1, 2, or up.<br /><br />Take, for example... instead of using voltage and electricity... imagine using blood cells. (Say what?)<br /><br />A blood cell, in and of its self, holds 2 kinds of \"data.\" We all know blood has two colors, Red and Blue. Red means there is oxogen in the cell, Blue means there isn't.<br /><br />One other thing though, is that blood cells can die. Dead cell = 3. Only problem is once a cell dies, goes to 3, you can't go back to 1 or 2.<br /><br />This is just a lame example. My point is what if you don't use electricity in a computer to represent the NUMBERS but use say... some sort of enzime that can bind with another chemical or enzime to form a new compound and use THOSE to represent 1 - infinity. Yes, I know that is a *REALLY* small computer but you understand what I am saying.<br /><br /><br />If you think about it though... isn't that what DNA is? *cough*<br /><br /><br />Also, what about instead of using electricity you make a computer entirely powered by light and fiber-optics. Not only are scientists able to do freaky-deaky stuff like make a single photon exist in 2 places at once, but you could even do something MORE basic and simply make different wires have different COLORS. Then your \"transister\" would simply be a light prism that would combine both the light waves and make a NEW color. Your \"resister\" would also be a prism but this time would SPLIT the light.<br /><br />You could make a calculator EASY out of the light-wave example. Heck, you don't even need to use a prism if you don't want to. Just an LED, and some fiber-optic wire.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18304,
+		"title": "Re: The thing is 3.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T02:49:27.000Z",
+		"content": "It depends how you look at it.  The blood cell example isn't really comparable to modern binary, because as you say once the cell dies (=3) you can't go back to other values - which is a concept completely foreign to all current designs.<br /><br />If you use something else, like enzymes as you suggest, the most likely solution is to encode binary into them - so instead of using a base-n system, you still use base-2, but each single enzyme can represent multiple bits.  That way all current logic and implementations will work, even though the underlying system is not necessarily limited to only two states.<br /><br />Quantum computing gets interesting from this point of view, because as you suggest, things can be on, off or both on and off at the same time.  This could appear to be a base-3 system, however when you look more closely it turns out that the things aren't actually on and off at the same time (or in your example the photons don't really exist in two places at once.)  It's often not explained very well, but the basic idea is that when you take a measurement, the state is set - it's either on or off, or the photon is in location A or B.  The problem is that until you take the measurement, it's literally impossible to tell what the state is.  So science explains this by (in my opinion) somewhat inaccurately saying they're on and off at the same time, or they're in two different locations at once.  They're not really in two different locations at once, it's just that they seem to be in order to make all the predictions accurate, but in reality we just don't know what the location is until we observe it.<br /><br />Anyway, going from base-4 to quantum computing is getting a little off topic now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18305,
+		"title": "Re: The thing is 3.",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-07T06:02:16.000Z",
+		"content": "@Malvineous<br />yes i know the boolean gates will not make sense in base 4, but it's completely possible to design a whole new logic system that deals with four states. It of course will not be as easy since u have so many more combinations and possibilities, but still possible. My point is that you do not have to split it into 2 binary things.<br /><br />As for quantum computing, i have no idea how that works, even tho i've read about it on wikipedia. There's just so many foreign terms that make no sense to me.<br /><br />and this thing about the 32bit to 64bit processor--with 32 bits that's 2^32 possible combinations, and with 64 it's 2^64... That is NOT TWICE of 2^32, rather (2^64)/(2^32) = 2^32, a huge number. so it is 2^32 times as powerful, right?<br /><br />Still, it seems like that's impossible because if it's that much better, everything would be written 4 it by now.<br />Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18306,
+		"title": "Re: The thing is 3.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T11:28:45.000Z",
+		"content": "That's correct, 2^64 is not twice 2^32.  However it's not 2^32 times as powerful, you only have 2^32 times as many combinations.<br /><br />When I said it was twice as powerful I was referring to the number of calculations per second you can do.  If you have a 32-bit register, that allows you to perform one 32-bit operation at a time.  But a 64-bit register is twice as large (32*2=64, twice as many bits) so therefore you can perform two 32-bit operations in one 64-bit command.  For example, the \"not\" operation inverts all the bits - 1110 becomes 0001.  A single 32-bit \"not\" operation will invert 32 bits, but a single 64-bit \"not\" will affect 64-bits - twice as many bits in the same operation.<br /><br />That's where the twice as powerful comes in - I just meant that some operations can be combined and twice as much data can be processed in the same amount of time.  This is why 64-bit computers are faster at some operations (like encoding video) when the clock speed is otherwise unchanged.<br /><br />Also, if it is possible to design a whole new logic system that deals with four states I'd be very interested to hear about it...got any links?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18307,
+		"title": "new logic",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-07T12:58:51.000Z",
+		"content": "i have none, but what's so impossible about it? There's nothing \"natural\" that i know of about the existing boolean gates--when i say natural, i mean that there's some inherent physical thing that makes them work. You can design gates that take a combination of several base-4 bits and spit out a value according to a truth table.<br /><br />For example, since the NOT gate is ambiguous with base4, you could have three different NOTgates. The first adds 1 to the bit, with an input of 3 resulting in output of 0, or mod arithmatic; the second adds 2, and the third adds three (or subtracts one).<br /><br />However, the gate doesn't have to think or do any actual math like we do--it can just operate under a truth table like this:<br /><br />NOT1 -- In ; Out<br />------- 0 ; 1<br />------- 1 ; 2<br />------- 2 ; 3<br />------- 3 ; 0<br /><br />or if you wanna get more advanced, you can conserve gates by making something similar, called perhaps an ADD gate. It takes 2 inputs--the first is the first number to add, and the second tells how much to add to is--in other words, input a + input b = output c, again in mod arithmatic so it loops back around.<br /><br />Similarly, you could make gates such as MIN and MAX, but those are the only kinds i can think of atm.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18308,
+		"title": "Re: new logic",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-08T00:49:30.000Z",
+		"content": "The problem with that is the NOT gate is reversible - if you apply it twice you get the same thing as you started with - in your truth table, not 0 == 1, and not 1 == 2, therefore after two NOT operations you don't end up with what you started with, so it's not a NOT gate.  If you change the truth table so that it is reversible, you've actually ended up with a base-2 NOT operation that works on two base-2 bits at a time, e.g.:<br /><br />0 =&gt; 3<br />1 =&gt; 2<br />2 =&gt; 1<br />3 =&gt; 0<br /><br />Or translated to base-2 binary:<br /><br />00 =&gt; 11<br />01 =&gt; 10<br />10 =&gt; 01<br />11 =&gt; 00<br /><br />So in effect this base-4 NOT gate is still a base-2 gate, just one capable of processing twice as many bits in the same operation.  When you use a NOT operation in x86 assembly language it works on eight bits at a time, so you could argue that it's a base-8 NOT operation.<br /><br />I think you'll always run into this problem when you're using systems that are more than base-2.  Everything in a base-n system can be simplified all the way down to base-2, but that's as low as you can go.  The error and complication introduced by going beyond base-2 isn't worth the effort, when it's so much simpler to just reduce it down to base-2 and work with it there.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18309,
+		"title": "Re: new logic",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-08T04:35:23.000Z",
+		"content": "well u dont have to call it a NOT gate then, u can just call it the ADD 1, 2, or 3 gate. It wasn't meant to be a direct parallel to some gate in binary, just some base4 logic gate that would probably be useful.<br /><br />EDIT: and on an interesting side note, that gate u were talking about IS reversible, u just have to do it four times instead of twice.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18310,
+		"title": "Re: new logic",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-08T22:27:43.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]If you use something else, like enzymes as you suggest, the most likely solution is to encode binary into them - so instead of using a base-n system, you still use base-2, but each single enzyme can represent multiple bits.[hr][/quote]<br /><br />That's called \"memory\" or perhaps \"compression.\" NOT base-4. I'm not talking about translating ANYTHING into binary. You can shoot down any example by doing that.<br /><br />This is what I meant. You have some form of \"bit\". (In the \"enzime\" example, I used organics.) You have 4 different KINDS of \"bits\" (Or enzimes if we are using the same example.) and you have ONE PLUG that each enzime (Or perhaps molecule, weighted object etc.) could 'plug' in to. Each plug would then return a value depending on what shape the bit is. Each shape is worth a different value. THAT is the key. It doesn't MATTER how you represent that value. It's that the BASE of the machine runs on 4 different parts all having a different value. But more importaintly, you need to be consistent and use the same 4-bit system througout the whole machine.<br /><br />I think that you are thinking too much \"today's\" computers. If you have a base 4 computer, just start over from scratch as you can make it much more effective. I honestly don't care if any hardware or software isn't compatable. My whole point is, yes we can't effectively use electrons to represent more than base 2(yet). So don't use electrons. Mecanical computers are STILL computers!-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18311,
+		"title": "Re: new logic",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-09T01:55:48.000Z",
+		"content": "Actually electrons can be used to represent a base-3 system.  Zero volts is one state, +5 volts (or however many you want) is a second state, and the opposite, -5 volts is a third state.<br /><br />I think the problem is as you suggest, that if this is possible, it will be so different from today's computers that nobody has yet figured out how it might work.  It's all well and good to describe how the system might work (plugging enzymes in and returning values) but that in itself isn't useful.  It's like having numbers without mathematics, you can't do anything with the numbers.  You need to work out how the logic operations work with these numbers before you can do something useful.<br /><br />Mortimer suggested an ADD operation, but how would you use that?  Binary logic uses only a handful of operations - AND, OR, NOT.  These are then combined into other operations like XOR, NAND, and eventually high level operations like addition, multiplication, etc.  But they all come from those three or so base operations.  Until you can describe equivalent operations in a base-4 system (or alternatives that eventually achieve the same result - subtraction, division, etc.) then you won't be able to do any useful work in the system because you've got no way of instructing the \"computer\" what to do.<br /><br />You hit the nail on the head when you said you'd have to start over from scratch, but I think that's the flaw - while it might be possible to come up with base-4 logic operations, nobody seems to have done so yet - except maybe for some university professors somewhere...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18312,
+		"title": "Re: new logic",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-09T06:50:19.000Z",
+		"content": "first off, what was said b4 about a NOT gate not really working because if u do it twice it is not the original thing.... U just have to do it four times for the first gate i said that adds 1. Doing it 4 times results in the original thing. I found that interesting since it's base4. <br /><br />\"Until you can describe equivalent operations in a base-4 system (or alternatives that eventually achieve the same result - subtraction, division, etc.) then you won't be able to do any useful work in the system because you've got no way of instructing the \"computer\" what to do.\" -Malv<br /><br />lol i know, but i haven't come up with a complete logic system, and i'm sure it would be a huge thing to post anyway. But im sure it's possible.<br /><br />the whole point of this topic was to find out what advantages a base4 would have, barring any engineering difficulties.<br />Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18313,
+		"title": "Re: new logic",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-09T14:03:00.000Z",
+		"content": "Yes I agree, the fact that you have to double the NOT operation when the base is doubled is curious.  It does make a certain degree of sense.  Of course if you change the truth table as I did, it's still a NOT operation as we know it, but it no longer needs to be doubled.<br /><br />And of course given that the base-2 system only has three core logic operations (unless I'm forgetting one), you'd expect a base-4 system to have 6-8, or somewhere in the vacinity of 16 - I'm not entirely sure which (whether it's doubled or exponential.)  What those operations might be is quite intriguing.  At any rate I don't think it would be a huge thing to post [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I don't think there are any engineering difficulties preventing a base-4 system from being created, I think the problem lies in coming up with true base-4 software to power it.  Until that has been done, it would be difficult to theorise on the benefits you could obtain from it.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18314,
+		"title": "Re: new logic",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-09T19:03:34.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]And of course given that the base-2 system only has three core logic operations (unless I'm forgetting one), you'd expect a base-4 system to have 6-8, or somewhere in the vacinity of 16 - I'm not entirely sure which (whether it's doubled or exponential.) What those operations might be is quite intriguing. At any rate I don't think it would be a huge thing to post [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  [hr][/quote]<br /><br />Oh u r right of course. I was thinking sum circuits that do somethigng useful.<br /><br />But here's the thing--while there may very well be only 6-8 gates that can build anything, how can i tell which one's they are? Like for example, the gates i can think of are ADD1, ADD2, ADD3, SADD, MIN, and MAX. The first three are obvious, they just take one input and add a number to it (with mod4), SADD takes two inputs and adds them, and the MIN and MAX also take 2 inputs and output the obvious.<br /><br />Are those gates the only ones we need to do enough logic to make computers? I'm thinking probably not but i've got no way of telling when i have enough or which ones until i basically build a few important things out of them. If i do, i'll let u know. I'll try a half and full adder first, and a flip flop.<br /><br />PS, one more curious thing about the \"NOT\" gates in base4. (lol i never should have called them NOT1, 2, 3, their real names are ADD1, 2, 3) The NOT2 gate is probably the equivalent of the NOT gate in binary, because that one applied twice always gives u the original input. and BTW ur version is interesting too, and could be useful, but ima try to avoid it because it looks at thing like binary, which i wanna avoid.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18315,
+		"title": "Re: new logic",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-09T22:07:00.000Z",
+		"content": "How can you tell what the base-4 gates are?  Well that's precisely the question.  You'll have to make them up and see what comes out.  Of course now that I think about it, the base-2 gates seem to be made out of just about every binary combination - so doing the same would at least give you a list of all possible base-4 operations, then you need to give them names and remove the useless ones.<br /><br />You seem quite keen on your ADD[123] gates, however while you might be right, I find it difficult to see where these gates would be useful.  Possibly ADD1 as an increment gate (which you could also consider base-2 NOT to be as well, always adding one and then looping around from 1 -&gt; 0), but I can't see where you'd find it useful adding two or three values at such a low level.<br /><br />Don't forget that this would mean basic boolean operations would need four states as well - a simple statement like \"do something if condition A is true OR condition B is true\" would no longer work, because false=0, true=1, but what states are assigned to values 2 and 3?<br /><font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18316,
+		"title": "Re: new logic",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-10T19:05:28.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18317,
+		"title": "Re: new logic",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-10T20:44:01.000Z",
+		"content": "Personally, i find it difficult to see where ADD[123] are useful as well. I never meant to be \"keen\" on them, i was just trying to come up with some gates for the new logic and they seemed natural. Plus we were discussing them a bit for a while, but again, so that made it look like that i guess.<br /><br />0 = false; 1 = true; 2 = unknown/either; 3 = undefined/neither; that's the best i can come up with right now. Maybe it's useful, maybe not, but that seems logical (lol) to me.<br /><br />btw i tried making a half adder, but i don't have the gates and i can't come up with basic useful ones. I am actually in a binary logic design course right now so i'm gonna wait for a while b4 trying again, unless something hits me.<br /><br />speaking of which, i came up with a new gate; the LIKE gate. it inputs a and b and outputs z. If a = b, then z = a = b; otherwise, z = 0; but then if im using the false, true, either, neither system, it'd be better to make it output 1 if a = b, and 0 otherwise; well, that's the problem with multi-level logic i guess.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 18318,
+		"title": "Re: new logic",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-10T21:36:31.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  I feel like a stupid bastard.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

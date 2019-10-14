@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1357,
+		"title": "Monster Bash challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-25T04:10:31.000Z",
+		"content": "Okay, enough with the challenges already [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   But thanks to a suggestion from Frenkel (who pointed out that Monster Bash has hidden cheats too), I think I'm on to something now:<br /><br />[img]http://www.shikadi.net/pckf/bash1a_001.png[/img]<br /><br />Unfortunately it looks like the code to activate the cheats has been removed from the .exe, so the only way to get to the cheats is with hex editing.  In this case I changed the bytes at offset 0x172A0 from F0 E0 to E7 E8, which changes the purpose of the F10 key so that instead of showing the hints for the level, it brings up the warp cheat.  It'll have to do until I figure something more out.<br /><br />There's some curious code in the .exe to do with activating something too.  It checks the system date and will prompt for a code if the year is before 1992, and the code you have to enter in is some mathematical variation on the date (like it's the year divided by two plus the month or something.)<br /><br />I'm still not sure what that's for, but like the warp cheat it seems that there's no code to call that function either.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29036,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-25T04:46:43.000Z",
+		"content": "Hmmmn, fun! I can disable all the cheats so far (Well, they're doubbly disabled now.) and I can remove the CODE requirement in Biomenace, but the problem is always that the keys needing pressing have some value added to them that makes them hard to locate.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29037,
+		"title": "cheats",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-06-25T05:19:52.000Z",
+		"content": "I remember reading a hint sheet that said something about pushing a key combination five times, and then hitting F10+Z at the same time to activate the cheat mode--but every time I tried it, it just brought up the level hints, like Malv pointed out.  I usually just ended up playing on Easy, since I couldn't get it to work.  <br /><br />...Though I did eventually beat it on Normal, too.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 29038,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-25T06:13:00.000Z",
+		"content": "That's a point Levelass, if you're hex editing for the keys you won't see the scancodes, instead you'll see them as an offset into the keycode array (for example, the scancode for the Escape key is 1, so if the keycode array is 100 bytes away from the current location the code will check for offset 101 to see if Escape is pressed, whereas if the keycode array is 450 bytes away then the same check for the Escape key will be looking at offset 451 instead.)  I don't know how you'd be able to find keycodes if that's how you search!  (And yes, there are two memory locations in Bio Menace that store the current state of Debug mode and the Code, so setting both those to 1 will let you skip the activation procedure.)<br /><br />And that's a good point Xky - the [url=http://www.3drealms.com/cheat/monsterbash.html]official Monster Bash cheat[/url] is to hold Z first and then press F10, but nothing happens for me either when I do that...<br /><br />[edit] OH, I see - when you press Z+F10 it doesn't give you any more health, it just gives you five lives without any popup message (press space to see how many lives you've got on the status screen.)  That's a pretty useless cheat.  Still, I also discovered that M+F10 gives you free memory info and P+F10 pauses the game without displaying a message...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29039,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-06-25T13:52:45.000Z",
+		"content": "Doesn't the [url=http://www.phreak.org/archives/The_Hacker_Chronicles_II/unp4/mb21trn.zip]Monster Bash Trainer Module[/url] do the same thing?"
+	},
+	{
+		"id": 29040,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T14:10:57.000Z",
+		"content": "It does.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29041,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-06-25T16:47:24.000Z",
+		"content": "Malvineous, which version of Monster Bash did you use? And I guess you've used UNP 4.11.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Doesn't the [url=http://www.phreak.org/archives/The_Hacker_Chronicles_II/unp4/mb21trn.zip]Monster Bash Trainer Module[/url] do the same thing?[hr][/quote]<br />Wow, there are also trainer modules for [url=http://www.phreak.org/archives/The_Hacker_Chronicles_II/unp4/bm10trn.zip]Bio Menace[/url] and [url=http://www.phreak.org/archives/The_Hacker_Chronicles_II/unp4/d210trn.zip]Duke Nukem II[/url]. I didn't know that. The trainer module for Bio Menace adds a jump cheat that is like Keen 4; it's not as irritating as the jump cheat from the freeware release of Bio Menace and Keen Dreams.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29042,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T16:50:10.000Z",
+		"content": "For Duke II? Didn't know, got to put it in my dosroot. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29043,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-25T21:54:15.000Z",
+		"content": "Yes, so I discovered after I made that post.  At least I can say that I was using the registered version, and nobody seems to be able to find the trainer for that.  (And yes, I was using UPX, at the time I downloaded it it was the only program I could find to decompress PKLITE programs under Linux.)<br /><br />In the end I managed to create a W+F10 cheat for warp and a G+F10 cheat for God mode, but jump cheat was a bit tricky - and now that I know there's a trainer around I won't bother [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   It's kinda funny, I was thinking about inserting a call to my own function in there so that I could show popups and things, and then the trainer goes and does it better than I would've anyway [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Hopefully someone will be able to track down the registered trainer, and I'll have to go look for this Duke II trainer now, because when I examined the .exe there was no reference to the Tec/God mode text stored in the data files.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29044,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-26T06:28:10.000Z",
+		"content": "Well, can you tell me what you did? I'm curious and would like to chip away at this.<br /><br />[quote]<b><i>Quote:</i></b>[hr](And yes, there are two memory locations in Bio Menace that store the current state of Debug mode and the Code, so setting both those to 1 will let you skip the activation procedure.)[hr][/quote]<br /><br />Actually I just patched the code needed to $00 (Nothing) then skipped the window, it was more informative that way.<br /><br />[quote]<b><i>Quote:</i></b>[hr]The trainer module for Bio Menace adds a jump cheat that is like Keen 4; it's not as irritating as the jump cheat from the freeware release of Bio Menace and Keen Dreams.[hr][/quote]<br /><br />Hey, it's a cheat, you should be happy with what you have![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29045,
+		"title": "Re: Monster Bash challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-26T11:33:39.000Z",
+		"content": "Okay then, here are some notes I made when I was fiddling around.  These are from Monster Bash, Episode 1, v2.1 Commercial, uncompressed with UPX.  Hope you can figure them out!<br />[pre] &lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change P+F10 cheat from pause to warp&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x1728b: (...E8) F0 ED (EB...) to FC E8(FC E8 == 0xE8FC == 0x15b89-0x1728d)0x1728d is offset of just after p+f10 jump address (jump origin)0x15b89 is offset of warp function (jump destination)&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change P+F10 to W+F10&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x17284 (...3E) C0 (92...) to B8 (these are scancodes + 0xA7)&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change M+F10 to something else+F10&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x17277 (...3E) D9 (92...) to whatever (scancode + 0xA7)&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change M+F10 cheat to do something else&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x1727e: (...E8) A3 D6 (EB ...) to whatever&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change Z+F10 cheat to give you full health instead of five lives&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x17298: (...06) AA 4D 05 00 (EB ...) to 72 b7 09 00 (iNumLives=5 -&gt; iHealth=9)slightly odd behaviour if not in easy mode though, as otherdifficulties have a maximum of less than nine health.&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change Z+F10 cheat to god mode&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x17298: (...06) AA 4D 05 00 (EB ...) to 90 22 01 00I think when you get hit, there's a variable set to 1 for asecond or so to make you invincible so you don't loseall your health in one go.  This sets the variable to 1permanently, so you're invincible all the time.&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Change Z+F10 to G+F10&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x17291: (...80 3E) D3 (92 00...) to C9&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;Don't lose health when hurt&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;0x728a: FF 0E 72 B7 -&gt; 90 90 90 90This alters the code that says \"if hit, decrement iHealth by one.\"Using this you still flash white and Johnny says \"ow\" if you get hit,but your health never goes down.  IMKO it's a nicer effect than theplain God mode above where enemies don't effect you at all.&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;offset 0x168b6 == jump address when capital W pressed at main menu&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;(set to 69 15 to make shift+W on main menu do warp prompt - butthat crashes the game!) add 2 to this offset for other letters(0x168b6+2 == capital Y on main menu, 0x168b6+4 == capitalZ, etc.  These are ASCII codes, so after the capital letters ispunctuation and then lowercase letters, only going up to alowercase V though.)[/pre]Another interesting thing I found is that the F10 cheats are activated as soon as the menu screen appears (so the programmers could do M+F10 on the title screen to keep an eye on the free memory, I suppose.)  This means you can press P+F10 on the title screen to pause it too.  Even the trainer's popups work on the title screen, only they figured out how not to make the game crash if you cancel the warp popup...or maybe my offset calculations were just off...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	}
+]

@@ -1,0 +1,98 @@
+[
+	{
+		"id": 83,
+		"title": "Missing some music (Rare files)",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-21T21:30:26.000Z",
+		"content": "Does anyone have the music to:<br /><br />1. Bloogwater Crossing<br />2. Endgame from Keen5<br />3. The Hub<br />4. All the security levels' music<br />5. Slugville (It's in other K4 levels as well)<br /><br /><br />I really need these.  I think that XkyRauh has them (After downloading his music pack, I realized I didn't have copies to these songs)<br /><br /><br />If someone can give me these, I'll make a ZIP file of all the Keen sounds I have (Much larger than any other collection that I know of).~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2843,
+		"title": "?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-07-22T06:32:47.000Z",
+		"content": "Rare files...?  What're you talking about?<br /><br />http://www.angelfire.com/falcon/xkyrauh/keenmusic.rar"
+	},
+	{
+		"id": 2844,
+		"title": "Re: ?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-22T16:11:21.000Z",
+		"content": "lol... Well, rare for non-Midi.<br /><br /><br />Never mind folks, I ripped them myself.  (Along with a whole host of others.)<br /><br /><br />I may release them one day, but the ZIP file is 17.8MB... And I have dail-up.<br /><br /><br />But I'd be willing to give out the Midi versions when I get my hands on a converter.<br /><br /><br /><br />Thus far I have the music to these levels:<br /><br />1. Bloogton Manufacturing<br />2. Bloogwater Crossings<br />3. Control Center<br />4. Guard Post (all)<br />6. Defense Tunnel (all)<br />7. Security (all)<br />8. Quantum Explosion Dynamo<br />9. Slugville<br /><br /><br />I may pull the rest of the normal music, too.  (Just to keep continuity with the rest of them, but Isloap's versions seem to be close enough).~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2845,
+		"title": "bah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-07-22T18:43:41.000Z",
+		"content": "Again, I'm not sure what you're talking about.  You can't convert mp3s or WAVs into MIDI... that's just insane.  You might be able to convert the IMFs into MIDI, but that would take some interprettation, which is what the MIDI pack up above is/was.  Here's the IMF files, if that's what you're looking for:<br /><br />http://www.angelfire.com/falcon/xkyrauh/keenmusicimf.rar"
+	},
+	{
+		"id": 2846,
+		"title": "Re: bah",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-23T12:09:01.000Z",
+		"content": "Actually, wav to midi is possible, but again, it involves some interpretation. Frankly, I happen to like WAV format.<br /><br />Also, I had a program once to convert MIDI to PSM [Which can then be transformed to s3m, mod, etc] but I can't for the life of me remember where it got to! [I still have the converted music]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2847,
+		"title": "Re: bah",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-23T13:28:44.000Z",
+		"content": "I know of IMF to MID programs, and I know of a VERY good MID to MOD program. Lemme look 'em up. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]     <br /><br />[url=http://medlem.spray.se/converters/]This site[/url] has a list of converters/downloads, there are a few gems in it.<br /><br /><br />EDIT: Look for PTmid.zip, that's the good MIDI to Module converter I was talking about. Then again, you were probably looking for an IMF to MID converter, which apparently isn't on that site.<br /><br />EDIT 2: [url=http://www.belowe.com/imf2mid.zip]I found this[/url] after doing a Google search for imf2mid. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   <br />I tested it, and it seems to convert ok for most songs. Only problems: the instruments chosen to convert to are often weird instruments, and the speed isn't right. You can easily edit those things in a MIDI program though.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2848,
+		"title": "Re: bah",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-24T00:58:50.000Z",
+		"content": "I'm looking for WAV to Mid converter.  I ripped them the old fashioned way of listening to when the music clicks and starts over.  =P<br /><br />I'll check out that site thought to see if they have WAV to Midi converter.  (Like I said before, I haven't much knowledge on converter files.)<br /><br />LL- Frankly I happen to hate WAV format at 253 KB/s a pop.  It's too much for a game, and just way too much in general when I only need a low quality version.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2849,
+		"title": "bah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-07-24T01:29:26.000Z",
+		"content": "Good freakin' luck finding WAV to MID... I'll be extremely curious to hear the results.  :P"
+	},
+	{
+		"id": 2850,
+		"title": "Re: bah",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-07-24T02:08:30.000Z",
+		"content": "I don't think there's a way to convert WAV to MIDI. A ripped WAV file of music from a game is no different that a WAV file of a person talking. Can you imagine converting a person talking into a MIDI?<br /><br />Actually, a program like that would be interesting. I'm curious as to what kinds of interesting sounds it would produce.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 2851,
+		"title": "Re: bah",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-24T02:28:55.000Z",
+		"content": "Umm.. Like I said before, I have no idea on what converts into what for sound/music files.<br /><br />I guess I'll just have to use my MP3 versions.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2852,
+		"title": "Re: bah",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-24T15:50:12.000Z",
+		"content": "WAV can be converted to MIDI, but the results usually suck BIG TIME. Converting from the IMF would give the best results, I think.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2853,
+		"title": "Wave to MIDI",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-07-25T22:24:01.000Z",
+		"content": "You can convert wave to MIDI, there's one program I know of to do it.  I can't remember what it was called off the top of my head, but I have posted here about it before, some time ago now.<br /><br />The results are so/so, it works pretty well for simple songs (like maybe a piano or guitar solo) but you can't really convert complex songs.  From memory it could only focus on one instrument at a time, so you'd have to run it multiple times to pick up all the instruments, and even then it's not entirely accurate so you'd need to do a lot of work on the final version.<br /><br />The IMF to MIDI converter is a *lot* more reliable in comparison, it just needs a bit of work to set up the instruments, but once you know how to do that it's very straightforward."
+	}
+]

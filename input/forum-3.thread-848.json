@@ -1,0 +1,178 @@
+[
+	{
+		"id": 505,
+		"title": "Points, a discussion.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-03T12:51:22.000Z",
+		"content": "I've just been looking over the old levelpacks and my old [pre ShadowKeen 1] mods, and was shocked by some of the atrocious level design in some of them. Specifically I noticed some horrible point item distribution [Some levelpacks worse than my first mods.] As such I have developed 7 point rules I now use in my levels and ro design points. I'd like to hear what you think makes a good point item.<br /><br />Teh Rulez:<br /><br />1.) Keen shouldn't be able to get points just by walking around. He should at least have to jump or navigate to where they are.<br /><br />2.) Use points to indicate jumps, etc Use low value items for this and do it creatively.<br /><br />3.) Think of each set of items as being in an area, ask yourself 'how hard is it to get into this area?' and value the points accordingly.<br /><br />4.) Its best to have several low value items, especially if you want to spread them around to liven up your level, but its good to keep at least one item that is high value and used only sparingly.<br /><br />5.) Items cannot decorate the level. They are an added extra to by laid over the level after its done. Don't fill blank space with points as it looks repetitive and when the points are got, the space will still be there.<br /><br />6.) Make your points look gettable, and attractive.<br /><br />7.) Theme your items to your mod.<br />A proud member of the signature stealing society<br /><br /><br />[img]http://cheston.com/pbf/PBF042BCPyroBilly.jpg[/img]<br /><br />\"No one should be here.<br />\" -Level Lord"
+	},
+	{
+		"id": 13812,
+		"title": "Re: Points, a discussion.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-03T15:09:17.000Z",
+		"content": "Good points! (pun alert)<br /><br />What, you don't like 30x40 areas full of teddy bears? I love those, and like to get 6000000 points in one room. Just joking, some of the levels I have seen have been terrible. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br /><br />Those rules are good, although I probably won't obey them 100%, because I'm too lazy and don't care if Keen can get some points sometimes easily. Although I place often points to places where they are hard to get, as well.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13813,
+		"title": "Re: Points, a discussion.",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-03T21:02:18.000Z",
+		"content": "\"7.) Theme your items to your mod.\"<br /><br />No, they should be candy or some kind of food.<br />Of course, you can theme it by having it a certain brand (vorticola, shikadi gum, etc.)[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13814,
+		"title": "Re: Points, a discussion.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-04T03:53:09.000Z",
+		"content": "I don't totally agree with #1. I like levels where there are a few low point items right there. A pyramid of four is an attractive way to place a few. I do agree that most of them should be a reward instead of a gimme.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 13815,
+		"title": "right on",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-04T05:59:19.000Z",
+		"content": "Excellent points, LL.  This goes a bit further into level design, but some mods have points tucked away behind doors by keys which are optional and not necessary to complete a level.  Please, modders, either make the optional stuff a specific color, or at least mention in your readme.txt that there's a lot of optional stuff.<br /><br />Another useful thing to do, back in the DOS-based KeenWright days, was to make liberal use of that Level Statistics option.  Don't be afraid to put more than 1 extra life's worth in points in a level--as long as the level is of appropriate size, and the points are risky enough to allow it.  I bet with a little work, someone could come up with a formula to calculate how many points there are per un-blocking tile.  :-)  That'd be nifty.<br /><br />Also, LL, I think you should consider opening a discussion like this at K:M to go over alternate ways to spruce up the background of your mod.  Your mods almost always have very elaborate side stuff--I'm curious to know your technique."
+	},
+	{
+		"id": 13816,
+		"title": "Re: right on",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-04T12:28:17.000Z",
+		"content": "My techniqe? I've been looking over SK1 and my techniqe there is absent. I'm still trying as hard as hell to figure out how you do the awesome stuff you do.<br /><br />And as for points being 'right there' I'd have to agree. The 'right there' I consider as an area, and as such, these points are usually of low value. [How many times have you played Xky's mods just to see 5'000 points just sitting there?]A proud member of the signature stealing society<br /><br /><br />[img]http://cheston.com/pbf/PBF042BCPyroBilly.jpg[/img]<br /><br />\"No one should be here.<br />\" -Level Lord"
+	},
+	{
+		"id": 13817,
+		"title": "right off :P",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-04T13:25:15.000Z",
+		"content": "I like this, though, because i always think that i have too many/too little points.<br /><br />However, what do i do if my level is entirely small hallways (like 2-3 tiles high)? Should i only put points at jumps (vertical areas)?<br /><br />And what about out-of-the-way-if-you-get-them-you-have-to-do-the-level-aaalllllll-over-again-but-theres-great-reward-if-you-get-them items? Keen Dreams had it in the castle level. should i have them? The level isn't that long and the bad guys are the hardest part for half of it. And you get an extra life by doing it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13818,
+		"title": "Re: right off :P",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-04T15:07:11.000Z",
+		"content": "\"This goes a bit further into level design, but some mods have points tucked away behind doors by keys which are optional and not necessary to complete a level.\"<br />Spleen uses this method with excellent results in his mod's beta. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13819,
+		"title": "Keep in mind",
+		"author_id": 1486568,
+		"author_name": "Ilsoap",
+		"timestamp": "2005-07-04T16:27:23.000Z",
+		"content": "Think about the original Keen games, too. They've broken LevelLord's rules in a few places and it still worked out. Specifically, I'm referring to Keen 2, where a point item is also a platform. That added a wonderful new twist to the system."
+	},
+	{
+		"id": 13820,
+		"title": "Re: Keep in mind",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-04T16:51:31.000Z",
+		"content": "The point items as platforms i think was just invented as a way to keep scrubs in one place. It can be fixed by using pogo sticks instead.<br /><br />One mod i had trouble with was (i think) return of the guardians, where one item was a box, making it look like something to stand on.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13821,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-04T18:20:21.000Z",
+		"content": "Sometime later, when I've had time to get some screenshots together, I've got an idea for a thread at K:M regarding this discussion... this was a great idea.  :-)"
+	},
+	{
+		"id": 13822,
+		"title": "Re: hmm",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-04T18:58:36.000Z",
+		"content": "Sounds cool, can't wait to read it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13823,
+		"title": "Re: hmm",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-05T05:16:41.000Z",
+		"content": "Indeed, I was thinking something simalar.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I'm referring to Keen 2, where a point item is also a platform. That added a wonderful new twist to the system[hr][/quote]<br /><br />That doesn't really break any rules as such, but it is being inventive. Perhaps an eigth rule then;<br /><br />8.) Interactive points are good.<br /><br />As for small hallways, if your level consists of just them, points are the least of your worries.A proud member of the signature stealing society"
+	},
+	{
+		"id": 13824,
+		"title": "lol",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-05T06:40:03.000Z",
+		"content": "Well, if your hallways are at least three tiles tall, just follow rule #1.  Keen is only two tiles tall, so lining the ceiling with a smattering of low point items works nicely.<br /><br />Edit: LevelLord, I can't run half your mods with DOSBox any more, so I can't really take screenshots... mostly I was looking to start a thread along the lines of \"Post a screenshot of a part of a mod you like, and ask the author what their thoughts were at that point in the mod.\"  I wanted to post a picture of the starting shot of the level down and right of where you start in ShadowKeen2, and ask your thoughts on the composition of this initial screen and the player's first introduction to the blobbity form Keen was turned into.  <br /><br />I'm also curious about Spleen's map for his Monky Business demo, and why KeenRush chose to make Episode Smile so green.  I like the look of all these things, but I myself have no way to explain them.  *shrug*"
+	},
+	{
+		"id": 13825,
+		"title": "Re: lol",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-05T08:05:04.000Z",
+		"content": "\"and why KeenRush chose to make Episode Smile so green\"<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke2.gif[/img] <br />I'll wait until you make the topic and explain there. (In other words, try to make up some good reason.)<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13826,
+		"title": "Re: lol",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-05T14:02:24.000Z",
+		"content": "\"As for small hallways, if your level consists of just them, points are the least of your worries.\"<br /><br />does this mean not to have points or to have them?<br />And what should i be worried about???<br />The level is a giant collapsed space station maze (and optional).[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13827,
+		"title": "yay",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-05T20:41:38.000Z",
+		"content": "Yay for optional mazes (like Keen1's LEVEL13.ck1)!!  Just be sure to label it in some way, so we know it's optional.  :-)"
+	},
+	{
+		"id": 13828,
+		"title": "Re: yay",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-05T20:59:46.000Z",
+		"content": "actually, i labeled all the levels that have the items (and the item inside) cause im too lazy to invent more types of levels. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13829,
+		"title": "Indeed.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-07-08T07:52:42.000Z",
+		"content": "[hr]<b>LevelLord</b> 1.) Keen shouldn't be able to get points just by walking around. He should at least have to jump or navigate to where they are.<br />[hr]This is one of the cardinal level-design rules I've come to adopt. What's the... *avoids pun* purpose... in having point items if they're given to the player by default?<br /><br />[hr]<b>LevelLord</b> 5.) Items cannot decorate the level. They are an added extra to by laid over the level after its done. Don't fill blank space with points as it looks repetitive and when the points are got, the space will still be there.<br />[hr]Background tiles have long been part of my primary focus, but putting the items in only after the level is finished is something I'd never thought of before... must try that strategy. <br /><br />[hr]<br />My main issue with points is the general meaninglessness of the high scores table... it's not particularly indicative of a player's skill level. This thread '[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=334]On the topic of points...[/url]' over at K:M has a more thorough explanation of this issue.<br /><br />I'll be alot more comfortable when the Infinite Lives patch is completed. The only thing that remains is to keep a secondary counter of how many points are collected in a given level (using the unused Next Keen At counter) and only add that value when the level is actually completed. Then there'll be a finite maximum high score so the rankings will more accurately represent skill level.<br /><br />Cave assectatorem Ductoris Alacris <br /><br />\"This is how liberty dies--with thunderous applause.\" -Padme<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 13830,
+		"title": "Re: Indeed.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-08T12:38:28.000Z",
+		"content": "Well, thats what I try to do to; I try at least to make the high scores I include with my mod a challenge so that only someone who is at least okay at Keening will be able to get a place.A proud member of the signature stealing society"
+	},
+	{
+		"id": 13831,
+		"title": "Re: Indeed.",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-08T13:40:14.000Z",
+		"content": "\"Background tiles have long been part of my primary focus, but putting the items in only after the level is finished is something I'd never thought of before... must try that strategy. \"<br /><br />Really? I've always done that. Well, sure, i put one or two items in, but they don't really count. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13832,
+		"title": "Hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-08T19:14:27.000Z",
+		"content": "That's an excellent idea, Spleen.  Another good patch idea would be the ol \"Can't save in a level\" for Keen4-6.  ;-)"
+	}
+]

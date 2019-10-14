@@ -1,0 +1,306 @@
+[
+	{
+		"id": 198,
+		"title": "Screenshots of Commander Keen GZDoom! (UPDATED 10/18)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-15T01:05:56.000Z",
+		"content": "[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/alphascreen2.jpg[/img]<br />[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/Alphascreen1.jpg[/img]<br /><br />These two screenshots show a very very basic preview of what Keen Doom is going to look like. They turned out really well, despite any texture with cyan turning into a strange color of blue. <br /><br />As you can see, those are the platforms from Keen 5... in 3D. This is what I mean by 3D floors, and platforms. With a tiny bit more work, I can put a switch nearby that can raise or lower one of those platforms, or even put in a script that makes them all raise and lower at different speeds. I even solved a problem that I thought would be difficult to solve... which involves aligning the texture on the side of the platform.<br /><br />Once I get the cyan issue solved, I'll be able to lay down the first levels. These levels should be easy to do. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4594,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-15T01:14:40.000Z",
+		"content": "Looking good, looking good. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Pretty beta-ey, but who cares?  It's pretty impressive.<br /><br />So, do you plan on doing a remake of all the Goodbye, Galaxy episodes?  That would be pretty awesome.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4595,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-15T01:39:56.000Z",
+		"content": "Keen 4, 5 and 6, basically.<br /><br />Getting the purple colors to look right is especially important for Keen 6, while Keen 4 doesn't seem to rely on cyan or purple nearly as much - except in Miragia. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4596,
+		"title": "Nice Screens!",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-10-15T03:16:42.000Z",
+		"content": "That looks sweet! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Are those platforms 3D models or sprites that change their look when you move around?"
+	},
+	{
+		"id": 4597,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2007-10-15T03:18:20.000Z",
+		"content": "Neat. Is there going to be any lighting on the walls? Because they look weird all the same shade like that.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 4598,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-15T04:34:53.000Z",
+		"content": "I haven't fully decided if I'll implement different lighting or not. If I do, it depends on how well I can customize the palette in Doom.<br /><br />As for those platforms, they are not sprites, they are sectors, just like the whole room is also a sector. The little computer thingy is also a sector.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4599,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-15T04:37:37.000Z",
+		"content": "I remember you said earlier that you wanted all the levels to be fullbright because you figured it wouldn't look as good otherwise.  But I must agree that it would look better with light variations.  That's how I plan on doing my maps.<br /><br />Can the platforms be configured to move along both horizontal and vertical axes?<br /><br />EDIT: I was wondering about whether that computer was an object or not.  but it makes sense that it's a sector instead.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4600,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-10-15T17:04:29.000Z",
+		"content": "I just want to say that... wow, those platforms look totally sweet! This is going to be interesting. I await the final product. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] -----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 4601,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-15T17:18:53.000Z",
+		"content": "I can only do vertical movement at this point. Now, I also realized that there is a possible work-around for moving objects horizontally involving polysectors, which make things like rotating doors and such possible.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4602,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-15T21:10:43.000Z",
+		"content": "Great looking stuff, dude. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  This is very interesting project.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4603,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2007-10-15T23:39:44.000Z",
+		"content": "Also, the platforms look cool, but don't feel like you have to sacrifice how much sense something makes to stay true to the original. I would change the platforms to be more like:<br /><br />[img]http://dylanimages.googlepages.com/platformlightingfixed.gif[/img]<br /><br />And it probably wouldn't be unwise to keep the light sources consistent, in this case with the edge lighting for the platforms.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 4604,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-16T02:18:05.000Z",
+		"content": "Should I eliminate the black outline on the platforms altogether?<br /><br />Smoothing it out is really difficult, and the Doom engine is really unpredictable when it comes to varied colors. Also, adding any lighting on the top part of the platform is even more difficult - not impossible though, so I'll see what I can do. <br /><br />I can make a more uniform side by adding up the length of each line-def that makes up the platform sector. Say that number is 117, if I just import a patch that is 8 high by 117 wide, it'll fit the platform exactly, and there won't be any sudden break along the side. <br /><br />If I want to get even more sophisticated, I'll have several such textures with the light reflection located at different spots. That way, I can apply a texture that corresponds with an actual light source. However, little details like this aren't quite as noticeable. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4605,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-10-16T23:44:54.000Z",
+		"content": "Very cool.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4606,
+		"title": "Re: Screenshots of Commander Keen GZDoom!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-17T20:39:38.000Z",
+		"content": "Niiice! The floor doesn't look as good as in the original games though, probably because the diagonals are on the walls and not the floor.<br /><br />You might also want to try some stuff to make sure that textures don't loop as horribly as you can see on the back wall.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4607,
+		"title": "lol",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-17T22:14:24.000Z",
+		"content": "I may double the size of all textures and sprites.<br /><br />Doom is essentially based off of a 64x64 tileset. While textures can be smaller and larger than that, the -basic- player size is around 56 pixels high. <br /><br />Commander Keen 4-6 is centered around a 32x32 tileset. Keen himself is between 24 and 32 pixels high.<br /><br />Doubling the size of everything will fix that problem. Doubling is easy to do too.<br /><br />As for the floor texture, I actually plan to only use that particular texture around the edges of platforms and such. As soon as I get Cyan added into the WAD palette (which has proven to be quite a pain in the ass to achieve), I will be able to make a better Keen level. The next set of screenshots I'll release will be graphical demos of how textures from Keen 4, 5 and 6 look. So I'll be partially recreating a Keen 4 level, Keen 5 level and Keen 6 level. After everything is set - texture and flat wise - I'll build the levels. This will be quite easy to do, and fun as I'll be reinterpreting the entire second half of Commander Keen. <br /><br />Some of the hardest parts are the ones I am not too familiar with. One is implementing a score system. Even harder is putting in a high score - that could even be impossible. I'll have to wait until the time comes to do that, which will be in a long while from now...<br /><br />Another difficulty is adding new sprites. It will be possible to use a spawn-cheat to spawn all of the Doom sprites and monsters in Keen Doom - because I will not be replacing any of that. Everything will be new. The only sprite I do plan on replacing is... well, it'll be a surprise.<br /><br />The only uncertainty I have at this point is whether I should release Keen Doom as 3 wads (one for each episode) or just one. If I do release it as 3 wads, I can use the title screens from Keen 4-6. If I release it as 1 wad, I'll use a completely new title screen.<br /><br />However, if I release it as 3 wads, I might be tempted to go forward with a remake of Keen 1-3, as well as Keen Dreams, and possibly even beyond that. <br /><br />And actually, having it as 3 wads is easier to download and play. These will not be small files, so putting it all in one wad will make a very large file. Having it in 3 wads will make it possible to download one, and play one, then another, and so on...<br /><br />And I could also release them one by one..."
+	},
+	{
+		"id": 4608,
+		"title": "Re: lol",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-18T02:30:09.000Z",
+		"content": "It certainly sounds like a big project, either way it is done.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4609,
+		"title": "Sproites",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-18T03:07:23.000Z",
+		"content": "I have, for my CKDoom project, drawn up 3 sprites of characters from the original games (the Bloog, the Shikadi, and the Korath.)  If you do go through with doubling everything, which I think would be a good idea, then they won't work, since they're done on Doom's scale, but if you want I'll let you use them, with all the credit-ey mumbo jumbo.  It sounds like you've got lots of good stuff going on, and I'll help however I can, if you want. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4610,
+		"title": "Re: Sproites",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-10-18T15:25:29.000Z",
+		"content": "My only question is why did you use the Doom engine?<br /><br />In my opinion the Build engine is easier to work with and looks / runs better. And it can support floors over each other in the case of Shadow Warrior. (And jump, look up and down, mouse aim. Etc.)-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 4611,
+		"title": "Re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-18T16:39:10.000Z",
+		"content": "Because I don't know how to use the Build engine.<br /><br />I am familiar with the Doom Engine, I've been making WADs and using ZDoom since 2000 (at the latest)... and I've been playing Doom since 1993. <br /><br />I've been making progress. I've also been spotting some minor graphical bugs that I am trying to iron out. One may not be ironed out - there are lines that are visible on green pathways when there is a sector change. Since I use at least 15 different flats for the green pathways in Commander Keen 5, these lines will be common place.<br /><br />I'm working on another prealpha screen shot. This time, I hope to release three - one for each episode I plan to remake. They won't represent any specific level, just a demonstration of what the textures would look like in Doom. Because I heavily altered the Doom palette, you'll see the Doom Guy's face turn cyan! Hehehe."
+	},
+	{
+		"id": 4612,
+		"title": "Re: Screenshots of Commander Keen GZDoom! (UPDATED 10/18)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-19T00:20:51.000Z",
+		"content": "These images are a bit too large to display here... but here they are:<br /><br />[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/alphascreen3.jpg[/img]<br />[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/alphascreen4.jpg[/img]<br /><br />I fixed the palette problems, in fact, I implemented all of the Commander Keen colors into the palette. I am ready to start making levels.<br /><br />This was more of a playground for me to practice working with 3D floors. That's why there is only one sector actually on the ground... the switch for the first red platform.<br /><br />The green platform is an improved version of what I originally planned. What I originally had was just the painted track, but here I put it in in 3D. It's a different pattern from Keen 5, but it still looks neat, and it's actually 3D, instead of painted on. <br /><br />The cyan cylinder was HARD to do... the first time around. The tricky part about it is the dummy sectors have to be aligned perfectly in the map for the sloped 3D sector to work. This took me about 3 hours to do... including several graphical reworks. <br /><br />The window in the back has just a starry wall. I won't implement a skybox until later.<br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4613,
+		"title": "Re: Screenshots of Commander Keen GZDoom! (UPDATED 10/18)",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-19T00:23:05.000Z",
+		"content": "I think this is going to be amazing.  Nice job! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4614,
+		"title": "Re: Screenshots of Commander Keen GZDoom! (UPDATED 10/18)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-19T00:29:43.000Z",
+		"content": "By the way, the face and hand holding the gun is cyan because those are the colors I replaced. Eventually, that will all be replaced as well, but get used to seeing a blue faced man in progress screenshots...A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4615,
+		"title": "He's gone blue! Give him some air!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-19T04:00:30.000Z",
+		"content": "This reminds me a lot of Doom, I never liked it much, but this is far more open and colorful, and the Keen feeling is captured nicely.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4616,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2007-10-19T14:58:47.000Z",
+		"content": "That's pretty cool. However, pure cyan is atrocious. It's so clichd and it's made all the worse by the fact that it has virtually no semblance to anything that exists in real life and nature (this, to a slightly lesser extent, pretty much applies to all of the pure, ultra-saturated colors). They say there are no bad colors, only bad color combinations, but I think pure cyan is the exception. That color is dead to me.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 4617,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-10-19T15:35:57.000Z",
+		"content": "Holy crap dude! That's friggin amazing.<br /><br />And while I agree, I myself would NEVER color in a picture with \"Cyan\", you have to keep in mind it pretty much is the color of Commander Keen.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 4618,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-19T15:38:50.000Z",
+		"content": "It's looking really Keenish so far, good work. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4619,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-10-19T18:28:12.000Z",
+		"content": "Looks  shweet! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 4620,
+		"title": "Re:  Re: He's gone blue! Give him some air!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-10-19T23:39:55.000Z",
+		"content": "I'll say; I'm looking forward to it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-halloween.gif[/img] Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 4621,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2007-10-20T17:00:18.000Z",
+		"content": "Looks like a fun mod to play during colleges.-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 4622,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-10-21T02:26:00.000Z",
+		"content": "I love cyan.<br /><br />That is all.<br /><br />(Also, this mod is looking great. Didn't realise it was possible now to have floating sectors. That feature holds great promise for a game like Keen. [/LLa style bracket usage [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ])"
+	},
+	{
+		"id": 4623,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-22T04:25:18.000Z",
+		"content": "I never use square brackets. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; [img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4624,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-22T21:33:55.000Z",
+		"content": "[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/alphascreen5.jpg[/img]<br />[img]http://i24.photobucket.com/albums/c47/JoeCapricorn/alphascreen6.jpg[/img]<br /><br />These are two screenshots of the Miragia platform I made. I might change the texturing a bit later on down the road, so it has an outline, and the sides have that dark cyan color instead of white.<br /><br />But if I keep it the way it is, I can make platforms of all different shapes and sizes. I could even put in large columns of disappearing glass. <br /><br />For the world-map version of Miragia, I can probably recreate the disappearing city, except I cannot make a glass dome around it - it'll probably be a tall glass wall surrounding the city.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4625,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2007-10-22T22:55:45.000Z",
+		"content": "Again, don't assume things will look good in 3D just because they look good in 2D. Is it possible to just something more like<br />[img]http://dylanimages.googlepages.com/miragia.JPG[/img]?[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 4626,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-10-23T00:04:38.000Z",
+		"content": "If Allstories' idea could work, I think something like the picture below is more accurate, I know you're not using any black lines but it could work here because they're transparent platforms<br /><br />If the lines don't work even then, I think a combination of Allstories' and your idea could work; white outline with white streaks across it.<br /><br />Even though Allstories' works in functionality it makes it harder to tell that it's supposed to look like glass, in my opinion.<br /><br />Just my 2 cents.<br /><br />[img]http://img.photobucket.com/albums/v337/Tirqin/Example.jpg[/img]"
+	},
+	{
+		"id": 4627,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-23T03:51:54.000Z",
+		"content": "I ahve to agree; IRL glass refracts light, so you can see the edges and corners on a pane, especially a thick one (Which is usually slightly greenish blue.) Glass without edges, as strange as it seems, just looks wrong in 3D.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4628,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-23T16:06:08.000Z",
+		"content": "Woah, these new screens look awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Can't wait to try this one day. Agree, Lava89's version looks the best.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4629,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2007-10-29T18:29:05.000Z",
+		"content": "If Keen is ever going to be 3D, judging by the screenshots, this looks just like the right way!----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 4630,
+		"title": "Re: He's gone blue! Give him some air!",
+		"author_id": 1486337,
+		"author_name": "Sloths",
+		"timestamp": "2007-10-30T22:27:14.000Z",
+		"content": "i'm sure you've heard this a lot, but...<br /><br />WOAH!!! This look GR8! Cannna wait to see some more!<br /><br />-------<br /><br />KEEN: I'm Commander Keen! Defender of the Universe! Dispensing Galactic Justice with and Iron Fist!<br /><br />MCMIRE: ...I'm Mortimer McMire...that's it..."
+	}
+]

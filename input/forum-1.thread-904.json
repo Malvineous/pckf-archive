@@ -1,0 +1,146 @@
+[
+	{
+		"id": 109,
+		"title": "Windows clone of Commander Keens 4-6",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-07T19:34:07.000Z",
+		"content": "Since the DOS Keens 4-6 have old graphics, a im interested, does someone want to make New Keems 4-6 with better graphics."
+	},
+	{
+		"id": 3168,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-07T20:01:49.000Z",
+		"content": "It'll be quite hard to make a clone of the game. Perhaps something like this may happen later if someone talented enough uses z-1's engine and makes new multi-coloured graphics.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3169,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-08T07:40:28.000Z",
+		"content": "Oh, dozens of people want to, several have tried. None have succeeded.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3170,
+		"title": "f",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-12-12T09:23:25.000Z",
+		"content": "There was a guy with a good java engine some years ago who got so far that he could show us a complete playable level. To bad nobody ever did anything that."
+	},
+	{
+		"id": 3171,
+		"title": "Re: f",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2005-12-12T19:21:19.000Z",
+		"content": "I still have a copy of that engine somewhere, I think. It was quite exciting when it was first posted - shame the guy didn't manage to get anyone to work with him and disappeared.[url=http://last.fm/users/grafix5000/][img]http://toxicsheep.com/sigs/scrobbler.png[/img][/url]<br />[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 3172,
+		"title": "Re: f",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-12-13T01:10:47.000Z",
+		"content": "QBK, anyone?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 3173,
+		"title": "One detail",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-15T14:28:45.000Z",
+		"content": "One datail: i want these Keens 4-6 windows clones to be compabilite with all existing keen levels. So they must have all objects from DOS keens with the same codes. And maybe some new (for example Keen 4 don't have bridges combined with gray and blue walls which would be very good). And i hope that Keens 4-6 for Windows will support also TED 5 levels format, so very annoying carmacization won't be needed anymore."
+	},
+	{
+		"id": 3174,
+		"title": "Re: One detail",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-15T15:30:18.000Z",
+		"content": "Well, if u want to play all the existing level I think it's needed to use (almost) the exact same movement and enemy-behaviour, else it wouldnt be the same <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />But I dont know, if there's anyone who try to build a windows clone of K4-6.<br /><br />MfG"
+	},
+	{
+		"id": 3175,
+		"title": "Re: One detail",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-16T18:45:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, if u want to play all the existing level I think it's needed to use (almost) the exact same movement and enemy-behaviour, else it wouldnt be the same [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr][/quote]<br /><br />Yes, a im completely agree with you: all objects in Keen clone must behave extacly as in the original. But graphics will be much better (one tile has size 32*32 and many colors instead of 16). Also i think that Windows clones of Keens 4-6 will have one executable, but different DLL's with description of enemies, because it seems that Keens 4-6 engines are almost identical except to enemies. (There are some tile properties which exist only in one episode of keen, but i think that this Keen for Windows executable will support them all, as far as common tile properties). So the maker of New Keens 4-6 will need only one game engine, what will make his work much easier. Also i think that this remake will support some new features, which don't exist in DOS keens, for example combining of all these episodes into one big episode, which conains all objects from all episodes and very interesting levels (which contains objects from different episodes) will be possible then. Also i hope that:<br /> it will be easy to make completely new episodes with new objects: just desciption of enemies, tile properties and new graphics will be neesed<br /> amount of save games will be unlimited<br /> saving of half-recorded demos will be possible<br /> demos will be recorded in the memory during each play of game and special demo-recording command won't be needed anymore (see New Supaplex, [url=http://www.newsupaplex.pp.ru/index_eng.html]www.newsupaplex.pp.ru/index_eng.html[/url] )<br /> Gamespeed will variable and not fixed (also see New Supaplex)<br />and etc...<br /><br />But nobody is going to make it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img] [img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3176,
+		"title": "Re: One detail",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2005-12-31T06:06:47.000Z",
+		"content": "compabilite... Sounds like some dieting supplement.  Does it work well, SupFanat?"
+	},
+	{
+		"id": 3177,
+		"title": "Re: One detail",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-12T13:36:23.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Does it work well, SupFanat?[hr][/quote] <br />No, it's just idea.<br />Since such new Keen is hard to make, i would like to know: could someone at least convert existing Keen games from DOS to Windows and fix some bugs, such as crashes on errors in levels (for intance when goplat or volte can't find their ways), \"No free spots in objaray!\" and etc.. It would make them much more comfortable. [img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3178,
+		"title": "Re: One detail",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-12T13:56:54.000Z",
+		"content": "Without the source of the original games you cannot create anything that behaves the same way. There's the possibility to create something that is close enough though, as I want my engine to be like that but I want it to be a bit different too, so it may not be what you want.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3179,
+		"title": "baCK",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-12T14:40:58.000Z",
+		"content": "well, i won't promise but i'm currently working on my project called baCK which will use the original movement, however i'm not far till now (just designing it - i dont want to reprogam parts of it after i've completed some thing and dont know how to code further <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>.<br /><br />it will support .dll's so u can import/program new enemys (altough i'm not sure till now how u can add them to a level....)<br /><br />MfG"
+	},
+	{
+		"id": 3180,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-27T00:37:12.000Z",
+		"content": "argh, i don't want to over hype this, but im actually STILL making a Keen 4-6 remake and im trying my best not to give up. Im sure you all remember CKS3 (changed name btw). Im not gonna give out any other info cause, obviously, its alot of work remaking all the graphics and i might be a thousand years old when i complete this.<br /><br />If your wondering, my avatar is from the 'Keen VGA' artwork i drew some time ago. If all goes well, it should look simular to that,, only higher res. [url=http://p072.ezboard.com/fpubliccommanderkeenforumothercommanderkeenstuff.showMessage?topicID=1164.topic]Keen VGA Link[/url]"
+	},
+	{
+		"id": 3181,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-27T00:42:49.000Z",
+		"content": "Cool. Just make the colors a bit brighter.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3182,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-27T00:43:58.000Z",
+		"content": "Why does everyone say that... The only reason why the colors are so bright in the origional is because they only had 16 colors to work with [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img]  <br /><br />edit: hmm, i guess your right, the contrast is a bit low. I wasn't really thinking about vibrance when making that pic to be honest, but now that i look at it, i could make it more vibrant while still keeping it realistic. I'll do the best i can. Im guessing somthing like...[img]http://img475.imageshack.us/img475/3266/artworkcontrastedit0yp.jpg[/img]"
+	},
+	{
+		"id": 3183,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-27T02:02:58.000Z",
+		"content": "Actually, its a bit too bright now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br />Ah well, it doesn't really matter to me. It looked less keenish, but it looked like an SNES or Genesis game. Do whatever colors you feel like, its your game.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3184,
+		"title": "Re: Windows clone of Commander Keens 4-6",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-27T09:08:07.000Z",
+		"content": "lol yeah it is too bright. I prefer the origional. Ill try to even it out as much as i can, but im gonna need all the support i can get. Theres alot of sprites in keens 4-6 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]"
+	}
+]

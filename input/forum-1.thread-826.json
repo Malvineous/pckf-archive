@@ -1,0 +1,26 @@
+[
+	{
+		"id": 70,
+		"title": "Clearing Scoreboard",
+		"author_id": 1486523,
+		"author_name": "Kat",
+		"timestamp": "2006-09-27T01:33:30.000Z",
+		"content": "Hey quick question - how do I clear the scoreboards in Keens 1-6?"
+	},
+	{
+		"id": 2610,
+		"title": "Re: Clearing Scoreboard",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2006-09-27T03:06:54.000Z",
+		"content": "I knows how![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]           <br /><br />Delete the file CONFIG. for keen 4-6 and delete the file  SCORES. for keen 1-3.<br /><br />Deleting the CONFIG. in keen 4-6 will also reset your options.<br /><br />If you have a newer version of keen dreams delete the KDREAMS.CFG file.<br /><br />Dont worry about it being deleted it makes a new file with default scores.<br /><br />[hr]<br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]     [/center]<br />[center]<b>KEEN</b>- [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]     -<b>DOPE</b>[/center]<br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]           [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]     [/center]"
+	},
+	{
+		"id": 2611,
+		"title": "Re: Clearing Scoreboard",
+		"author_id": 1486523,
+		"author_name": "Kat",
+		"timestamp": "2006-09-27T03:29:33.000Z",
+		"content": "You're a legend! Thanks heaps!"
+	}
+]

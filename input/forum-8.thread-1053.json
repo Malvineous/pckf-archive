@@ -1,0 +1,82 @@
+[
+	{
+		"id": 710,
+		"title": "Know of any free art programs?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-07-26T23:07:24.000Z",
+		"content": "I'm trying to work on my game, but it'll go a lot smoother if there were a free program that'd do a 3D paint-bucket effect?<br /><br />I'm hoping there is.  If anyone knows about one, that'd be great.<br /><br /><br /><br />(I'm currently using Irfanview and MS Paint)"
+	},
+	{
+		"id": 18773,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-07-27T16:32:02.000Z",
+		"content": "Free art programs? Well I know a lot of those, unfortunately they are for use with a tablet. (They support pressure sensitivity.)<br /><br />I don't know what you mean by \"3D paint bucket.\" If you mean that it applies a gradient yet works like the Fill / Paint Bucket tool, good luck. The only program that I know of that KIND of works like this is Photoshop. (Or GIMP) And in that you have to select the area you want \"filled\" (With either the Lasso tools or the Magic Wand tool.) and then apply the gradient. Otherwise it will fill in the entire layer with the gradient.<br /><br />Give me a better description of what you need and I should be able to supply better information.<br /><br />Also, are you going to be doing actual drawing or pixel editing? (Both?) Because different programs are better for different things.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18774,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-27T17:05:46.000Z",
+		"content": "I heard the Gimp is really good."
+	},
+	{
+		"id": 18775,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-27T17:17:20.000Z",
+		"content": "I've used [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-gimp.gif[/img]  before, and it's pretty good.  Unfortunately, I've only used it on my school's computers, and I don't have it at home.  But it's a nice tool, and you can animate GIFs with it, which is what I really need it for. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 18776,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 1485928,
+		"author_name": "Feldegryph",
+		"timestamp": "2007-07-27T17:20:08.000Z",
+		"content": "Gimp is like a free ware version of Photoshop. It does all the same stuff."
+	},
+	{
+		"id": 18777,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-07-27T21:37:21.000Z",
+		"content": "Exactly... Gimp / Photoshop are, more or less, the exact same program. They have the same functionality and whatnot. (Although Photoshop's interface is way better.)<br /><br />That doesn't mean it is best suited for what 'Globox is trying to do.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18778,
+		"title": "Re: Know of any free art programs?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T20:52:00.000Z",
+		"content": "Inkscape is fine for vector based graphics.<br />The GIMP is good for a free Photoshop alternative, though the GTK-style of having 10 windows all over your desktop isn't actually all that nice.<br />GraphicsGale is good for pixel art, which I don't believe you are looking for.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18779,
+		"title": "jj",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-07-29T16:04:17.000Z",
+		"content": "Okay, sorry, I forgot some parts.<br /><br />I want this for raster graphics, not vector graphics.  They will be pixel based.*<br /><br />All I want is this:<br /><br />A paint bucket effect that creates 2.5 shading/highlighting on an object.  That's all I need... If not, I can do it by hand, but it takes forever and is annoying as hell to do.  (But it looks fucling tight)"
+	},
+	{
+		"id": 18780,
+		"title": "Re: jj",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-07-29T20:43:53.000Z",
+		"content": "I think I kind of understand what you mean by \"2.5 shading\" now... But unfortunately I don't know of a program that does what you are asking.<br /><br />If you do find a program that supports it, Globox, then let me know will you? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  Sounds like an interesting feature.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18781,
+		"title": "Re: jj",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-29T22:25:36.000Z",
+		"content": "In my experience, \"shaded\" fill bucket tools are extremely overrated. Usually they're not much more than simple gradients, and they look horribly shiny and cheap. In any case, I don't think I'm aware of any programs that conveniently support it.<br /><br />I would suggest instead, experimenting with cel shading, trying a lower resolution, or at least disciplining yourself to a limited palette so you have less decisions to make every time you need to shade something.<br /><br />I think a lot of people who undertake game development underestimate the amount of work it takes to make anything higher than 320x240 look good (not that it's always easy at that resolution either).<br /><br />As for free art programs in general, every time I try to find a good one, I always seem to come back to Paint. GIMP and Photoshop have useful tools, but their interface is far from conductive to simple pixel art. There are many shareware and freeware programs, but they just don't have the same balance as Paint.<br /><br />The only program I would suggest that, in my experience, is more suitable than MS Paint, is Kolour Paint for Linux, which has all the same tools and a lot of very tasty extra features. According to the website, it seems there is a possibility of a Windows port this year. Let us hope."
+	}
+]

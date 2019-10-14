@@ -1,0 +1,154 @@
+[
+	{
+		"id": 547,
+		"title": "Keen Galaxies Demo",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-05-21T03:15:45.000Z",
+		"content": "So, I reformatted my computer the other day and while I was backing up I found a demo of a game I never released.  It's just a demo, and don't expect it to go any farther than that.  It's made with Click and Create which I absolutely loathe.  If I ever made anything else, it would be with proper programming.  I've graduated from college with a degree in Computer Science, so I'd be ashamed if I didn't [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Please read the instructions below, or you'll be completely lost.  I'm not kidding.  Read it.<br /><br />KEEN GALAXIES<br /><br />I announced this game a long time ago.  Basically you control keen like an action rpg.  There's two general areas - in space, and on a planet.  It's similar to the old mac game called Escape Velocity.<br /><br />[img]http://www.the-noke.com/images/kg/title.jpg[/img]<br /><br />You can play or watch the story.  Those are the only options that work.  Just use the arrow keys to select, and hit enter to select one.  Watch the story if you want, it has \"animation\" but is still pretty crappy.<br /><br />Once you start, you can select your music of the \"overworld,\" which is when you're in space.  I don't recommend the engines only option.<br /><br />You'll start off in space:<br /><br />[img]http://www.the-noke.com/images/kg/space.jpg[/img]<br /><br />WASD will move your ship.  Use your mouse and the green cursor to target.  Left-clicking will shoot a standard laser.  You have unlimited ammunition of this.<br /><br />Your HUD:<br /><br />[img]http://www.the-noke.com/images/kg/hud.jpg[/img]<br /><br />You'll generally lose your shields before you'll lose your ships health, but some weapons would have drained your health first.<br /><br />Gas doesn't matter - it was going to determine how far you could go but was never implemented except for one thing which we'll get into later.<br /><br />Targeting is used by hitting the TAB button.  If there's a ship in your area, it will target it and you can see the ship's name and health.  There's only ever one other ship in this demo.<br /><br />[img]http://www.the-noke.com/images/kg/weapons.jpg[/img]<br /><br />The top-left hand corner holds your special weapons, and your amount of drops.  Drops are currency in the game - though they're not currently used for anything.  <br /><br />For special weapons, hit the 'Q' button to change your different weapons.  Each one is different, and are limited in number.  In the full game you would have bought more, but in this you're just given a standard number and can only use those.  Right-Click your mouse to fire these.<br /><br />The homing missile will only home on the enemy IF they're selected in the targeting HUD.<br /><br />To use the death ray, you must be completely stopped, and it will take away all your fuel.  Not that it matters in the demo.  Please don't use it, but if you want you can as it will destroy the one enemy ship you go against in one shot - if you hit it.  You can't move while it's firing.<br /><br />PLANETS!!<br /><br />If you go over a planet, and hit 'L' you can land on it.  Which brings us to the \"underworld.\"<br /><br />[img]http://www.the-noke.com/images/kg/underworld.jpg[/img]<br /><br />You can land on Earth, and Mars.  Planets are purple dots on the radar - yes, I know the dots are small.<br /><br />Once landed, you once again move with the WASD keys.  <br /><br />Space Bar - fires your gun in the direction you are facing.  You have a limited amount of shots.<br /><br />Shift Bar - Interact with things, like go up to the tree with the swing on it.<br /><br />Your HUD will show your health and gun shots and drops you have.  The full game would have allowed you to level up, and gain new abilities, guns, etc.<br /><br />'N' - Shows your current missions to complete.<br />'I' - Shows your current items.<br /><br />Mars contains the only mission in the demo.  Make sure to land there and talk to the Red Yorp - use shift.<br /><br />[img]http://www.the-noke.com/images/kg/mars.jpg[/img]<br /><br />After you complete the mission, there's nothing else to do in the sol system - you can go back to your ship and go back to space.  When there, you can use these keys to go elsewhere in space:<br /><br />'M' - Opens up your map.  You can go to connected star systems.  In the demo, only the Prose system is available.  You can put your mouse cursor over the dots to see what systems there are.<br /><br />'J' - Once you've selected your system, use this key to jump, or warp to light speed to get to the next system.<br /><br />PROSE SYSTEM<br /><br />[img]http://www.the-noke.com/images/kg/prose.jpg[/img]<br /><br />This system holds the only ship battle.  Be ready once the story part is over, as you'll go directly into battle.  Don't shoot your enemy before the battle starts - that's just cheap.  It also says to use ctrl to skip past the text, but use shift instead.  Don't forget to target.<br /><br />----<br /><br />That's it, but as always be aware of bugs and know that I won't fix them unless they completely stop you from playing the game.  Enjoy, I did try to make it a good game before I stopped.  <br /><br />Download <br />[url=http://www.the-noke.com/images/kg/kg.zip]Here[/url] (3.59 MB)-----------<br />An A through Z interpretation of Commander Keen:  [url=http://www.spatang.com/keencyclopedia]The Keencyclopedia[/url]"
+	},
+	{
+		"id": 14888,
+		"title": "Re: Keen Galaxies Demo",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-21T19:24:04.000Z",
+		"content": "Wow, this looks cool. Downloading...-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 14889,
+		"title": "Heh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-21T21:59:53.000Z",
+		"content": "I see a lot of influence from Escape Velocity, here--that's awesome to see.  What you had was nice, but I found the combat in the ship to be too difficult, and the combat on foot to be far too easy.  It's tough to find a good balance for AI.<br /><br />Nice work tackling several different game types in one package, though.  Personally I'd love larger sprites and a little more intuitive controls, but what you had at the time worked well enough.<br /><br />I agree with you that Click'n'Create (and its lookalikes) are garbage; I'm curious what you could do with this framework and some actual programming!"
+	},
+	{
+		"id": 14890,
+		"title": "Re: Heh",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-05-22T05:03:10.000Z",
+		"content": "Thanks [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   I made it about two years ago, so the game has it's problems.  I always knew that ship combat was too hard - it's a breeze for me after testing it forever though.<br /><br />I'd love to create a real game with actual programming - but I suck at graphics.  I've never been good with making new ones.  I'm looking into my programming options anyways.-----------<br />An A through Z interpretation of Commander Keen:  [url=http://www.spatang.com/keencyclopedia]The Keencyclopedia[/url]"
+	},
+	{
+		"id": 14891,
+		"title": ": )",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-05-23T18:32:46.000Z",
+		"content": "Looks pretty nice. Every considered continuing it? If no time, let someone like KeenRush or someone with time continue it? Its good now, I imagine if continued It'd be really good!"
+	},
+	{
+		"id": 14892,
+		"title": ": (",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-23T19:47:35.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>bp</b> Every considered continuing it?[hr][/quote]Probably not - TCL says \"It's just a demo, and don't expect it to go any farther than that\" in the original post.<br />[quote]<b><i>Quote:</i></b>[hr]<b>bp</b> If no time, let someone like KeenRush or someone with time continue it?[hr][/quote]I can't be certain, but I'm fairly sure KeenRush loathes (most) Keen fangames, and certainly wouldn't want to work on one abandoned by someone else.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 14893,
+		"title": "Re: : (",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-05-23T21:12:11.000Z",
+		"content": "Yeah, KeenRush doesn't particularly like fangames from what I remember, he's more in the mods area.<br /><br />No, I won't continue it.  You'd have to force me to work with a product like Click and Create again.  Seriously, you'd have to do some major torture before I'd agree to it.<br /><br />I've considered remaking it though, but in a way that would be more beneficial to us all.-----------<br />An A through Z interpretation of Commander Keen:  [url=http://www.spatang.com/keencyclopedia]The Keencyclopedia[/url]"
+	},
+	{
+		"id": 14894,
+		"title": "Re: : (",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-24T07:09:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You'd have to force me to work with a product like Click and Create again. Seriously, you'd have to do some major torture before I'd agree to it.[hr][/quote]<br />CnC is ancient. MMF2 perhaps? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]   <br /><br />I <b>thought</b> this game looked kinda like a novice Click user game, if you ask me... Even some default graphics pack planet graphics there. Just being honest here, I'll still try out the game.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 14895,
+		"title": "Re: : (",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-24T14:05:05.000Z",
+		"content": "That's correct, I don't care much about fan games and I definitely wouldn't continue someone else's work, I want to do work of my own, on mod area... Besides, do I look like someone who has time and interest to work countless hours on whatever people suggest? Sorry, I'm not. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 14896,
+		"title": "Re: : (",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-05-24T16:30:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]CnC is ancient. MMF2 perhaps? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />I thought this game looked kinda like a novice Click user game, if you ask me... Even some default graphics pack planet graphics there. Just being honest here, I'll still try out the game.[hr][/quote]<br /><br />I will never use CnC or any other Clickteam products.  They all suck.  I'll leave it at that.<br /><br />I'm not a novice when it comes to CnC, but yeah, as I said I suck at graphics which is why some were taken from other places.  But a majority of them were not as well and were made by me or my previous roommate.-----------<br />An A through Z interpretation of Commander Keen:  [url=http://www.spatang.com/keencyclopedia]The Keencyclopedia[/url]"
+	},
+	{
+		"id": 14897,
+		"title": "Re: : (",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-24T21:53:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]They all suck.[hr][/quote]<br />I can argue with that, since I still use MMF2 (more for apps than for games though). Of course, a scripting language or programming language is way more flexible, but with the ease of use and extensibility (extensions) that it provides, it ain't all that bad. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I will have to say that I tried and failed thrice in making a Keen engine in MMF. So I switched to a scripting-based game creator for that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  MMF is still superb for non-game apps though!<br /><br />Uh, back to topic. Mwah, the idea was good, the gameplay was boring, sorry.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 14898,
+		"title": "Re: : (",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-05-24T23:48:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br />I can argue with that, since I still use MMF2 (more for apps than for games though). Of course, a scripting language or programming language is way more flexible, but with the ease of use and extensibility (extensions) that it provides, it ain't all that bad. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I will have to say that I tried and failed thrice in making a Keen engine in MMF. So I switched to a scripting-based game creator for that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  MMF is still superb for non-game apps though!<br />[hr][/quote]<br /><br />I'll admit MMF and the like might have their uses sometimes.  Just not if you want to make a good game imho.<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />Uh, back to topic. Mwah, the idea was good, the gameplay was boring, sorry.<br />[hr][/quote]<br /><br />Heh, thanks for at least trying it out.  I know it wasn't the best game out there.  I'll do better next time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] -----------<br />An A through Z interpretation of Commander Keen:  [url=http://www.spatang.com/keencyclopedia]The Keencyclopedia[/url]"
+	},
+	{
+		"id": 14899,
+		"title": "Re: : (",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-25T09:15:20.000Z",
+		"content": "Proof that good games CAN be created with MMF/MMF2.<br /><br />[url=http://www.create-games.com/download.asp?id=6101]www.create-games.com/down...sp?id=6101[/url]<br />[url=http://www.superfundungeonrun.com/insignificantstudios/]www.superfundungeonrun.co...ntstudios/[/url]<br />[url=http://www.create-games.com/download.asp?id=6694]www.create-games.com/down...sp?id=6694[/url]<br />[url=http://www.create-games.com/download.asp?id=6527]www.create-games.com/down...sp?id=6527[/url]<br />[url=http://www.create-games.com/download.asp?id=6456]www.create-games.com/down...sp?id=6456[/url]<br /><br />And a whole bunch more on [url=http://www.create-games.com/gotw.asp]www.create-games.com/gotw.asp[/url]<br /><br />Sorry that you have register on that site to be able to download the games. XD____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 14900,
+		"title": "Re: : (",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-26T09:12:20.000Z",
+		"content": "looks cool to me[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  gonna download it[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 14901,
+		"title": "Re: : (",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-05-31T18:22:13.000Z",
+		"content": "Dude, this looks awesome!~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 14902,
+		"title": "Re: : (",
+		"author_id": 1485720,
+		"author_name": "ZidaneA",
+		"timestamp": "2007-10-02T14:23:54.000Z",
+		"content": "The pictures doesn't show up.<br />The link doesn't work.<br />Fix [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]"
+	},
+	{
+		"id": 14903,
+		"title": "re:",
+		"author_id": 1485880,
+		"author_name": "TCL999",
+		"timestamp": "2007-10-05T15:13:35.000Z",
+		"content": "Generally when you want something, you'll say please while you're doing it.  Particularly when it's a topic 5 months old.  I've put everything back up."
+	},
+	{
+		"id": 14904,
+		"title": "Re: re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-17T00:17:43.000Z",
+		"content": "People need to work on their manners these days. A little effort goes a long way. Well done![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 14905,
+		"title": "Re: re:",
+		"author_id": 1485720,
+		"author_name": "ZidaneA",
+		"timestamp": "2007-10-25T13:57:13.000Z",
+		"content": "Uhh, sorry for that, I guess I'll have to work on my manners."
+	}
+]

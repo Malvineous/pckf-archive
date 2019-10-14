@@ -1,0 +1,106 @@
+[
+	{
+		"id": 1093,
+		"title": "Wouldn't it be nice?",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-06-14T20:05:13.000Z",
+		"content": "Here is a web browser feature that I'd really like. It has been on my mind more often recently, with all the talk about Firefox and IE7.<br />{semi-off topic...}<br />Let me say, first of all, that I'm sick and tired of hearing about \"tabbed browsing\". There was some browser I used about 3 years ago in a Unix environment that did this, and it drove me nuts. I hated it, honestly. I want my new windows to actually be new windows. So I don't use Firefox's tabbed browsing now, and I don't give a rat's behind about IE 7 including the feature.<br /><br />{Back on topic...}<br />Right now, the most annoying web experience for me is to visit a site and have some embedded advertisement (using Flash) jump up and over whatever I'm reading. (Those that make sounds can be just as annoying.)<br />My solution for now is to just turn off Flash. In Internet Explorer, it can be done by Tools-&gt;Internet Options-&gt;Security-&gt;Custom Level, from here, disable \"Run ActiveX controls and plug-ins\".<br /><br />But simply turning it off is a pain in the butt. I like to visit \"fun\" things on the internet - little games usually. These of course, are made in Flash. So every time I want to check out somebody's cool little game, I have to go through, enable ActiveX, play to my hearts content, then disable it. (I don't want to add every single site to my trusted site list to get around this.)<br /><br />I tried switching it to \"prompt\", but it seems that almost every site on the entire internet has some Flash object embedded somewhere, so I can't go anywhere without clicking to allow once, or worse, deny five times per page.<br /><br />What I would like is a quick switch, a checkbox or button on the toolbar to toggle Flash on or off. (Or all plugins would be fine too.)<br /><br />Is there a browser out there with this feature?"
+	},
+	{
+		"id": 25072,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-06-14T20:20:52.000Z",
+		"content": "[url=http://adblock.mozdev.org]Adblock[/url] for Firefox allows you to block individual Flash ******s simply by clicking a button above/below the ******. It's also very flexible as an ad-blocking solution in general.<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 25073,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-06-14T20:51:28.000Z",
+		"content": "I think tabbed browsing's the best thing since sliced bread, in browser. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />And agree, Flash ads are annoying.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 25074,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-06-14T21:54:26.000Z",
+		"content": "You should try [url=http://flashblock.mozdev.org/]FlashBlock[/url] then, it's one of many 'extensions' to Firefox.  I've been using it for a couple of weeks and it's fantastic.  It replaces every Flash object on a web page with an \"F\" icon and if you want to watch one of them you just click on it and it downloads and starts playing.<br /><br />And I'm not sure why you dislike the tabs, they're pretty much the same as new windows only they appear as a list in the browser itself, as opposed to appearing on the taskbar mixed up with other windows.  And it doesn't stop you opening new windows, just shift+click a link like in IE and it'll open in a new window."
+	},
+	{
+		"id": 25075,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-06-14T22:25:32.000Z",
+		"content": "Thanks, looks like FlashBlock is exactly what I'm looking for! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I dislike them because I think of my assorted browser windows as disconnected programs.<br />It's a feature that I'm fine with having, but wouldn't use. I guess what bugs me most is that it's being treated by the various news outlets as \"the best thing since sliced bread.\" (No offense KeenRush, just a difference of opinion here.) And since the beginning, I've thought it was not news at all. To me, it seems like just as much an innovation as putting scroll bars on all sides of the screen. (In other words, not a big deal, so some people might like it, good for them. It's not really anything new.)<br />I think the other thing that subconciously bugged me about the tabbed browsing is that it reminded me too much of the ISP browsers. (Think AOL or the old Juno email and web program.) Where they made it like you had to do all your internet stuff through their program and therefore used up extra screen realestate for their crap when you could actually just open up a new browser on your own.<br /><br />I don't think the idea is BAD. I just think it's overhyped. To be fair, there are circumstances where a tabbed (uh, MDI [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ) program is the way to go.<br />Think about working with both Photoshop and Gimp, it really bugs me that Gimp uses a new window that shows up in the task bar for each image. I will often have 5 images open when I'm just creating 1, but 4 of them just have parts that get worked on independently before merging. It's a lot nicer if these don't all show up on the task bar."
+	},
+	{
+		"id": 25076,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-06-15T02:19:19.000Z",
+		"content": "I sure don't like it when a browser uses multiple child windows to display pages (organizational nightmare), but I love tabs. To me, a browser without tabs is as difficult to use as a browser without scroll bars. It's the fact that I have to worry about size and position for ten to twenty windows at a time, many of which I don't actually look at for even fifteen seconds. My browsing with multiple windows would go something like: open link in a new window, then go back to what I was reading, then go back and size the window so it doesn't overlap one of the programs sitting in the left third of my screen, then go back and read my thing again, then size the new window so it's the proper size for reading, look at it for seven seconds (I read fast), then close it. And then multiply that times ten or so to account for all the windows I have open. I'd never get anything done. Contrast that with my procedure with tabs: open link in new tab, it's already in the window I've sized and positioned properly, then read it later and close it. The sheer volume of information I move through demands more efficiency than multiple windows can provide. I don't care if you don't like them. I just felt the need to rave about them, since I consider them as essential as shoes.<br /><br />I like the way the Gimp works, though. I need to have all my tools right in front of me, seperately accessible, when I do my image editing."
+	},
+	{
+		"id": 25077,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-06-15T10:21:35.000Z",
+		"content": "You can probably select either tabbed windows or new windows..? At least in Opera. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 25078,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-06-15T16:55:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]My browsing with multiple windows would go something like:[hr][/quote]<br /><br />That sounds eerily familiar. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I have my IE \"windowed mode\" size very small so I can (usually) open a lot before the cascading obstructs the links I'm clicking.<br />Even though there are now multiple sessions of IE, once 1 screws up, I often end up with all of them gone anyway.<br />Then there's the aspect of the Task bar filled with buttons with unreadable text, which in my case spans over 2 monitors.<br />The XP solution of grouping actually sounded great, that is until I actually used it, and disabled it soon after.<br /><br />I did have to install Tabbrowser Preferences and change the options so most things load in the background though.<br />I still need to check if FLST (Focus Last Selected Tab) makes things easier for me or not, since I got used to it.<br /><br />Finally:<br />I hate those near-fullscreen Flash pop-ups!<br />There was this America's Army one where a LOUD chopper suddenly obstructed everything, and one with a radio playing army songs...<br />Annoying as heck!<br />I haven't encountered any for a long time now (knocks on wood), so I'll not try the exension just yet...Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 25079,
+		"title": "Re: Wouldn't it be nice?",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-06-16T02:01:55.000Z",
+		"content": "Tabbed browsing's the best thing since sliced bread!"
+	},
+	{
+		"id": 25080,
+		"title": "ehh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-06-16T06:40:12.000Z",
+		"content": "I don't get the hubbub about Tabbed browsing.  Instead of clicking on the bottom of the screen in the taskbar to switch windows, I'm just clicking in the upper middle of the screen.  Whoopee?  I can still use keyboard shortcuts to switch between either one easily enough.<br /><br />((Or am I doing it wrong?))[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 25081,
+		"title": "Re: ehh",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-06-16T10:11:43.000Z",
+		"content": "It's a lot easier to control and move in the windows, when they're tabbed. As well, I don't like having multiple windows open by one program, that's why tabbed is ideal for me. And probably it slows down a bit if you have multiple windows open, and less when they are tabbed, I'd assume.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 25082,
+		"title": "Re: ehh",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-06-16T10:31:42.000Z",
+		"content": "There's that, and the fact that you can do things like left click to open in the current window/tab and middle click to open in a new tab in the *background*.  When I was unfortunate enough to be using Windows and IE I used to shift+click just about every link and then have to Alt+Tab back to the previous window so I could keep reading while the page loaded (yes, even on cable the few seconds it took was annoying enough.)<br /><br />Now I can just middle-click any link on the page that looks interesting and keep reading uninterrupted, and when I'm done I've got a bunch of pages loaded and ready to go.  So for me getting things off the taskbar isn't the big deal, it's the ease of opening new pages while I'm browsing.  Plus I've got it set so that any links I click that *automatically* open up a new window (including JavaScript links) are redirected into a new tab in the background instead.<br /><br />I was also using IE when all the pages opened up with the same icon, so on my taskbar I might have 30-40 windows all with the same icon and maybe one letter from the page title which really wasn't that helpful.  Now each page's icon shows up on the tab, so even when I've got so many tabs open that all I can see are icons I can still quickly get to the page I want.<br /><br />So I guess it just depends on your browsing habits - for me the tabs have made it much easier for me to make web pages behave the way I want."
+	},
+	{
+		"id": 25083,
+		"title": "haha",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-06-16T10:33:47.000Z",
+		"content": "HTML Comments are not allowed[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	}
+]

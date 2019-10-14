@@ -1,0 +1,74 @@
+[
+	{
+		"id": 468,
+		"title": "Patching the Licks",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-13T11:14:09.000Z",
+		"content": "Because Keen:Modding Forums doesn't work at this time...<br /><br />I would like to have a Lick that kills Keen when touching. [img]http://dosclassics.com/keen/images/ck4/creatures/lick.gif[/img]<br />Means: Licks are deadly every time!<br /><br />- We want  \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 13199,
+		"title": "Hehehe:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-13T11:56:00.000Z",
+		"content": "I guess whoever owns this forum (I think it's chogall), had to add some temporary K:M Forums if Andy happens to not check his email, or K:M for a while.<br /><br />Sorry, can't help. But I think that would be a cool patch.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 13200,
+		"title": "Re: Hehehe:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-13T12:16:56.000Z",
+		"content": "I don't think adding temporary K:M forums to this board is a good choice. Besides, that won't happen..<br /><br />As for the question, sorry, can't help. I have basically zero knowledge of Keen 4-6 enemy tweaking.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 13201,
+		"title": "Re: Hehehe:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-13T12:20:14.000Z",
+		"content": "You'll need to alter the lick sprite property, and we don't have any clue where thats located.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 13202,
+		"title": "Tom:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-13T22:21:07.000Z",
+		"content": "Hey... why doesn't somebody Email Tom Hall?<br />(Warning: Acording to LL, Tom is a vortican, and Vorticans usually have short tempers... so you never demand, you politly ask <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif?ttinline=true\"/>vortlol)<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 13203,
+		"title": "Re: Tom:",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-10-13T22:27:12.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Hey... why doesn't somebody Email Tom Hall?[hr][/quote]<br />I would be amazed if he even had a decent guess.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 13204,
+		"title": "Re: Tom:",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-14T08:09:36.000Z",
+		"content": "I agree with lemur821.<br />I'm not sure how busy Tom is, and how willing he is to answer questions, but I'm a bit more sure he's more likely to answer questions about what the official name of the blue birds in Keen 4 is, or whether or not Vitacorp built the Little Amptons, than a question on some old, specific piece of code, which I doubt he knew much about even then.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 13205,
+		"title": "Re: Patching the Licks",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-18T10:55:48.000Z",
+		"content": "Thanks! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  But there are also patches for Lick jumps, also very useful...<br /><br />- We want \"The Universe is Toast!\" - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 13206,
+		"title": "Re: Patching the Licks",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-18T10:59:26.000Z",
+		"content": "\"Hey... why doesn't somebody Email Tom Hall?\"<br />I'm not sure how well Tom understands programming, even if he knew C he most probably can't understand assembler, at least not enough to find that. Not to mention the time, even if he had the skills he most probably wouldn't have enough spare time to start searching for a patch..<br />So, just post your questions on K:M and do NOT bother Tom with the patching problems! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <b>Eat your veggies!</b>"
+	}
+]

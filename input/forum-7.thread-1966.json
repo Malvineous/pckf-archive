@@ -1,0 +1,162 @@
+[
+	{
+		"id": 640,
+		"title": "The problems with call_far...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-16T21:57:37.000Z",
+		"content": "Since we've got a few handy-dandy coders in the community, I figured I'd take a jab at describing what one of the biggest hurdles with Keen:Galaxy modding is: The $9A (call far) command!<br /><br />See, the way I understand it, when you're coding an executable as large as Keen was, back in the day, you had to segment everything into chunks--one chunk might read your level data, one might have enemy AI, one might have the Paddle War game--and reference them off of each other whenever you needed data.  This system worked fine because when you were coding things, you could tell the program to store the offset addresses to each of these segments in memory, so you had a surefire way to reference them, since each segment would be stored in a different place each time the executable was run.<br /><br />For example, let's say we're working in segment_L, which houses the AI data for a monster.  If we want the monster to make a sound, we have to call_far to the sound routine in segment_R, making sure we provide the right arguments for the subroutine.  Coding-wise, the original executable just says \"call_far seg_r,\" and the stored address in memory is substituted in--everything works great.<br /><br />Unfortunately, this never-the-same-way-twice thing makes it impossible to do any call_fars in our patches!  Think about it--we do the %dump with ModKeen, that gives us a snapshot of what the addresses were THAT TIME and that time alone.  Do 6 different dumps of Keen4, you'll get 6 different addresses to work with for segment_r.  <br /><br />What we need is an updated version of CKxPatch that can read data from parts of the exe file, and use them as variables in our patches.  <br /><br />For example, currently if I'm trying to patch in a call_far to seg_r as before, I'd do it like this:<br /><i>%patch $location $9A $34 $12 $CD $AB</i><br />where I'm calling for line 1234 in segment ABCD.  <br />With the new CKxPatch, we'd do something like this:<br /><i>%patch $location $9A $34 $12 %seg_r</i><br />or however it was implemented.  <br /><br />We can (theoretically) find the places in the code where these changing addresses are stored--but with the current system, the best we could hope to do is overwrite them, which would get very messy very quickly.  (Though with DOSBox, who knows--a set of patches that forces segments to load in certain locations might be a viable option...)<br /><br />Keep in mind I have pretty much ZERO coding experience.  I'm just trying to sum up the problem as accurately as I can.  I mentioned this in my \"How do I...\" thread at K:M, and Andy mentioned that this would be a hefty problem to deal with.  So I'm sticking it out there in hopes of getting feedback.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  I'd really like to be able to make more comprehensive patches--like Bounders that kill Keen, or puffs of smoke that burst off of Keen when he pogos.  I just can't without call_far in my toolkit.[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 16475,
+		"title": "Re: The problems with call_far...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-22T12:01:56.000Z",
+		"content": "Are you sure that's how it works?  If I understand your post correctly, you're saying that the segment and the offset are hardcoded into the .exe, but when the .exe is loaded the segments change and somehow all the correct locations in the .exe file are \"patched\" by DOS so that they point to the correct segment address in memory.<br /><br />I always thought segments and things were stored in the registers (e.g. DS is the data segment.)<br /><br />Unfortunately I'm not familiar with how the far call works, but presumably if you take your six different dumps and compare them to the original .exe, you should be able to find some correlation between the value in the .exe and how it gets changed once in memory."
+	},
+	{
+		"id": 16476,
+		"title": "Xky's problems with call_far...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-22T18:56:16.000Z",
+		"content": "I'm not sure how to explain further, because I don't know a lot of the details; like I said, I'm new at this!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>   But I'm going to try.<br /><br />Let's say I'm trying to change the call_far that plays the sound for when a Wormouth pops out of the ground to kill Keen.  The EXE version says that we'll be looking for \"9A 5033:09F1,\" which when found in the dump, should look like<br /><b>9A F1 09 33 50</b><br /><br />Unfortunately, in the original %dump of Keen4 I made 3 years ago, that statement is<br /><b>9A F1 09 68 23</b><br />...and in a %dump made today by DOSBox, it was<br /><b>9A F1 09 18 1F</b><br />...and in a %dump made just by running a batch file from WinXP, it was<br /><b>9A F1 09 72 23</b><br />...and when I did a %dump on my laptop's Win98, it was<br /><b>9A F1 09 D2 2A</b><br />...and I bet if you ran a %dump on your system, you'd get something entirely different!<br /><br />I believe this is what I outlined before, and that you reiterated: When the EXE is loaded into memory, the segments/chunks are assigned addresses in memory, and those addresses are patched in at runtime--as evidenced by the differing results for each machine.  There is consistency, though...<br /><br />I mean, every single time I've run DOSBox this morning, it's given me the same 18 1F location--and every time I've run it with cmd/WinXP, it's given me 72 23.  But I did the original %dump 3 years ago on this same hardware, and the address is different!!<br /><br />Even if I could code a patch that would work every single time on MY machine, in DOSBox, that same patch file wouldn't function for my mod as run through cmd/WinXP, or on my laptop on Win98.  <br /><br />THAT's my problem with call_far.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/>   <br /><br />We need an update to our CKxPatch that reads these segment address pointer thingies and can work them into our patches!"
+	},
+	{
+		"id": 16477,
+		"title": "Re: Xky's problems with call_far...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-22T19:15:52.000Z",
+		"content": "I hope there's somebody capable of understanding this bunch of Matrix-ish stuff. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I for one, don't dare to read all that when I notice the amount of hexadecimal numbers and assembly code stuff in it.<br /><br />What happened to Ckpatch's author, Admiral Bob?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16478,
+		"title": "Re: Xky's problems with call_far...",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-22T19:48:37.000Z",
+		"content": "You could try sending an email to \"rodgersb at it dot net dot au\", which is the last email address listed for Admiral Bob. He did post that more than three years ago, though, so there's a fair chance he no longer uses it. (Then again, he may well do - it's worth a shot)"
+	},
+	{
+		"id": 16479,
+		"title": "Sent!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-22T20:30:57.000Z",
+		"content": "Thanks, grafix.  I sent off an email; we'll see if anything comes of it.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16480,
+		"title": "Re: Xky's problems with call_far...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-22T22:15:55.000Z",
+		"content": "That's strange - I've never heard of the addresses being patched during load.  (Oh, and the reason why you can get the same addresses a few times in a row is no doubt because DOS just uses the same chunk of memory - if you loaded another program in between, especially a TSR, you should find the addresses change as DOS is forced to find the next available segment to use.)<br /><br />What I suspect is happening is that CkPatch is the one altering the offsets in the dump, so that they point to addresses that make sense in the dump.  I could be wrong of course, but to me that's what makes sense.<br /><br />The interesting thing is that if you add 0x311B to your DOSBox offset of 0x1F18, you end up with the same offset as the .exe file.  That would presumably allow you to patch anything referring to that segment, but whether that 'magic' number works for other calls to other segments would be interesting to know.  If so, it would mean all you'd need to do is to calculate this 'segment offset' for each dumped image, and just add that number to all the dump segments to convert them to .exe segments."
+	},
+	{
+		"id": 16481,
+		"title": "Re: Xky's problems with call_far...",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-09T03:52:58.000Z",
+		"content": "This is expected behaviour, due to the relocation table that's in every DOS executable.  Notice how the least significant short never changes; what you'd need to do is subtract the page (so, the most significant short) of segment 0 from every such address.  The program really shouldn't be using absolute addresses, but relative.<br /><br />edit: Uh, didn't realise how old this topic is...sorry [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 16482,
+		"title": "exactly",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-10T00:00:23.000Z",
+		"content": "That's exactly what the problem is, though--we can't do the relative address stuff.  I got an email back from Admiral Bob, he summed up exactly what we've covered in the topic, and stated that he's got a few ideas, but he's super-busy with college and stuff.<br /><br />The long and short of it is that we're stuck, for now.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Don't sweat the old-topic-ness."
+	},
+	{
+		"id": 16483,
+		"title": "Re: exactly",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-12T01:45:40.000Z",
+		"content": "So - and please bear with me, I'm still a little confused about the problem - you're not patching addresses directly in the EXE file, but you're patching the addresses once they're in memory and they've been \"relocated\"?<br /><br />In other words, the value you need to write into memory will be different every time you run the program?  Is that right?<br /><br />Sorry, it's just that when I was figuring out the cheats for Bio Menace (my first major attempt at anything like this) I was patching the .exe directly with a hex editor and didn't run into any problems like this.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16484,
+		"title": "ok",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-12T05:30:28.000Z",
+		"content": "That's correct, Malv--every time we run the programs, the segments are loaded into different places in free memory.<br /><br />I really can't do a good job of explaining this, because a lot of it barely makes sense to me.  I'll cut and paste what Admiral Bob said in his email:<br /><br />[quote]<b><i>Quote:</i></b>[hr]<b>Admiral Bob said:</b><br /><br />In short, what you're experiencing is known as \"segment fixups\" in DOS; the<br />following Wikipedia articles provide some background:<br />[url=http://en.wikipedia.org/wiki/Relocation]en.wikipedia.org/wiki/Relocation[/url]<br />[url=http://en.wikipedia.org/wiki/Relocation_table]en.wikipedia.org/wiki/Relocation_table[/url]<br /><br />Whenever you run a .EXE file in DOS, the DOS kernel will load the image of the<br />executable into memory, starting at the lowest available segment address at the<br />time you launch the program. This is usually known as the base segment.<br /><br />When you assemble/compile a program, it's preferable to have the segment<br />locations stored directly in the program's instruction stream, as 16-bit<br />instruction operands, so you can use an immediate x86 MOV/JMP FAR/CALL FAR<br />instruction to obtain the base segment address. The offsets of these operands<br />are known as \"relocatable items\".<br /><br />What actually happens is that the compiler will assemble the instruction so that<br />the immediate value only has the *offset* from the base segment, when it writes<br />out the .EXE file.<br /><br />When you run the .EXE file, DOS will first load into memory the executable<br />image, then it'll scan through the .EXE file's relocation table (produced by the<br />object linker). For each relocatable item, DOS will add the value of the base<br />segment for that program to the 16-bit word at that location in memory. After<br />that's done, then DOS will jump to the entry point of the program.<br /><br />It's actually DOS that is modifying the memory in this case, not CKPatch, as<br />implied by some posts in that thread (the LZEXE unpacker stub will also perform<br />this as it decompresses the executable).<br /><br />The problem that you have here, is that you're introducing new relocatable items<br />into the executable image, that the .EXE file, or CKPatch, have no knowledge of.<br /><br />The best solution I can think of, is adding a new directive to CKPatch that<br />allows you to specify new relocatable item offsets - you'd write your %patch<br />directives with your segment offsets coded as the relative distance from the<br />base segment. You'd then use a new directive (say, \"%relocate\"), with the offset<br />of the 16-bit value that you want to add the base segment value to, as an argument.<br /><br />Hope this helps - I might make a Keen:modding thread on this issue soon. You<br />might also be able to get a good explanation of this issue from Andy Durdin<br />himself, if you bring it to his attention.<br />[hr][/quote]<br /><br />We need a way to read that offset pointer table or something, I guess.  :$  It takes me about an hour of poking around in these files to feel like I -think- I understand what's going on... I'm not going to pretend I'm able to explain it.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16485,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-12T06:07:42.000Z",
+		"content": "To give a bit more specific an example, this all started to come to light when I tried to patch in the \"Keen gets killed by the Bounder\" routine... <br /><br />Ordinarily the Bounder doesn't even check to see whether or not he's collided with Keen--it only checks to see if it's collided with a bullet.  The times Keen is pushed by the Bounder is because Keen himself is checking to make sure he's not inside a solid object; not something specific to the Bounder.<br /><br />Anyway, after a lot of fishing around and wondering why things were hanging, I settled in on the call_far, here:<br /><br />9A 454E:0D43 (call far, seg_I, line 0D43)<br /><br />In the %dump file, this shows up as $9A $43 $0D $xx $xx, where the xx's are the dynamic assignment of 454E, which is the offset for seg_I.  <br /><br />If I make a .pat file trying to replace that line with the exact same info, like so:<br /><br />%patch $1115D $9A $43 $0D $4E $45<br /><br />the game will crash as soon as you shoot the Bounder.  In fact, I couldn't find ANYTHING to put in the $4E $45 place that wouldn't hang the game.  I have no way of guessing the correct offset location.  In the %dump file I have from when I first started working on XkyKeen4, the address is reported as $83 $18... and on the %dump I just did tonight, it's $33 $14 (ha!  314 reference!) ... but you can see how unpredictable it is!<br /><br />We'd need a way, through CKxPatch or otherwise, to \"read\" that allocation from memory.  At least, that's where I think we are.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16486,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-12T07:24:08.000Z",
+		"content": "Ah okay, now it all makes sense.  When CKPatch gets to it the file has already been relocated, so all the CKPatch values have to be post-relocation.<br /><br />I think Admiral Bob is right there, the only way you could do it (short of patching the .exe before relocation) is to have an additional command that automatically adds the segment base to its parameter before patching.<br /><br />Looks like there's no way around it without tweaking CKPatch - even if you found an unused entry in the relocation table, by the time you patch that with CKPatch it has already been used and discarded.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16487,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-14T21:40:06.000Z",
+		"content": "I know very little about coding.  How difficult would incorporating this new function be?  I'm as eager as the next person to get a better grasp on the Keen:Galaxy engine.  :}"
+	},
+	{
+		"id": 16488,
+		"title": "Re: well...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T02:38:51.000Z",
+		"content": "There's an easy bit and a hard bit.  The easy bit would be adding the extra command to CKPatch - all you'd need to do is pretty much a copy-and-paste job to copy the main 'patch' command and rename it to 'patch_relocate' or something, then find the part of the code that calculates the address, which you'll need to add a value to before continuing on to the code that does the actual patching.<br /><br />The hard bit would be figuring out what the base offset is, so that you know what value to add to all the patch_relocate values.  I imagine the DOS function that loads the .EXE image into memory will tell you the base offset, otherwise things could get messy.<br /><br />I'd be willing to attempt it, but as I've got plenty of other projects on at the moment someone would need to make it easy for me - ideally a .zip that I could unzip, run DOSBox, and bring up TP to tweak the code, compile it, and then run the compiled .exe with some example patch files to test it.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16489,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-15T22:22:52.000Z",
+		"content": "Hmm.  From Andy's Disassembly, notes.txt:<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />== SEGMENT VALUES ===========================================================<br /><br />A:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 37BF<br />B:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 3B3C<br />C:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 3BAC<br />D:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 3D83<br />E:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 3E7C<br />F:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 40D4<br />G:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 419B<br />H:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 433F <br />I:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 454E <br />J:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 464E<br />K:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4767<br />L:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 483F<br />M:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4961<br />N:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4A65<br />O:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4C1F<br />P:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4D1D<br />Q:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4E13<br />R:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 4FE5<br />S:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5033<br />T:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 50F0<br />U:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5248<br />V:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 54C1<br />W:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 54C5<br />X:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 55C9<br />Y:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5692<br />Z:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 56A3<br />AA:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5717<br />AB:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 571D<br />AC:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5722<br />AD:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5724<br />AE:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5727<br />AF:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 572F<br />AG:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5737<br />AH:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 573F<br />AI:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5742<br />AJ:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5746<br />AK:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 574D<br />AM:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5758<br />AN:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5769<br />AO:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5770<br />AP:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 577C<br />AQ:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5782<br />AR:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 578B<br />AS:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5797<br />AT:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 57A3<br />AU:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 589E<br />AV:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 58C7<br />AW:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 5C42<br />AX:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 61F9<br />AY:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 6322<br />AZ:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp 66A6<br />BA:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ?<br />BB:&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ?<br />[hr][/quote]<br /><br />Does that help?  :\\  Those were the values I was originally trying to plug into the %patch commands, when it kept freezing... and those are the values used in the disassembly whenever a call_far to another segment is performed."
+	},
+	{
+		"id": 16490,
+		"title": "Re: well...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T09:27:20.000Z",
+		"content": "Hmm, that's true, there are multiple segments to deal with.  But you'd think the base offset for the relocation would be the same for all segments?<br /><br />That list shows where all the segments begin in memory, but if the relocation puts the .exe at a segment of 1000, then segment A would become 47BF (37BF + 1000), segment B would become 4B3C, etc.  Or something along those lines anyway.<br /><br />I'd need to take a look at CKPatch's source to know for sure (I suspect CKPatch calls an interrupt to load the .exe into memory, and one of the return values is the base offset), but I'm just on the verge of getting the Duke II map editor working, so it'll have to wait [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16491,
+		"title": "Re: well...",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-22T06:45:31.000Z",
+		"content": "If someone can compile CKPatch, get it to output the value of 'Base' to screen after it's assigned to on line 455 of loader.pas, see if that's what's needed.<br /><br />I'd forgotten quite how horrid Pascal is [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 16492,
+		"title": "Re: The problems with call_far...",
+		"author_id": 1486326,
+		"author_name": "adurdin",
+		"timestamp": "2007-09-13T21:10:02.000Z",
+		"content": "I don't come by the PCKF very often these days (although clearly I'm missing stuff!), but was pointed to this topic a couple of days ago.  It came up on K:M also, and I've modified CKPatch to support patching relocated addresses.<br /><br />See [url=http://www.keenmodding.org/viewtopic.php?t=984]this K:M thread[/url] for more details and (until I've finished updating the readme etc. and packaging the whole thing) a binary of CK4Patch.  I'd love for you to test it and see if it works."
+	},
+	{
+		"id": 16493,
+		"title": "Re: The problems with call_far...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-09-14T14:47:22.000Z",
+		"content": "If I had read szevvy's post before, I'd have said:<br />[quote]<b><i>Quote:</i></b>[hr]I can (compile it, I'm no magician to figure out how this rellocation works), but I'll probably not do it unless you bug me continuously at MSN, because I quickly forget to do a lot of things unless people remind me.[hr][/quote]<br />Now it doesn't matter.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  Thanks.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

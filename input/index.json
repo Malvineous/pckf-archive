@@ -1,0 +1,60 @@
+{
+	"site": "Public Commander Keen Forum",
+	"forums": [
+		{
+			"id": 1,
+			"title": "Official Keen Games",
+			"description": "Here, you can get help with anything about official Commander Keen games."
+		},
+		{
+			"id": 2,
+			"title": "Unofficial Keen Games",
+			"description": "You can discuss anything about unofficial Commander Keen games here."
+		},
+		{
+			"id": 3,
+			"title": "Other Keen Stuff",
+			"description": "This is where you can post your Commander Keen related stories, artwork, or other stuff that is related to Commander Keen but doesn't belong in another forum."
+		},
+		{
+			"id": 4,
+			"title": "Release Forum",
+			"description": "Here is where to post about the latest Commander Keen fangame or modification you finished, a new website you made, or another Keen-related creation."
+		},
+		{
+			"id": 5,
+			"title": "Keen Voting Booth",
+			"description": "Here, you can post polls to assess people's opinions on Keen-related subjects."
+		},
+		{
+			"id": 6,
+			"title": "Keen Awards 2004",
+			"description": "Winners announced!"
+		},
+		{
+			"id": 7,
+			"title": "Modding",
+			"description": "PCKF's modding area."
+		},
+		{
+			"id": 8,
+			"title": "Miscellaneous",
+			"description": "Here you can post anything that doesn't belong in another forum."
+		},
+		{
+			"id": 9,
+			"title": "Miscellaneous Polls",
+			"description": "This is the place to post polls that don't pertain to the subject of Keen."
+		},
+		{
+			"id": 10,
+			"title": "The Theater",
+			"description": "Discuss your favorite books, movies, and music here or just lounge around and see what other people think is classy."
+		},
+		{
+			"id": 11,
+			"title": "The Classics",
+			"description": "Discuss classic computer or console games."
+		}
+	]
+}

@@ -1,0 +1,170 @@
+[
+	{
+		"id": 160,
+		"title": "Hints",
+		"author_id": 1486561,
+		"author_name": "Gryro",
+		"timestamp": "2005-07-18T06:51:40.000Z",
+		"content": "can you gimmie some hints pelpole?"
+	},
+	{
+		"id": 3899,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T07:28:38.000Z",
+		"content": "Hints?  Sure.  We can give you anything from vague tips to outright spoilers--you just need to give us a bit more information about what you want!  What episode of Keen, what's the problem, where are you stuck, etc.  :-)"
+	},
+	{
+		"id": 3900,
+		"title": "Re: Hints",
+		"author_id": 1486561,
+		"author_name": "Gryro",
+		"timestamp": "2005-07-18T07:30:19.000Z",
+		"content": "on keen 4.how do i get past the pit level?"
+	},
+	{
+		"id": 3901,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T07:35:51.000Z",
+		"content": "By \"pit level\" you mean \"[url=http://www.classicgaming.com/cc314/encyclopedia/maps/maps-k4-lvl03.html]The Perilous Pit[/url],\" right?<br /><br />From the start, jump into the pit, and head right.  There'll be a pole there--climb down it, and head left.  You'll need to time a move past a Mad Mushroom, but you'll get a Red Keygem.  Take the Red Keygem back up the pole and head left as far as you can.  You'll find a pole, climb it and you should get a Blue Keygem.  Now go back down the pole, and hop in a small pit--you'll open a Red Door using your Red Keygem.  Near another Mad Mushroom, there's a switch--turning on this switch turns on an elevator right above the Red Door you opened.  Wait for the elevator to come down to you, hop on it, and head through the arched doorway.  Open the Blue Door, and you've rescued a Council Member!"
+	},
+	{
+		"id": 3902,
+		"title": "Re: well...",
+		"author_id": 1486561,
+		"author_name": "Gryro",
+		"timestamp": "2005-07-18T07:39:07.000Z",
+		"content": "Thanks!"
+	},
+	{
+		"id": 3903,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T07:50:10.000Z",
+		"content": "No sweat!  In case you didn't notice, on the main page of this forum, there's a link to [url=http://www.classicgaming.com/cc314]Cerebral Cortex 314[/url], an old but excellent source for Commander Keen information.  You can click on \"Encyclopedia\" and then \"Level Maps\" to look at the maps for each episode--that may help you if you get stuck again.<br /><br />Welcome to the community, too!"
+	},
+	{
+		"id": 3904,
+		"title": "Re: hehe",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T13:16:07.000Z",
+		"content": "Welcome.<br /><br />Eventually on my website im gonna make guides (maybe with screenshots) of how to beat every level of games and mods.<br />I also have something cool planned with level maps (which'll make CC314 look dumb!!)[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3905,
+		"title": "Re: hehe",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-18T15:32:34.000Z",
+		"content": "Welcome to the boards! Yeah, you should've been a bit more clear about your help request in the first post.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  We can't read minds or do mind control. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 3906,
+		"title": "Re: hehe",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-18T21:40:42.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Eventually on my website im gonna make guides (maybe with screenshots) of how to beat every level of games and mods.[hr][/quote]You could always record demos of how to complete each level, then if someone gets stuck they could just download the demo to see how to do it."
+	},
+	{
+		"id": 3907,
+		"title": "Re: hehe",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T21:46:16.000Z",
+		"content": "How?? That'd be awesome!! Please tell me!![img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3908,
+		"title": "Re: hehe",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-18T21:55:54.000Z",
+		"content": "Isn't there a cheat to do that?  I thought D+F10 or something was 'Record Demo'?  Then if you save it with the same name as one of the in-game demos it should play there instead.  I can't remember whether there's a commandline option to play a demo, but it's simple enough just to choose \"Return to Demo\" a few times from the main menu until it plays your own demo."
+	},
+	{
+		"id": 3909,
+		"title": "close",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T22:21:42.000Z",
+		"content": "Hmm... if I recall correctly, there was a complication with recording demos--something about them not playing back correctly.  I think CommanderSpleen did some work on this--where is he?"
+	},
+	{
+		"id": 3910,
+		"title": "Re: close",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T22:54:51.000Z",
+		"content": "Ohh, i thought you meant like a video file or something. I can never get that to work...[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3911,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T23:30:05.000Z",
+		"content": "CheesyDave has software that lets him record movies of himself doing whatever his computer is running... But it runs insanely slow with DOSBox.  I'm talkin' like 3-4 full seconds for 1 frame of the game.  Just booting up a Keen1 mod and making it to the title screen takes over a minute.  :-(  <br /><br />The playback on it is fine, but it's insanely boring to play at that speed... hehe.  <br /><br />Either way, I agree--if software existed which allowed us to record our playbacks of Keen, I could finally show you guys how unsuccessful I am in the first level of everybody's mods.  I swear I always get game over within the first 3 levels, just because I have terrible luck.  :-P"
+	},
+	{
+		"id": 3912,
+		"title": "Re: hmm",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-19T00:15:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I swear I always get game over within the first 3 levels, just because I have terrible luck. :-P[hr][/quote] I don't even get past the first levels of a lot of mods...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  (P.S. Welcom to the forums, Gryro![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] )-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 3913,
+		"title": "Re: Hints",
+		"author_id": 1486561,
+		"author_name": "Gryro",
+		"timestamp": "2005-07-19T10:02:42.000Z",
+		"content": "Hi there guys! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img] <br />I got stumped in keen dreams so can you tell me how to beat the apple forest level?"
+	},
+	{
+		"id": 3914,
+		"title": "Re: Hints",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-19T10:16:03.000Z",
+		"content": "[url=http://dosclassics.com/keen/map.php?a=d&l=9]Here[/url] is a map of the level. I hope it helps out! (if it doesn't I will be really confused...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img] )-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 3915,
+		"title": "Re: Hints",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-19T10:20:53.000Z",
+		"content": "Well....<br /><br />First climb the poles a bit, avoid and stun the apples and move left along the ground that has the pea walking on it. Avoid this and the spud and jump up on the tree. Use the height here to jump left over the chasam and grab a pole. Then jump left from pole to pole, eventually landing on the far left of the level and the exit.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3918,
+		"title": "Re: Hints",
+		"author_id": 1486561,
+		"author_name": "Gryro",
+		"timestamp": "2005-07-19T10:34:08.000Z",
+		"content": "Thanks![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]"
+	},
+	{
+		"id": 3916,
+		"title": "Re: Hints",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-19T10:37:20.000Z",
+		"content": "I've had the idea to record some Keen videos, but never found the software.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br /><br />If I remember correct the demos recorded in game must be import back to Keen files by using modkeen.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 3917,
+		"title": "*clarifies*",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-07-19T10:37:41.000Z",
+		"content": "[hr]<b>Xky</b> Hmm... if I recall correctly, there was a complication with recording demos--something about them not playing back correctly. I think CommanderSpleen did some work on this--where is he?<br />[hr]Behind you!<br /><br />ModKeen 2 allows importing of demos, but you're still limited to five demos, 0-4 (hopefully that's patchable). I don't remember the exact process, but it doesn't take much if you RTFM and mess around with it a bit.Cave assectatorem Ductoris Alacris <br /><br />\"This is how liberty dies--with thunderous applause.\" -Padme<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	}
+]

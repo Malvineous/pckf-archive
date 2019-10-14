@@ -1,0 +1,130 @@
+[
+	{
+		"id": 604,
+		"title": "Direction of Keen 64's Art",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-08-30T16:05:16.000Z",
+		"content": "After seeing Tabun's work in Keen 64, I thought I could upgrade Keen 64's art, so I experimented with the Yorp and Soda can. While I am really satisfied with the outcome of it so far, I am worried that this might not fit the \"Keen 64\" idea as Jimmy James confirmed that notion. <br /><br />So I thought I would ask you guys, the Keen community which path I should take. This is not a question of lazyness and I am more than capable of going more detailed, it's question of direction. I made an image which has a comparison of the 2 different styles so it's easier to decide and see them side by side:<br /><br />[img]http://img.photobucket.com/albums/v337/Tirqin/Compare.jpg[/img]<br /><br />Detailed: Rest of the Keen art would be upgraded to fit the examples so far. Changes however would only be textured based, keeping the simple low poly look. Complete re haul would not be implemented till the full version of Keen 64.<br /><br />Simple: Current Keen and future Keen 64 art would remain in the same style as the upcoming demo."
+	},
+	{
+		"id": 15912,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-08-30T16:50:14.000Z",
+		"content": "I think it depends, really. I like seeing detail as far as things like the tab on the soda can and stuff, but some of the shading is a bit overdoing it.-Genius314"
+	},
+	{
+		"id": 15913,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-30T17:10:06.000Z",
+		"content": "Detailed, yeah!! I want details!<br /><br />However, your detailed version of Yorp certainly has a excess of shading.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 15914,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-08-30T17:14:43.000Z",
+		"content": "Ok, I'll try tuning down the Yorp."
+	},
+	{
+		"id": 15915,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-30T17:58:13.000Z",
+		"content": "I'd say everything on the right, but the Yorp on the left. Try to find a balance between things.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 15916,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-30T23:42:22.000Z",
+		"content": "Do you have the means of implementing cel-shading? That would be the most suitable. I agree with the sentiment so far--all shading and no gamma makes Norp a dull yorp. Of the two presented, the yorp on the left is definitely the best.<br /><br />The can definitely looks great though. I would definitely keep that in place of the one on the left.<br /><br />The yorp's mouth looks awkward, like it's on its chin or something. Also, it needs to be more like o-D&lt; than o-)&lt;. They have a silly grin, not a content smile.<br /><br />Definitely try cel-shading if you can. It is by far the best way of conveying the classic, bright, cartoony atmosphere of the Keen games."
+	},
+	{
+		"id": 15917,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-08-31T01:36:14.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Do you have the means of implementing cel-shading? That would be the most suitable.[hr][/quote]<br />[quote]<b><i>Quote:</i></b>[hr]<br />Definitely try cel-shading if you can. It is by far the best way of conveying the classic, bright, cartoony atmosphere of the Keen games.[hr][/quote]<br /><br />Cel-Shading is possible (but time consuming) but I believe it wouldn't be well suited, to me Keen 1-3 had more of a semi-realistic look. Cel-shading would work best with Keen 4-6 as it's more stylized. In my honest opinion.<br /><br />Ok, after Spleen mentioned the Yorp's mouth, I made it more like the previous Yorp's mouth as everyone seemed to like that better and it doesn't look as odd now. I also took out the contrast in both the Yorp and ground tiles.<br /><br />So I updated the model comparison, you can see the new update in the original poll picture or [img]http://img.photobucket.com/albums/v337/Tirqin/Compare.jpg[/img] (if it looks like the old one, press F5)"
+	},
+	{
+		"id": 15918,
+		"title": "Re: Direction of Keen 64's Art",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-08-31T01:50:33.000Z",
+		"content": "I love the detailed models! Although the simple yorp is more keenish (as I mentioned in the other topic). ______________________________________________________<br />So what if i ask dumb questions im only 12."
+	},
+	{
+		"id": 15919,
+		"title": "well",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-31T02:11:48.000Z",
+		"content": "I think you've got the shading and detail textures right in concept, but they're a bit dark in the execution.  Stick with the brighter colors, but add more information.  I agree with the cel shading sentiment.<br /><br />The models themselves look great, though!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Just brighten the colors on those textures!!"
+	},
+	{
+		"id": 15920,
+		"title": "Re: well",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-08-31T03:21:38.000Z",
+		"content": "I like the bolder colors in general, but I actually think the floor and soda can textures on the right are much better.  Use those.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 15921,
+		"title": "Re: well",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-08-31T15:16:10.000Z",
+		"content": "Ok, I made the Yorp texture a little brighter, if this still isn't good enough I think I'll just go to the original designs except the soda can will have the same texture as the new one just no shading, as I have to keep everything within one style.<br /><br />[img]http://img.photobucket.com/albums/v337/Tirqin/Yorp1c.jpg[/img]"
+	},
+	{
+		"id": 15922,
+		"title": "Re: well",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-31T16:09:35.000Z",
+		"content": "I like the detailed soda can but it could be a bit brighter. But this new Brighter Yorp -- perfect! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  Good work.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15923,
+		"title": "Re: well",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-31T16:11:10.000Z",
+		"content": "Indeed, you hit the nail with this one! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 15924,
+		"title": "Re: well",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-08-31T16:52:02.000Z",
+		"content": "Yes I agree that the new yorp IS perfect.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ______________________________________________________<br />So what if i ask dumb questions im only 12."
+	},
+	{
+		"id": 15925,
+		"title": "Re: well",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-31T23:15:26.000Z",
+		"content": "Looks much better! I'd still consider bringing the top of the mouth up just a bit, but the shading now seems well balanced.<br /><br />As for the cel-shading, I see where you're coming from with the oldschool feel. What about black outlines to aid definition? That'd be worth experimenting with, even if it's also leaning toward a Keen4+ concept."
+	},
+	{
+		"id": 15926,
+		"title": "Re: well",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-09-01T23:34:59.000Z",
+		"content": "I would go for the detailed models on the right hand side of the first shots, but with the tuned brighter yorp.<br /><br />The new yorp looks nice btw. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <br /> <br />---Freeyorp"
+	}
+]

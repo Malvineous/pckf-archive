@@ -1,0 +1,298 @@
+[
+	{
+		"id": 207,
+		"title": "Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T15:05:49.000Z",
+		"content": "So, how about this:<br />DISCLAIMER: the game will be in 256 color, but I'm not willing to use a realistic Keen sprite like that of Isis II; I'd prefer to use the old one with some hi-color shading effects.<br />2ND DISCLAIMER: I'm a novice C/C++ programmer, although I learn fast <i>when I have clear goals</i>. And programming classes at college have really helped me to learn even more.<br /><br />A Commander Keen remake for the modern era. The first try failed because of two things: my absence (according to some, IMO it was someone else's fault) and the lack of interest in the barricades. But I feel ready to go ahead now, and continue working on the META engine, which should be the game engine for this one. Some of you may already know the development goals of the engine, but anyway, here they're:<br /><br />* It should provide a Keen: Galaxy style physics system.<br />* Should take advantage of modern Windows and GNU/Linux systems, via the Allegro programming library and built-in platform communication APIs.<br />* Should support a 4-planar tile-map format (the META Tile-map format), with a background tile plane, bimetric background tile plane, bimetric interaction tile plane and foreground tile plane.<br />* Should be extensible via game scripts (META scripts), so new games can be made using the same engine as base, abd the authors should not need advanced programming knowledge as the engine source code itself should not be modified for such creations.<br />* Should allow for extensible tilesets, with a reasonable size limit; the tilesets should be stored in 32-bit color PNGs, and their alpha channels should be processed.<br />* Should implement a parallax-scrolling engine.<br />* Should provide a particle and weather system.<br />* Should allow for almost unlimited spritesets, each one containing sprites, which may be actual game elements (creatures, enemies, etc.) by using an extensible actor AI engine.<br />* Should be compatible with the following music formats: WAV, Ogg Vorbis, MOD (ProTracker), S3M (Scream Tracker 3.x), XM (FastTracker), IT (Impulse Tracker).<br /><br />And these goals are basically the stuff I want to implement in a Keen remake. It should be a complete remake, with new graphics, new levels (based on the originals), but the same storyline of the originals.<br /><br />There are people who already have 256-color tiles and such, so it's enough material for starting this. I just want to know <b>HOW much interest there is</b>.<br /><br />The idea, BTW, is to have graphics and such waiting for a game engine, rather than a game engine waiting for graphics, etc. (which is the current situation of my project, and that's why it's somewhat frozen right now).------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4900,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2007-06-18T16:33:36.000Z",
+		"content": "I'm not a programmer, so I won't comment on that, but there's always interest, you can be sure, especially if you show us something instead of plain talk. You can always search for more popularity outside this forum if that's a problem for you. It's just the desire that drive the things.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 4901,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T16:45:46.000Z",
+		"content": "[sarcasm]Um... OK, you want me to do everything alone. Graphics, music, and the game engine. Sounds like a plan. I just hope I don't end trying to play PNG files as background music.[/sarcasm]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4902,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-18T22:00:03.000Z",
+		"content": "Don't take this as criticism, but I think you're setting goals that are too far ahead, and will ultimately result in limiting the functionality of the game/engine.<br /><br />For example, why have you decided that MOD, S3M, XM and IT will be the music formats?  What happens if someone wants to use IMF for the classic feel?  Are you really going to implement all those formats before releasing the engine?  You'd be better off defining a music \"interface\" and implementing a single example that uses the interface (maybe .wav, as that's a simple format.)  That way you'd spend only a little time to have background music working, and you can leave it to others to come along, copy your .wav player, and implement other formats like Vorbis or IT.<br /><br />If you're looking for help from others it's really difficult to get people involved when so far you've got nothing to show for it - many projects never get off the ground, so people are reluctant to spend time on it unless they know the project has reached a point where it will keep going even if the main person decides to leave.  I can completely understand that you don't want to develop this all yourself, but if you make everything extensible like my example with the background music above, it will cut down on the time you spend getting the project off the ground, and then when you've got an example running (with crappy .wav music, and .bmp sprites, and hand-coded levels, etc.) people will be much more interested in helping.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4903,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-19T06:26:09.000Z",
+		"content": "Totally agree. I haven't got any prove yet (beside nice declarations) that you indeed started, or being able to pull through this project.<br />Anyway, again try to consider making a faster Game Maker project, which seem more realistic."
+	},
+	{
+		"id": 4904,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-19T14:08:13.000Z",
+		"content": "OK, prepare for a small demo within this month.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4905,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-19T16:26:03.000Z",
+		"content": "Cool [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 4906,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-19T16:31:22.000Z",
+		"content": "Be warned. The demo most likely will consist of the first implementation of the tilemap engine and some sprites, nothing more. And them are most likely going to be plain color blocks or triangles, or something, since I have no graphics yet.<br /><br />Although I can test the sprite engine with your 32x32 (???) graphics. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4907,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-20T06:11:29.000Z",
+		"content": "You''ve got my permission [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />again, maybe I missed something - why existing keen graphics (rescaled if needed) can't be used?<br /><br />..yes, indeed my sprites are meant to be 32x32"
+	},
+	{
+		"id": 4908,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-22T12:54:33.000Z",
+		"content": "Because it's not the idea. If I lack graphics, I'll use some from existing mods .------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4909,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485928,
+		"author_name": "Feldegryph",
+		"timestamp": "2007-06-25T23:10:54.000Z",
+		"content": "Hello.<br /><br /><br />My minor in college in computer science. I know C++ also, although from reading your post it sounds like you're a lot better at this sort of thing than I am.<br /><br /><br />But if you want help with it, I can try. Probably I won't really be able to do too much, but you never know."
+	},
+	{
+		"id": 4910,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-06-26T11:39:08.000Z",
+		"content": "While I won't help this project directly, I most certainly will add my expertise and advise on programming physics algorithms in two dimensions, knowledge of 2D art and animation, and I could give you any sound or music from the Keen games you desired.  Our projects, if you get this one off the ground, are extremely similar.<br /><br />And if you'd like, you could look at a demo for my physics engine on GM, whose ideas could be theoretically ported to C++/allegro with my aide.<br /><br /><br />Not direct help mate, but I'm a busy guy and it'd save you a while of time figuring out how to do this all.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4911,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-26T12:54:03.000Z",
+		"content": "[rant]<br />Well, right now I'm writing the algorithm for reading files that contain #defines (like those used in C, Pascal and other programming languages), which requires an algorithm for storing symbols (which I'm writing too). All these are required by the algorithm that parses tile properties from the tileset description files, which requires a tile extraction algorithm I've already written. The program already runs but it still doesn't use the new code. The old code has been polished for using C++ Standard Library (thanks that Java programming course) and focus in the game engine directly.<br /><br />I'd like to use a similar tileinfo algorithm to that one used by the Keen 4-6 engines, but since the source code has not been released yet (hopefully it will some day) and I can't understand any drop of CK Guy's Ck456Tli utility's source code (which was programmed in Euphoria), I'll stick for now to an ordered list of tile with their properties separated with spaces.<br /><br />I have technical difficulties that might slow down the audio file support: Allegro doesn't want to enable audio in my Linux installation. I wonder if I'm the only one with this problem.<br />[/rant]<br /><br />So in summary, thanks in advance. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img]  <br />When I get to the point of programming that part (OMG, the essence of the game itself!) I'll surely appreciate your help. For now, I have to deal with the not-game-related part of the engine.<br /><br />(I have had to program 2 game n Java during these last months)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4912,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-03T14:25:12.000Z",
+		"content": "[url=http://shadowm.rewound.net/src/meta/meta-0.2.0-alpha-2007-07-02.tar.bz2]Alpha snapshot (2007-07-02)[/url]<br /><br />I have made some progress in the low-level part of the engine, by taking advantage of C++ object-oriented programming and such.<br /><br />At the same time I'm defining my own \"library\" for low-level utilities, so there'll be a point I won't need to read Allegro documentation as I know what I defined. :P (C++ wrappers to Allegro C stuff)<br /><br />[url=http://shadowm.rewound.net/src/meta/Meta-0.2-README.txt]The readme[/url] where you can read some emotive nice words from me.<br /><br />As I just finished writing the most essential structures for low-level graphics handling, I guess I'm about to start writing the actual game part of the engine.<br /><br />And I'll use Jazz Jackrabbit 2 tilesets for testing, as they fit my code perfectly (32x32 tiles).<br /><br />Here's part of the readme:<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />I started this project with little, if any, ambitions, just with the purpose of learning C/C++ programming and having some fun. This was in late July 2006. Later I decided to make an extremely complex thing with extremely complex and huge development goals.<br /><br />THAT was a mistake.<br /><br />I recently (June 2007) decided to resurrect this project with a different purpose; this time, instead of wanting to make an extremely complex project with a complete music band for development, I just want to complete \"the project of my life\", with no development goals other than implement what comes to my mind while coding, but only if it seems to be easy to code.<br /><br />I decided to start almost everything from scratch, and write actual C++ code, specially after reading comments of some people of my misuse of the *.cpp file extension. :P<br /><br />By defining new standards for API communication inside the program, I hope this time everything will go faster once I have these finished, leaving me more time to write the actual game engine and eliminating the need for those stupid API documentation manuals.<br /><br />If I need to mention my inspiration sources, I just have to mention one, the Battle for Wesnoth project. It's an open-source turn-based strategy game (www.wesnoth.org), started by a single person, who started it from scratch with humble objectives, and equally humble C++ knowledge. Now there's a whole community around it, developing one (if not the only one) of the<br />best free cross-platform games up to this day.<br /><br />Although I'd like to keep this in the Keen community till its final 1.0 version, if any, by syncing its development with a Keen remake for the modern era, I'm pretty sure that won't be possible, due to the nature of this ancient community, so I'll probably have to get someone else with a good sidescroller game idea, with proper graphics skills and with enough enthusiasm to wait for me to implement that nifty feature.<br /><br />If you're wondering, when writing this bunch of code, I always listen to music tracks of the old classics, such as Duke Nukem II, Duke Nukem 3D, Jazz Jackrabbit 1 &amp; 2, Major Stryker, Cosmo's Cosmic Adventure, and, specially, Commander Keen, Bio Menace and Ecco the Dolphin, the games with which I grew up. I also listen to the great music of Battle for Wesnoth and Supertux.<br /><br />No other sources of inspiration, since I'm no artist and I don't have a girlfriend.<br /><br />Books? No books. All I'm learning about C++ right now is by reading the source code of the Battle for Wesnoth, and, occassionally, the headers of the GNU C++ Standard Library. My Allegro knowledge comes from reading the Allegro API Documentation HTML Help file.<br />[hr][/quote]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4913,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-07-04T22:37:21.000Z",
+		"content": "I was just reading through some of your source code. Generally you dont have to worry about forward or backward slashes on windows.  Forward slashes work on windows too. at least with win2k and higher i believe."
+	},
+	{
+		"id": 4914,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-04T22:41:03.000Z",
+		"content": "I know that. It seems to have been first implemented with Windows NT 3.1 and Windows 95. :P<br /><br />Wait a second, where... no... it can't be possible. I'm pretty sure... ah.<br />I don't worry about my code using those. It's just that I'm writing an extensible game engine, and I must expect this kind of things:<br />[pre] usemap=maps\\level1.mhd[/pre]<br />From gamemakers, you know, most people use Windows and think forward slashes are just for URL addresses and such.<br />------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4915,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-30T16:22:26.000Z",
+		"content": "Reached version 0.2.0 finally. No more 0.2.0 snapshots, now I go for 0.2.1.<br /><br />The code is here: [url=http://shadowm2006.sitesled.com/meta/src/meta-0.2.0-full-snapshot-20070730.zip]shadowm2006.sitesled.com/meta/src/meta-0.2.0-full-snapshot-20070730.zip[/url] (0.94 MB)<br /><br />Notes:<br />* The makefiles were generated by Eclipse CDT. If they don't work, it's probably because they're using absolute paths such as /home/shadowm/workspace/meta/etc...etc...<br />* Builds in Linux, with GCC 4.1 and Allegro 4.2.1.<br />* No Windows port yet, for I cannot start Windows anymore. If you want a Windows port, look in the Miscellaneous forum for my \"YELP\" thread.<br /><br />This code distribution includes the resource files (images and such) that I'm using for testing purposes. The title screen was one of KeenRush's mods title screen, but I replaced it with a gradient color picture before zipping the directories.<br /><br />Currently implemented are an almost Keen1-style splash screen and Keen4-style title screen. Static, though.<br /><br />The low-level part of the engine is the most interesting approach of this release, and so, <b>I'd be very happy if an expert C++ coder criticized my coding style</b>. Keep in mind that I learned C++ in 2 weeks. The most interesting part of that most interesting part is the implementation of C++, object-oriented wrappers around Allegro's C structures.<br /><br />Implemented currently are:<br /><br />Low-level:<br />- A drawing functions namespace, which includes text output. Extensively tested.<br />- BitmapObj: C++ wrapper for Allegro's BITMAP pointers. Needs more polishing though. Extensively tested.<br />- SampleObj and VoiceObj: C++ wrappers for Allegro's SAMPLE and voices (which are integer ids) in mixer routines. Not tested at all.<br />- FontObj: wrapper around Allegro's FONT structure. Tested, and it currently doesn't work with the bitmap font I'm using, which is a conversion of the TTF DejaVu Sans Monospace 8 pt.<br />- MVideo: wrapper around most of Allegro's graphic mode routines, and my own virtual screen mechanism.<br />- Input device support for keyboard: partially tested, as most of its features are not used by the actual game part.<br />- Input device support for joystick: not tested at all, and it won't be tested at all in the near future, for I'm not going to buy a joystick.<br />- Mouse support: implemented, not tested at all, and in risk of deletion as it seems to be useless. Need your opinion: want mouse or not?<br />- MMixer: wrapper for Allegro's sound mixer routines. MIDI not implemented, too trouble for my Linux setup.<br />- Configmanager: extensively tested, but not moddable yet, and very system-dependant (specifically, it will make the game only run in MY machine, untill I get to change that).<br /><br />File formats:<br />- Tile Info format: implemented, tested with a meta-tileinfo format file that contains only zeroes, written by me using a hex editor.<br />- Tilemap format: Described in a document found in the package, partially implemented, not tested at all. *<br />- Tilesets: IMPLEMENTED, YAY! Allows look-ups and such. Only tested with the Root tileset.<br />- Full support for PNG pictures, extensively tested.<br />- Full support for Ogg Vorbis audio, not tested at all.<br /><br />Game engine:<br />- Scrolling Keen1-style splash screen with my own adaptative refreshing algorithm.<br />- Static Keen 4-style title screen (no, not the terminator thingy).<br />- Main menu... just a star-background screen with three buttons in the middle.<br />- Main game loop and utilities: started two days ago, got to implement Keen-style screen border (which can be disabled by user), and wrote the stub for the mini-player-stats window.<br /><br /><br />* The main reason the game engine formats have not been tested is that I have to write a format editor for generating test files (i.e. a tilemap editor), and I'm too lazy to do that. However, the reader code of meta seems to be fine.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4916,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-08-03T05:01:46.000Z",
+		"content": "You know, I have an interesting idea for the music engine to allow for the flexibility that Malvineous (I think that's who initially asked) wanted.  Why not create a sound engine that can utilize Winamp plug-ins, allowing the engine to play practically any format, so long as you're able to find the DLL for it and plug it into the game directory?  I'm fairly certain this would work, as I seem to recall that Windows version of MUGEN that's floating around includes a similar system."
+	},
+	{
+		"id": 4917,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-03T14:07:48.000Z",
+		"content": "I don't think it is a good idea.<br /><br />1. I'm trying to reduce the external libraries required by the game engine, as they are a lot as of now.<br /><br />2. I'd have to program a Winamp-compatible API for chatting with those extensions.<br /><br />3. I, for one, only want support for module music (it, s3m, xm, mod) and Ogg Vorbis samples (ogg), and, ocassionally, PCM samples (wav). If you really want it to be more extensive in the file format area, you'll have to code that yourself, as I'm not really interested in format extensibility. I want an engine that works.<br />------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4918,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2007-08-03T21:18:59.000Z",
+		"content": "Please excuse my ignorance of Allegro, which may provide the audio systems you require, and the possibility that I've missed some statement that you've already covered this. <br />Also, I realize this is a direct contradiction to reducing external libraries. However, perhaps audio is an area where it makes more sense to \"outsource\" the system, since it's not really your core focus.... aaannnyway...<br /><br />I found Audiere ([url=http://audiere.sourceforge.net/)]audiere.sourceforge.net/)[/url] to be an extremely easy to implement audio library. And it just happens to support all of the formats you've mentioned.<br /><br />I was using it for background music, so I can't comment to it's performance as a sound effect library. But it worked well for me."
+	},
+	{
+		"id": 4919,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-06T12:17:20.000Z",
+		"content": "Well, the only audio support component that is internally provided by my game engine is the Ogg Vorbis support. Modules are processed by an external library, DUMB, and so are WAVs and VOCs (Allegro). I just copied code from AlOgg library, which has not been actively developed for years.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4920,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-09T14:46:36.000Z",
+		"content": "I'm currently programming the event manager system for the game, multithreaded. Haven't tested it yet, but it's starting to look good. If I just get to write a tilemap editor...------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4921,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-10T18:19:20.000Z",
+		"content": "[url=http://shadowm2006.sitesled.com/meta/src/meta-v0.2.12-gnulinux-win32.zip]Version 0.2.12, not playable source code is here.[/url]<br /><br />0.8 MB, and doesn't include the resource files. Strange.<br /><br />I'm writing down my ideas here, so that I don't forget what the version lines are for:<br /><br />- 0.1.x: concept release<br />- 0.2.x: low-level code development and polishing (NOTE: I must remember to fix the config manager code before next release in order to make the program machine-independent; also, I'll have a windows port next time, for I got Windows Vista on my laptop)<br />- 0.3.x: tilemap scenarios should be implemented<br />- 0.4.x: in-scenario gameplay should be implemented<br />- 0.5.x: playable game in alpha stage<br /><br />Due to lack of interest (man, I want to write a game engine, NOT MAKE A DARN FUCLING GAME EDITION TOOL!!!) I started to write a tilemap editor for this game engine, coded in C#.NET. Sorry to those who don't use Windows XP or Vista. I'm using Linux and Windows Vista.<br /><br />If somebody has a better solution for this problem, as I have implemented 50% of the format specs in the actual game engine, TALK NOW OR STAY QUIET FOREVER. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />The editor is called \"MEDKIT\" (Meta tilemaps EDition KIT) and will include support for modifying META TileInfo (TLI data), whose reader has been completely implemented in the game engine already.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4922,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-12T01:51:42.000Z",
+		"content": "To save you some effort, instead of writing a tilemap editor you could write a tilemap \"compiler\" - as in, a small command line program that takes in a graphic file and a text file containing the tile properties, and spits out a tilemap.  It would certainly save you having to develop a GUI.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4923,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-13T12:16:59.000Z",
+		"content": "Interesting. Like in that game developed by Dreams, Superland, which uses a color-key-based tilemap compiler? Let me think.<br /><br />A color in a 24-bit bitmap takes 24/8 = 3 bytes. So each tile in the source format would be identified by a 3 bytes-long key. That is one byte more than the short int datatype. The target (META tilemaps interface) uses a one byte-long identifier type for each tile (char) right now.<br /><br />So, should I use 2-bytes-long tile identifiers in the target, 3, or stick with 1? Because 1 would provide 2^8 = 256 tile identifiers, while 2 would provide 2^16 = 65536, and 3 is 16777216 tiles.<br /><br />Which one of the values above do you think suits better for the maximum number of tiles allowed in a tileset for a game?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4924,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-13T17:44:03.000Z",
+		"content": "I'd say keep it at 2, but have one byte in the file to determine between 1, 2 and 3 bytes per tile for faster loading when it comes to loading maps with &lt;256 tiles.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4925,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-13T20:22:28.000Z",
+		"content": "Ah? Like having a variable-sized tilemap format?<br /><br />I would disagree if I didn't have to be careful with the resultant file size, so I dfinitively agree. Will require longer code, though. Sounds like fun. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4926,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-13T21:55:48.000Z",
+		"content": "Personally I think that programmers should avoid imposing arbitrary limits wherever possible.  Variable-sized is almost always more useful.<br /><br />Having said that you lost me when you started talking about tile identifiers being the same size as the image's bit depth...  So I might be on the wrong track here, but I'd do away with identifiers and just use the tile's index into the tileset to reference it (so an \"id\" of 5 refers to the fifth tile in the tileset.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4927,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-14T12:25:46.000Z",
+		"content": "Well, that's exactly what I meant with \"identifiers\". 0 is a void tile (no tile there), 1 is the first tile in the tileset, etc. If you looked at tile.cpp and tileset.cpp you'd had noticed that in the first place.<br /><br />[pre]    tileset::tileset(const std::string&amp; path):                                        tileset_filepath_(path),                                        tileset_bitmap_(*new BitmapObj(path)){        if (tileset_bitmap_.get_width() % TILE_SIZEX != 0) {                        // is width multiply of TILE_SIZEX?                std::cerr &lt;&lt; MSG_TM \"tileset bitmap \\\"\" &lt;&lt; path &lt;&lt; \"\\\" width not a multiply of \" &lt;&lt; TILE_SIZEX &lt;&lt; \"!\\n\";                return;        } else if (tileset_bitmap_.get_height() % TILE_SIZEY != 0) {        // is height multiply of TILE_SIZEY?                std::cerr &lt;&lt; MSG_TM \"tileset bitmap \\\"\" &lt;&lt; path &lt;&lt; \"\\\" height not a multiply of \" &lt;&lt; TILE_SIZEX &lt;&lt; \"!\\n\";                return;        }                // me wonders what was all this for... oh, peanuts?        numtiles_x_ = tileset_bitmap_.get_width() / TILE_SIZEX;        numtiles_y_ = tileset_bitmap_.get_height() / TILE_SIZEY;        numtiles_ = numtiles_x_ + numtiles_y_;                /* Now copy every block of TILE_SIZEX x TILE_SIZEY pixels from tileset_bitmap_         * to the tiles_ array. */        int x, y;        for (y = 0; y &lt; numtiles_y_; y++)                // Iterator for tile rows in the set                for (x = 0; x &lt; numtiles_x_; x++)        // Iterator for tiles in a row                 {                         // Put new tile with default TLI and bitmap from the set                         tiles_.push_back(new tile(*new TLIStruct(), *new BitmapObj(TILE_SIZEX, TILE_SIZEY)));                         tiles_.back()-&gt;bitmap.blit_from(                                 tileset_bitmap_,                                 x * TILE_SIZEX,                                 y * TILE_SIZEY,                                 0, 0,                                 TILE_SIZEX, TILE_SIZEY                // FIXME: fast but unsafe in-case-of-emergency                                 );                         // TODO: fill TLIstruct!                 }}[/pre]<br /><br />Oh, seems that I forgot to add that special rule about the first tile index in the set, that shouldn't be 0. I've gotta fix this tonight.<br /><br />EDIT: Actually the files are named tiles.cpp and tilemap.cpp.<br />EDIT2: That \"TODO: fill TLI\" is obsolete, for I splitted the TLI parser from the Tset constructor for more flexibility and easy load of void-propertized tilesets such as the root tileset.<br />EDIT3: As tomorrow I don't have to go to class, I guess I'll take care of the variable-sized tile \"identifiers\" (indices, indexes, whatever) in the tilemap format specs in tilemap.cpp. I still had to finish some details anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  <br />EDIT4: ain't these too many edits?<br />EDIT5: I just need someone to slap me with a hammer in my head  and I'll finish any of these. Inspiration, inspiration!------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4928,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T03:21:08.000Z",
+		"content": "Hmm...still can't see why it matters whether 'identifiers' are the same size as the image bit depth, but anyway...<br /><br />You might want to look into C++ exceptions too.  At the moment if someone creates a tileset and the image isn't a multiple of the tile size, an error will be printed but the tileset object will still be created successfully.  This means that later on when you to go use the tileset object the program will probably crash.  Only by hunting back through the error messages will you be able to see what caused the problem.<br /><br />An exception is the only way you can stop an object from being created.  If it was my code, I'd do it like this: (note that EError is my own class)<br />[pre] tileset::tileset(const std::string&amp; path)  throw (EError) :  // This function can throw EError objects, or any classes descended from EError    tileset_filepath_(path),    tileset_bitmap_(*new BitmapObj(path)){  if (tileset_bitmap_.get_width() % TILE_SIZEX != 0) {    throw EError(\"Tileset bitmap \\\"\" + path + \"\\\" width not a multiple of the tileset width.\");  } else if (tileset_bitmap_.get_height() % TILE_SIZEY != 0) {    throw EError(\"Tileset bitmap \\\"\" + path + \"\\\" height not a multiple of the tileset height.\");  }  ...[/pre]<br />You can then create a tileset like this:<br />[pre] try {  tileset t(\"image.png\");  t.doSomething();  // This will only be called if the tileset was created successfully} catch (EError e) {  std::cerr &lt;&lt; \"There was an error: \" &lt;&lt; e.getMessage() &lt;&lt; std::endl;}[/pre]<br />Some things I noticed while writing that code:<br /><br /> - Your errors print TILE_SIZEX for in both the width and height error messages.<br /> - Assuming TILE_SIZEX is a constant, how do you make a tileset with tiles that are a different size?  Xargon for example, has a tileset with 16x16 tiles for the map background, and the sprites are in a tileset where the images vary tile by tile from 1x1 up to something like 128x128.<br /><font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4929,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T12:50:59.000Z",
+		"content": "I can't get why you said I said \"identifiers\" are the same size as the image bpp. I never said that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img]   <br /><br />Perhaps you misunderstood me when I said that they could be 32-bit values (DWORDs).<br /><br />But anyway,  I had already implemented C++ exceptions in the newest code, which was the Event Handler manager. I just have to implement them in that old code. For now I'm using classes that implement std::exception from the STL for throwing exception objects.<br /><br />I didn't notice that both error messages were using the TILE_SIZEX symbol, probably because I copied &amp; pasted the width check code for the height check, and didn't examine the error messages after that.<br /><br />TILE_SIZEX and TILE_SIZEY *are* constants, set to 32 each one in the current implementation. Why, you might ask. It seems to be a good guess for a 800x600 resolution without screwing up the graphics with stretching and such. Keen's 16x16 tiles are half that size. You can guess the rest of the history, a discussion that I've already had with other people.<br /><br />Why constants? Because I simply don't want to implement tilesets which tile sizes are not unique. The sprites, shall be read from separate variable-sized images, or, perhaps, from variable-sized sprite sheets, but not from tilesets, not like Duke Nukem's, Xargon's and Jill's method (it seems).<br /><br />8x8 tiles were used in the Keen games only for means of core graphics (i.e. dialog frames and fonts), but in this engine there won't be such a thing. As of now, that kind of graphics are being loaded from 32x32 tiles in the root tileset that suffer special processing before being actually used.<br /><br />But anyway, following yours and DaVince's advice, last night I rewrote the tilemap code from scratch, using more readable code and reading the index size from a byte of the file that, IIRC, is at 0x17.<br /><br />Thanks for the error message \"bug-report\". I'm still fixing \"avaiable\" (spelling) bugs all around the source code. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]   <br /><br />EDIT: I'm an idiot. I had already implemented tileset::tileset_bitmap_size_mismatch class (inherits std::exception) before reading your reply, and I forgot it.<br /><br />[pre]  tileset::tileset(const std::string&amp; path):                                        tileset_filepath_(path),                                        tileset_bitmap_(*new BitmapObj(path)){        if (tileset_bitmap_.get_width() % TILE_SIZEX != 0 || tileset_bitmap_.get_height() % TILE_SIZEY != 0)                throw tileset_bitmap_size_mismatch(path)        (...)}[/pre]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4930,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T21:58:16.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]A color in a 24-bit bitmap takes 24/8 = 3 bytes. So each tile in the source format would be identified by a 3 bytes-long key.[hr][/quote]I read that as each identifier is the same size as the image's colour depth.<br /><br />I guess it's up to you how you implement a tileset (so don't take this as criticism), but I think a \"modern\" engine should be more flexible.  If it were me I'd be implementing the individual tiles as .svg graphics, so that they're scalable - the same tile would look fine drawn at 16x16 or 128x128.  That way if you change the screen resolution you don't see more of the level, rather the view stays the same but the tiles are just drawn larger.<br /><br /><b>SM:</b> <i>reading the index size from a byte of the file that, IIRC, is at 0x17.</i><br /><br />Now I'm confused again - I thought you said the index size was going to be a DWORD?  Or when you say \"index size\" do you mean \"number of tiles in the tileset\"?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4931,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-17T12:17:30.000Z",
+		"content": "Er. Let me say it this way.<br />[pre] unsigned char buf;size_t sizebyte;read( file_descriptor, &amp;buf, sizeof(char) );sizebyte = (size_t) buf;.../*Then, you might initialize a tile value this way, assumingthe tilemap plane object has a member std::vector&lt;tileid_t&gt; vmap_in other function...void * tbuf = malloc(sizebyte /* bytes */ );read( file_descriptor, tbuf, sizebyte );vmap_.push_back( reinterpret_cast&lt;tileid_t&gt;(*tbuf) );[/pre]<br /><br />You'd better read the actual code. I think it's properly explained there and not here, as this procedure takes two classes (tilemap and tilemap:[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] lane).<br /><br />I'll consider your comments on what better is for a modern engine, extensibility, etc., only when version 1.0 is finished (some years later?). For now, I think I have well-defined goals and extensibility is not, yet, one of them, as I, over any other requirement, need a tech demo of the engine before xmas.<br /><br />Anyway, what was the fun of modding the original Keen games? It was the limits the programmers imposed over a non-moddable engine.<br />------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4932,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-17T13:15:48.000Z",
+		"content": "Sure, coping with the limits of the original games is part of the fun with modding, but this thread is titled \"Keen remake for the *modern* era\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I'd like to read the code, but unfortunately reading someone else's code takes a lot of time - and no doubt I'd come up with a bunch of \"suggestions\" you wouldn't like, like this:<br /><br />Instead of:<br />[pre] void * tbuf = malloc(sizebyte /* bytes */ ); read( file_descriptor, tbuf, sizebyte ); vmap_.push_back( reinterpret_cast&lt;tileid_t&gt;(*tbuf) );[/pre]Isn't it easier to read this?[pre] tileid_t *tbuf = new tileid_t; read(file_descriptor, tbuf, sizebyte); vmap_.push_back(tbuf);[/pre]Maybe you have to spend a lot of time going back and maintaining your old code from years gone by before you appreciate making it as readable as possible [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4933,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-17T14:14:42.000Z",
+		"content": "I meant it with the graphics, sounds and music, not with the programming. [lol]But, if you want, I could use system interrupts here too and hook this game to a Windows driver.[/lol] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-potter.gif[/img] <br /><br />That code I wrote there is very different from the one I have on disk, strange. In any case, I hardly ever use malloc or alloca in this program actually. Most code uses new and wrapped constructs. <b>Specially as it is not a good idea to use malloc or alloca to construct class objects, of which my code is about 80% now.</b><br /><br />That little pieces you see there are actually code that I plan at some point to reuse in separate program; and, additionally, it's so short and rarely repeated code that I saw no benefit on creating wrapper classes for it. My next step is the script format parser and the game itself, which obviously won't use these weird coding practices. For example, I no longer care about BITMAP pointers; I care about my BitmapObj references, which do what I need automatically, provided that I don't forget to use new and delete operators.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4934,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-24T16:02:46.000Z",
+		"content": "OK, I just decided to switch *back* to SDL from Allegro.<br /><br />That will produce a version 0.3 next month or later. As I don't have inspiration for anything else to code, I guess I'll spend some time playing around with this major modification.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4935,
+		"title": "Re: Keen remake for the modern era",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-09-11T16:20:42.000Z",
+		"content": "Nice to see my color-key based map method is remembered. It was a quick fix to use MSPaint as a level editor. But it did work excellent. It had 3 layers beside each other, so i could add events and other data in there. <br /><br />I hope this project will become big, it sounds great so far![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] [img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	}
+]

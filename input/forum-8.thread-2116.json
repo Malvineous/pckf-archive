@@ -1,0 +1,50 @@
+[
+	{
+		"id": 715,
+		"title": "Arrgh! :)",
+		"author_id": 1486959,
+		"author_name": "kohntarkosz",
+		"timestamp": "2007-07-20T23:58:38.000Z",
+		"content": "While working on \"Commander Keen 20,000\" in Multimedia Fusion 1.5 I developed a method of simulating parallax scrolling that was unique, horribly awkward, annoying to implement, kinda ugly, crude yet highly effective.<br /><br />I have JUST NOW discovered that the wise folks at ClickTeam created something called the \"Background System Box Object\" which makes parallax scrolling ridiculously easy.<br /><br />All that hard work for nothing. This is why I am not a professional programmer. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]"
+	},
+	{
+		"id": 18842,
+		"title": "Re: Arrgh! :)",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-07-21T00:48:25.000Z",
+		"content": "Uuuuummm... what? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />So you don't mind if you let us see the code then? (I would like to at least.)-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18843,
+		"title": "Re: Arrgh! :)",
+		"author_id": 1486959,
+		"author_name": "kohntarkosz",
+		"timestamp": "2007-07-21T01:24:40.000Z",
+		"content": "All I did was:<br /><br />Step 1. Work in eight-bit color mode.<br /><br />Step 2. Manipulate the heck out of the palette. Assign four bits to background colours and four bits to foreground colours. Colours 0 thru 15 are the background colours. Colours 16 thru 31 represent the first foreground colour (all sixteen of these colours must have identical RGB values for this to work). Colours 32 thru 47 represent the second foreground colour, and so on. In the most basic permutation of this system, only 31 colours are available per frame: 16 background colours and 15 foreground.<br /><br />Step 3. Create active background objects and set them to OR mode. That way, backDROP objects show up in front of backGROUND objects. So, say we have a background object of colour 15 (00001111) and a backdrop object of colour 16 (00010000).<br />15 OR 16 = 31 and since colour 16 is identical to colour 31, the viewer will \"see\" the backdrop object.<br /><br />Theoretically this will work in TGF and CNC.<br /><br />Want a working demo? Email me: extremereactionforce t yahoo dt cm. While you're at it you can beta-test the game for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18844,
+		"title": "Re: Arrgh! :)",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-21T02:18:37.000Z",
+		"content": "Don't you hate it when you do all this work in TGF/CNC/MMF and it turns out there's a plugin that does it all and then some?-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 18845,
+		"title": "Re: Arrgh! :)",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-21T07:17:13.000Z",
+		"content": "A similar thing happened to me when I was coding the Keen 64 Beta, I was putting in the soda can models and thought the quickest way at the time to get it done was coding them in one by one, so after I had gone through and coded it all, I got an idea of how to make the engine generate them automatically and thankfully it worked, but yeah I definitely had that \"ARGH! why didn't I think of that before??\" moment, haha. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18846,
+		"title": "Re: Arrgh! :)",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-21T09:07:10.000Z",
+		"content": "It's not even a \"plugin\", it's built into MMF.<br /><br />You'd be doing good checking out all the standard objects before you start doing something. I've been using the background system box and the active system box for about a year now.<br /><br />The active system box also makes for a much nicer button than the button object!____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	}
+]

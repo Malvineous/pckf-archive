@@ -1,0 +1,98 @@
+[
+	{
+		"id": 329,
+		"title": "Dos Classics",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-02T03:53:38.000Z",
+		"content": "Hey, just letting you guys know that I am aware of the problems with the site.  Some PHP settings on my server changed, and due to sloppy coding I have to go back and update all of my PHP scripts.<br /><br />I'm about a third done, I hope to have the rest finished tomorrow, after which I'll ask that anybody post any bugs remaining on the site here.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 9756,
+		"title": "Re: Dos Classics",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-07-02T12:45:41.000Z",
+		"content": "It's not a bug, but you could add this [url=http://www.phreak.org/archives/The_Hacker_Chronicles_II/unp4/d210trn.zip]Duke Nukem II trainer module[/url] to your site.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 9757,
+		"title": "Re: Dos Classics",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-02T15:43:47.000Z",
+		"content": "Thanks, Frenkel, I'll try to do that soon.<br /><br />I'm pretty sure I've fixed everything on Dosclassics, so here's where you guys come in.  Any bugs you can find, please post here!  Also, this topic can function as a general feature/other random stuff request thread for dosclassics, I'd like to clean it up from the mess it has been the past few years.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 9758,
+		"title": "Re: Dos Classics",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-02T16:31:31.000Z",
+		"content": "Awww, and we thought you'd let it slide!<br /><br />There should be some mini mods coming up next week.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 9759,
+		"title": "Re: Dos Classics",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-02T22:01:53.000Z",
+		"content": "The Keencyclopedia is still returning no results.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 9760,
+		"title": "Re: Dos Classics",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-02T23:06:27.000Z",
+		"content": "Wow--I completely forgot about the fact that the keen/cosmo/duke sections would have problems too.  After I slap myself a few times, I'll work on fixing these.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 9761,
+		"title": "Re: Dos Classics",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-02T23:41:27.000Z",
+		"content": "Waaait what? You're returning after all this time to fix dosclassics?<br /><br />So uh, does password requesting for an account work again?____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 9762,
+		"title": "Re: Dos Classics",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-03T14:26:44.000Z",
+		"content": "I thought xtra has always been here, just idle.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 9763,
+		"title": "Re: Dos Classics",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-03T15:47:49.000Z",
+		"content": "I'm around, I just don't post as much as I used to.<br /><br />Anyway, I've fixed up the Keencyclopedia and the game sites, the only thing I know of that's completely broken at the moment is the modification maps, those haven't worked in firefox in ages.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 9764,
+		"title": "Re: Dos Classics",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-04T08:39:47.000Z",
+		"content": "*Sends love*[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 9765,
+		"title": "Re: Dos Classics",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-04T21:13:58.000Z",
+		"content": "It had to be that signature. hadn't it to? Who drew it anyway? I hope it wasn't you.<br /><br />Oh xtra, thanks a lot, I didn't know you could do it that fast. I've just downloaded the earlier Keen 4 versions from the Official games section. I'll start adding your download links to the KeenWiki for those articles that are missing them, now that everything is back working. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 9766,
+		"title": "download meter",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2007-07-07T03:40:56.000Z",
+		"content": "Also the download meter for new downloads always remain at 0 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"id": 95,
+		"title": "Commander Keen AI",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-18T14:15:41.000Z",
+		"content": "I just thought of a uber cool idea. I can make a program which reads the commander keen game (4-6)(dosbox) and the program (which is Keens brain) tells keen when to jump, shoot, walk climb poles etc. And most importantly, know where to go.<br /><br />Cool idea?<br /><br />I could use paths so he immediately knows where to go, or i could give him really realistic AI and so he 'randomly' chooses a path to discover whats there in order to finish the level (all by himself).<br /><br />I thought it was an interesting idea. I might be able to turn it into a screensaver too..."
+	},
+	{
+		"id": 2959,
+		"title": "Re: Commander Keen AI",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-06-18T17:05:08.000Z",
+		"content": "Sounds fun, although probably very difficult to achieve. You'll probably want to make Keen be able to jump and shoot enemies/hazards et cetera without dying horribly, use the pogo, avoid lasers and stuff and jump across moving elevators - not trivial tasks. Good luck! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 2960,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-19T01:54:32.000Z",
+		"content": "yeah i figured some parts would be hards, but it would be pretty awsome hey. And like for him to drop down off a ledge he'd have to look down first to see whats there and all.<br /><br />Only thing that worries me is the speed. It might be alittle too slow."
+	},
+	{
+		"id": 2961,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-19T07:09:36.000Z",
+		"content": "Feel free, that'd be pretty cool, but as said before, insanely difficult to program.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2962,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-20T02:52:30.000Z",
+		"content": "I'm starting to think that maybe this isn't such a good idea. The fact is, yes it is possible, but i'd have to scan the pixels on the screen in order to identify stuff (extremely slow) so i'm thinking perhaps it would be much easier in the end to make my own game using objects, that way theres no need to slow the game down by scanning all the pixels.<br /><br />I just thought of another cool idea to go with this, how about giving keen an IQ of 0, and he slowly learns to walk, jump, figure out how to shoot etc. (all based apon pure AI learning, and <b>not</b> a movie sequence)<br /><br />And perhaps as he gets smarter his IQ goes up and he figures out how to climb ledges and do stuff (most importantly finish levels).<br /><br />I think that would be sweet! Can't be that hard :P"
+	},
+	{
+		"id": 2963,
+		"title": "Re: Commander Keen AI",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-06-20T08:30:52.000Z",
+		"content": "That sounds like a cakewalk.<br />If you're going to make that, could you finish it before this weekend, I'm interested to see it.<br /><br />But seriously, are you sure/serious when you're saying it's easy?<br />From my perspective it really isn't, and you're overunderestimating the amount of work/time/sweats/tears/&amp;c..Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 2964,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-20T09:01:54.000Z",
+		"content": "i was joking when i said it would be a peice of cake, but im no longer going to make this for the DOS version of Keen but rather my own (if i make one) because scanning pixels would take too long."
+	},
+	{
+		"id": 2965,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-21T10:53:18.000Z",
+		"content": "You may then want to use Keens 'Am I standing on ground/touching a kill tile/...' function then. The game will tell Keen about his immediate environment, but all that willl tell him is when he can't move anymore or could climb a pole.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2966,
+		"title": "Re: Commander Keen AI",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-21T12:37:28.000Z",
+		"content": "An AI smart as that would be insanely difficult for a bunch of AI researchers, and most probably not even possible. Even if it were, it wouldn't be possible to run it with our computers. Yeah, it'd be pretty impossible right now in every way. Sorry! :P<br /><br />Besides, all can't be done with only pixel matching. You would really need to know some memory states of Keen. For example, the ammo state -- should he shoot an enemy, or wait somewhere that the enemy turns around and he can jump over it somewhere, or do a suicide in order to get new ammo, after first searching all the possible places if there's any in the level. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  As well, getting all the movement working correctly with just pixel matching would be pretty insane job, but most likely not even technically possible.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	}
+]

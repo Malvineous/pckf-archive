@@ -1,0 +1,330 @@
+[
+	{
+		"id": 260,
+		"title": "Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-11T20:46:52.000Z",
+		"content": "It has been a while since posting about my project, and as it's still in progress and today is my birthday, I figure it's as good a time as any to post an update.<br />But more importantly, I want to ask for constructive criticism from anyone and everyone. So to get to the good stuff, here's a download:<br /><br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo10.zip]Commander Keen Technology Demo[/url]</b><br /><br />If you don't want to go through the readme file, here are the controls:<br />Arrows for movement.<br />Left Ctrl - Jump<br />Left Alt - Pogo<br />Space - Shoot<br />Square brackets [ ] - Change weapon<br />Pause - Pause<br />Escape - Quit and Close<br />In case you get stuck (it is a tech demo), press Left-Shift + A + Left-Control all together to reset your location.<br /><br />Because it is amusing, you might want to try pressing page down a couple times and then running around, shooting and such. And try mixing this with page-up... you'll see. Press pause a couple times to reset the timing.<br /><br />On to the important stuff...<br />Please tell me what you think about things I need to change.<br />To get it started, I'm not yet satisfied with the jumping/pogoing height. Also there are a couple bugs involving jumping and hitting a ceiling or landing on a moving platform. Nothing that crashes the game, just bugs in how the game behaves.<br />The score area at the top is not close to being finished, that area will also include at least one \"energy\" bar. Possibly two, if I use an energy meter instead of the one-hit-kill of original Keen games. If there are extra lives, those will be displayed there too.<br /><br />And there are a few specific questions:<br />1. Weapon display. Should it hide the way it does, always stay visible, or hide another way?<br />2. Weapon display. Is it visible enough, or too hard to see? I don't want to do any alpha-blending because that takes a significant amount of CPU time and I want this to run on semi-older PCs.<br />3. Point and Weapon items. Should they move around like the weapon pickups in this demo, or remain still like the points? In the original games, items are still, though animated, but I think the movement looks nifty. Perhaps it is too much activity?<br />4. Weapon items. In this game, you will always have all the weapons in your inventory, but will need amunition for them. (Just like the original Keens, you don't need to go find a weapon to use it.) In the original games, the ammunition pickup looked like the gun instead of ammo, but I like the way the purple slime balls look in my demo. However, would these be too easily confused with point items?<br /><br />(edited - added Escape to controls.)"
+	},
+	{
+		"id": 6977,
+		"title": "Re: Requesting Critique",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-04-11T21:04:48.000Z",
+		"content": "Kinda cool, but it ran inhumanly slow on my computer, so I didn't play much. But yeah, it's kinda weird having Keen not losing momentum after hitting a ceiling.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 6978,
+		"title": "Re: Requesting Critique",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-04-11T21:06:33.000Z",
+		"content": "Keen should not \"stick\" to the ceilings as much. Also, try and bring the FPS up a little - even on my reasonably fast laptop, it ran slowly. Otherwise, a good engine."
+	},
+	{
+		"id": 6979,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-11T21:27:42.000Z",
+		"content": "Thanks a lot, guys!<br />I've just about got the \"stick\" to ceilings thing fixed.<br /><br />When you say ran slowly, can you tell if it's because the fps is low, or do I just have the movement too slow? (or worse, possibly an error in the math for movement ... i hope not!)<br /><br />One way to find out, when the game is running, could you press A+2+Enter all at once, then see what the red number in the upper-left corner of the screen says? (When it first shows up, it will display 0 for a little bit, give it a couple seconds until it displays a non-zero number.)<br /><br />If it is the FPS issue, there are a number of things I just did in a very slow way, just to get the logic working, so hopefully optimizing those will bring the FPS up."
+	},
+	{
+		"id": 6980,
+		"title": "Re: Requesting Critique",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-04-11T21:33:00.000Z",
+		"content": "It's definately a framerate problem, and it occurs especially when I try to go to the secret area. When I press A+2+Enter it says 30, but I don't know how fast that is.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 6981,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-04-11T21:46:33.000Z",
+		"content": "It just froze... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 6982,
+		"title": "Re: Requesting Critique",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-04-11T22:04:31.000Z",
+		"content": "The red number says 40 for me but the demo doesn't look slow.<br />The pogo and the jump is too fast for the walking. Keen shouldn't stop when you press the left/right key and then release it while pogoing.<br /><br />What graphics library do you use?"
+	},
+	{
+		"id": 6983,
+		"title": "Re: Requesting Critique",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-04-12T06:20:02.000Z",
+		"content": "IIRC, this uses managed DirectX 9 with C# code."
+	},
+	{
+		"id": 6984,
+		"title": "Re: Demo v 0.26",
+		"author_id": 1486481,
+		"author_name": "ShagratTheTitleless",
+		"timestamp": "2005-04-12T08:52:16.000Z",
+		"content": "Sorry. put my post in the wrong place"
+	},
+	{
+		"id": 6985,
+		"title": "Re: Demo v 0.26",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-04-12T09:11:36.000Z",
+		"content": "Looks nice! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 6986,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-12T15:16:53.000Z",
+		"content": "Freezing:<br />I'm sorry, big mistake on my part. One of the things I have not worked on is allowing you to switch between this game and other programs. If you alt-tab to another program, and then come back, it will stall the game with a black screen. Press escape to quit.<br /><br />The Red #:<br />In a literal sense, this is how many times the engine draws a frame per second. However, it will never get a very high number. What the engine does is completely renders a frame, and then waits until the screen is redrawing to send that frame to the screen. So this number is directly affected by your monitor's refresh rate. (Typically 60 to 85 Hertz - or 60 to 85 frames per second.) So if the engine has to do the same amount of processing for each frame, the red number is going to stay pretty close to the refresh rate, or half of it. (Or a quarter.)<br /><br />FPS:<br />Thanks to you guys pointing out that it is running slowly, I went back and noticed one REALLY simple optimization I put off a while ago and forgot about. Basically, this allows the engine to take a shortcut on something it has to do a lot for each frame, and then find out if it has to go back and take the long route. It may not sound that great, but I did some simple tests to see if it would have any affect, and it only needs to take the long route less than 4 times out of 100. (So it could be a pretty big improvement!)<br /><br />Pogo, Jump, and Walk speed:<br />Thanks, in your opinion, how would you say they should be adjusted. Slow down the pogo and jump? Speed up the walk? Or both?<br /><br />Movement when pogoing:<br />Thanks for catching this, for some reason I didn't notice. I was supposed to change the motion effect when jumping or pogoing, so it doesn't operate the same as when walking. When walking, pressing an arrow directly affects the players velocity. But when in the air, it should affect the players acceleration.<br /><br />Graphics Library:<br />DirectDraw. So DirectX. I think it requires at least DX6, but possibly 7, although I've tried to make sure I use only things available in 6. DirectX 9 requires at least Win 98, I suppose that's not such a bad requirement, but if I can keep it in DX7, it will work on Win 95. (Of course, if the game gets too complex, it may not perform playable on a computer running Win 95...)<br />Although I do a lot of work in C#, this game is written in C++.<br /><br />I've fixed the \"sticking to ceiling\" problem. And after looking for more simple optimizations, I'll post an updated exe later today."
+	},
+	{
+		"id": 6987,
+		"title": "Updated",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-12T18:24:04.000Z",
+		"content": "Updated for better performance. The previous zip file has been updated, but I also added a zip of just the exe and two new files. (The new files are for an optimization to the weapons display.)<br />If you only need the updates, for a 96kb download instead of 214kb:<br /><b>[url=http://keen.keenx.com/keen/files/update.zip]Updates Only[/url]</b> (tech demo 10 required.)<br /><br />For the full download: <br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo10.zip]Full Updated Technology Demo[/url]</b><br /><br />This includes the optimization I mentioned above. Also, I took away the box around the score. Despite it's simplicity, this was drawn in a very slow way and could by itself be the cause of a lot of the performance issues.<br /><br />The ceiling sticking is fixed, and I'm working on the player movement.<br /><br />Allstories, can you give this another run and tell me if it is working better?"
+	},
+	{
+		"id": 6988,
+		"title": "Re: Updated",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-04-12T19:29:15.000Z",
+		"content": "It runs faster, for the most part, but it still slows down to 30 when Keen goes behind the secret wall.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 6989,
+		"title": "Re: Updated",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-04-12T20:16:14.000Z",
+		"content": "I have to try this on my other computer...<br /><br />Anyway, if you need help with graphics, you can ask me.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 6990,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-12T20:55:03.000Z",
+		"content": "Thanks a lot for checking, Allstories!<br />If it's okay, I have one more test, just to narrow the cause of the slowdown.<br />If possible, please download this zip:<br />[url=http://keen.keenx.com/keen/files/update.zip]Level Update[/url]<br />It will change the level a little. It looks weird, but it puts a \"secret area\" where you start.<br />The slow performance you're experiencing could be from two possible causes.<br />One is that there is a problem processing either the layer in front of the player (that hides keen), or the layer behind the player. (Both are used in the secret area.)<br />The other possibility, and more likely, is because the secret area happens to be positioned in such a way that the screen is covered almost entirely by two layers and partially by a two more. This means the engine is drawing a lot more tiles while you are here than elsewhere in the level.<br /><br />So, could you use that download to replace the file Levels\\test.kxl, and run again. Then see if the game slows down much when you are at or near your starting location?<br />To get an idea how this is performing on a range of systems, could you tell me what your processor is and how much RAM you have?<br /><br />Genius, yes please! Graphics would be much appreciated!<br />There is much need for enemy sprites, either if you have ideas, or I have 7 sketched on paper (not animated) so far, i can send you scans.<br />And as usual, there is a huge need for tiles.<br />Also, I have most of the weapons designed as far as what they do, but haven't come up with what they should look like."
+	},
+	{
+		"id": 6991,
+		"title": "Re: Requesting Critique",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-04-12T21:08:37.000Z",
+		"content": "Now the entire level seems to run slower. :/-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 6992,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-04-12T23:22:25.000Z",
+		"content": "When I try to run the demo, it doesn't work right. I'm running Windows XP. My resolution changes, and I get an hourglass cursor for a little while. Then my resolution goes back to normal, and the game is minimized. It hasn't locked up, because I can end it from task manager without getting a message that it's stopped responding, but I get a blank screen when I try to switch to it, like you said I should when I switch away. Apparently the focus isn't getting set right, but I have no clue why.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 6993,
+		"title": "my eyes!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-04-13T00:28:55.000Z",
+		"content": "Flicker city for me over here... The game switches resolutions and gives me the ol' hourglass for about 12 seconds, and then I'm presented with Keen in a golden bricked area, and tons of on-screen flicker.  <br /><br />Going down into the area immediately beneath my starting point limits the flicker to the lower left part of the screen, but if I try running right from there, the flickering gets to bad that I lose sight of Keen for entire seconds at a time.  <br /><br />2 out of 3 times, if I go left from start, I lose the ability to scroll the screen, move, or even see Keen.  The third time, I was able to move about a little more--but Keen couldn't fit into the little nub of an area at the far left.<br /><br />I saw Keen's feet in the secret area, so your masking needs work... and lastly as z-1 pointed out, your jump height/speed is amped up too strong for your move speed. <br /><br />Still a good start... just see if you can fix the insane flicker problems!"
+	},
+	{
+		"id": 6994,
+		"title": "Re: my eyes!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-04-13T12:14:43.000Z",
+		"content": "It doesn't flicker for me so it may not be compatible with all video cards.<br /><br />Keen shouldn't stick to the moving platform when he jumps up, only when he falls back. When he walks off the edge, I see no acceleration, Keen starts falling at full speed immediately. The tiles should have a bit more depth. I know that has nothing to do with the engine. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I hope you don't find our comments too harsh [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  This engine can become much better with a few modifications!"
+	},
+	{
+		"id": 6995,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-13T19:39:55.000Z",
+		"content": "Thanks a ton, Allstories!<br />Upon further review, the call on the field ... wait a sec, I mean upon further review (due to your result), I've found that the engine is actually strangely slow on certain machines.<br />Although I'm not certain, I think the difference in machines is because of something in the graphics card. (Perhaps my card is DirectDraw optimized.)<br />When I got home last night, I tried the tech demo on my other machine and got slow performance for the entire level just as you did. The strange thing is, that computer is MUCH faster (name just about any part and it's 2 or 4 times faster.)<br />So I think I know the problem. This is a bit technical... so skip if you want.<br />Each tile in the screen area get's blitted, one at a time. If you're not familiar with the blitting process, it looks something like this:<br />1. Lock the destination pixel memory.<br />2. Copy pixels.<br />3. Unlock pixel memory.<br />And this gets repeated for each tile.<br />From what I've read recently, some video cards are very slow at locking pixel memory.<br /><br />So what I need to do is write my own (or find an open source) blit function so I can do something like this:<br />1. Lock the destination pixel memory.<br />2. Do all the pixel copying required.<br />3. Unlock.<br /><br />In the near future, this will take some time to implement. In the long run though, it might allow for me to add special drawing features like alpha blending (partial transparency), because I will have direct control over how it works and be able to optimize it.<br /><br />Lemur:<br />The first part is expected, it will change the resolution to 800x600 with 24bit color. Plus it takes a bit to do all the loading. There's no loading progress indicator set up yet.<br />Do your video card and monitor support 24bit color at this resolution?<br />If so, then I haven't figured out why it might be minimizing. (Unless something else is running that demands focus.)<br /><br />Xky:<br />I'm not sure why this is happening, but might have an idea.<br />When I'm running the demo and a message pops up from Instant Messanger or Outlook (the kind that show up at the bottom of the screen and fade away after a couple seconds), this causes the game to flicker a lot and it is really annoying.<br />You're right, you shouldn't be able to get into that nub of an area to the left. It requires the player to be 1 pixel shorter."
+	},
+	{
+		"id": 6996,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-13T19:43:48.000Z",
+		"content": "Too harsh?! No way! Your comments are very helpful! These are the things I'm asking for help noticing so I can go fix them!"
+	},
+	{
+		"id": 6997,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-04-13T23:11:05.000Z",
+		"content": "Funny thing, it's running now. My first thought was that something was stealing focus, but none of the programs running at the time should have been doing it. Even stranger, I'm running the same ones now, but it's working.<br /><br />Although it runs, it's not running well. No flickers for me, but it's slow. I have a PIII with a Radeon 9200SE, so it's not a too-low-specs problem.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 6998,
+		"title": "Fixed!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-14T04:58:07.000Z",
+		"content": "Well, I'm one forgetful fellow. It's a direct result of some code I originally put in to test and planned to remove later. Unfortunately, the \"test\" was tuned quite well to my computer, but not for substantially faster or slower machines. So I forgot I did it.<br />I've fixed it, but in the meantime I was working on other changes and I'll need to finish another feature before updating. Should have it ready Thursday (today or tomorrow, depending on your timezone). Um, within 24 hours.<br /><br /><br />Technical details follow for anyone who cares:<br /><br />The way a game keeps things moving smoothly with variable frame rates is by scaling the movement according to how long it is took to draw the last frame.<br />Well, it's quite possible for one frame to take a LOT more time than others, because something else on the computer suddenly required a lot of the processor, even if just for an instant.<br />Now, imagine that at 60 fps, something moves 5 pixels per frame. But for just one frame, the fps dropped to say 5. If everything is scaled the same, that object moves 60 pixels in just one frame.<br />This can be pretty hard for the player to follow, and if it happens a lot, might make you [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  or worst of all, you end up with a [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img]  and a [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]  <br />So typically, an engine will take the time it took to draw the last frame, and mod it with something reasonable, say 100 milliseconds. The result of this is that even though it might get slightly choppy, the game will play at the same overal speed at as low as 10 fps. (But once you go below this, it actually slows down.)<br />So I decided to play around with this one day. At first I tried (time mod 255) This was a decent choice. It means the game expects every frame to take between 1 and 255 milliseconds to draw. (255ms = about 4 fps).<br />Then I thought, what framerate do I want the engine to do? I figured about 30fps would be a good target. For this framerate, a frame can take between 1 and 33.33 milliseconds to draw. Well, since I want to use a bitwise And instead of a mod (much faster), 0x1f is as close to 33 as I can get, so that's what I used.<br /><br />So what's the problem?<br />Well, suppose the last frame took 31 milliseconds. (This is about 32 fps.) Well, the engine gets told that it took:<br />31 mod 31 = 0 milliseconds.<br />Oops! Now nothing moves!"
+	},
+	{
+		"id": 6999,
+		"title": "Re: Fixed!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-14T19:10:50.000Z",
+		"content": "Thanks again everyone!<br />The download has been udpated.<br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo10.zip]Updated Tech Demo[/url]</b> (234kb)<br />(Replaced the old zip.)<br />There is not a patch update zip, because that file grew to over half the size of the full download. And the full download is only 234kb. How long until it gets to be 314kb?<br /><br />All the problems mentioned have been fixed!<br />Uh, with the exception of the tile depth.<br />Heres the list:<br />- Speed (fps) issues.<br />- Jump/Pogo speed. The walking speed was increased slightly, and the jumping/pogo speed decreased. (It still might not be quite right, what do you think?)<br />- Walking off an edge (Physics are fixed.)<br />- Keens feet in the secret area are hidden.<br /><br />Just a heads up:<br />There is a little bit of the ledge grabbing code in place. But it's far from complete. If you grab a ledge, press down to release. If you grab a ledge on the left of a platform, you will get \"stuck\". After releasing, either press jump a bunch until you get on top of the platform or press a + left shift + left control to reset your location.<br /><br />There is also a problem in the movement and collision code that causes the player not to land on top of the bounder sometimes. (If the bounder is bouncing up while the player is falling down, it can happen.)<br />I know why this happens, but not sure yet how to fix it. (I know how it can be fixed, but I'm not sure I'm like it.)"
+	},
+	{
+		"id": 7000,
+		"title": "Re: Fixed!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-04-14T21:07:20.000Z",
+		"content": "I know how it is. The files just grow and grow until you have no disk space left [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />The game physics have vastly improved in such a short time, congrats [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I've noticed that sometimes jumping up and not pressing any other key, Keen moves a bit sideways. He should stop accelerating when he touches the ground. Another thing with jumping is that when Keen jumps, he slows down sideways in CK 4-6, but not here. This is not a bug. It's just that I like better how the later games behaved, others may like the former ones.<br />The pogo speed (without the jump button) is too slow now, compared to the other movements, but I still find the normal jump too high, and the jump+pogo very high.<br />Keen can stand on the side of the goPlat, not even touching it, but still staying in the air. That may be a problem with the sprites bounding rectanges.<br /><br />I really like the improvements in the new engine, it feels more natural now! You're right that the graphics can be improved later, the engine is more important at this early stage. This too will be a good competition for my game [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 7001,
+		"title": "Classiness.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-04-15T00:59:32.000Z",
+		"content": "I didn't try the earlier one, but this latest one works nicely on my machine (1GHz, 32Mb graphics card). A couple of things that irritate me:<br /><br />- Everything runs too fast. The walking, the pogoing, that tripped out mega-bounder...<br />- Ctrl affects the pogo too late into the bounce--a few pixels from the small-bounce climax one can still launch to full height.<br />- Gaps that are too small for Keen to fit in... the one at the bottom left, and those single-tile pits... maybe the sprite or tile sizes could be reconsidered? Probably won't be an issue when it comes time to designing actual levels with that in mind, though.<br /><br />Looking good, though. Seems you've made alot of progress since techdemo 6 I tried last year.Cave assectatorem Ductoris Alacris <br /><br />\"You are so afraid to <i>live</i>--so afraid of <i>life itself</i>--that you've given up the <i>very nature of your being</i> in trade for security.\"<br />-CWG Book 3, Neale Donald Walsh<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 7002,
+		"title": "Re: Classiness.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-04-15T04:29:29.000Z",
+		"content": "I like this engine, and especially the graphics in that test level. The \"dopefish-bounder\" is also pretty cool. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 7003,
+		"title": "Re: Requesting Critique",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-04-21T17:46:01.000Z",
+		"content": "Very nice engine! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  The Dopebounder looks funny![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />But IMO the Pogo-Jump is too high! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] <br /><br />- We want  \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 7004,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-22T15:36:58.000Z",
+		"content": "Thanks a lot for the comments guys, I'm glad you like the Dopebounder. (Not an official name, but does accurately describe what I was trying to do.) In the end, I want to have a \"dopefish bounder\" and a \"nerd bounder\" to demonstrate two ends of the AI spectrum.<br />But given the complexity of a nerd bounder's thinking, I'm afraid this may end up slowing the game down too much. We'll see, the AI has a LONG way to go.<br /><br />Z-1, Haven't found it yet, but I see the same thing with moving (very slightly) when jumping sometimes.<br />The physics system is fairly easy to work with, all I have to do is adjust the inputs (velocity and acceleration). I'm proud of this. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <br /><br />Thanks Spleen, glad to hear it's working right for you now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   (Remember that?)<br />Speed I'll have to play with this a bit, when you keep working with something a lot, you get really used to the speed so you don't notice that it is wrong. It's good to have outside observers to catch that.<br />You're right, those gaps that Keen can't fit in are because of sprite sizes. (Or bounding area sizes to be more specific.) You can see the rectangular area the engine is working with by pressing A+2+Enter.<br />The jumping when pogoing thing is an issue too. Need to go back and addressed that...<br /><br />I think you're right, Grandy. It is a bit high.<br /><br />I've been working on a few useful changes, hopefully I'll have a more user-friendly and speedier engine available later today."
+	},
+	{
+		"id": 7005,
+		"title": "Re: Requesting Critique",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-04-25T21:04:29.000Z",
+		"content": "Those speedier engine changes took a while longer due to a small but difficult to find bug. (Needed to add 31 instead of 32...grr)<br />Anyway, the download has been updated.<br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo10.zip]New Tech Demo[/url]</b><br /><br />I didn't think this update needed an all new version, so its the same download location.<br />Besides making the engine a bit faster, there are a couple other helpful features.<br /><br />1. Loading status on startup. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />2. Switch in settings.ini for syncronizing the drawing to the screen refresh. Set REFRESH_SYNC to FALSE (all CAPITALS) if you want to see the actual FPS in debug mode. (The red number.) When playing, you'd never want this set to false because it causes \"tearing\" and the odd jumpy movement.<br /><br />Have not messed with the jump and pogo height or the depth of tiles.<br /><br />In case you're wondering, the speedier code was a change to the way the engine finds solid ground. Before it was using an array of true/false values for each tile, so it had to go one pixel at a time to look for a solid spot.<br />But now each tile has an array of 32 bit values, with each bit replacing the old true/false value above. The benefit of this is that it can check 32 pixels at once. Plus the tiles are exactly 32 pixels wide... convenient, huh?<br />On my machine, the speed improvement is about 5 fps. Going from about 105 to 110 fps. So this isn't much right now, but there are only two objects using this new feature - the player and the dopey bounder. In an actual level, there can be many more objects, so this will have a huge affect on performance."
+	},
+	{
+		"id": 7006,
+		"title": "Warning!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-06-16T15:38:26.000Z",
+		"content": "First of all, awesome to see this stuff restored!<br /><br />Secondly, I wanted to warn everyone, I've found a tricky little bug in the last demo release.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img]  It has been fixed, but I can't upload a new version since I'm partially done with a number of other features that require other content (additional level file sections, more graphics, etc).<br />The good news is that this bug probably wont affect anyone.... but it could. If your computer has been running non stop for a long time (at least a couple weeks), it is possible that the game will act very strangely. Because of a bug in the timing code, the game might think that time is moving backwards.<br /><br />Just a heads up to everyone, if it acts really weird, be advised that I'm aware of the problem and a fix is forthcoming. I'm very sorry to anyone who has been frustrated by this bug already."
+	},
+	{
+		"id": 7007,
+		"title": "Re: ngngngngngngngngng!!!!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T00:43:51.000Z",
+		"content": "hrmmm!<br /><br /><br />When coming back from the area from the spikes, and onto the ledge, I pogo'd off the lift and onto the platform. keen grabbed ahold of the ledge, and then EVERYTHING went haywire as keen refused to jump, pogo run, or climb the ledge. it started treating the thin air he was standing on as solid and then norton came up with a dialog saying that the game was a 'malicious script'. then the entire system locked up and I had to do an emergency shutdown [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  (holding the power button down untill everything stopped.) PLEASE repair this bug, as  otherwise it was a good game. <br /><br /> the only other programs running at the time was the folder viewer - to open the game from and various background programs- including norton."
+	},
+	{
+		"id": 7008,
+		"title": "Weird jumping:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T01:38:11.000Z",
+		"content": "It may be just me; but when keen jumps or pogos, it will follow a random pattern like this:<br /><br />\"Up Nice, Now I'm compleatly on the ground, fly up, down nice, wham (I'm at the ciling).\"<br /><br />I basically have pogoing that changes speed from 60 Km/H to 600 Km/H, and looks crummy. The bounder is nice, but has the same problem as well.<br /><br />Don't need to be harsh, but the game is really a strain on the brain until it's fixed.<br /><br />Nice game play though, and I like Keen (he's wearing a pink shirt [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] )<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 7009,
+		"title": "New demo, more criticism",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-10-11T22:55:44.000Z",
+		"content": "Just when you thought it was dead, this project arises from the grave. Okay, it was never in the grave, just didn't want to post any new updates until there was something substantially new.<br />There is now something substantially new. Download the demo here:<br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo11.zip]Keen Tech Demo 11[/url]</b> (about 290kb)<br /><br />A quick description of the demo level:<br />You start out next to a rotating group of platforms. They aren't moving. Hit the switch to start them.<br />Above you will see a set of platforms that follow a wandering path. In fact, you'll notice that the two switches that affect these platforms also turn the rain on and off. There are some new tile's I'm working on up here too.<br />Back from where you start, if you walk to the right, through the hallway, you'll find another set of platforms and two switches. The second switch will have no noticeable affect right now. The first one you come across turns these platforms on. Take a ride on these and you'll end up in a large mostly empty area with a lot of platforms following a long twisty path. You may also notice that you can't get out. That's where the other switch comes in.<br />At the bottom of this large area, you'll find a lonely switch. Switch it. Nothing may seem to happen at first, the switch will appear to flip back after a second. What happened is that the platforms have been switched to a different path. Now you can take the platforms to get back out of this area. Back in the hallway, the switch that previously had no effect switches these platforms back to their original path. Nifty, huh?<br />And the level looks a little prettier too, making use of multiple parallaxing tile layers.<br /><br />For a quick list of the new features:<br />[url=http://keen.keenx.com/keen/files/WhatsNew11.txt]WhatsNew11.txt[/url]<br /><br />There are a few known bugs, those are mentioned here:<br />[url=http://keen.keenx.com/keen/files/KnownBugs11.txt]KnownBugs11.txt[/url]<br /><br />Also, CommanderSpleen mentioned the speed. It is still too fast. But it's convenient for a tech demo to get around and see everything quickly. I'll probably slow it down next time"
+	},
+	{
+		"id": 7010,
+		"title": "Re: New demo, more criticism",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-10-15T21:44:33.000Z",
+		"content": "its gotten much better with the newer demos. as spleen said... yes the speed is too fast. also i noticed that the jump and pogo are way to high. get it down a bit.  also sometimes when you jump and you move around in the air, you move a large amount... this makes it hard to get on those small platforms which takes a more presise movement.  good work so far! keep it up. i think the weapon switch idea is interesting and is implemented well."
+	},
+	{
+		"id": 7011,
+		"title": "Re: New demo, more criticism",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-16T07:14:55.000Z",
+		"content": "Agree, there's nice progress again! Yeah, the pogoing is a bit too high, and doesn't feel Keen yet. As well, the ledge grabbing doesn't work yet. Good work! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 7012,
+		"title": "Re: New demo, more criticism",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-16T10:14:52.000Z",
+		"content": "Another nice demo, there's definitely progress. Can I steal your idea that the switch can alter the goplat's path and do other things I haven't thought about before? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img] <br /><br />I could repeat what the others said but it's pointless, so here are other things I've found:<br />-there are two suns in the background. There could be more suns on an alien place, but I doubt it was on purpose.<br />-you should make Keen able to drop through the moving platforms. I jumped on the one at the and of the tunnel to the right, and got stuck.<br />-It's hard to control Keen. (I know that others've stated this before)<br /><br />There's not much more I could say, just do what you'd do anyway and it'll be a nice game."
+	},
+	{
+		"id": 7013,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-10-16T22:27:12.000Z",
+		"content": "Hey, this is definitely an improvement--no flickers over here, this time!<br /><br />I had trouble starting it up the first time--evidently there's some incompatibility with the Nintendo Animal Crossing Desktop Clock... I had to close that down before things would boot properly.  <br /><br />Once I was in the game, I noticed some strange collision things.  Like sometimes Keen would get stuck on corners--especially if I was using the pogo stick.  One time I managed to grab hold of the ledge up near the rain, and while Keen was hanging on to the edge, I pressed \"up\" to climb up, and triggered the switch instead.  Oops!  I rode the platforms down around the bottom area for a bit--the multi-layered scrolling looks very nice, though It'd be cool to see some sort of foreground object (like leaves/trees/etc) as well as clouds.<br /><br />I ended up quitting because after I rode the elevators back to near the starting point, I pogoed along the wall trying to get through the narrow passage the goplats go through, and well... Keen got stuck.  I could turn the pogo on and off, and fire okay, but I was stuck facing left, wedged in mid-air approximately next to the upper corner of the opening.  <br /><br />Other than some strange collisions, it looks great--kudos on the improvement!  :-)<br /><br />Edit: I couldn't delete the folder the game was in, after running it, because the .EXE was still listed as a running process in the Task Manager!  You gotta fix that thing so that it closes properly.  :-)"
+	},
+	{
+		"id": 7014,
+		"title": "Re: hehe",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-10-20T18:06:31.000Z",
+		"content": "By all means, go ahead and use the alternating switch idea! Speaking of stealing ideas, I have an email to write...<br /><br />Still playing around with the speed a bit, should be a lot closer next time. I'm finally attempting to tune it to the episode 4-6 games instead of just whatever speed works.<br />I see what you're saying about the air movement. Thankfully, this is driven by one variable in the player code... so tweaking it is quite easy.<br />The two suns is on purpose. (they are just part of the background tile layer.)<br />As long as I don't forget, I think jumping down through platforms can be added quickly.<br />Not sure about the Nintendo Animal Clock incompatibility... unless that is demanding full access to the screen.<br />Getting stuck on the corners is due to the ledge grabbing. It still happens even when you're using the pogo. (So if you get stuck with the pogo on, press alt and you'll suddenly be hanging...)<br />Don't know about the exe still listed as running, but it's highly likely that it was due to the incompatibility with the Nintendo Clock. Err.. did you quit by pressing \"Esc\"?<br /><br />You're right about the foreground objects, I think I only have a couple foreground clouds in the foreground. It's just a graphics problem. (The problem is I don't have graphics.) If I had graphics, I could just drop them in the level and it would work."
+	},
+	{
+		"id": 7015,
+		"title": "Holy cow!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-10-25T19:31:53.000Z",
+		"content": "I guess I'll be releasing a new demo much sooner that originally planned! (probably just an exe to replace the last one)<br />I was testing this latest demo out and found serious performance problems, but only on my much better machine. (Yeah, go figure, it works slowly on the really fast computer, but nicely on the slower computer...) Well the fix to this problem was not very simple. But it accidentally opened up another change I could make to the graphics system. One that might improve the speed (fps) of the game. I tried it out and ... HOLY COW!!!<br />Where it was previously running at around 125 fps, it is now running around 300 fps! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  <br />Soon I'll have an update available that will address most of the problems you've pointed out. (I say most because I don't plan to add any more graphics yet. But the movement, ledge climbing, jumping down, etc. should be fixed.)<br /><br />edit:<br />I've also noticed that I shouldn't be displaying the fps through the \"debug display mode\" as I was previously. The way a lot of the debug information is displayed causes a noticable drop in performance (from 300 fps to about 250 fps.) You'll be able to see just the frames per second now, and you shouldn't have to turn the screen refresh sync off."
+	},
+	{
+		"id": 7016,
+		"title": "Re: Fixes :)",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-11-07T19:38:41.000Z",
+		"content": "I think I've fixed all of the bugs found so far. If you have some time, please try out the updated engine. The speed has been \"fixed\" too, so play with it and tell me if something is too fast or too slow.<br />Also, you can jump down through platforms as you'd expect. (Although sometimes you wont go all the way through, but thats temporary.)<br /><br />If you already downloaded the full demo, you can just replace keen.exe with this:<br /><b>[url=http://keen.keenx.com/keen/files/Keen_exe.zip]Keen Tech Demo exe only[/url]</b> (about 90kb)<br />Otherwise, the full download has been updated here:<br /><b>[url=http://keen.keenx.com/keen/files/keentechdemo11.zip]Keen Tech Demo 11[/url]</b> (still about 290kb)<br /><br />Also, in addition to the previous debug access, you can see the fps speed of the game by pressing \"f\". Although technically the game is still limited by your monitor's refresh rate (usually that means 60 fps), the game engine actually does everything it needs to do to draw the screen in less that 1/60 of a second. So the game sits around waiting for the rest of that 1/60 of a second for the monitor to be ready for another screen. The \"fps\" displayed by the engine is a reflection of how long the engine is actually doing any work, not including the wait time."
+	}
+]

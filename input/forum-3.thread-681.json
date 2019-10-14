@@ -1,0 +1,122 @@
+[
+	{
+		"id": 338,
+		"title": "Keen:Modding down?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-14T14:31:39.000Z",
+		"content": "I keep getting a 403 error when trying to visit Keen:Modding; does anyone else have this problem?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10051,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-14T14:53:50.000Z",
+		"content": "Of course they do, because 403 means 'forbidden'. The rights for anyone on the internet trying to visit that site are probably set wrong (\"not allowed to read files on site\").____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10052,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-14T14:54:56.000Z",
+		"content": "Yeah, for a day or two already. No idea what's wrong, haven't heard anything nor got any mail about it.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10053,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-14T15:23:46.000Z",
+		"content": "it does'nt care me if that site now has got an 404 (or 403?) error, because i never visit it, i like this site more[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 10054,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-14T17:16:19.000Z",
+		"content": "You should if you're gonna make a mod. You'll need the great collection of patches that are there.<br /><br />BTW, I contacted Andy about this issue the other day, and he's still working on resolving this one.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 10055,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-15T06:10:15.000Z",
+		"content": "I'm back in![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10056,
+		"title": "Re: Keen:Modding down?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-15T07:48:51.000Z",
+		"content": "I'm not. Gaaaaarg. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  Oh well, I guess it doesn't matter.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10057,
+		"title": "!!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-15T08:20:11.000Z",
+		"content": "Wow, that's uncanny.  It was up an hour ago.  Wonder what's up with the server."
+	},
+	{
+		"id": 10058,
+		"title": "Re: !!",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-15T18:27:16.000Z",
+		"content": "It just gives me a generic \"cannot display this webpage\" error...------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 10059,
+		"title": "Re: !!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-15T18:35:12.000Z",
+		"content": "Firefox 2.0 on Fedora Core 4 says:<br />[quote]<b><i>Quote:</i></b>[hr]<br />Unable to connect<br />Firefox can't establish a connection to the server at www.keenmodding.org.<br /><br />* The site could be temporarily unavailable or too busy. Try again in a few           moments.<br />* If you are unable to load any pages, check your computer's network connection.<br />* If your computer or network is protected by a firewall or proxy, make sure that Firefox is permitted to access the Web.<br />[hr][/quote]<br />------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 10060,
+		"title": "Re: !!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-15T19:01:49.000Z",
+		"content": "Same here. The web server seems to keep disappearing, although pinging the server itself and accessing FTP on server (not logging in, though) seem to work."
+	},
+	{
+		"id": 10061,
+		"title": "Re: !!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-16T05:35:32.000Z",
+		"content": "I can still get in; there have been no breaks in service for me. (Usin' Firefox n' foxy proxy.)[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10062,
+		"title": "Re: !!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-16T07:10:09.000Z",
+		"content": "Now it's back for me. At least for time being. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Edit: And now it's not.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10063,
+		"title": "Re: !!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-16T16:38:27.000Z",
+		"content": "@Levellass: It's possible that your access is uninterrupted because the server goes down whilst you're offline, and comes back up before you go online again. This seems to be the case for me, as the list of new K:M posts is updated in my feed reader when I come home from school - even though I can't get on to the forums themselves."
+	},
+	{
+		"id": 10064,
+		"title": "Re: !!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-17T22:46:21.000Z",
+		"content": "Andy says in K:M that he should've fixed the problem by now.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	}
+]

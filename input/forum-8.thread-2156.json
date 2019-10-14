@@ -1,0 +1,130 @@
+[
+	{
+		"id": 735,
+		"title": "Mmmm, everything's Adlib",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T13:31:08.000Z",
+		"content": "Okay, I have done something with my high-end Windows 98 computer I never thought was possible before! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />First, I bought an older sound card that still supports OPL2/3 FM synth. Then I installed a \"Yamaha OPL2/3 synth\" driver that apparently comes standard with Windows 98. I set it up as the MIDI synth to use, and... Bam! All MIDIs on the PC (even those in games) are outputted through the Adlib FM synth!<br /><br />I love this, everything has an Adlib sound, and if I ever get tired of it I can just switch back to MS's boring wavetable synth. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  <br /><br />Now to find a way to record the Adlibbed MIDIs playing... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19324,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-07T16:19:06.000Z",
+		"content": "I am sure you could always use Winamp to convert the Midis to Adlib-MP3s.<br /><br />That is REALLY cool though. Do you think there is any way I could do that in XP without buying a new card and downgrading?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19325,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T17:05:34.000Z",
+		"content": "Hmm, I'm pretty sure there isn't. I haven't checked, but I think they left the Yamaha OPL synth driver out for Windows XP.<br /><br />I guess someone COULD make a Windows driver to emulate MIDI through a software FM synth, by taking the DOSbox/MAME FM code and making it into a driver or something. But I couldn't possibly do that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]I am sure you could always use Winamp to convert the Midis to Adlib-MP3s.[hr][/quote]<br />Oh really? And games that use MIDIs? Some hide/compress their MIDIs or have it in one huge data file, but for the OPL driver this doesn't matter at all. Even music creation programs use the OPL driver! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19326,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:24:13.000Z",
+		"content": "I'm not sure what you mean, but I for example, have Duke Nukem 3D, Shadow Warrior and Rise of the Triad playing MIDI through the Timidity++ software synthethiser, from DOSBox (easy, edit your dosbox.cfg file to redirect MPU-401 data to ALSA port 128 in my case). Timidity also runs on Windows, and there *should* be a binary Win32 package somewhere.<br /><br />Timidity, with proper patches, with DN3D and DOSBox, is way cool.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19327,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T17:29:45.000Z",
+		"content": "Hey, pretty cool there, I should try it in Linux sometime (Windows Timidity+ and the stuff around it really sucks). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I meant like the default software MIDI driver Microsoft delivers with any Windows OS (the one that uses GM.DLS), but then modified to use software FM code.<br /><br />I'm not sure if any Linux distribution is capable of accessing the Adlib FM port, but that'd be way cool too. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19328,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:40:17.000Z",
+		"content": "I guess that you could access it by creating a small kernel driver that creates a character device that receives Adlib data or something, and writing a client application that actually uses it.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19329,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-07T22:25:56.000Z",
+		"content": "IIRC there is already an OPL driver for Linux, just like the OPL driver for Windows that DaVince is talking about.  I think it presents a couple of MIDI devices so you can use it for playing MIDIs too.<br /><br />I'm surprised you like the sound of it though DaVince, I grew up with that sound until I bought an SBLive, and I much prefer wavetable instruments for MIDI.  Are you sure they removed the OPL driver in XP though?<br /><br />As to how you can record it, one of the SoundBlaster 16 inputs is the FM synth, so if you have one of those cards you can use Windows Volume Control (in recording mode) to select the FM/MIDI input and then record as normal, but you do get some noise in the background.<br /><br />An alternative is to build something like an [url=http://www.cc.jyu.fi/~jrop/specials/digisnap/]Adlib Digisnap[/url], but only for the truly dedicated...<br /><br />Also, if you don't want to add a new sound card to your PC, you might consider downloading some MIDI playing software for DOS (I use Creative Labs' original SoundBlaster playback software - I can post it here if anyone is interested.)  This will let you play back MIDIs through DOSBox using the emulated FM synth, which you can then record to .wav or capture to .dro and play back in Winamp/XMMS with AdPlug.  It also uses slightly different OPL instruments to the Windows driver, so the MIDIs sound slightly different."
+	},
+	{
+		"id": 19330,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-07T22:57:06.000Z",
+		"content": "Hm... Now that we're on the subject... Does anyone know where I can get soundfonts of the Adlib instruments? I've found a nice NES one, and one with sounds from SNES games, but an Adlib one would just be awesome. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19331,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-08T07:37:19.000Z",
+		"content": "I was planning on making a sample pack (dunno how to sf it), but I stopped making that halfway somewhere. I guess I could finish that.<br /><br />The difference between DOSbox and real OPL sound is exactly why I want to record the real thing. I can't do it through the Windows volume control though (I tried). Digisnap's going too far for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19332,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T11:18:31.000Z",
+		"content": "I liked that SNES SoundFont, but I don't think there's too much call for using the latest audio technology to reproduce the oldest.<br /><br />And I really must be not paying enough attention - I don't think I've ever noticed a difference between DOSBox and a real OPL (well not a big difference anyway.)<br /><br />If you really want to record the OPL stuff on the cheap you can do it the 'crapola' way, which is to get one of those headphone loopback cables (they have a headphone plug on both ends) and plug the OPL card's line out into a halfway decent card's line in (most discount stores stock cables like this, or if they don't, they stock enough other cables and adapters that you can construct your own.)  Then just record from one card while you play back on the other.  It's probably easier if you use two different PCs, but if you set up the devices properly in Windows it's simple enough using just the one PC (but you'll probably need two sound cards, because most cards with OPL chips were of the era before you could record and play back at the same time...)<br /><br />...or you could just get an ISA SoundBlaster 16 or a PCI SB Vibra off eBay which *can* record off its internal OPL3 input."
+	},
+	{
+		"id": 19333,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-08T12:54:22.000Z",
+		"content": "*Notices she's the only one on the board who doesn't know what's going on, how JPG compression works, whhat anti-aliiasing does or how to type in hypertext.*<br /><br />*Suddenly feels very childish*[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19334,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-08T17:00:53.000Z",
+		"content": "You shall learn or die. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19335,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T17:36:41.000Z",
+		"content": "I don't know about JPG either, and I doubt most people could make a program to compress in JPG if they were asked to do so. I bet most know nothing about that file format.<br /><br />I read that as \"You shall learn to die.\" at first. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19336,
+		"title": "Re: Mmmm, everything's Adlib",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-08T17:42:21.000Z",
+		"content": "Malv, that is a genious idea. I could just loop it back from the line-out to the line-in plug though, even if I can't hear what I'm recording then. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />If I find (or make!) such a cable, I'll record some MIDIs that sound great as FM synthed songs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19337,
+		"title": "Well,",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-05-08T21:54:47.000Z",
+		"content": "The easiest thing on my end would to have two sound cards and a dual boot system, hopefully that wouldn't get annoying TO fast."
+	},
+	{
+		"id": 19338,
+		"title": "Re: Well,",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-05-13T18:49:00.000Z",
+		"content": "My sound card let's me record and play back simultaneously, and i use it a lot to record anything coming out the speakers, or even specific stuff like the cd audio in windows volume control.<br /><br />However, my old comp doesnt seem to have this ability, which is disappointing since a lot of good stuff is on there. But i have a connector to plug into the line out of the sound card into the line in of my new comp, and problem solved. Is this what Malv was saying back up there?<br /><br />A kvm switch would work well for this; i'm in the latent process of effecting that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] \"Out of curiosity, what is that score in the Earth measurement system?\" The official searched through his papers momentarily.<br />\"...That would be three hundred fifteen.\"<br />\"Three hundred fifteen... This person must be the most intelligent being throughout the entire Universe.\" No one in the room had any immediate comment."
+	}
+]

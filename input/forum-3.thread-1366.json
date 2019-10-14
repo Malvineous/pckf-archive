@@ -1,0 +1,586 @@
+[
+	{
+		"id": 340,
+		"title": "Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-28T09:43:26.000Z",
+		"content": "Hi, im new here. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />i wanna know how to create a keen mod.<br />i searched everywhere but did not find the answer.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 10073,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-28T10:09:30.000Z",
+		"content": "Try googling Keen:modding; it will lead you to the #1 modding site, with info on tools to use and patches.<br /><br />The biggest question is what game you want to mod, 1-3 or 4-6; the first is much easier than the latter. I'll see if I can write up a tutorial sometime.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 10074,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-28T10:16:47.000Z",
+		"content": "well i just try to mod keen 4. if this works good, i'll think i'll start modding keen 6 but that will be later.<br />anyway, thanks for help[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-spotkeen.gif[/img]  <br /><br /><br />EDIT: i found a program called modkeen32. is this for keen 4-6?"
+	},
+	{
+		"id": 10075,
+		"title": "Re: Making a keen mod",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-28T15:24:40.000Z",
+		"content": "AFAIK, modkeen32 will only work on Keen 1-3. You'll need ModKeen2 to edit the graphics in Keen 4-6."
+	},
+	{
+		"id": 10076,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-04-28T16:32:13.000Z",
+		"content": "Yeah, modkeen32 is the old 1-3 modkeen compiled again in 32 bit instead of the old 16 bit (IIRC) because the old stopped working on some machines, such as mine.<br /><br />Anyways, welcome. Cool that we're getting a lot new members lately. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Using the modding programs will be really easy, but the difficult part is that there's a lot to do (obviously), mainly the graphics. Good luck with that, Keen 4-6 is a lot work. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10077,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-28T17:09:34.000Z",
+		"content": "where can i download modkeen2?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]"
+	},
+	{
+		"id": 10078,
+		"title": "Re: Making a keen mod",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-28T17:11:54.000Z",
+		"content": "Another nice site for modding tools and mods is [url=http://dosclassics.com/.]dosclassics.com/.[/url]<br /><br />Welcome to PCKF btw! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10079,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-28T17:18:17.000Z",
+		"content": "good looking site[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   but can you (or someone else) post a link to modkeen2?<br /><br />EDIT: well... i found it: [url=http://www.keenmodding.org/viewtopic.php?t=276]www.keenmodding.org/viewtopic.php?t=276[/url] but the download does'nt work[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 10080,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-04-28T18:37:01.000Z",
+		"content": "[url=http://dosclassics.com/download/191]dosclassics.com/download/191[/url]<br /><br />Here's a working link.<br />It only says \"ModKeen,\" but it's version 2.0.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 10081,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-28T20:08:54.000Z",
+		"content": "thank you very much[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   <br />now i finally got it. <br />but eh... how do i work whit it?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]  and there are so much tools to make a mod! which should i use?<br /><br />man this takes more work then i throught[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]"
+	},
+	{
+		"id": 10082,
+		"title": "Re: Making a keen mod",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-29T10:22:01.000Z",
+		"content": "Well, there are a few things you need to make a mod - you need ModKeen (to put your edited graphics into the game), a level editor (like CKludge for Keen 1-3, or Keen: Next for Keen 4-6) and CKPatch (to add patches to the game). The amount of work needed to make a Keen 4-6 mod is massive, so you might want to start off making a Keen 1-3 mod."
+	},
+	{
+		"id": 10083,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-29T10:34:59.000Z",
+		"content": "Didn't I tell you to start with 1-3?<br /><br />You've got your work cut out for you, and a lot of work it is!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 10084,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-29T20:30:08.000Z",
+		"content": "but is modkeen somthing like paint? but then only for keen?"
+	},
+	{
+		"id": 10085,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-04-29T20:38:01.000Z",
+		"content": "No. Modkeen is just a small program that extracts all of the images from the game. From there, you can use Paint, Photoshop, or whatever, to edit all of the images.<br />Then you can use Modkeen to put the edited images back into the game, so that you can see them when you play it.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 10086,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-29T21:00:46.000Z",
+		"content": "ooh ok i get it 100%[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img]  <br />i will work with it tomorrow.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br />EDIT: how can i extract the pictures?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]"
+	},
+	{
+		"id": 10087,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-30T14:01:02.000Z",
+		"content": "To extract:<br /><br />either make a BAT file, or access the command prompt, enter this command:<br /><br />modkeen -episode=4 -export<br /><br />To import use:<br /><br />modkeen -episode=4 -import<br /><br /><br />Make sure your Keen executable has been UNLZEXE'd first.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 10088,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T09:19:33.000Z",
+		"content": "and how do i create a BAT file?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]"
+	},
+	{
+		"id": 10089,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-01T09:47:58.000Z",
+		"content": "You create a file and rename it to '(name).bat'.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10090,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T10:17:03.000Z",
+		"content": "but when i click right mouse button and then 'new' i don't see it: [url=http://imageshack.us][img]http://img182.imageshack.us/img182/209/makebatfilecr8.png[/img][/url]<br />(i got a dutch pc btw)"
+	},
+	{
+		"id": 10091,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-01T11:23:09.000Z",
+		"content": "Create a new text file ('Tekstdocument') and rename that.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10092,
+		"title": "Re: Making a keen mod",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-01T11:23:28.000Z",
+		"content": "Yes, so you create a random file and rename it to file.bat...<br /><br />Is it me, or do you seem to be lacking some basic computer skills? It's recommended that you learn a bit more about files and how to go around and do stuff before starting to mod. After all, people who grew up with graphical OSes probably never even used MS-DOS much, and it can look like hell for them. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />- Make a file. Doesn't matter what kind of file, but txt is recommended because those are easy to open in notepad.<br />- Enter MS-DOS commands in the file in notepad (NOT Word or Wordpad, because that adds extra garbage to the file you don't want).<br />- Rename the extension of the file to bat.<br />- If you want to edit the file further, right-click the bat and select 'edit' (or 'bewerken' in Dutch).____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10093,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T11:36:42.000Z",
+		"content": "to say the truth, i know much about computers but not with things like console code things and such[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt;    im sorry[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  <br /><br />edit: ok your right i think[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]  im doing it totally wrong i think: [url=http://imageshack.us][img]http://img159.imageshack.us/img159/3391/makebatfileeo6.png[/img][/url]"
+	},
+	{
+		"id": 10094,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-01T12:17:23.000Z",
+		"content": "Either:<br /><br />1.) Your KEEN4.EXE is not version 1.4 (Get and use the version 1.4 patch if this is so.)<br /><br />or<br /><br />2.) (More likely) you have not decompressed your KEEN4.EXE. The file should be 257 KB in size, if it is much smaller, get UNLZEXE and drag your KEEN4.EXE on top of it.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 10095,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T12:20:32.000Z",
+		"content": "thanks levelass[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   you always got much to explain[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  <br />and some messages back you sad my keen must me UNLZEXE or somthing like that?? whats that[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-celtic.gif[/img]"
+	},
+	{
+		"id": 10096,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-01T14:47:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Yes, so you create a random file and rename it to file.bat...<br /><br />Is it me, or do you seem to be lacking some basic computer skills? It's recommended that you learn a bit more about files and how to go around and do stuff before starting to mod. After all, people who grew up with graphical OSes probably never even used MS-DOS much, and it can look like hell for them. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />- Make a file. Doesn't matter what kind of file, but txt is recommended because those are easy to open in notepad.<br />- Enter MS-DOS commands in the file in notepad (NOT Word or Wordpad, because that adds extra garbage to the file you don't want).<br />- Rename the extension of the file to bat.<br />- If you want to edit the file further, right-click the bat and select 'edit' (or 'bewerken' in Dutch).[hr][/quote]<br /><br />i love dos it only does what you tell it to do<br />it's much smaller faster and it eats almost no resources<br />ok it has no fancy gui <br />but you can get nice small and efficient gui's for dos like quickmenu<br /><br />for people that only write .doc files e mail and internet a bit a p3 is easy overkill<br /><br />as for me my first pc [an ibm xt model 2] it only had 6MHz 640kb ram a 5.25\" floppy dirive and the harddisk was only 20mb[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 10097,
+		"title": "Re: Making a keen mod",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-01T16:10:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]to say the truth, i know much about computers but not with things like console code things and such&gt;: im sorry[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  [hr][/quote]<br />But you've been struggling over some other things too, like file creation and things that are documented / there are tutorials/articles/etcetera about...____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10098,
+		"title": "Re: Making a keen mod",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-01T18:53:15.000Z",
+		"content": "In all fairness, there aren't that many tutorials and articles, and the patches and stuff take a while to find if you don't know where they are. Besides, not being completely fluent at English doesn't exactly help."
+	},
+	{
+		"id": 10099,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T19:38:33.000Z",
+		"content": "the reason why my pc  skills are so bad is too because i'm 13[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]"
+	},
+	{
+		"id": 10100,
+		"title": "Re: Making a keen mod",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-01T21:04:29.000Z",
+		"content": "Eh, I guess so. But Keen:Modding is pretty full of topics about modding, isn't it?<br /><br />I forgive you, my son. Nah kidding. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10101,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-02T08:14:59.000Z",
+		"content": "ok, i got it. i used DOSbox to run it and this is what it says:<br /><br />UNLZEXE Ver. 0.8<br />usage: UNLZEXE packedfile [unpackedfile]<br /><br />are there any commands to run it?<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]"
+	},
+	{
+		"id": 10102,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-02T08:37:58.000Z",
+		"content": "COOL!! i tryed it with keen 1 and it works! i will now create my own sprites[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   heres a pic:[url=http://imageshack.us][img]http://img181.imageshack.us/img181/9422/makebatfileeh7.png[/img][/url]<br /><br />edit:<br />im making a keen 1 better graphics mod, see this:[url=http://imageshack.us][img]http://img95.imageshack.us/img95/1144/keenbettergraphicsmodgu7.png[/img][/url]<br /><br />the left one is the-better-graphics one and the right one is the older version"
+	},
+	{
+		"id": 10103,
+		"title": "Re: Making a keen mod",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-02T09:33:37.000Z",
+		"content": "Unfortunately it doesn't quite work like that. The limitations of the original Keen games, such as the 320x200 resolution, still apply."
+	},
+	{
+		"id": 10104,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-02T09:34:58.000Z",
+		"content": "ow[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  sorry i really din'dt know that. thanks for saying it[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-spotkeen.gif[/img]"
+	},
+	{
+		"id": 10105,
+		"title": "Re: Making a keen mod",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T18:05:11.000Z",
+		"content": "If you want to learn the many beautiful graphics you can make using only the 16 EGA colours, take a look at other Keen mods and study their graphics. That's the way I learned. You can, of course, study the original games' graphics too.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10106,
+		"title": "Re: Making a keen mod",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-04T07:42:16.000Z",
+		"content": "Aye, study the great Xky and Xtra; anyone who's names start with that letter must be good. (I always wanted to be called Xanther.)[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10107,
+		"title": "Re: Making a keen mod",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-04T09:22:32.000Z",
+		"content": "im on 1/4 now i think. i have created all the yorp's ([img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] ) frames red and instead of the red [mushrooms?] they are now smileys."
+	},
+	{
+		"id": 10108,
+		"title": "I love it!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-04T17:12:13.000Z",
+		"content": "Watch out, 4 Golden Crystals... you've got competition!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  (I really liked those smile enemies... hehe)"
+	},
+	{
+		"id": 10109,
+		"title": "Re: I love it!",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-05T09:51:57.000Z",
+		"content": "Here's a pic of my tile conversion: [url=http://imageshack.us][img]http://img300.imageshack.us/img300/4268/keen1000du7.png[/img][/url]"
+	},
+	{
+		"id": 10110,
+		"title": "Re: I love it!",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-05-05T17:54:13.000Z",
+		"content": "Heh, cool, reminds me of when I first started modding [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Now start experimenting with changing the shapes of those red yorps and your on your way."
+	},
+	{
+		"id": 10111,
+		"title": "Re: I love it!",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-05T18:43:54.000Z",
+		"content": "is it really cool? thank you[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-spotkeen.gif[/img]  i will work further on it soon.<br />tomorrow i think."
+	},
+	{
+		"id": 10112,
+		"title": "Re: I love it!",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-05T20:38:52.000Z",
+		"content": "I like the smiley face. Just so you know, the original tile wasn't a mushroom, but a lollipop. You mean the 100 point item, right?------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 10113,
+		"title": "Re: I love it!",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-05T21:10:33.000Z",
+		"content": "yes i meaned the lollipop[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img]"
+	},
+	{
+		"id": 10114,
+		"title": "Re: I love it!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-06T02:34:24.000Z",
+		"content": "We need another 4GC style mod, bring it on![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10115,
+		"title": "Re: I love it!",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-06T05:28:56.000Z",
+		"content": "what is a 4GC style mod? (sorry if it's a stupid question)"
+	},
+	{
+		"id": 10116,
+		"title": "4GC",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-06T06:03:53.000Z",
+		"content": "Check out the [url=http://dosclassics.com/downloads.php?cat=0&subcat=4]Mods Section[/url] of DosClassics... \"The Four Golden Crystals\" was a mod created by Unfleexable, and can be found [url=http://dosclassics.com/download/4]here[/url].  I really like the smile-face enemies from the mod; I used them in the end-screen for XkyKeen3.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 10117,
+		"title": "Re: 4GC",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-06T08:36:28.000Z",
+		"content": "more pictures of my mod: [url=http://imageshack.us][img]http://img221.imageshack.us/img221/9800/keen1001vi1.png[/img][/url] <br />[url=http://imageshack.us][img]http://img221.imageshack.us/img221/4618/keen1002cb7.png[/img][/url]"
+	},
+	{
+		"id": 10118,
+		"title": "Re: 4GC",
+		"author_id": 1486722,
+		"author_name": "Battleguy01",
+		"timestamp": "2007-05-06T08:41:47.000Z",
+		"content": "*Sigh* Modkeen never worked for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] [img]http://i94.photobucket.com/albums/l115/battleguy01/sig_omega.jpg[/img]"
+	},
+	{
+		"id": 10119,
+		"title": "Re: 4GC",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-06T09:10:16.000Z",
+		"content": "too bad for you[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] <br /><br />question: is there a program to change the enemies its speed and more of such things?"
+	},
+	{
+		"id": 10120,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-06T15:36:05.000Z",
+		"content": "There's not exactly a program, but it is possible.  <br /><br />If you want to make any changes to the way the game works--Keen's jump height, the number of shots it takes to kill a Vorticon, the text for the menus, etc--you'll need to use the CKPatch utility.   <br /><br />Basically, instead of running Keen1.exe, you'll run MyMod.bat, which will change some of the code as it is loaded into memory--the same way the old Game Genie or GameShark devices work for game consoles.  <br /><br />It'll be a little more work, because there's no GUI to help you out--but for the most part, it'll just be a big text file full of things you cut and paste.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />There's a comprehensive patch index [url=http://levellord.toxicsheep.com/Index/]here[/url].  Good luck!"
+	},
+	{
+		"id": 10121,
+		"title": "Re: well...",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-06T17:37:15.000Z",
+		"content": "Some nice-looking tiles there. I like those blocks.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 10122,
+		"title": "Re: well...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T19:34:38.000Z",
+		"content": "Those tiles in the second screenshot look pretty trippy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Hoping to see this turn out into a great mod. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10123,
+		"title": "Re: well...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-07T12:40:39.000Z",
+		"content": "Awesome looking mod; I can't wait for it's release. (Secretly spazzes.)<br /><br />For enemy speed you'd be looking specifically for [url=http://levellord.toxicsheep.com/Index/Keen1/Sprite%20Patches/]levellord.toxicsheep.com/...20Patches/[/url] -&gt; section 4: Speed.txt Fiddle around until you understand what you're doing.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10124,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-07T16:16:43.000Z",
+		"content": "well because you really like it, here another screenie: [url=http://imageshack.us][img]http://img408.imageshack.us/img408/6691/keen1003bk2.png[/img][/url] don't touch the slime![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]"
+	},
+	{
+		"id": 10125,
+		"title": "Re: well...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:13:03.000Z",
+		"content": "It's starting to look good. You definitively are a slimelogist.<br />My slime tiles look awful.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10126,
+		"title": "Re: well...",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-07T17:35:18.000Z",
+		"content": "Looking good so far.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 10127,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-07T17:43:56.000Z",
+		"content": "and my slime is animated too[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  now only i have to make it bigger"
+	},
+	{
+		"id": 10128,
+		"title": "Re: well...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T17:49:04.000Z",
+		"content": "Slime slime slime. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  Does it bubble? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10129,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-07T17:55:19.000Z",
+		"content": "good idea! no it doesnt bubble, but now you sad so, im going to make that[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img]"
+	},
+	{
+		"id": 10130,
+		"title": "Re: well...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-08T12:30:32.000Z",
+		"content": "The bubbles should be yellow. You should have some shalow slime (1 tile deep) and some deep slime for deep slime-lake-things.<br /><br />And for spreading on sammiches.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10131,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-09T11:11:07.000Z",
+		"content": "this is how the bubbles looks like, they are yellow like levelass asked. what do you think about it? [url=http://imageshack.us][img]http://img409.imageshack.us/img409/5044/keen1004bs6.png[/img][/url]<br /><br />ps: maybe a little too much bubbels?<br /><br />edit: the 'slime' is a little bigger right now, but that is not shown on the picture"
+	},
+	{
+		"id": 10132,
+		"title": "Re: well...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-09T15:24:09.000Z",
+		"content": "Looking great. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  As do the solid tiles.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 10133,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-09T15:40:44.000Z",
+		"content": "this is the picture of the new slime/blubber: [url=http://imageshack.us][img]http://img131.imageshack.us/img131/2842/keen1005qq8.png[/img][/url]"
+	},
+	{
+		"id": 10134,
+		"title": "Re: well...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-09T19:35:06.000Z",
+		"content": "The bubble looks a little too square when it's really big. Maybe make it rounder, and it will look really nice.<br /><br />And, this is my opinion, but I think a little dark green would look nice in the slime... Maybe as bubbles, waves, or shadows, or something?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 10135,
+		"title": "Re: well...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-10T11:38:07.000Z",
+		"content": "Would anyone like to see my topic on Friezes?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10136,
+		"title": "Re: well...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-10T12:40:24.000Z",
+		"content": "If you can explain what that is, sure.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10137,
+		"title": "Re: well...",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-10T13:47:07.000Z",
+		"content": "Looking good, although I can see the point about the square (or maybe just flat-topped) bubbles. I think maybe the problem is the space in the tile, since I think the bubble reaches the top of the 16x16 square, if I'm not mistaken.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 10138,
+		"title": "Re: well...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-10T18:36:35.000Z",
+		"content": "I'm no expert at animation, but what about trying this?<br /><br />[img]http://davince.sitesled.com/images/bubble-perhaps.png[/img]<br /><br />First, have a fully coloured bubble grow for a few frames. Then just have its outline there - its insides transparent. Then make it disappear entirely, and restart this animation after a short while of nothing.<br /><br />I've seen people do it like this before, and it should work out pretty well. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10139,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-10T22:05:45.000Z",
+		"content": "The biggest limitation of animation in a Keen:Vorticons mod is that you only get 4 frames, and they cycle rather quickly.  Most bubbly goop needs to be slow, random, or otherwise in flux in order to look right.  <br /><br />Nothing a little creativity can't solve--but it does take some planning."
+	},
+	{
+		"id": 10140,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-11T10:45:39.000Z",
+		"content": "@Davince: good animation[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  i will try that out. now i have less bubbels too because there is a frame left if you know what i mean"
+	},
+	{
+		"id": 10141,
+		"title": "Re: well...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-05-11T22:19:12.000Z",
+		"content": "Another idea is rather than having the slime flat, you could put some waves into it<br /><br /><br />---Freeyorp"
+	},
+	{
+		"id": 10142,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-12T06:52:22.000Z",
+		"content": "waves eh? hmm lets see if that's going fine<br /><br />ehm, can someone help me a little with making a wave animation?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img]"
+	},
+	{
+		"id": 10143,
+		"title": "Re: well...",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-12T10:33:46.000Z",
+		"content": "These images:<br />[img]http://arnott.f2s.com/images/anim/anim-1.gif[/img] [img]http://arnott.f2s.com/images/anim/anim-2.gif[/img] [img]http://arnott.f2s.com/images/anim/anim-3.gif[/img] [img]http://arnott.f2s.com/images/anim/anim-4.gif[/img]<br /><br />Make this:<br />[img]http://arnott.f2s.com/images/anim/anim.gif[/img][url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 10144,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-12T10:52:28.000Z",
+		"content": "nice work... levelass helped me too by msn"
+	}
+]

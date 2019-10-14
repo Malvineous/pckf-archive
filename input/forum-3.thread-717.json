@@ -1,0 +1,226 @@
+[
+	{
+		"id": 374,
+		"title": "reworking billy",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-21T01:54:04.000Z",
+		"content": "yeah i started reworking the Billy-mesh i made long time ago for the Keen CGmovie project. just wanted to share this little test render.<br />don't bother about artifacts and the helmet is basicly the old mesh, i just used it to make the character more keenish for the render.<br />i might rework the helmet too.<br /><br />[img]http://img205.imageshack.us/img205/5765/billyhead01tf8.jpg[/img]<br /><br /><br />so if i find my insperation and motivation again i'll give the Keen CGmovie another try."
+	},
+	{
+		"id": 11195,
+		"title": "Re: reworking billy",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-11-21T02:04:29.000Z",
+		"content": "Reminds me of <i>The Incredibles'</i> art style (which is a good thing). The eyes bug me, though. They seem too large, even for cartoonish exaggeration."
+	},
+	{
+		"id": 11196,
+		"title": "Re: reworking billy",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-21T08:49:21.000Z",
+		"content": "it's the default work-in-progress expression [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />some stuff like the mouth is like that because it's easier to manipulate at a later stage.<br /><br />most changes have been made to the mesh topology.<br />the old one really sucked i'll tell you, especially for animating purposes."
+	},
+	{
+		"id": 11197,
+		"title": "Re: reworking billy",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-21T13:36:43.000Z",
+		"content": "Seems very nice work, I hope one day you have enough motivation to get that CK CG movie done. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Even if that's only default w-i-p expression, it looks fun. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke2.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 11198,
+		"title": "Re: reworking billy",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-21T15:36:48.000Z",
+		"content": "Haha, neat! I agree on the eyes too though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 11199,
+		"title": "Re: reworking billy",
+		"author_id": 1485720,
+		"author_name": "ZidaneA",
+		"timestamp": "2006-11-21T18:17:07.000Z",
+		"content": "Really great, except the eyes. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pig.gif[/img]"
+	},
+	{
+		"id": 11200,
+		"title": "Re: reworking billy",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-22T00:42:43.000Z",
+		"content": "well if you have a look at Billy at the top of this page the eyes are quite big. but don't worry i will relax them later on [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 11201,
+		"title": "Well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-22T00:43:59.000Z",
+		"content": "He's designing the face in it's extreme/stretched position, so that when it folds into a \"normal\" position, it looks \"relaxed.\"  Go look in a mirror at the corners of your eyes when you're relaxed and idle--see how wrinkled and bunched up they look?  Now open your eyes really really wide, as wide as you can, and look at them--see how they look like the mesh DSL is working on?  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />Similarly, as he models the arms, he'll probably model them outstretched to either side, as if Billy were preparing to hug a refridgerator-sized object... this is for the same reason.  Modelling something in its most extended/stretched position makes the default posture appear relaxed--which is important for helping animation appear fluid and natural.  <br /><br />At least, that's my impression..."
+	},
+	{
+		"id": 11220,
+		"title": "Re: reworking billy",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-11-22T00:46:42.000Z",
+		"content": "Also, I think the football helmet shouldn't be proportional to his head. It shouldn't 'fit right'. He's a young kid, so it should be large and awkward.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 11221,
+		"title": "true enough",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-22T00:48:15.000Z",
+		"content": "Allstories is right--looking back and forth between the PCKF logo (which is from Keen5) and DSL's work, it appears the topmost portion of the helmet is not tall enough, which would contribute to the \"fits just right\" feeling."
+	},
+	{
+		"id": 11202,
+		"title": "Re: Well...",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-22T01:36:44.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Similarly, as he models the arms, he'll probably model them outstretched to either side, as if Billy were preparing to hug a refridgerator-sized object... this is for the same reason. Modelling something in its most extended/stretched position makes the default posture appear relaxed--which is important for helping animation appear fluid and natural.[hr][/quote]<br /><br />well modeling a character in the classic T pose has nothing to do with animating actually, the T pose is only useful when setting up the skeleton structure for the model. <br /><br />if you want the best model pose for animating purposes you should model everything in a 45 degree angle. then the mesh will not be heavily deformed when rotating a joint to the extremes. also it keeps the texture from stretching to much with the mesh [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /><br />anyway enough technical gibberish.<br />thanks for the point out with the helmet XkyRauh2001!<br />altough i was going to remake the hemlet from scratch i never considered the helmet to be sloping straight down at the forehead, something that could make the helmet appear more tall. i will keep that in mind [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 11203,
+		"title": "!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-22T01:39:28.000Z",
+		"content": "Don't thank me--thank Allstories!  He's got a sharper artistic eye.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 11204,
+		"title": "Re: !",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-11-22T08:21:09.000Z",
+		"content": "It's lack of expresion scares me.-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 11205,
+		"title": "Re: !",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-22T10:11:41.000Z",
+		"content": "I just noticed the lack of brown stars on his helmet, too. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 11206,
+		"title": "Re: !",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-24T16:09:26.000Z",
+		"content": "Can't even lie, this is totally fucling amazing.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 11207,
+		"title": "Re: !",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-25T00:26:27.000Z",
+		"content": "How come there are two holes in his helmet? Is one destined to become a crater?________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 11208,
+		"title": "Re: !",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-25T19:43:43.000Z",
+		"content": "You never really checked the Keen title screens all that well, huh? Those holes belong there. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 11209,
+		"title": "Re: !",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-25T23:37:41.000Z",
+		"content": "Eh? There's only one ear hole on each side in the title screens.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 11210,
+		"title": "Re: !",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-26T10:32:26.000Z",
+		"content": "Oh, I couldn't see the second hole when I posted that because the pic was gone, heh...<br /><br />Anyway, I found something else that could be improved. The top of the helm is so smooth... Shouldn't it have a few bumps in it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 11211,
+		"title": "Re: !",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-27T22:48:29.000Z",
+		"content": "hold your gargs for a minute...<br />never mind the helmet (or the face too actually)<br />the thing i will do is to study the original helmet design (the one the keen helmet was based upon) to get the most accurate look as possible, as long as it doesn't stretch to far from the keenish feeling.<br /><br />this week i'm having full time working on other things <br />(damned school) but after two weeks i think i can relax and do additional workings on this model.<br /><br />meanwhile just chill out and play some platform games (you know wich ones) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 11212,
+		"title": "Re: !",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-28T23:01:09.000Z",
+		"content": "got some time over so i tested some cheat-skinshading techniques. compared to simulating skinshading the real way this cheat is an enormous time saver and looks nearly as good.<br /><br />[img]http://img414.imageshack.us/img414/8394/8ohp8.jpg[/img]"
+	},
+	{
+		"id": 11213,
+		"title": "Re: !",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-29T00:18:11.000Z",
+		"content": "That made me laugh! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />But you're right, the shading does look pretty good. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 11214,
+		"title": "nice",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-29T03:26:00.000Z",
+		"content": "The eyes look very nice--a good shade of blue and everything.  I know it's really minor, but his ears look a little small (and flat).  <br /><br />Are you going to be using polygonal hair, or some sort of shader effect to sprout out of his skull, the way they did with Sully's fur in Monsters, Inc.?"
+	},
+	{
+		"id": 11215,
+		"title": "Re: !",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-11-29T06:31:00.000Z",
+		"content": "Heh, just give it an arrow across his forehead and grey eyes and he'd look like [url=http://en.wikipedia.org/wiki/Aang]Aang[/url]."
+	},
+	{
+		"id": 11216,
+		"title": "Re: !",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-29T09:44:17.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Heh, just give it an arrow across his forehead and grey eyes and he'd look like Aang.[hr][/quote]<br /><br />lol [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img]"
+	},
+	{
+		"id": 11217,
+		"title": "Re: !",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-29T11:17:56.000Z",
+		"content": "Cool. It's crazy to see Keen as bold. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  Hehe.<br /><br />Good work, as always.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 11218,
+		"title": "Re: !",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-11-29T16:04:22.000Z",
+		"content": "You mean bald; Keen is always bold.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 11219,
+		"title": "Re: !",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-30T13:07:25.000Z",
+		"content": "Sorry, yes, that's exactly what I meant! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  For some reason I remembered the word a bit wrong.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	}
+]

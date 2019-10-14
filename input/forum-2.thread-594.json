@@ -1,0 +1,186 @@
+[
+	{
+		"id": 251,
+		"title": "A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-12T07:58:19.000Z",
+		"content": "I was making a keen3 levelpack recently, but there is a problem with one of the levels.<br /><br />Whenever you enter it, it flashes for a few seconds, then closes with an error message:<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/message.png[/img]<br /><br />Has anyone seen this before and if so can they help?<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6725,
+		"title": "Re: A bug...",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-12T08:54:10.000Z",
+		"content": "thats not a bug, its a virus. Its in many of the Keen3's on the net."
+	},
+	{
+		"id": 6726,
+		"title": "Re: A bug...",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-12T08:55:28.000Z",
+		"content": "only joking, scared you didnt i [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]"
+	},
+	{
+		"id": 6727,
+		"title": "Re: A bug...",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-12-12T09:11:40.000Z",
+		"content": "I've never seen that sort of error before. <br /><br />It's good to see a levelpack in the works. I haven't seen a new levelpack in ages.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 6728,
+		"title": "Re: A bug...",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-12T12:56:26.000Z",
+		"content": "I've searched for that in google. NTVDM is the dos emulator in windows, and it causes this error whenever a dos program does something that it cannot handle. I don't know if this is an error in the dos program or in windows. I think it's the latter...<br />In forums, some people had the opinion that this is caused by spyware too, but people would say anything to look smart. I don't know who to believe.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 6729,
+		"title": "Re: A bug...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-12T13:04:40.000Z",
+		"content": "Yeah, it most probably has nothing to do with Keen 3 itself, only Windows or such.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 6730,
+		"title": "Re: A bug...",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2005-12-12T19:17:57.000Z",
+		"content": "This is because Windows NT based OSes (such as Win2K and XP) are not DOS-based (unlike Windows 9x/ME) and so have to emulate DOS functionality. They don't do this so well, so try [url=http://dosbox.sourceforge.net]DOSBox[/url] instead. (Get version 0.58 because later versions don't run CKPatch and other tools properly, which can be annoying)[url=http://last.fm/users/grafix5000/][img]http://toxicsheep.com/sigs/scrobbler.png[/img][/url]<br />[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 6731,
+		"title": "Re: A bug...",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-12T21:03:00.000Z",
+		"content": "@grafix: winNT based OSes emulate DOS functionality VERY well, at least all the opcodes etc. The Problem is that many (almost all?) DOS-Games use direct-hardware-access or emulated devices (sound, vga, ...) and therefor winNT was never intended to [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  That's the reason why there are programs like DosBOX etc...<br /><br />I just tooked a look at the opcodes u give with, and they are the problem! \"7E 05\" is somethink like \"jmp IP+5\" (5bytes down) and \"C7 46\" is part of \"move word ptr ...\". So I think maybe u just used a bad patch for ur levelpack (CK1 instead of CK3 or wrong version) or u've just an corrupted keen3.exe.<br /><br />MfG"
+	},
+	{
+		"id": 6732,
+		"title": "Re: A bug...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-12-12T21:53:52.000Z",
+		"content": "Yes this error is caused by a problem with the EXE you're running, in this case Keen3.  The most likely problem is that you've done something 'bad' in your levelpack that makes Keen3 crash.  You could try it with DOSBox, or boot off a DOS floppy and run it in native DOS mode but chances are it'll crash at the same point, just with a different error (in native DOS it'll probably just lock up the computer.)<br /><br />The best thing would be to try temporarily deleting parts of the affected level, and then eventually you should be able to hunt down the bit causing the problem."
+	},
+	{
+		"id": 6733,
+		"title": "Re: A bug...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-13T06:14:01.000Z",
+		"content": "Hmmm.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  Ok then.. What level editor did you use?<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 6734,
+		"title": "Re: A bug...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-13T06:31:59.000Z",
+		"content": "This is an interesting problem; in my experience it happens when the level file is corrupted, most editors will still run it but Keen eventually trips up over the mistake.<br /><br />If its not too sensitive, post or send me the level and I'll take a look at it.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6735,
+		"title": "Ok,",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-12-13T14:14:04.000Z",
+		"content": "This happens ussally when a sprite does a special overlap with a tile. I remember making a level where yorps would fall from the sky [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img]  But the tiles overlaped with the 200 some sprites and I got the same message... ENTIRLEY different problem but anyways..."
+	},
+	{
+		"id": 6736,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-13T20:17:37.000Z",
+		"content": "dosbox has the same problem but there is also a \"this program is not responding\" too.<br /><br />I used keenwrite.<br />width of level:33<br />height of level:160<br /><br />Bp, I think you just found the problem. hold on a sec...<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6737,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-13T20:28:20.000Z",
+		"content": "fixed one, caused another:<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/err3.jpg[/img]<br /><br />as opposed to:<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/message.png[/img]<br /><br />I beliee the problem was caused by lasers originating in solid tiles. I fixed that, but it still isn't crease free.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6738,
+		"title": "Re: A bug...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-12-13T20:42:27.000Z",
+		"content": "Maybe your version of Keen 3 doesn't wanna be modified?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] <br /><br />Seriously, I don't know what to do. And I don't know what program they used to program keen.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-gimp.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 6739,
+		"title": "Re: A bug...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-14T06:39:27.000Z",
+		"content": "Hmmmmn; how big is the level, and how many lasers?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6741,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-14T07:28:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Hmmmmn; how big is the level, and how many lasers?[hr][/quote]<br /><br />[quote]<b><i>Quote:</i></b>[hr]width of level:33<br />Height of level:160[hr][/quote]<br /><br />...and 14 lasers<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6740,
+		"title": "Re: A bug...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-14T07:31:06.000Z",
+		"content": "As well, what patches do you use, if any? Some of the patches could possibly conflict with some others (although unlikely in this case), or if a patch is made with not great care it might cause some errors in certain circumstances (sounds more likely in this case, but not sure).<br /><br />Edit: That kind of amount of lasers might be deadly, not sure. At what speed rate do they work? But usually, if there are too many sprites, the game reports something like \"Too many sprites!\" or something as error message and doesn't crash like that, IIRK.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 6742,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-14T07:49:32.000Z",
+		"content": "sprites at present:<br />14 meeps<br />7 vortipups<br />10 vortininjas<br />1 vortimum<br />5 foobs<br />11 grunts<br />8 ball jacks<br />6 down lasers<br />8 right lasers<br />and one keen.<br />-total sprites: 71<br /><br />And I'm not using any patches at the moment.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6743,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-14T20:09:44.000Z",
+		"content": "^[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  <br /><br />+7 horizontal lifts<br />+2 vertical lifts<br /><br />total:80<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6744,
+		"title": "Re: A bug...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-15T06:42:55.000Z",
+		"content": "Ah.<br /><br />When the number of sprites in a level exceeds 70 Keen has troubble operating them all, especially if they are 'high maintainence' oncs like the lasers. Try removing 20 sprites and see if the level runs. [Back it up first]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6745,
+		"title": "Re: A bug...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-15T20:12:06.000Z",
+		"content": "Ah, cheers. It's fixed now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6746,
+		"title": "Re: Thnak you!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-12-20T01:45:27.000Z",
+		"content": "My final change:<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/THANKYOUbpll.png[/img]<br /><br />to bp and LL, who identified the two problems with my level.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	}
+]

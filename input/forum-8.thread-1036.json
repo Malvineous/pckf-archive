@@ -1,0 +1,1026 @@
+[
+	{
+		"id": 693,
+		"title": "The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-12T09:20:45.000Z",
+		"content": "Yes.  I've been working on Wombat as of late, and it's coming along nicely.<br /><br />It'll have to be somewhere other than szevvy.com as some chinese guy bought that when it expired and wants US$900 for it, *sigh*, so I'll have to think of a cool new name for my little place on the net.<br /><br />Stuff that works:<br />- I've got a lot of the text driver system up and running.  I'm hoping it'll be easy to read and use - for example, for Clyde's Revenge the following:[pre] file \"c2.db\" {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp packed simple&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 fileCount&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp [fileCount] (&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp FileEntry (&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp FixedString name 16&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 offset&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 size&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp }[/pre] works fine as does [pre] file \"*.mni\" {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp folder \"Fonts\"&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned8 tileCount&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 unknown #will look at some point&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp image EGA (&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp layout \"scanwidth\"&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp width 8&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp height 8&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp planes 5&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp transparentPlane 0&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp tilesAcross 25&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp }[/pre] for Crystal Caves.  Still need to do much more work before all games that were supported work, but a lot is done.<br />This also means that, for example, once you define how an EGA image is stored (as in the example above), Wombat will automagically know how to modify it (it's the reverse of reading it, just a write out of the file tree with some UndrawEGA dropped in)<br /><br />- Unlzexe is built in<br />- Hex viewer, should you need it<br />- Preliminary support for animations, view those as a frame strip, one frame at a time, or animated.<br />- Mod projects.  Still getting there, but allows you to import a game's exe instead of the files.  Wombat will import all the game's files, and you can save the resulting project.  When you import files, it's saved to the project.  Then, when you want, you can write out a patch - which will generate an exe that you distribute.  This exe takes care of running the game and patching any files (in memory, no changes are made to the image on disc).  I've tested bits of this process and it seems to work for the bits I've tested.<br />- Fixes for quite a few games already, you find out quite a bit when rewriting all the game drivers.<br /><br />Any requests?Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 18443,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-12T09:38:03.000Z",
+		"content": "The Keen dreams start image, I have no idea what format its in, but would dearly like to see it editable.<br /><br />Otherwise; T3h neats! ZOMG Yayaaays!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18444,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-07-12T11:58:17.000Z",
+		"content": "can jou support strife ? it uses the doom engine plz[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18445,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-12T12:30:54.000Z",
+		"content": "I'll take a look, I definiitely want doom engine support in this one.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 18446,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-12T15:28:49.000Z",
+		"content": "Sounds pretty good! Hopefully you'll get a Crystal Caves level editor there one day. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18447,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-15T03:48:14.000Z",
+		"content": "Oooh! Keen Dreams leveleditng would be t3h roxxorz! Its the only Keen we can't edit!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18448,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-16T02:14:28.000Z",
+		"content": "Okeys, I'll do my best on those ones. The KD start image is one I've looked at and couldn't get, but I'll have another crack at it.<br /><br />edit: can anyone point me towards some reference on the carmackization process?Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 18449,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-07-16T04:34:03.000Z",
+		"content": "Gah!  You had to rewrite Wombat and implement all the stuff that was supposed to make my editor great, didn't you???  Now I've gotta come up with some more ideas... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 18450,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-07-16T09:48:04.000Z",
+		"content": "There's a little section on Carmack compression in [url=http://dosclassics.com/ckn/newsletter/issues/2002-04-07.txt]this[/url] CK Newsletter from 2002. I also have a piece of code which implements a class that can perform Carmack compression - if you want it, I can have a look for it in the giant pile that constitutes my backup disk.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 18451,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-17T05:43:46.000Z",
+		"content": "Rubbish.  This thing will take at least 6 months to take off, and even then there's a lot it won't do.  I suspect any sort of level viewing/editing won't even be in this version as writing a generic, dynamic level viewer/editor is an incredible pain in the ass.  You've got plenty of stuff to do - and besides, there's that many games out there that your XML-based one has a very definite reason to be written.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 18452,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-07-17T11:58:19.000Z",
+		"content": "<i>writing a generic, dynamic level viewer/editor is an incredible pain in the ass</i><br /><br />You can say that again.  I've got most of the underlying structures sorted out but surprisingly enough the most difficult part is turning out to be the GUI.  Using normal 2D window-surface style operations is amazingly slow, so I think I'm going to have to head down the OpenGL track for the map editor (which means I'm probably going to just put it off for even longer [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] )<br /><br />In fact I'm getting so tired of the GUI I've decided to write a command-line interface to the editor (which now makes it the uhh...fourth user interface to the same core code) which has turned out to be really nice, as it makes testing a lot easier and *really* speeds development (i.e. it's a lot easier to just convert an image to and from a .png file than it is to write a whole image editor.)  Unfortunately when it gets to the interactive editors that have no real existing equivalent (map editors, music editors, etc.) I'm gonna have to bite the bullet and do the GUI.  But that won't be for a while, at least [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18453,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-20T02:20:30.000Z",
+		"content": "Registered szevvy.net, have yet to hook it up.<br /><br />Also got math expressions working yesterday:[pre] file \"wacky.dat\" {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp packed&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 fileCount&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp [fileCount] (&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp fileEntry(&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp fixedString name 14&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 size&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 _offset&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp offset: _offset + 2&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )}[/pre] works for Wacky Wheels.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 18454,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-23T13:57:22.000Z",
+		"content": "This project sounds too good. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] <br /><br />Hm, when the site's up and running, make sure to edit your signature. Been trying to go to svezzy.com every day, but now I know it doesn't even exist!____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 18455,
+		"title": "aye",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-26T03:27:04.000Z",
+		"content": "Done."
+	},
+	{
+		"id": 18456,
+		"title": "Re: aye",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-07-27T16:40:12.000Z",
+		"content": "szevvy the download links are broken[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18457,
+		"title": "Re: aye",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-07-28T00:38:54.000Z",
+		"content": "Check now, I was making some changes last night.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to."
+	},
+	{
+		"id": 18458,
+		"title": "Re: aye",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-07-28T13:50:33.000Z",
+		"content": "k works[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18459,
+		"title": "Re: aye",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-01T03:05:19.000Z",
+		"content": "wow i found some backups of wombat 3 and 4 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18460,
+		"title": "Re: aye",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-01T11:57:53.000Z",
+		"content": "I checked out the program (v0.5)... I love the SCUMM Rev style of opening things. However, you still have a lot to do.<br /><br />Automatic game recognition would be useful, because looking up the game's name and opening just one file is a bitch. Keen5 bitmaps show up as black images, but with the correct sizes at least.<br /><br />This rocks. Can't wait till it's done. Don't overwork yourself though.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 18461,
+		"title": "aye",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-05T01:48:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br />Automatic game recognition would be useful[hr][/quote]<br />Done in v.2<br /><br />[quote]<b><i>Quote:</i></b>[hr]opening just one file is a bitch[hr][/quote] use 'open directory' [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]Keen5 bitmaps show up as black images[hr][/quote]<br />I think the version that was up before was the broken one.  Re-download (it's 0.4a) and try now...should work.<br /><br />edit: The old Wombat was a piece of crap.  It was badly written as it was basically an extension of my Monster Bash viewer, hacked together over time.  The rewrite should get rid of most of the horrible-ness."
+	},
+	{
+		"id": 18462,
+		"title": "Re: aye",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-06T05:15:34.000Z",
+		"content": "Any progress on the Jazz Jackrabbit front? Will I need to bother with my 0SC -&gt; Gif converter?A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18463,
+		"title": "f",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-06T05:49:47.000Z",
+		"content": "Make it, I'm a long way away from even being at the point where Wombat supports all the games it used to - it currently does 8 out of the 45 it did.  When you finish, I can integrate your stuff (should you choose) and do the credits that I do for everyone on statup screen, driver select window, and readme/website."
+	},
+	{
+		"id": 18464,
+		"title": "Re: f",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-07T13:03:00.000Z",
+		"content": "Hmmm, we shall see. It may be difficult to integrate a ripped version of Microsofts Gif Animator, and I don't have the time I used to...A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18465,
+		"title": "Re: f",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-07T19:06:38.000Z",
+		"content": "Hmm, Wombat 0.4 shows Keen images fine, which is VERY useful for me. Thanks!<br /><br />Can't wait for the new one... Sigh...____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 18466,
+		"title": "Re: f",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-13T02:19:19.000Z",
+		"content": "I am happy to report that Monster Bash loads, decompresses, and displays tiles correctly in the new Wombat.<br /><br />There is also one thing I have to admit...I have had the code to display Mnoster Bash sprites correctly for well over a year, but Gerald Lidsly asked me not to put it in.  I've recently fired off an email asking to able to do so, but have had no reply.  As far as I can see, there's only a few sprites that were broken, and they were sprites of little importance.  Should I just put them in?  I suspect that given there's no software patent on the method used for the sprites, and given that Apogee/3DR owns the IP associated with the code, there shouldn't be a problem, but I'm not 100% sure as to my standing on this one.  Hmm.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18467,
+		"title": "Re: f",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-14T17:34:46.000Z",
+		"content": "whoooho party [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18468,
+		"title": "Re: f",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-14T22:24:16.000Z",
+		"content": "Well FWIW I asked Gerald ages ago about this and never received a reply, then promptly forgot about it - so my editor will happily extract all the sprites, no problem [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   I'm particularly pleased with the internal conversion to .png, complete with alphablending to make the transparent background come out on the .png image.<br /><br />But boy the Monster Bash sprites are a weird format, huh? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18469,
+		"title": "Re: f",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-14T23:28:56.000Z",
+		"content": "Oh god yes.  The palette is even more bizzare...I've got the code that's meant to change it RGB and still don't get it, it doesn't line up with what I know to be palette.  Meh, if you're doing it then I can too, common knowledge rule [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18470,
+		"title": "Re: f",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-16T01:45:47.000Z",
+		"content": "Common knowledge rule, that's what I figured too [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Besides, anyone determined enough can just extract the sprites with screenshots, so it's not like we're providing access to something you can't already get.<br /><br />So did you write the MB sprite code yourself then?  It took me a while to figure it out because of the weird bitplane thing.  As I understand it, there are multiple bitplanes - normally for EGA graphics you have one for red (4), green (2), blue (1) and intensity (8 ) - four planes total.  Sometimes a fifth for transparency or hit testing.<br /><br />Monster Bash seems to have an arbitrary number of planes, so instead of one for red (bitvalue 4) and another for green (bitvalue 2), you can have a single plane for red *and* green (bit value of 6 [4+2]).  I assumed this was some sort of compression, but some images end up larger this way so I don't know - what got me was how you're supposed to combine the image when you get overlapping bitplanes - say one for 6 and one for 2 (red+green and green only.)  I can't actually remember what I did now, I think I just combined all the \"1\" bits into the final image - but it came out properly, I haven't yet found a sprite it doesn't work with [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Oh, and it's really fun how the image data is byte aligned (so the images are *all* a multiple of eight pixels wide) whereas the image itself might not be a multiple - so if you've got an image that's 10 pixels wide, the image data is actually 16 pixels wide (so you have to decode the image as if it's 16 pixels wide), but you then have to crop off the last six pixels so the final image you present to the user is only 10 pixels wide.  That got me for a while, because if you don't realise this, some images are fine (e.g. those that are supposed to be 8,16,24,etc. pixels wide) but for others the image is really badly skewed (to the point where you can't tell what it is, but it has a very distinctive look to it.)  Kind of annoying when the same code converts some images perfectly, and others not at all, and you think you've done everything correctly...<br /><br />Anyway yes, that's enough of my ramblings, ah the fun that goes into writing a game editor [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18471,
+		"title": "Re: f",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-16T03:06:05.000Z",
+		"content": "Correct on all counts, as far as I can see.  No, I didn't write the code myself, Gerald did...I was still a baby at this sort of thing and was new to the concept of 'planes'.  I think you're pretty much spot on though.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18472,
+		"title": "Re: f",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-16T07:32:42.000Z",
+		"content": "Ah okay.  Well I hope I'm correct, because it seems to be working well and I really don't want to have to revisit it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [pre] $ ./bin/cmdline -f ts-bash-sprite data/nemesis -xFunction set to [Extracting files]Using datafile data/nemesisFile format forced to ts-bash-spriteOpening data file as: ts-bash-sprite  Extracting: tile000.png   Success [749 bytes]  Extracting: tile001.png   Success [749 bytes]  Extracting: tile002.png   Success [699 bytes]  Extracting: tile003.png   Success [699 bytes]  Extracting: tile004.png   Success [551 bytes]  Extracting: tile005.png   Success [471 bytes]  Extracting: tile006.png   Success [383 bytes]  Extracting: tile007.png   Success [280 bytes]  Extracting: tile008.png   Success [225 bytes]  Extracting: tile009.png   Success [213 bytes]10 files extracted.[/pre]Which produces a nice set of images:<br /><br />[img]http://www.shikadi.net/pckf/gameedit/tile000.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile001.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile002.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile003.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile004.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile005.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile006.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile007.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile008.png[/img] [img]http://www.shikadi.net/pckf/gameedit/tile009.png[/img]"
+	},
+	{
+		"id": 18473,
+		"title": "Re: f",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-16T10:30:09.000Z",
+		"content": "Looks fine to me.  Do put your ts-bash-sprite file up so I can have a peek at it.<br /><br />edit: [quote]<b><i>Quote:</i></b>[hr]Hmmm, we shall see. It may be difficult to integrate a ripped version of Microsofts Gif Animator, and I don't have the time I used to... [hr][/quote] LL, did I mention I'll do all the hard work? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18474,
+		"title": "Re: f",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-17T01:02:36.000Z",
+		"content": "<b>Do put your ts-bash-sprite file up so I can have a peek at it.</b><br /><br />Nah, this wasn't XML based, it was all done in straight C++ (the ts-bash-sprite thing is just a plugin, it's provided by the \"Monster Bash\" library, so that's mbash.dll under Windows.)<br /><br />The XML stuff is turning out to be a bit of a nightmare, it gets incredibly complicated once you start doing recursive stuff (like \"the offset of this file is equal to the offset of the previous file plus the previous file's size\") and it's *really* slow.  It's also prone to get stuck in infinite loops when fed an invalid file, but I haven't yet worked out why - so using the XML descriptions for autodetecting file formats is out.<br /><br />So at the moment the XML stuff is only good for describing group files (files that contain other files, like duke3d.grp, cosmo1.vol, etc.)  I haven't even started thinking about things like images yet.  The XML itself isn't too bad though, have a look at the currently working XML code to describe [url=http://www.shikadi.net/pckf/c-vol-cosmo.xml]Cosmo's VOL files[/url] if you're curious - but the C++ code is much more complex (it even includes a whole [url=http://spirit.sourceforge.net/]generic language parser[/url] to evaluate the expressions in the XML file.  That bit is *very* elegant, but it does add to the overall complexity.)<br /><br />So I'll be leaving the XML system in, but it's now a much lower priority than it used to be [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18475,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-17T03:06:47.000Z",
+		"content": "My Duke 2 (this is the same as Cosmo, right?) extractor, off the top of my head:<br /><br />[pre] file name = \"*.cmp\" {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp packed simple&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp FileEntry [ size &gt; 0 ] {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp FixedString name 12&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 offset&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 size&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp }}[/pre]<br /><br />[quote]<b><i>Quote:</i></b>[hr](like \"the offset of this file is equal to the offset of the previous file plus the previous file's size\" )[hr][/quote]<br />What I did for that one is leave the offset out of the driver.  The simple extractor looks at the file you're trying to extract, queries for an 'offset' number and finds there is none.  It calculates the sum of the sizes of previous files (very quick) plus the offset of the first file (a variable that's calculated every time packed file is first loaded, basically endOfHeader += size every time a file within the packed file is loaded.  No recursion [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I'm very impressed by the XML format though, lots of very nice metainfo in there.  Looking forward to it.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18476,
+		"title": "Re: g",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-17T03:37:00.000Z",
+		"content": "Yep, nukem2.cmp is the same as cosmoX.vol.  I wanted to avoid coding anything format-specific into the XML parser, which is why I had to resort to recursion.  I originally had planned to do something similar to what you mention with the driver realising there's no offset and summing all the sizes, but then I realised that any variation on that system would require modifying the code - e.g. if a format has no offsets, but it does have extra info in between each file, or if the next file starts at a multiple of say 512 bytes (so you have to round up each file size to the nearest multiple of 512 to find out where the next file starts.)<br /><br />Granted this sort of thing is uncommon at best, but I still wanted the parser to be as generic as possible so you could implement these sorts of schemes without changing the C++ code.  That's half the reason why it's become so complex, instead of assuming things and hardcoding those assumptions to keep things simple, I've tried to make it so generic that there are no limits to the formats you can describe, and boy that makes for a *lot* of code [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18477,
+		"title": "Re: g",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-17T04:11:28.000Z",
+		"content": "They're the *same*?<br /><br />Arrrgh!<br /><br />*smacks head against wall*A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18478,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-09-01T05:40:35.000Z",
+		"content": "Put up current drivers at [url=http://www.szevvy.net/drivers/new/]www.szevvy.net/drivers/new/[/url], haven't had time to connect 'em up to the driver page yet.  So you can have a look at what the current progress is, if you wish.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18479,
+		"title": "Re: g",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-09-01T11:28:33.000Z",
+		"content": "Interesting...I spy metadata that wasn't there before [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />How are you going to handle group files (like duke3d.grp) that have path names in their filename?  (like *.pod from Terminal Velocity)<br /><br />Hmm...and I could've sworn we knew the format of the Crystal Caves sound files..."
+	},
+	{
+		"id": 18480,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-09-01T12:24:45.000Z",
+		"content": "Or like Monster Bash - digi\\*.voc?<br /><br />Don't know yet.  I'll have to split it up, I guess...I used to leave it but then extraction was a problem.<br /><br />It's slowly getting there...although there's a few hacks and workarounds that I'll have to fix up.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18481,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-09-24T08:29:16.000Z",
+		"content": "I've got assignments due.  Procrastination is fun.  Hmm, should I fix the things he's standing on, or do what's due tomorrow?  Also need to make the nose taller.<br /><br />[img]http://www.szevvy.net/images/title.jpg[/img]------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18482,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-19T08:18:11.000Z",
+		"content": "Current progress:<br /><br />7 Cities of Gold (VGA): completed<br />Alien Carnage: need to implement decompression and palette<br />Ancients 1: completed<br />Baron Baldric: completed<br />Biomenace: need to implement Keen engine<br />Cannon Fodder (1 &amp; 2): sorting issues (fix known), palette after image (hack known)<br />Civilization 3: Major issues<br />Clyde 1: Dodgy image format (fix known)<br />Clyde's Revenge: completed<br />Captain Comic 1: completed<br />Commander Keen 1-3: havent looked at<br />Commander Keen 4-6: need to implement Keen engine<br />Commander Keen Dreams: need to implement Keen engine<br />Cosmo's Cosmic Adventure: completed<br />Crystal Caves: completed<br />Dangerous Dave: sorting issues (fix known)<br />Dark Ages: completed<br />Duke Nukum 1: completed<br />Duke Nukem 2: palette after image (hack known), need to implement levels<br />Duke Nukem 3D: completed<br />Dune 2: completed<br />Gateworld: palette issues<br />Jazz Jackrabbit: need to implement tiles<br />Jill of the Jungle: need to add names, palette<br />Halloween Harry: need to add palette<br />Hocus Pocus: major issues<br />Major Stryker: completed<br />Math Rescue: need to implement (easy)<br />Monster Bash: need to implement levels, palette<br />Nitemare 3D (windows): major issues<br />PixelPainter games: completed as before<br />ScubaVenture: as per Monster Bash<br />Secret Agent: needs recoding of FileReader<br />Sid Meier's Pirates! (2004): havent looked at<br />Simcity 2000: need to implement palette<br />Thief 3: need to implement<br />Traffic Dept. 2192: completed<br />Wacky Wheels: need to add sprites...might be problems<br />Wolfenstein 3D: need to implement Keen engine<br />Word Rescue: need to implement (easy)<br />Xargon: need to add names, palette<br />Zombie Wars: havent looked at<br /><br />Current improvements to games I've made whilst making the new Wombat:<br /><br />Image codecs:<br />- Palettes are now draw correctly, they were completely wrong before<br />- .dds images (DirectX images): added support for 8-bit and DXTN 2-5<br /><br />Existing games:<br />7 Cities of Gold ('93) - fixed some more palettes<br />Captain Comic - fixed errors in sprite colours<br />Crystal Caves - fonts are now drawn correctly<br />Duke 2 - sprites are now split up into individual animations<br />Dune 2 - now drawing intro screens with correct colours<br />Many games have more extensive sorting, files that were 'other' before are now correctly identified<br />Many games have corrected sorting - for example, fonts are no longer placed into 'tiles'<br /><br />New games:<br />Eve Online<br />Cars (THQ)------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18483,
+		"title": "Re: g",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-19T21:34:21.000Z",
+		"content": "This is all sounds pretty excellent. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  Nice.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18484,
+		"title": "Re: g",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-10-19T22:51:10.000Z",
+		"content": "oooh nice[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18485,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-20T08:37:27.000Z",
+		"content": "Good to finally get some feedback [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18486,
+		"title": "Re: g",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-21T01:48:07.000Z",
+		"content": "Some screenshots would be good too, if you've reached that stage..."
+	},
+	{
+		"id": 18487,
+		"title": "Re: g",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-21T04:39:58.000Z",
+		"content": "So; let me get this straigh; a new version has been uploaded? Or will the downloads still produce the old version, which was noted for being a poor extracter of Monster Bash graphics? Forgive me, but I am out of the loop here.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18488,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-21T06:22:48.000Z",
+		"content": "No new version yet - the list basically says how close I am to the new version doing everything the old one could.<br /><br />Screenshots - not at that stage yet.<br /><br />Monster Bash - the old one did everything except sprites.  I was asked by one of the programmers not to put that support in, and as he has sent me full source code to extracting said sprites, I honoured that.  Seeing as Malvenious worked out how to extract the sprites, I'm quite free to add support now as the information is available from sources other than that programmer now.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18489,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-11-20T13:16:06.000Z",
+		"content": "Current project: compression of Maths Rescue levels.  I've fixed the few images that didn't draw correctly (never trust another's image library, it seems...had to make my own PCX handling code).  From the initial glance I've given levels, it seems to be a simple type of RLE, but I've got to figure out actor sizes etc before I can try to decompress level data.<br /><br />Also (I might've mentioned this) but I've cracked the encryption on Death Rally filenames.  Once I add support into Wombat for padded blocks (\"this thing must take up this much space, leave part padded if need be\"), I can start to look at getting the actual files displaying.  Chances are, if they went to the trouble of encrypting filenames then the actual data is also protected in some way.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18490,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-12-23T13:31:36.000Z",
+		"content": "Update: making slow but steady progress - just a couple of games left to implement (other than the Keen 4 engine ones...this will be tricky and right royal pain).<br /><br />Also added Syndicate, Oregon Trail and Prince of Persia.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18491,
+		"title": "Re: g",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-12-24T11:38:32.000Z",
+		"content": "All looking very interesting. Did you ever decide how new image processing and decompression functions would be added?"
+	},
+	{
+		"id": 18492,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-12-24T13:46:38.000Z",
+		"content": "For now they're hardcoded in c++, but the release after the next one will have LUA support in the drivers so you'll be able to script 'em in.<br /><br />For most image formats you won't have to do anything - the generic image formats cover most of what you'll ever need.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18493,
+		"title": "Re: g",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-06T15:33:18.000Z",
+		"content": "Szevvy, when I try to open Commander Keen 5 (EGA version 1.4) and 6 (EGA versions 1.4 &amp; 1.5) EGAGRAPH.CK? files, Wombat crashes or gets confused and I can't even close it without terminating its process with the good old Task Manager. Not that I need it, because there's always Modkeen, but it'd be good to be able to see the graphics with Wombat.<br /><br />Note that this doesn't happen when I open Commander Keen 4 (EGA 1.4 by Apogee) EGAGRAPH file.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18494,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-01-07T01:05:51.000Z",
+		"content": "I think the problem there is that I only tested on specific versions on Keen, and I ran on the assumption that all versions of Keen 5 and 6 had the same Huffman tables and tile mapping data, which might not be the case; these are stored in data\\keen.dat.  The other possible problem is that Wombat might not be detecting whether it's Keen 5 or 6 properly.  The issue is that I stupidly didn't back up Wombat 0.4, and the only source I've got is for 0.5 which is clobbered beyond belief, and I thus can't do 'hotfixes'.<br /><br />Wombat 2 will work differently in regards to Keen - it'll use the Huffman tables etc that are present in the exe itself.  So, it'll test the relevant exe to see if it needs to run it through unlzwexe, do so if necessary (unlzwexe and a few other exe unpackers are  in-built and automatic for exes), take an MD5 checksum of the result and use a lookup table to determine where to get the data it needs.  This way, it'll only work for known versions of Keen, and having the guarantee of using the same data as the exe itself should mean everything works like a dream; hopefully [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] .<br /><br />So just sit tight for now.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18495,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-01-18T16:13:28.000Z",
+		"content": "*szevvy posts cryptic message...<br /><br />\"Hmm, is that CC1.exe unlzexe'ing in Wombat, and masquerading as a packed file with levels that just happen to display (no tiles yet, only a 'coloured layout' until I hook up proper automagic tile drawing to the level viewer)?  Surely not, for Wombat doesn't support Crystal Caves levels [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] \"------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18496,
+		"title": "Re: g",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-01-18T19:27:42.000Z",
+		"content": "Hmmn, is that CC support in your program, or are you just happy to see me?<br /><br />Excelent stuff!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18497,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-01-19T00:25:53.000Z",
+		"content": "You *know* I'm just happy to see you [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18498,
+		"title": "Re: g",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-19T00:31:56.000Z",
+		"content": "*cough* secret *cough* meetings *cough*[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18499,
+		"title": "Re: g",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-02-02T04:28:07.000Z",
+		"content": "Almost finished porting across to Visual Studio 2005 and wxWidgets, this means transparency and saving to PNGs is a go, as is cross-platform compatibility.  Also added progress bars for loading/exporting, and localisation.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18500,
+		"title": "Re: g",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-02T10:20:22.000Z",
+		"content": "Given the speed of most computers, are you sure those will even be noticed.<br /><br />Also; .PNG support = godsend.<br /><br />I cannot wait for the next release of this brilliant program. There is nothing else like it.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18501,
+		"title": "Re: g",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-02-02T10:24:08.000Z",
+		"content": "Cross-platform compatibility = also godsend.<br /><br />Some games still take some time to load up, so I think progress bars are ok.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18502,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-02-06T14:51:03.000Z",
+		"content": "Wow, cross-platform compatability! Neat! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  I love cross-platform stuff, open-sourced or not. (Is this open-source?)<br /><br />I hope that the Keen 5 v1.4 and Keen 6 v1.4/v1.5 exporting is fixed too.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18503,
+		"title": "Re: Re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-02-07T06:05:56.000Z",
+		"content": "Not sure about open-source as of yet.  I suspect it'll be on an ask-and-ye-shall-receive basis.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18504,
+		"title": "Re: Re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-07T13:41:11.000Z",
+		"content": "Oh great Szevvy, he who must not be named. (As his name is unpronounceable.) keeper of the source code, he whom all sprites bow before and ruler of graphics extraction, we humbly beseech you for a pearl of wisdom, share with us today a fragment of thy almighty code, that we may be enlightened and err no more.<br /><br />How's that?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18505,
+		"title": "a",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-02-08T04:30:57.000Z",
+		"content": "Szevvy is pronounced as \"shevi\".  That sounds wonderful, though; the code is on its way.<br /><br />\"Hey, can I have a peek at the source?\" would also suffice. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]"
+	},
+	{
+		"id": 18506,
+		"title": "Concole support to Wombat",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-03-16T20:43:34.000Z",
+		"content": "Hi , it would also be nice to support for other than dos language, <br />i whas thinking since concoles use almost the same code, it wouldnt be necessary to make a different code to each game forexample to nintendo entertaiment games, \"NES\".<br /><br />and now you would maybe ask yourself, how in the world could i know the code patternt to such as game as nes, or snes or sega, or whatever... well, i don't have a 100% sure answer on that, but couldnt you take a look at the source code of an emulator.?<br />another thing , you tell me once about \"random loading to memory\" , as i'm afraid of if thats happend also in concoes or an emulator, i guess it would be too hard to grap the source of a game on a concole.<br /><br />but if it woulnd bee too hard if you get some start-help<br />let's beguin whit NES forexample<br /><br />[url=http://nesdev.parodius.com/NESDoc.pdf]nesdev.parodius.com/NESDoc.pdf[/url]<br />[url=http://nesdev.parodius.com/NESprgmn.txt]nesdev.parodius.com/NESprgmn.txt[/url]<br />[url=http://nesdev.parodius.com/nesgfx.txt]nesdev.parodius.com/nesgfx.txt[/url]<br /><br />i found thise links on : [url=http://nesdev.parodius.com/#DocsNES]nesdev.parodius.com/#DocsNES[/url]<br /><br />i will stop there , to first know if that is something you will include in wombat \"a concole grapich ripper\" or you will not<br /><br />I'm perfectly knows that IS tools out there, but many of them is gone.. or too complicated or bad, too dificult for some pepole too use or whatever, so it would be nice to put all togheter in one application"
+	},
+	{
+		"id": 18507,
+		"title": "Re: Concole support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-17T01:47:16.000Z",
+		"content": "I suspect that the only thing stopping Szevvy from adding support for console games is that there's not much info about them (how do you copy the data off a cartridge onto a PC for instance?)<br /><br />Speaking for my own game editor, I don't plan on adding support for any non-PC games, but as it will be open source and have a fairly simple plugin architecture, you can easily write a plugin for whatever you want, it doesn't even have to be a game.  I think Szevvy was heading in the same direction with Wombat."
+	},
+	{
+		"id": 18508,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-03-17T15:05:28.000Z",
+		"content": "well, i didnt mean copying from a console machine, but from a ROM,tons of rom's  can be downloaded for free on the internett"
+	},
+	{
+		"id": 18509,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-17T22:47:43.000Z",
+		"content": "In that case all it will boil down to is who's going to figure out the format of the ROM?  Consoles can be quite different to PC games, so I suspect it will be a case of ROM editing only being implemented if someone else does all the reverse engineering work [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 18510,
+		"title": "Re: Console support to Wombat",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-17T23:07:51.000Z",
+		"content": "It's been done, or there wouldn't be any emulators and ROM hacking tools, now would there? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] <br /><br />www.zophar.net - ROM hacking/data extraction tools etcetera.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18511,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-18T00:17:28.000Z",
+		"content": "True, but DOSBox is an emulator for DOS games and it doesn't mean we suddenly know how all the DOS games out there work [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]"
+	},
+	{
+		"id": 18512,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-18T21:15:03.000Z",
+		"content": "I have always wondered about that; is it just designed to take the output from  a game and convert it into something XP can handle, or is there some box-game interaction?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18513,
+		"title": "Re: Console support to Wombat",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-18T22:48:02.000Z",
+		"content": "It supports both. You can setup DOSbox to either interpret the code (default, most safe, but also slower), or try and recompile the code to Windows (or Linux or whatever) native code. This makes emulation faster, but apparently more risky.<br /><br />Well, that's what they say, but I've never had any problems running DOSbox with the dynamic core instead of the normal one.<br /><br />You can set up tons of DOSbox stuff in [dosbox folder]\\dosbox.conf.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18514,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-19T22:18:58.000Z",
+		"content": "I don't suppose you've tried both cores on KR's Keen3 mod?  I didn't even realise DOSBox *had* a dynamic core...<br /><br />But yes it's basically an interpreter: \"If the next command is 'add one' to AX, then AX = AX + 1\" sort of thing.  That's why it's so slow, but also why it's (normally) so reliable."
+	},
+	{
+		"id": 18515,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-20T07:28:19.000Z",
+		"content": "Dynamic you say?<br /><br />I didn't understand any of that, but as I see it, Dosbox can rewrite Keen say into a windows runnable format?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18516,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-20T11:07:48.000Z",
+		"content": "If the dynamic core does what I think it does, then when you run something in DOSBox (like Keen for instance) instead of reading each bit of machine code and running it one by one, it will read in blocks of code and \"compile\" it, so that later on when those bits of code are run, they'll run a *lot* faster.<br /><br />So it's not something that will magically convert Keen into a Windows program, but then crafting a dosbox.conf and a shortcut will allow you to easily start a Keen episode from a shortcut without any typing, which is sort of like a \"Windows runnable format.\""
+	},
+	{
+		"id": 18517,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-03-20T11:42:04.000Z",
+		"content": "My computer's back up after like 2 weeks, yay!  And yes, I plan to add console/handheld/arcade games in at some point.  But there's seriously so much left to do before basic functionality is in...------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18518,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-21T06:44:05.000Z",
+		"content": "Hmmn, Dosbox runs Keen without typing when I just drop Keen.exe onto it...<br /><br />(Szevvy! Great to see you! Yeah, I know what you mean about programs, they seem to eat up time like no-one's business.)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18519,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-21T11:05:35.000Z",
+		"content": "True, but then you need to have the Keen window and the DOSBox window open at the same time.  It's even quicker to create a config file which mounts the Keen directory and runs it, because that also lets you tweak other things just for that game (like the emulation speed, sound quality, etc.)  Otherwise with dragging and dropping you're stuck with the defaults.<br /><br />I imagine that would be what most modders use, because then you can stick a shortcut to it on your Start menu and assign a keyboard shortcut to it, so Ctrl+Alt+F1 could be \"play Keen with the changes I just made to my mod\" - or maybe that comes when the modding tools are a little more integrated..."
+	},
+	{
+		"id": 18520,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-03-21T18:00:35.000Z",
+		"content": "I just keep a Dosbox shortcut on my desktop, and drag anything I want to open in dosbox onto that shortcut[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 18521,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-22T10:02:26.000Z",
+		"content": "As do I, it's very efficient.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18522,
+		"title": "Re: Console support to Wombat",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-22T12:46:23.000Z",
+		"content": "I use D-Fend to manage my games and their special settings. Play a game with edited settings in a simple double-click!____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18523,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-23T07:53:24.000Z",
+		"content": "D-Fend crashed when I tried to run it, it has never worked since.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18524,
+		"title": "Re: Console support to Wombat",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-26T17:38:52.000Z",
+		"content": "Did you ever try to do an U.P.D.A.T.E. on it, LLa?<br />(UPDATE: Universal Package Dispatching Amount Triplication Epidemy)<br /><br />BTW, DOSBox 0.70 rocks! I can run Duke Nukem 3D Atomic on it under Mandriva Linux with no performance issues! (well, if I don't select a video mode other than 320x200... what a pity)------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18525,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-27T10:00:18.000Z",
+		"content": "Patience, patience, rumour has it that other modes shall soon be debugged.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18526,
+		"title": "Re: Console support to Wombat",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-28T17:34:20.000Z",
+		"content": "I'm curious. Where did Szevvy get info for writing the exporting code for Bio Menace?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18527,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-03-31T05:03:38.000Z",
+		"content": "I modified Andy Durdin's Keen extraction code as the two run on the same engine.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18528,
+		"title": "Re: Console support to Wombat",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-02T18:45:54.000Z",
+		"content": "Oh, so it's just a matter of changing the number of sprites, tiles, etc., to be extracted? Cool.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18529,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-01T12:11:03.000Z",
+		"content": "Update, huzzah!<br /><br />This is turning into my own personal DNF [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />So...about a month ago I wasn't too happy with how the scripting language worked...so I kinda re-wrote all that.  It now compiles scripts into bytecode (like Java) and runs those.  The upside is that it's s**t-hot fast, much easier to debug, and the code is easier to read.  Things that were broken before and needed hacks to get around them are now fixed, too.<br /><br />The scripts are also turning out much nicer - <br /><br />[pre] file name in (\"*.bbk\", \"*.ico\", \"*.pck\" ) is (     ...stuff... )[/pre]as opposed to[pre] file name = \"*.bbk\" OR \"*.ico\" OR \"*.pck\" {     ...stuff... }[/pre] - those curly braces always pissed me off.  Getting there.  I think the way it's going now I'm finally happy with the way it is, about time too!  In other news I am the happy owner of szevvy.com again, it works exactly as the .net<br /><br />-when it's done-------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18530,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-01T12:32:35.000Z",
+		"content": "Huzzah!<br /><br />I *have* been waiting for this!<br /><br />There are many things I want to do, and so little time to do them in...<br /><br />Keep up the good stuff!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18531,
+		"title": "Re: Console support to Wombat",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-01T14:53:54.000Z",
+		"content": "yeays an update ^_^[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18532,
+		"title": "Re: Console support to Wombat",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-01T17:46:28.000Z",
+		"content": "Sounds awesome. How'd you get it to compile to bytecode?<br /><br />Also, nice one getting your domain back - usually the odds of a domain squatter letting go of any domain is fairly slim (unless you're willing to cough up a large amount of cash - did you go that way, or did they just not renew it?)"
+	},
+	{
+		"id": 18533,
+		"title": "re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-02T00:49:02.000Z",
+		"content": "I got it to compile to bytecode by writing a compiler.<br /><br />As for the domain - they didn't renew, originally wanted US$800 for it.  By letting it lapse...they actually lost money *laughs*"
+	},
+	{
+		"id": 18534,
+		"title": "Re: re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-02T12:34:38.000Z",
+		"content": "What kind of inbred hick wants $800 for a domain name random enough to be gibberish? There's not exactly many Szevys out there now is there?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 18535,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-02T21:47:17.000Z",
+		"content": "Any plans on the Linux version?<br /><br />IMO, it isn't necessary at all. Wombat runs wine... er... fine, under Wine (the Windows compat layer for Linux, BSD, et al).<br /><br />Just wondering, will there be full Jazz Jackrabbit (1) support?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18536,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-03T04:10:01.000Z",
+		"content": "Well, the code is cross-platform compatible so if someone wants to go about creating a makefile and so forth that would be cool - one it's released.<br /><br />JJ1?  There'll be more support for images, but not animations at this stage.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18537,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T17:27:33.000Z",
+		"content": "I have some experience with porting makefiles for cross-platform C but I'm not sure about C++.<br /><br />EDIT: Animations? Do you mean sprites or what?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18538,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-04T06:29:53.000Z",
+		"content": "Precisely.  No sprite support yet.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18539,
+		"title": "Re: re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-05T04:23:45.000Z",
+		"content": "The SPRITES.XXX files are interesting, I wish I had more time to look at them.<br /><br />What about sounds? Had any luck with them?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 18540,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-05T16:10:07.000Z",
+		"content": "I will make a post when I am sober.  The short answer is 'no'.  I love how my hands talk to the keyboard and whilst the mind is derailing, the hands stay beautiful.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18541,
+		"title": "Re: re:",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-05T16:35:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I love how my hands talk to the keyboard and whilst the mind is derailing, the hands stay beautiful.[hr][/quote]Must be something strong you're smoking there... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]"
+	},
+	{
+		"id": 18542,
+		"title": "Re: re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-06T02:46:07.000Z",
+		"content": "Poetic, I like it.<br /><br />The grass must be greener over there. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img] [img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 18543,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-06T19:24:05.000Z",
+		"content": "It was Scotch only.  I don't do any illegal substances.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18544,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-10T19:10:32.000Z",
+		"content": "No plans for a release yet?<br />Don't forget about supporting Hocus Pocus 1.4.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 18545,
+		"title": "Re: re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-11T13:49:01.000Z",
+		"content": "HP has a version 1.4?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 18546,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-12T06:15:56.000Z",
+		"content": "That's news to me...but sure, no problem.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18547,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-14T17:52:45.000Z",
+		"content": "No, wait. I meant Hocus Pocus version 1.1<br /><br />You can download the version patch or the shareware version from 3D Realms' website if in doubt, anyway.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 18548,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-15T15:06:58.000Z",
+		"content": "0.4a supports 1.1, from memory.  It handled 1.0, 1.1, and the beta.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18549,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-15T15:09:46.000Z",
+		"content": "Strange. Or is it just because mine's a shareware version?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 18550,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-16T01:59:39.000Z",
+		"content": "That'd do it.  I'll support shareware, I don't think it currently is.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18551,
+		"title": "Re: re:",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-18T17:47:26.000Z",
+		"content": "I've put so many hours into this thing lately that I thought I might actually add some games every now and again instead of just making the program itself.<br /><br />[img]http://images.szevvy.com/backdrop.png[/img]<br />Name the game to win!  (it's still glitched on the right-hand side of the fence, I know - a few of them have little issues like that, and a few of 'em lock Wombat up altogether.  Which means it's one little problem somewhere)------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18552,
+		"title": "Re: re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-18T18:31:10.000Z",
+		"content": "Monster Bash?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 18553,
+		"title": "Ooh.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-19T00:34:53.000Z",
+		"content": "Not a clue, but it looks so very tasty and oldschool. Some sort of adventure game at any rate, I'll wager, but not one I've come across."
+	},
+	{
+		"id": 18554,
+		"title": "Re: Ooh.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-19T01:12:44.000Z",
+		"content": "The tree is also glitched.<br /><br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 18555,
+		"title": "Re: Ooh.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-05-19T03:39:09.000Z",
+		"content": "King's Quest II? I think I win.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 18556,
+		"title": "Re: Ooh.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-19T06:32:17.000Z",
+		"content": "You win.  It's King's Quest II.  Also works with Space Quest 1-2, Leisure Suit Larry 1, Police Quest 1, and a couple of others.  Got sprites working also - by the time this happened, though, I'd been coding for 24 hours and was going a little crazy.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18557,
+		"title": "Re: Ooh.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-21T07:29:53.000Z",
+		"content": "Well, it seems something good has happened.  I'm actually quite surprised that this is the case, but it saves me a lot of time nonetheless.  The source code to read and descramble Jazz 1 sprites has been on the internet, freely available since January 2006.  I'm in the process of adding arrays and if-statements to Wombat (which I need anyway for Keen 4-engine games and Pirates 2004), and the result is that Jazz 1 sprites will be supported (will have to look at the palette, but that shouldn't be a big drama).<br /><br />Why the Jazz community didn't realise the potential of OpenJazz as a source of sprite-ripping info is beyond me.<br /><br />edit: [img]http://images.szevvy.com/spr.png[/img]------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18558,
+		"title": "Re: Ooh.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-05-22T01:28:21.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]by the time this happened, though, I'd been coding for 24 hours and was going a little crazy.[hr][/quote]<br />I bet you were! This is what separates programmers who get things done from folks like me.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 18559,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-06-20T10:55:20.000Z",
+		"content": "I've started working on some docs, got a bit done today:<br /><br />[url=http://images.szevvy.com/wombat_scripting.pdf]images.szevvy.com/wombat_scripting.pdf[/url]<br /><br />Ignore the empty pages, and I need to go over it and read it and fix things that made sense in my head but don't on paper [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />It needs italics for comments in the code examples and so forth, but what I'm more worried about is:<br />1. Is it understandable to some degree or is there too much of something?<br />2. Is the layout OK or too busy?<br />3. Are there too many examples?<br /><br />I personally think it needs more whitespace, and more text to explain things.  Perhaps even dividing lines between sections; hmm.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18560,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-23T08:00:44.000Z",
+		"content": "It looks good, but I think it would make it clearer if you had a \"code\" style (e.g. Courier New 10pt) that you used for all code - especially variable names embedded in the descriptive text.  For example, you say \"...simply skip count bytes in the file.\"  If \"count\" was in a different style, it would make it clearer that you're referring to the variable, and not that you have really bad grammer [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I think it may also help if you could somehow put the docs into two sections - one for all the explanation, and one as a quick reference for people who know what they're doing but need a reminder.  For example, instead of listing all the operators on page...oh yes, page numbers would be good too...well, instead of listing all the operators when you're trying to explain how operators work, you could maybe explain how addition works, and then say \"for a list of all available operators, see page X\" which is in the quick reference.  That way beginners won't be overwhelmed with lots of information, you'll have a complete reference for advanced users, and you won't have to duplicate too much of the documentation.<br /><br />Anyway, just a few thoughts...!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18561,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-06-24T15:04:13.000Z",
+		"content": "Good points.  Will incorporate.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18562,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-15T02:43:06.000Z",
+		"content": "Progress update:<br /><br />The only games that worked in 0.4a that don't work now:<br /><br />- Duke 2: Works perfectly except for levels - got to add some more script support.  The upside is I'll be able to to more decompression code from quite a few games into script, making the whole thing more transparent.<br />- Dune 2: About 95% done.  Palettes are messed up in about 4 images - as you can't refer to data from other packed files from within a packed file...so if I'm drawing an image in intro.pak, I can't use a palette from dune2.pak...yet.<br /><br />In other good news, all versions of Keen 5, all versions all Keen 4 except the beta/demo, and all versions of Keen 6 except the demo and promo work correctly.  Yay.<br /><br />I've also added an, IMO, pretty nice feature to the hex viewer - I know some people here will like it...the ability to align on non 8-bit boundaries.  You can, for example, view all the data in a file as 9-bit numbers to make it easy to find LZW compression, etc.<br /><br />I'm also working on hooking up level actors in the same way that levels are currently being scripted - and draw the sprites.  I'm sure someone here once wanted this for Duke 2; so enemies in a level will draw as proper Duke 2 enemies, etc.  There's a few issues I have to get around (making sure that only the first frame is being drawn as opposed to all frames), but it's looking very feasible.<br /><br />After that...about 35 bugs, and a big spreadsheet of 'things to investigate and things to make better'. *sigh*<br />------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18563,
+		"title": "Re: The official Wombat topic.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-20T13:25:12.000Z",
+		"content": "And now for my weekly feature: Vapourware show-and-tell!  Behold, the first ever screenshots of the new Wombat...UI needs some work aye.<br /><br />[quote]<b><i>Quote:</i></b>[hr]file name = \"level??.ck?\" is (<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 decompressedSize<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp <br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 width<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 height<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp magicNumber: 0xFEFE<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp <br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp level (&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp <br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp gridX: 16<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp gridY: 16<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp compressedData KeenRLE[bytesRemaining] (<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp data unknown[28]<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp levelLayer unsigned16 (<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp layerImage: \"egahead.ck1\\16x16 Tiles\"<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp order: 0<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp )<br />)[hr][/quote] Zoom out a little...<br />[img]http://images.szevvy.com/build200807_2.gif[/img]<br /><br />Bonus image:<br />[img]http://images.szevvy.com/build200807.gif[/img]<br /><br />Before anyone asks: no, there is no editing.  There are other programs for that.  You can, however, load Keen into it straight out of a zip and it'll work.  No work necessary.<br /><br />Thanks Andy Durdin for the Keen level info...!------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18564,
+		"title": "A happy post!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-20T13:33:30.000Z",
+		"content": "Put your hands up for Wombat![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img] <br /><br />Nice work, surr."
+	},
+	{
+		"id": 18565,
+		"title": "Re: A happy post!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-20T14:48:49.000Z",
+		"content": "Whao! I'm impressed! It's looking mighty fine.<br /><br />How about an \"open externally\" button to open the specific file/resource with an external application, so you can easily edit something for example?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18566,
+		"title": "Re: A happy post!",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-20T14:57:53.000Z",
+		"content": "Well, the level's simply rendered out as an image, so if all you want to do is edit the resulting png, it'd a possible...but how many people would want that?------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18567,
+		"title": "Re: A happy post!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-20T15:29:07.000Z",
+		"content": "Hm yes, I guess so. Well, the feature could be useful for the seperate files, I guess, rather than seperate resources.<br /><br />The \"replace\" function I see there will be very useful.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18568,
+		"title": "Re: A happy post!",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-21T00:39:54.000Z",
+		"content": "The replace function is currently...not very useful [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18569,
+		"title": "Re: A happy post!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-21T00:58:55.000Z",
+		"content": "Hence the \"will be\". I have all trust in you, seeing such a good app while it's not even done yet. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	}
+]

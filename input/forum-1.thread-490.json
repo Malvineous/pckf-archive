@@ -1,0 +1,50 @@
+[
+	{
+		"id": 147,
+		"title": "A bug that needs fixing:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-17T20:38:12.000Z",
+		"content": "In Keen 5, when you enter the secret level (at least in my Keen 5), right before you reach the end of the platform you are on, the gmae crashes; why? It used to work.<br /><br />I kinda want this fixed.<br /><br />-- NAJAWA --<br /><br />BTW - Why od people keep complaining about Keen not working on XP; It works just fine on mine: I just don't get the music; I use VDM Sound for that (If I care). I do know that keen cannot run on a 64 bit OS under no circumstances. I hope Billy Gates fixes that one before Billy Blaze fixes him; for good [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] ."
+	},
+	{
+		"id": 3762,
+		"title": "Re: A bug that needs fixing:",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-17T21:13:30.000Z",
+		"content": "Keen runs on WinXP because WinXP has a built-in DOS layer that emulates some - but not all - aspects of DOS. This is why you hear no sound in Keen and why TED refuses to work. 64-bit systems have a similar layer, but it emulates Win32 instead - there will never be support for DOS programs in any future version of Windows, whether it be 32- or 64-bit. (Use DOSBox instead.)[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 3763,
+		"title": "Trusty 98:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-17T22:22:12.000Z",
+		"content": "That is why I am always going to have a duel boot with Windows 98SE, and Windows *newest version*<br /><br />BTW - What about the bug?<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3764,
+		"title": "Re: Korath bug",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-09-18T00:25:06.000Z",
+		"content": "Yes, I too have that bug.  I'm not sure why it happens, but from memory the error message was something about one of those creatures walking off the edge of the map.<br /><br />I've always seemed to avoid the bug if I jump around a bit at the start.  Not sure exactly, but if you put on jump cheat and jump up quite high and over that first creature that seems to stop it from happening, at least for me.  Also shooting it straight away sometimes helps."
+	},
+	{
+		"id": 3765,
+		"title": "Re: Korath bug",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2005-09-18T01:26:59.000Z",
+		"content": "That would be the famous \"goplat\" bug, which has to do with the platform movements, not the enemies. The easy way to fix this is to just play on Normal or Hard."
+	},
+	{
+		"id": 3766,
+		"title": "TY",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-18T03:31:32.000Z",
+		"content": "Oh, thank you very much!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />-- NAJAWA --"
+	}
+]

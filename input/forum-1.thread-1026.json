@@ -1,0 +1,42 @@
+[
+	{
+		"id": 170,
+		"title": "No Sound in Keen 2 and 3",
+		"author_id": 1486460,
+		"author_name": "Da Pohli",
+		"timestamp": "2005-07-05T10:25:02.000Z",
+		"content": "Hi All,<br /><br />Yesterday I reinstalled the 6 great Keen games and wanted to play them. Everything worked fine, but in Commander Keen 2 and 3 the sound is not working though it works in Commander Keen 1. Im using WinXp.<br /><br />Thanks in advance<br /><br />Pohli"
+	},
+	{
+		"id": 4078,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-05T10:27:34.000Z",
+		"content": "It could be something really simple... Try pressing F2 at any point during the game--a little dialogue box should come up, asking if you want sound on, Y/N."
+	},
+	{
+		"id": 4079,
+		"title": "Re: hmm",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-05T13:57:00.000Z",
+		"content": "It could also be your pc speaker.<br />Sometimes when i play keen it plays sounds really quietly.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 4080,
+		"title": "Re: hmm",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-05T14:20:02.000Z",
+		"content": "Yeah, try F2 as Xky said. Although, if you install fresh versions they probably shouldn't have any settings.. Sounds are on by default.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 4081,
+		"title": "Re: hmm",
+		"author_id": 1486460,
+		"author_name": "Da Pohli",
+		"timestamp": "2005-07-06T09:29:11.000Z",
+		"content": "Lol that was it - It works !!<br /><br />Thanks a lot to everyone who helped."
+	}
+]

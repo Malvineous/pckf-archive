@@ -1,0 +1,194 @@
+[
+	{
+		"id": 493,
+		"title": "Patch problem...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-29T15:50:53.000Z",
+		"content": "I'm trying to add patches to my mod. So far, I have four patches. The invincibility message patch, the free stuff message patch, the color patch, and the \"always have pogo\" patch. But only The invincibility message patch and the free stuff message patch are working.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  How come?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13614,
+		"title": "Re: Patch problem...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-29T15:59:08.000Z",
+		"content": "Next time post at K:M.<br /><br />Um...<br /><br />1. Is the \"%version 1.31\" (or whatever the command is) in it? If so try taking it out.<br /><br />2. Are the patches after the \"%ext ck1\" but before \"%end\"? Ther should be.-Genius314"
+	},
+	{
+		"id": 13615,
+		"title": "Re: Patch problem...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-29T16:27:46.000Z",
+		"content": "I did do %version 1.31 and the patches are after %ext ck1 but before %end. But the colors are still exactly the same and Keen still doesn't start out with his pogo.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  what should I do?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13616,
+		"title": "Re: Patch problem...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-29T16:57:20.000Z",
+		"content": "take out the \"%version 1.31\" and check if you're game's version is 1.31. If it 1.0, then you need to download 1.31.-Genius314"
+	},
+	{
+		"id": 13617,
+		"title": "Re: Patch problem...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-29T17:09:34.000Z",
+		"content": "And are you sure you run \"ck1patch yourpatchfile.pat\"?<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13618,
+		"title": "Re: Patch problem...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-29T21:09:57.000Z",
+		"content": "The file name is 1keen131, which means that the version I am using (most likely) is version 1.31. Also, I typed \"ck1patch Harvey.pat\" (Harvey.pat is the pat file I am using) but Keen doesn't start with his pogo, nor are the colors changed. I've used Patchotron to make the patches, maybe I need use ck1patch instead?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13619,
+		"title": "Re: Patch problem...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-29T21:16:26.000Z",
+		"content": "ck1patch doesn't make patches. It just runs them. Its best to use notepad to edit patch files, though.-Genius314"
+	},
+	{
+		"id": 13620,
+		"title": "Re: Patch problem...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-30T07:35:44.000Z",
+		"content": "^ Fully agree with that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Hmmm, well, can't think of anything else what could be wrong. Are you sure you have unlzexed your Keen exe? (Probably you have, since otherwise ck1patch wouldn't start up.) Show use the patch file you're using, then, maybe we can find something wrong in there.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13621,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-30T08:12:17.000Z",
+		"content": "Harvey, what's this topic doing in \"Official Keen Games\" instead of Keen:Modding?  At least post in \"Other Keen Stuff\" or \"Unofficial Keen Games.\"  Mods are <i>not</i> official Keen games!<br /><br />You need a Batch file to tell CK1Patch to use your .PAT file.  Check any existing mod to see how it's done.  :-)"
+	},
+	{
+		"id": 13622,
+		"title": "Re: ...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-30T09:50:26.000Z",
+		"content": "Oops, I didn't even notice. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  Thanks for pointin' out, I've moved this now.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13623,
+		"title": "Re: ...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-30T10:40:14.000Z",
+		"content": "Of course I unlzexed it![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  But the Color patch and \"always have pogo\" patch still don't work![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  How come?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13624,
+		"title": "Re: ...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-30T10:53:07.000Z",
+		"content": "You have still messed up, or then it's your computer somehow. Since everyone other can get the patces working..<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13625,
+		"title": "Re: ...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-30T11:17:23.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You have still messed up, or then it's your computer somehow. Since everyone other can get the patces working..[hr][/quote] It's can't be my computer because the patches in other mods work perfectly.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]   So what could I have made a mistake on?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13626,
+		"title": "Re: ...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-30T12:51:30.000Z",
+		"content": "Post the exact text that is in the patchfile. (From start to finish, including %ext, %version and %end)"
+	},
+	{
+		"id": 13627,
+		"title": "Re: ...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-30T14:15:47.000Z",
+		"content": "%ext ck1<br /><br />%version 1.31<br /><br />%dump Harvey.txt<br /><br />#Invincibility mode<br />%patch 0x01500A \"Invincibility!!!\"<br />%patch 0x01501B \"Vincibility...   \"<br /><br />#CTSpace<br />%patch 0x014F02 \"You are now cheating!\"<br />%patch 0x014F19 \"You just got all of the   \"<br />%patch 0x014F35 \"key cards, and tons of\"<br />%patch 0x014F4D \"ray gun charges!        \"<br /><br />%patch $13054 <br />       00 00 00  <br />       00 00 42 <br />       00 42 00  <br />       00 42 42 <br />       42 00 00 <br />       42 00 42 <br />       42 42 00 <br />       42 42 42 <br />       21 21 21 <br />       21 21 63 <br />       21 63 21 <br />       21 63 63 <br />       63 21 21  <br />       63 21 63 <br />       63 63 21 <br />       63 63 63 <br /><br />#Always have pogo<br />%patch $900E $01 $00<br /><br />%end-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13628,
+		"title": "Re: ...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-30T15:50:47.000Z",
+		"content": "Did you try taking out \"version 1.31\"? That usually messes things up for me.-Genius314"
+	},
+	{
+		"id": 13629,
+		"title": "Re: ...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-30T16:03:32.000Z",
+		"content": "When I took out the \"version 1.31\", the game crashed as soon as I started it.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img]   Also, when it had crashed, a message on the window said \"Out of memory! Try unloading your TSRs!\" and at the bottem left of the window, weird simbols and a strange message were showen.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]   So I decided that I should put the \"version 1.31\" back in. The color patch and the \"always have pogo\" patches still didn't work.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]   So what could possibly be wrong with my patches?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13630,
+		"title": "buh?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-30T19:51:43.000Z",
+		"content": "How are you running the patches--with DOSBox, or from the main XP/Win98/Linux/whatever screen?"
+	},
+	{
+		"id": 13631,
+		"title": "Re: buh?",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-30T20:54:14.000Z",
+		"content": "I'm running it from the main 98 screen.-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13632,
+		"title": "grr argh growl",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-30T21:35:19.000Z",
+		"content": "Harvey, you've been changing addresses.  Your patch file won't work because you're patching things to the wrong place.  Check this out:<br /><br />[hr]<br />God Mode messages:<br /><br /><i>Harvey's code:<br />%patch 0x01500A \"Invincibility!!!\"<br />%patch 0x01501B \"Vincibility... \"</i><br /><br /><b>Proper code:<br />%patch $14EF6 \"Invincibility!!!\"<br />%patch $14F07 \"Vincibility...   \"</b><br /><br />You changed the addresses on this!  They're supposed to be in the late 14000's block, not the early 15000's block!<br /><br />[hr]<br />CtSpace Cheat message:<br /><br /><i>Harvey's code:<br />%patch 0x014F02 \"You are now cheating!\"<br />%patch 0x014F19 \"You just got all of the \"<br />%patch 0x014F35 \"key cards, and tons of\"<br />%patch 0x014F4D \"ray gun charges! \"</i><br /><br />Proper code:<br /><b>%patch 0x014DEE \"You are now cheating!\"<br />%patch 0x014E05 \"You just got all of the \"<br />%patch 0x014E21 \"keycards, and tons of\"<br />%patch 0x014E39 \"ray gun charges! \"</b><br /><br />Again, you changed these addresses and moved them later in the code--they're supposed to be in the 14E00's, not the 14F00's.<br /><br />[hr]<br />Palette changing patches:<br /><br /><i>Harvey's code:<br />%patch $13054 <br />00 00 00 <br />00 00 42 <br />00 42 00 <br />00 42 42 <br />42 00 00 <br />42 00 42 <br />42 42 00 <br />42 42 42 <br />21 21 21 <br />21 21 63 <br />21 63 21 <br />21 63 63 <br />63 21 21 <br />63 21 63 <br />63 63 21 <br />63 63 63</i> <br /><br /><b>Proper code:<br /># This is the color palette: 16 entries of r, g, b (each 0-63) <br />%patch $13054 <br />       00 00 00 <br />       00 00 42 <br />       00 42 00 <br />       00 42 42 <br />       42 00 00 <br />       42 00 42 <br />       42 42 00 <br />       42 42 42 <br />       21 21 21 <br />       21 21 63 <br />       21 63 21 <br />       21 63 63 <br />       63 21 21 <br />       63 21 63 <br />       63 63 21 <br />       63 63 63<br /><br /># Set the palette when we go into graphics mode <br />%patch $6E46  $E8 $D3 $D5 $90 $90 <br /><br /># Code to set graphics mode and set the palette <br />%patch $441C                  $B8 $0D $00 $CD <br />              $10 $B8 $12 $10 $B9 $08 $00 $BB <br />              $00 $00 $8C $DA $8E $C2 $BA $04 <br />              $00 $CD $10 $BB $18 $00 $BA $1C <br />              $00 $CD $10 $C3 <br /><br /># Include this part if the \"Change background tiles\" patch is not used <br /># It gives us 36 spare bytes for the palette-setting code <br />%patch $4409      $B8 $14 $01 $26 $81 $3F $31 <br />              $01 $73 $03 $B8 $8F $00 $26 $89 <br />              $07 $E9 $5C $01 </b><br /><br />You forgot all the technical patchwork which allows your changed palette to even run!  :-(<br /><br />[hr]<br />Always have pogo:<br /><br /><i>Harvey's code:<br />%patch $900E $01 $00</i><br /><br /><b>Proper code:<br />%patch $900E  $01 $00</b><br /><br />Hehe--you got this one right.  Good job.  :-)<br /><br />[hr]<br /><br />As you can see, Harvey, you forgot to include half of the Palette change patch, and you also somehow changed the addresses for the God Mode and CTSpace cheat messages--they crashed my copy of Keen when I tried to run them!<br /><br />Make sure you're UnLzExe'ing your files, make sure you're opening your Harvey.txt dump file in a HEX editor, and make sure you're patching to the correct offsets.  Something was very wrong with your patch file."
+	},
+	{
+		"id": 13633,
+		"title": "Re: grr argh growl",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-30T21:59:49.000Z",
+		"content": "Wait.. so the \"0x0whatever\" is just like putting \"$whatever\" except that $ gets replaced with 0x0? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] -Genius314"
+	},
+	{
+		"id": 13634,
+		"title": "correct",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-30T22:31:00.000Z",
+		"content": "I didn't learn so until just recently, but that is correct."
+	},
+	{
+		"id": 13635,
+		"title": "HEX editor... Sounds delishious... :-)",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-31T00:33:23.000Z",
+		"content": "Where can I find a good HEX editor? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13636,
+		"title": "Here...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-31T00:40:30.000Z",
+		"content": "[url=http://dosclassics.com/download/200]here[/url]<br /><br />Just open the file you made with the %dump command and look up addresses with it.<br />The address is the four-digit hexadecimal number in the bottom left corner when you click on a character.-Genius314"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"id": 840,
+		"title": "CC314 broken links can be fixed",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-06-09T20:17:36.000Z",
+		"content": "I just rediscovered CC314's interviews, and noticed [url=http://www.classicgaming.com/cc314/encyclopedia/interviews/geoffsims1.html]Geoff's interview[/url] has 2 broken links.<br />Using the Wayback Machine those can be fixed:<br />- [url=http://web.archive.org/web/19971211025637/http://www.lancs.ac.uk/ug/kaufman/keenpage.htm]Commander Keen (Unofficial) Home Page[/url]<br />- [url=http://web.archive.org/web/20000610001855/http://docker.com/~hillmanjr/keen/index.html]Commander Keen[/url]<br /><br />(Also the interview's actual title is \"Interview Index\", and the actual index's title is actually \"Interviews - Cerebral Cortex 314\", which are confusing.)Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 21403,
+		"title": "Re: CC314 broken links can be fixed",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-10T10:25:53.000Z",
+		"content": "Cheers, I've never seen those sites (and can't remember reading this interview either [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] ), too bad Wayback machine doesn't have much of the content featured on those sites.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21404,
+		"title": "Re: CC314 broken links can be fixed",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-11T01:01:51.000Z",
+		"content": "Yeah, its not very Keenspecific.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21405,
+		"title": "Re: CC314 broken links can be fixed",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-06-11T01:57:22.000Z",
+		"content": "KR, perhaps you missed the [url=http://www.classicgaming.com/cc314/encyclopedia/interviews.html]other interviews[/url] as well then.<br /><br />I remember reading about the pen and pencil thing a looong time ago, and wondering what the guy was talking about. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />He's probably referring to Keen's walking sound.<br /><br />Hmmm, one of those 2 sites is screwy.<br />The first time I got an \"Error 550 (or something), unable to open directory\" or something along those lines.<br />(It's a pop-up dialog box, and according to [url=http://en.wikipedia.org/wiki/List_of_HTTP_status_codes]Wikipedia[/url] 505 nor any other is status code is about that error, so I'm not sure what the fault is exactly.)<br />Anyway, after that, my Firefox told me I could send an error report and closed on me.<br />No problem after I retried right after that, but just now after opening those 2 sites Fx gave me the error again and hung on every link I tried to click.<br />Closing Fx completely didn't really close the session, so I had to force it closed.<br />Oh well!Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1422,
+		"title": "IMF converter",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-22T11:27:58.000Z",
+		"content": "Hi m8,<br /><br />Do you know a converter for IMF to Wav file or other. I got a converter (imf2wav) via google, but it makes a bad Wav file. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; <br /><br />Thanks you,<br /><br />JD"
+	},
+	{
+		"id": 29738,
+		"title": "Re: IMF converter",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2005-08-22T15:56:25.000Z",
+		"content": "it's simple.<br />just fix your software mixer to record everything that you play on your computer and use some tool for recording it to a wav.<br /><br />i myself use [url=http://www.adobe.com/products/audition/main.html]Adobe Audition[/url] for such tasks but i'm sure there are other similar programs that you can use too."
+	},
+	{
+		"id": 29739,
+		"title": "Re: IMF converter",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-08-23T05:48:34.000Z",
+		"content": "An IMF2WAV converter would have little use when, as DSL said, you can just record your computer playing them. I use [url=http://www.winamp.com]Winamp[/url] to create wav files of IMFs, S3Ms, M4As and the like.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 29740,
+		"title": "Re: IMF converter",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-23T10:11:58.000Z",
+		"content": "I use modplug to fiddle most of my audio files.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 29741,
+		"title": "Re: IMF converter",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-24T21:18:30.000Z",
+		"content": "Thank you all,<br /><br />I will see to use Winamp to save a Wav File of IMF file.<br /><br />:-)"
+	},
+	{
+		"id": 29742,
+		"title": "hey",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-25T01:12:25.000Z",
+		"content": "Hey, speaking of converting IMFs, someone posted a tool before the board crash which helped convert MID's into IMFs, and I thought it'd be cool to have some changed music in XkyKeen4/5/6... but I don't have the tool any more, and I don't even know where to begin importing music.<br /><br />Anybody got info?"
+	},
+	{
+		"id": 29743,
+		"title": "Re: hey",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-08-25T13:09:29.000Z",
+		"content": "A quick bit of Googling of \"imf mid music\" gave me a tutorial called \"[url=http://www.wolfenstein3d.co.uk/sounds-music.htm]Replacing music[/url]\" at \"The Wolfenstein 3D Dome\".<br />Basically it tells you: MID -&gt; MUS -&gt; IMF using IMFTools.<br />You can find IMFTools [url=http://cosmicoding.tripod.com/misc/kdl.html]here[/url].<br />I didn't try it myself... I don't think it's possible to actually import IMF files into Keen, but I could very well be wrong.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 29744,
+		"title": "wolf",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2005-08-25T20:27:56.000Z",
+		"content": "What about [url=http://winwolf3d.tripod.com/]IMFConverter and IMFCreator[/url]?"
+	}
+]

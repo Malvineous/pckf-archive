@@ -1,0 +1,114 @@
+[
+	{
+		"id": 1073,
+		"title": "Programming...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-01T21:21:52.000Z",
+		"content": "Well i kinda gave up on C++, but i thought i'd try out Dark Basic.<br />It seems simple enough, but i need some help.<br /><br />1. Is there a tutorial for making a game with this (with levels, shooting, etc.)?<br />2. I cant get the camera to start at a certain position.<br />3. How do i make \".x\" 3D files?<br />4. Does anyone have the code for a 3d game in Dark Basic that i can edit to use? (i like to edit existing codes to learn how to program. is this not a good way to learn?)<br />5. I only have 28 days left before i have to buy it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br />6. this will be <i>another</i> Keen 3d IF i can make a good engine with it.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 24812,
+		"title": "Re: Programming...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-01T22:08:59.000Z",
+		"content": "1. Probably, try Google;<br />[url=http://www.google.com/search?q=dark+basic+tutorial]www.google.com/search?q=d...c+tutorial[/url]<br />2. No idea.<br />3. With some 3D modelling software. I can't model 3D at all.. Basically just make the model and save it in .x format.<br />4. Heh, this is quite much to ask. I guess nobody here has one. As well, if you've never done any 3D stuff and never touched Dark Basic, it can be a quite hard to just make up a 3D engine or realize how something ready-made works. Even in a language like this, where 3D stuff handling has been purposefully made 'easy', it can be thousands of lines of code.<br />5. If you really want to use it then probably the only way is to buy it. If it's good it's worth the money. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />6. Sure.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 24813,
+		"title": "Re: Programming...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-01T23:18:11.000Z",
+		"content": "1. Tried. couldnt find anything good.<br />2. Aw man<br />3. I tried some but they couldnt save in that format. I'd have to buy one that can.<br />4. What about the other keen 3d's?<br />5. Well im gonna buy it i just dont want to spend money if i dont know if im any good at programming.<br />6. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 24814,
+		"title": "he he!",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-07-01T23:40:47.000Z",
+		"content": "thats what I do, DarkBASIC is fun and easy to me<br /> here are some basic types of data from the book:<br /><br />*INTEGER NUMBERS<br />An integer number can hold a whole number,                                                                                                                                                                                      but no fraction.for the value to be negative, you must not use commas as part of the the number as this would genarate a SYNTAX Error. examples of integer numbers:<br /><br />42<br />10000<br />-233000<br />-100<br /><br />*REAL NUMBERS<br />A real number can hold a whole number or a fractional number that uses a decimal point.For the value to be negative, you must place a hyphen symbol (-) before the value. Examples of real numbers:<br /><br />20.0005<br />99.9<br />-5000.12<br />-9999.9991<br /><br />hope I was some help [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 24815,
+		"title": "Re: he he!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-02T06:25:02.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]2. I cant get the camera to start at a certain position.[hr][/quote]<br />If you have the manual (which you should if you bought it legally) then it has several tutorials for creating an FPS. I can't really remember the tutorials as such, but I know there was one on controlling the camera.<br /><br />I would learn to use DarkBASIC if I had even the slighest inspiration for a game I thought I had the ability to make. Sadly, I don't, so as a result I have never bothered to use it. I \"borrowed\" the disc off my friend about two years ago, so it's probably around here somewhere...<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 24816,
+		"title": "Re: he he!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-02T14:07:06.000Z",
+		"content": "grafix5000, saw the line \"5. I only have 28 days left before i have to buy it\"? The free trial/demo that can be downloaded probably does not feature a tutorial.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 24817,
+		"title": "Re: he he!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-02T18:09:41.000Z",
+		"content": "i dont understand the matrix height thing.<br />I try to change it but nothing happens. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]  <br /><br />Also how do i get the character to move left and right?<br />I got it to move forward and backwards, but not left and right. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 24818,
+		"title": "Re: he he!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-02T18:44:24.000Z",
+		"content": "Maybe there's somewhere the direction that you should change. I guess the moving forward and backward is just moving forward and backward to some direction there is by default (that you need to change).<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 24819,
+		"title": "Re: he he!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-02T18:50:08.000Z",
+		"content": "Yeah, the thing is that the code make the character move in the direction hes facing.<br />All i had to do was have the number a negative to go back, positive to go forward.<br />But theres no way to change the command to have it go left or right.<br /><br /><br />EDIT: Ok, i got it.<br />Now i need to know how to simulate gravity.<br />I had some ideas that if the y value is higher than 300 (where the ground is) then the character falls until he's at 300. But it won't work because im gonna have lower parts like caves and stuff.<br /><br />After that, how to go up/down slopes. Don't have ANY idea how. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  <br /><br /><br />EDIT2: Yes! I got the slopes to work. Unfortunately i think it might prevent jumping. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 24820,
+		"title": "Re: he he!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-07-03T02:26:10.000Z",
+		"content": "I think usually falling works something like this:<br /><br />You fall, the programme checks if you're in the ground.<br />Nope!<br /><br />You fall, the programme checks if you're in the ground.<br />Nope!<br /><br />You fall, the programme checks if you're in the ground.<br />Yes, you can't really be here, and the programme moves you up again a little bit.Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 24821,
+		"title": "Re: he he!",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2005-07-03T14:39:13.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You fall, the programme checks if you're in the ground.<br />Nope!<br /><br />You fall, the programme checks if you're in the ground.<br />Yes, you can't really be here, and the programme moves you up again a little bit.[hr][/quote]<br />This is not how I would do it. Why go through the calculation of falling and THEN check, wouldn't you put the check first. If you are on the ground it would make you fall, do the check, and then UNDO what was just done. And wouldn't that just make the player bob up and down? I mean you are checking anyway so by putting the check first it should just make your program faster.<br /><br />for example:<br /><br />Check<br />       Not on ground<br />             Fall<br /><br />Check<br />       On ground<br />(Hmm EzBoard messed up my nice \"Tabbing\" I had here)<br /><br />No undo needed.-----------------------<br />\"The Adventures of Commander Keen\" issue #1: coming soon."
+	},
+	{
+		"id": 24822,
+		"title": "CPU-turn",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-07-03T19:32:29.000Z",
+		"content": "To tell you the truth, I don't understand why that choice was made either, but that's the way I've seen it in a few different places.<br />I've also seen the result when the CPU gets too busy too update often enough; the player sunk in the floor for a split second, so...<br />Just try out the other option, and if there really is a reason it's not everybody's choice, it will present itself I suppose."
+	},
+	{
+		"id": 24823,
+		"title": "Re: CPU-turn",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-03T21:28:29.000Z",
+		"content": "Yes, well, i got the jumping to wok, but now i need the camera to be third person (always ponting to his back)<br />any ideas?[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 24824,
+		"title": "Re: CPU-turn",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2005-07-13T22:48:22.000Z",
+		"content": "You gave up on C++?  I love that language... You must die [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] I've changed a lot since my last time on this forum..."
+	}
+]

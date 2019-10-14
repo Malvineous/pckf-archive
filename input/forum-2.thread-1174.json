@@ -1,0 +1,146 @@
+[
+	{
+		"id": 244,
+		"title": "Dance Keen",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-14T22:56:24.000Z",
+		"content": "[url=http://planetck.spatang.com/keendance/classes/KeenDance.htm]Dance Keen[/url]<br /><br />--------<br />Ok, it was last year when I heard about Disco Keen. Knowing it was gone, and wanting to do something cool, I started making my own version. I started in the Game Maker, but just today I started porting it to a Java a-p-p-l-e-t. Of course, I have a lot to learn until I can get it ready, but when its done you'll have a lot to look forward to.<br />First off, some info...<br />The game will use keyboard (mostly the Number Pad, but probably some other keys as well). I might also make the keys and numbers work alternatively to the numpad.<br /><br />Now, the technical stuff. (EDIT: Ignore. See below.)<br /><br />Ok, how exactly do i load an image to an a-p-p-l-e-t?<br />I was told by a tutorial to use this:<br /><br />[quote]<b><i>Quote:</i></b>[hr]        Image keen;<br />keen = getImage(getCodeBase(), \"keenStand.gif&amp;quot[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   ;<br />g.drawImage (keen, 0, 0, this);         [hr][/quote]<br />But nothing shows up. I can get a ball to show up by putting some oval text in, but no keen. Is it a problem with the code itsself, or is the file just in the wrong place? (I have one in the folder where the source is and one in the folder where the exe is.)<br /><br />EDIT: GOT IT! It was in the wrong folder!-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6214,
+		"title": "Re: Dance Keen",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-14T23:22:13.000Z",
+		"content": "This sounds cool! I've missed Disco Keen. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 6215,
+		"title": "Re: Dance Keen",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-15T00:34:25.000Z",
+		"content": "Ok, here's a technical problem...<br /><br />None of the keys work. Is there some code that has to be said before i can use a listener?<br />All i have right now is this:<br />[quote]<b><i>Quote:</i></b>[hr]        public boolean keyPressed (Event e, int key)        {<br />      // if user presses key...<br />      if (key == 97)<br />      {<br />              move1 = true;<br />              x++;<br />      }<br />      <br />      if (key == 9[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img]  <br />      {<br />              move2 = true;<br />      }[hr][/quote]<br />But when i press a key, nothing happens. (and i have tried having very simple things happening when i press a key, its still the same.<br /><br />EDIT: Darn, i feel like such an idiot!! You have to CLICK the a-p-p-l-e-t to get the keys to work!! D'oh!-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6216,
+		"title": "Re: Dance Keen",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-15T08:58:19.000Z",
+		"content": "You have the same old \"miss the obvious step\" problem that I keep having when I program [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 6217,
+		"title": "Re: Dance Keen",
+		"author_id": 1486271,
+		"author_name": "RoboRed",
+		"timestamp": "2006-03-15T23:49:38.000Z",
+		"content": "What happened to Disco Keen?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] [img]http://img.photobucket.com/albums/v426/RoboRed/RoboredSig2.jpg[/img]"
+	},
+	{
+		"id": 6218,
+		"title": "Re: Dance Keen",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-16T00:13:27.000Z",
+		"content": "Dunno. I guess the site went old and got removed and TMST has no backups anywhere.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 6219,
+		"title": "V0.25 Released",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-19T19:12:04.000Z",
+		"content": "Ok, I'm not really sure, this could be V0.5, or even V0.75.<br />It all depends on how much more I add.<br />So far so good, the only things missing so far are<br />-Several combo moves<br />-The lights from the disco ball<br />-Several Levels and Songs<br />-Regular arrow key moves (these will possibly be Keen-related moves such as pogoing and shooting and stuff)<br /><br />Also, I may or may not add in extra characters and modes.<br />If i add more modes there will be:<br />-Free mode (what you see right now)<br />-Game mode (arrows go across the screen and you have to press them at the right time)<br /><br />As for characters, i might also have several different Keens:<br />-Keen 4-6<br />-Dance Keen (the one i made for this game)<br />-Xky Keen 1-3<br />-Xky Keen 4-6<br />-That one keen sprite based off of Xky's Drawings<br /><br />Anyway, heres the link: [url=http://planetck.spatang.com/keendance/classes/KeenDance.htm]DanceKeen V0.25[/url]<br /><br />Report Bugs and stuff.<br /><br />Oh, and the instructions, too:<br /><br />Title Screen: Click or press a key.<br />First Menu: Select a stage.<br />Second Menu: Select a song. There's two previews of new remixes that I'm working on.<br />Dancing: Use the numpad 1-9 to do a move. (Don't forget numlock!!!) Press 2 keys at a time to do a \"combo\" move.<br /><br />EDIT: And here's a list of moves:<br />(Please note that I know nothing about dancing.)<br /><br />1: Put right foot out. Meh.<br />2: Kneel-ish move. Saw it in a cartoon.<br />3: Same as 1.<br />4: Keen moves his hands. Meh again.<br />5: Clap.<br />6: See 4.<br />7: Point-y move. Meh again again.<br />8: Keen puts his hands in the air. Woo.<br />9: See 8.<br />1 and 3: Split. Ouch.<br />1 and 7: Kick. Again - Ouch.<br />3 and 9: See 1 and 7.<br />4 and 6: Spin.<br />4 and 7: \"Monkey\" or whatever.<br />5 and 7: Lighter.<br />5 and 9: Lighter again.<br />6 and 9: See 4 and 7.<br />7 and 8: \"Rock on.\"<br />7 and 9: Clap up.<br />8 and 9: See 7 and 8.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6220,
+		"title": "Re: V0.25 Released",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-20T14:59:56.000Z",
+		"content": "Garg. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  \"Invalid bytecode.\" Won't start for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 6221,
+		"title": "Re: V0.25 Released",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-20T21:39:46.000Z",
+		"content": "Hmm, what Operating system and browser do you have?<br />I don't know what the problem would be...-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6222,
+		"title": "Re: V0.25 Released",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-20T23:22:35.000Z",
+		"content": "Well, I get this:[pre] java.lang.UnsupportedClassVersionError: KeenDance (Unsupported major.minor version 49.0)[/pre]<br />Looks to me like my Java VM doesn't like a major version number of 49, but then I know nothing about Java. I'll try it on my Windows PC (this one is Firefox 1.5 on Ubuntu Breezy Linux)[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 6223,
+		"title": "Re: V0.25 Released",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T22:57:06.000Z",
+		"content": "It worked for me, and though the background sucks, the rest is pretty neat.<br /><br /><br />Hey, I wonder where you got those MIDIs from. I'm sure I heard them in Dopefission, but I couldn't find the original MIDIs... Could you send them to me, maybe? For good bonus-use in my fangame, for example? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 6224,
+		"title": "Re: V0.25 Released",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-21T23:12:12.000Z",
+		"content": "The disco keen one wasn't mine, the rest are.<br /><br />[quote]<b><i>Quote:</i></b>[hr]and though the background sucks, the rest is pretty neat.[hr][/quote]<br /><br />What's wrong with the background??<br />Don't worry, the final ones will be better.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6225,
+		"title": "Re: V0.25 Released",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T23:18:45.000Z",
+		"content": "The yellow/black background is a bit too clear, so foreground stuff like Keen himself are less noticeable.<br /><br />Also, there should be more DISCO LIGHTS!!!1 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 6226,
+		"title": "Re: V0.25 Released",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-23T18:06:05.000Z",
+		"content": "Got it running on my WinXP machine downstairs! Woo.<br /><br />This is pretty good! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  The only thing I think could be improved is the amount of empty space on the screen - making Keen bigger or the game area smaller would help.<br /><br />Oh, and don't forget the DISCO LIGHTS!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] [url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 6227,
+		"title": "Garg!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-25T20:14:09.000Z",
+		"content": "I'd so much like to get this thing working! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  When you compile the source to Java app.let does it give any warnings? (To note, I'm not even sure if Java is compiled or anything, I know nothing of that language..)3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 6228,
+		"title": "Re: Garg!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-25T23:16:32.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]When you compile the source to Java app.let does it give any warnings? (To note, I'm not even sure if Java is compiled or anything, I know nothing of that language..)[hr][/quote]<br /><br />No errors. What OS are you running. I think it might only run in windows, or in certain Java Plug-in things (whatever you call them. the one in the compiler works different than the one in my browser.)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6229,
+		"title": "Re: Garg!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-04-12T18:35:45.000Z",
+		"content": "A few things...<br /><br />It worked a few days ago, but now when I press any of the keys Keen disappears, even after I wait a while in case something isn't loaded rightaway.<br />Only the toe-tapping still shows.<br /><br />The background settings really do need some improvement, some more detail, and the whole ****** should be scaled up, at least on my configuration everything is teeny tiny.<br /><br />Edit your first post to have the link; right now I had to scroll a bit to find it back, and easy access means lazy people are more likely to find your stuff, meaning a bigger overall audience.<br /><br />Something I just realised (perhaps with a little cleaning up) someone should be able to rip some of the old Dance Keen animations from Dopefission.<br /><br />In conclusion, nice project, glad to see something silly like this appear/return!Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 6230,
+		"title": "Re: Garg!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-04-15T18:12:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Something I just realised (perhaps with a little cleaning up) someone should be able to rip some of the old Dance Keen animations from Dopefission.[hr][/quote]<br />I tried this a while ago, but there are no actual animations from Disco Keen in Dopefission - there is the \"Dopefish\" move which is inspired by Disco Keen, but doesn't feature in the original site.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	}
+]

@@ -1,0 +1,738 @@
+[
+	{
+		"id": 229,
+		"title": "Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-07T02:14:05.000Z",
+		"content": "Is anyone interested in a 2player game where Keen and Mort fight? It uses the original keen engine so u can do all that stuff, including poles, ledge grabbing, pogo, (no moving or drop down platforms yet). I got it working last night after like 6 hours of program time from scratch. (yay!) And I can't find any bugs (YAY!)<br />   I can take suggestions. RIght now its gonna be you just set the amount of hits to win, start amount of ammo, the recharge time and recharge amount (such as 2 per 5 seconds, or x per y seconds), the level, and the music (original keen music).<br />   It's not online, sorry. I wish I knew how to do that.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5897,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-09-07T07:18:17.000Z",
+		"content": "sounds good... what are you using to make it?<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5898,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-09-07T19:09:54.000Z",
+		"content": "Sounds good... You should be able to help me.  --;<br /><br />However, do you have any backdrops/etc?~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5899,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-07T19:20:21.000Z",
+		"content": "Game Maker 6.1, registered<br />- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5900,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-09-07T19:44:02.000Z",
+		"content": "Backdrops, as I explained over AIM, are graphics.  =P<br /><br /><br />However your game sounds like it'll be good.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5901,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-07T21:38:02.000Z",
+		"content": "Man, is like no1 else interested?- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5902,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-09-07T22:07:17.000Z",
+		"content": "We don't get much activity around here, so don't sweat it.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5903,
+		"title": "Re: Anyone Interested?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-09-08T00:22:39.000Z",
+		"content": "Trust me, people will be interested if you can make something worth playing. I'm not so Keen on Game Maker games, but I'll definitely try it if it reaches a state of playability."
+	},
+	{
+		"id": 5904,
+		"title": "Re: Anyone Interested?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-09-08T02:43:44.000Z",
+		"content": "This game is being made with Game Maker, but it also uses the original Keen engine?<br />I'm not quite following...Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5905,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-08T03:30:49.000Z",
+		"content": "it is being made with game maker, and the engine <i>almost</i> has the same features as the original:<br />   jump, pogo, ledge-grab, poles, look down/up (no view scroll), and fireing at any time and position except on pogo stick and during ledge grab.<br />   There are currently three major differences:<br />   (1) When you move downwards on a pole, the sprite of Keen is not of him swinging around it; it is the same as the upward pole movement on whatever side he's on. This was easier and made more sense to me, cuz if u shoot up/down on a pole, the blast will be on either the left side or right side, so seeing which side you;re on when moving down is important.<br />   (2). There are no moving platforms or ledges that you can drop down from by pressing DOWN + CTRL<br />   (you can now pogo high from the ground, which is the only way to do the impossible pogo trick)<br />   (3). The jump and pogo heights are probably a little different.<br />   (4). The run and pole climb/descend speeds are probably a bit different.<br />   (5). You always accelerate in free fall. I may change this.<br /><br />   The only bug i have found is the following:<br />   When hitting a corner of the block exactly the right way you will instantly appear either at the top of the next block above or the bottom, depending on if you're moving up or down. This used to be instantly appearing at block highest up from where you were or fartherst down.<br />   I rather liked that bug however; it adds interesting gameplay and I called it the impossible grappling hook trick.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5906,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-09T03:24:42.000Z",
+		"content": "Hmmm, sounds impressive. I wish I was more energetic, so I could comment more, but... I'm not.<br /><br />Either way, got any screenshots?Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5907,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-09T14:05:50.000Z",
+		"content": "Screenshots will come when I make some pretty levels (soon). I only worked on the engine, and now that that is done, i'll tile everything up and make a nice menu.<br />I could put in game music too, but i personally disprove of midis since they sound different on different machines. I remember the good ole sounds of some music that doesnt sound right nowadays.<br />I'll proly do midis tho. You dont wanna dl a slew of mp3s in the game, im sure.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5908,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-21T05:41:12.000Z",
+		"content": "As promised...here are the early screenshots<br /><br />[url=http://img96.imageshack.us/my.php?image=1du5.png][img]http://img96.imageshack.us/img96/702/1du5.th.png[/img][/url]<br /><br />[url=http://img201.imageshack.us/my.php?image=2zm5.png][img]http://img201.imageshack.us/img201/1166/2zm5.th.png[/img][/url]<br /><br />[url=http://img201.imageshack.us/my.php?image=3gh5.png][img]http://img201.imageshack.us/img201/5338/3gh5.th.png[/img][/url]<br /><br />[url=http://img201.imageshack.us/my.php?image=4pk0.png][img]http://img201.imageshack.us/img201/750/4pk0.th.png[/img][/url]<br /><br />[url=http://img227.imageshack.us/my.php?image=5ji8.png][img]http://img227.imageshack.us/img227/6840/5ji8.th.png[/img][/url]<br /><br />[url=http://img165.imageshack.us/my.php?image=6be7.png][img]http://img165.imageshack.us/img165/1875/6be7.th.png[/img][/url]<br /><br />[url=http://img227.imageshack.us/my.php?image=8vy2.png][img]http://img227.imageshack.us/img227/9926/8vy2.th.png[/img][/url]<br /><br />Thanks to ImageShack for [url=http://imageshack.us]Free Image Hosting[/url]<br /><br />The engine is up and running with no known debilitating bugs. However, I am going to remove the impossible grapping hook trick, if I can, since it is semi-debilitating.<br /><br />Features: jump, pogo, pogo high, impossible pogo trick, pole climbing, duck, ledge grab and pull up, firing from most positions and in all 4 directions, including mid-air, on-pole, up from ground, etc...<br /><br />Not featured: internet play, platforms you can drop down from, poles that go inside a platform, moving platforms, AI enemies, hazards, (basically anything that manipulates the environment like swithces).<br /><br />Not Featured yet but planned to implement: modes of play like accuracy way, time-limit, etc., music, possibly hazards, possibly enemies, possibly other weapons, impossible bullet trick.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5909,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-09-21T06:03:35.000Z",
+		"content": "Looks and sounds really promising!  Can't wait to try it out!  Keep the progress coming.[img]http://imagegen.last.fm/asimpleblue5/recenttracks/Mr12000.gif[/img]"
+	},
+	{
+		"id": 5910,
+		"title": "hmm",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-09-22T06:01:43.000Z",
+		"content": "Will the settings save each time? and what is going to be included with the switches? (ie platform trigger, hazard creator)<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5911,
+		"title": "Re: hmm",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-22T11:24:06.000Z",
+		"content": "*hugs*<br /><br />Wheeeee! I wanna kick his black-shirted-brown-eyed rear!Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5912,
+		"title": "Re: hmm",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-09-22T12:21:14.000Z",
+		"content": "Looks cool, and nice to see you've made own tiles. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5913,
+		"title": "Re: hmm",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-22T13:15:02.000Z",
+		"content": "LoL freeyorp I said no switches. But it would be kool if there were bridges and moving platforms. <br />And LL, Mort has black eyes. check that last SS.<br /><br />I'm still trying to get rid of the impossible grappling hook trick; plus another thing, not really a bug, just the settings, but it's tricky.<br /><br />I could use original Keen floor and wall tiles if you want. What do u think? Are my custom ones better? They come in 8 colors, Red, yellow, green, teal, blue, purple, gray, and brown. The poles come in the same colors [EDIT: except brown] and I try to contrast them with the chosen floor color.<br />BTW no secret passages, but it'd be real easy.<br /><br />Right now, I'm thinking there should be types of arenas to battle in:<br /><br />Ring: no hazards, enemies, platforms, or bridges<br />Arena: moving plats and bridges<br />Battle Ground: previous elements plus hazards<br />Stadium: previous elements plus enemies<br /><br />Plus there could be types of battles:<br /><br />certain # of lives<br />time limit where person who shoots opponent the most wins<br />accuracy war where person who is the most accurate wins<br /> any other types of battles or types of levels you all can thnk of?<br />- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5914,
+		"title": "Re: hmm",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-09-22T14:07:16.000Z",
+		"content": "A little criticism: use low-res or exactly 2x resized graphics ONLY. 2x resized sprites on a high-res background looks bad, and a badly resized background (not 2x or 3x but for example 1.5x) looks even worse.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5915,
+		"title": "Re: hmm",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-09-22T17:10:15.000Z",
+		"content": "Two things.<br /><br />In the second screenshot, that gray background clearly does not tile properly.  There's a seam along the dithering where there are two pixels of the same color next to each other.<br /><br />Also, those floors don't look good with everything else.  There's no detail to them at all.  Go with the originals."
+	},
+	{
+		"id": 5916,
+		"title": "Re: hmm",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-22T19:02:34.000Z",
+		"content": "The Keen/Mort sprites and the backgrounds are all 2x size. I got them from CKU package i think, at least the backgrounds are. But I'll double the backgrounds again and compare.<br />Also, I'd hate to re-tile all my 8 levels, but I could make a code that automatically tiles the room.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5917,
+		"title": "Re: hmm",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-09-23T16:35:42.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The Keen/Mort sprites and the backgrounds are all 2x size. I got them from CKU package i think, at least the backgrounds are. But I'll double the backgrounds again and compare.[hr][/quote]<br />That's nice, but the semi-isometric floors are not in 2x pixels... And that does NOT look good.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5918,
+		"title": "I am Interested!",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2006-09-23T17:57:54.000Z",
+		"content": "COOL!!<br /><br />Can more non-playable characters from commander keen be put in.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]    <br /><br />[hr]<br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [/center]<br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]    [/center]<br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]    [/center]"
+	},
+	{
+		"id": 5919,
+		"title": "UPDATES AND SCHEDULE",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-25T05:22:08.000Z",
+		"content": "[GRAPHICS]<br />DONE:<br />---Tiles now come in 9 colors, red, yellow, green, teal, blue, purple, orange, brown, pink, white, gray, black. Pole tiles come in 10, the first six in the previous list plus gray, plus brown. plus the graish rope stuff in Keen 5, and the vines in Keen 6.<br />---An automatic tiling script so I don't have to waste time painting my levels. This has now been updated to 40x40 (previously 80x80) and that was no cakewalk. Blocks also come in 40x40 so that is the new grid snap for more flexablility [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]            [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]         [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]          [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]         [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]         [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]         [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]         [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]                <br />---made tiles 2x and more detailed.<br />---tile colors can be swapped; such as pink on blue. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]      <br /><br />DO:<br />---add original tiles and sprites for points, hazards, enemies, all other original stuff<br />---get autotiler working for all ramps and original sets<br /><br /><br />[SOUNDS]<br />DONE:<br />---jump, one fire sound, fire hit, pogo, fall, land on ground, helmet hit, die, empty gun click/switch change, point grab sound, droplet/vitalin/viva grab, 1 up sound, gem grab, <br />---three original enter level tunes and three original exit level tunes<br /><br />DO:<br />---add run sound, more fire sounds, door open/close,  enemy and hazard sounds, <br /><br />[MUSIC]<br />DONE:<br />---nothing, lol, yet...<br /><br />DO:<br />---add all original keen songs somehow<br /><br />[ENGINE]<br />DONE:<br />---player run, jump, pogo, ledge grab and pull up/drop down, poles, shoot from ground/air/poles, look up/down with view SCROLL, Impossible Pogo trick<br />---all ramps!, drop-down plats!!, moving plats!!!, poles through ground!!!! IBT!!!!<br />---LOOK DOWN MANEUVER CHANGED; YOU FACE EITHER WAY WHEN CROUCHING AND YOU CAN FIRE A LOW SHOT; YOU ALSO ARE LOW ENOUGH TO DODGE NORMAL SHOT; WOOT!<br />---made drop down ramps of both steeps!!!!<br />---pogo crush at high speed!<br />---blocks now are as small as 40x40 (auto tiling script is functioning for basic blocks, poles, ddps! WOOT!)<br />---switches with bridges and lasers (no plat path change yet, and no tilies worked with them yet)<br /><br />DO:<br />---Primary: 2ssp? switch/door/place gem handling with sprite, <br />---Secondary: switches with plat path change (and tiling of all switch maneuvers), bridges, doors, gem doors, items, One-ups?, hazards, enemies, other weapons????????<br /><br />[GAMEPLAY]<br />DONE:<br />---able to set beginning number of lives, beginning ammo, ammo recharge amount and ammo recharge time (x shots every y seconds)<br />---able to select one of 8 (not original) levels<br />---Mort's controls use the FGHT keys as a replacement for the arrow keys, and A as the ALT replacement and the D as the CTRL replacement. (It's a little counter-intuitive because in every other instance, Keen and his data are on the left, and Mort on the right.)<br />---Two button firing only, but you won't accidently jump or pogo once you get good. It's not hard.<br />---I'm considering adding extra characters now....<br /><br />DO:<br />---modes of play: Hits to Win, Most Hits under Time Limit, Accuracy War, Most Points Collected, Race<br />---able to turn on/off hazards, enemies, gems/doors, bridges, moving platforms, points, etc<br />---add all levels from all 7 Keens and make other levels<br />---maybe extra characters...<br /><br />[SPECIAL]<br /><br />DO:<br />---organizedmenu<br />---custom level editor... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]           <br />---BWBvsTQD<br />---no other weapons exactly, but cheats with them hehe<br />---considering internet play...cuz that would be the bomb-diggity [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]   <br />---make a tuturial of everything<br /><br />[GUESS WHAT]<br />---There is 1 bug so far. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]                    Im on a roll;<br />---If anyone can suggest any other weapons that are worth implementing, I will; keep in mind this game is not about mass destruction but about tactical platform warfare between the two smartest beings in the Universe.<br />---Any other suggestions welcome.<br /><br /><br /><br /> Imagine standing in front of a switch so your opponent can't see it, then he jumps through an off laser beam (those things in K6), and you activate it right as he passes through, defeating him; or imagine running a good few blocks ahead of your opponent, coming up to robo red, shooting it, and then pogoing over it while your opponent is too far behind to do the same (but maybe he shoots the incoming Robo Red blasts to cancel them out.) All this will be possible.<br /><br /><br />FreeYorp101: sorry for missing that question for so long; the settings you can set do save for the next battle<br /><br />ZeroDiamond: that background is now tiling correctly.<br /><br />CommanderSpleen, trust me, Game Maker pwnz. You shall see.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]                      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]                      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]                      <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]                      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]                      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]                      <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]   - .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5920,
+		"title": "Re: UPDATES AND SCHEDULE",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-09-27T20:29:27.000Z",
+		"content": "Sounds great!  The engine seems awesome and covers alot of the moves from the original engine, even the Impossible Pogo Trick.  Thats very impressive, especially for Game Maker.  Now the thing to see is how well it runs, and how well the feel of the game is, meaning... Does it feel like a Keen game when I play it?<br /><br />Looking forward to this!  Keep up the amazing progress![img]http://imagegen.last.fm/asimpleblue5/recenttracks/Mr12000.gif[/img]"
+	},
+	{
+		"id": 5921,
+		"title": "Re: UPDATES AND SCHEDULE",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-27T22:30:57.000Z",
+		"content": "It sure does to me, but I haven't even added any other original graphics and elements yet, so it's about to feel a whole lot more like it.<br />and when you said it covered \"alot\" of the original Keen movements, was there some I missed?- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5922,
+		"title": "weapons suggestions",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-09-30T21:44:23.000Z",
+		"content": "something that could manipulate the eniviroment, ie  destroy platforms or poles?<br /><br />a fire weapon? <br /><br />landmines?<br /><br /><br />[hr]<br /><br />--freeyorp"
+	},
+	{
+		"id": 5923,
+		"title": "Re: weapons suggestions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-01T10:17:08.000Z",
+		"content": "Ooh! Ooh! A way to set poles on fire! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5924,
+		"title": "Re: weapons suggestions",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-10-01T16:49:17.000Z",
+		"content": "Hey Mort, do you want my prerelease of all the KeenSounds?<br /><br />It literally has all the Keen sounds.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5925,
+		"title": "Re: weapons suggestions",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-02T02:36:12.000Z",
+		"content": "lol globbox I dled that already. (dont u remember my .wav suggestion?) Thanx for them tho, it rules. Oh and I got TONS of moves by now, well they're cheats. Here they are:<br /><br />CLASSES:::::<br />  always available:<br />        IBT?, pogo crush, double-shot, <br />  primary (sunglasses on):<br />        rapid shot, reflecter shot, pogo-smack, CWlaser, flower power, 16 direction shot, special weapon grab from compartment, <br />  extended:<br />        wall/ceiling walk, call in ship, detonate AM/fire tantalus ray?, activate ankh, continuous shot, teleport, boubus bombs, blast through a block?, opponent mirrors your moves?, reverse views and outfits, <br /><br /><br />activating the primary cheats and extended ones will cause your player to wear spiffy sunglasses. I won't say how to active primary or extended mode, nor will I say how to do a particular cheat, but activating and executing will require certain numbers of ammo.<br /><br />[EDIT:] OH OH OH, i do need help in thinking of a few moves. See Keen (and Mort) have 5 items: neural stunner, pogo, helmet, computer wrist, and that book. There must be cheats with each of them. Can anyone think of a move for the Impossible Helmet trick? And what would the Book do? That's all I need help on.<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] - .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5926,
+		"title": "re",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-02T11:11:51.000Z",
+		"content": "spleen what do u have against GM? The latest version of GM is very good. Anything you can make in MMF (2d) you can make in GM. What z-one is making would also be very easy to make in GM.<br /><br />Just because not many people have made anything worth playing in GM dosn't mean its bad.<br /><br />Mort whats your GMC name?"
+	},
+	{
+		"id": 5927,
+		"title": "Reef",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-02T14:07:58.000Z",
+		"content": "I must admit it's been a long time since I tried GM, so it's obviously become more capable than it once was. I won't compare it with TGF or MMF, as I don't use those any more, but my main gripes are with bloat, limited operating system support (ie. Windows only), and excessive resource requirements (simple platformers should be able to run on an old Pentium, at the most extreme).<br /><br />Some of these issues may be unfounded, but it's just the general impression I get. It doesn't bother me that much, though. If the result is good I'm all for it. I just prefer to play and create games that are more flexible, cross-platform and compact."
+	},
+	{
+		"id": 5928,
+		"title": "Re: Reef",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-02T19:12:04.000Z",
+		"content": "Taken straight from the Game Maker help file:<br /><br />\"Game Maker requires a modern Pentium PC [EDIT: I highly doubt you that Athalon or another processor doesnt' work] running Windows 98SE, 2000, Me, XP, or later. A DirectX 8 compatible graphics card with at least 16MB of memory is required for most created games. It requires a screen resolution of at least 800x600 and 65000 (16-bit) colors. Also a DirectX 8 compatible sound card is required. It requires DirectX version 8.0 or later to be installed on your computer. (You can download the newest version of DirectX from the Microsoft website at: [url=http://www.microsoft.com/windows/directx/.)]www.microsoft.com/windows/directx/.)[/url] When designing and testing games, the memory requirements are pretty high (at least 64 MB and preferably more, also depending on the operating system). When just running games, the memory requirements are less severe and depend a lot on the type of game. \"<br /><br />All of that is not bad for these days, but point taken about only running on windows. Still, GM pwns; maybe one day I won't believe it anymore since I don't know any other real language, but I know I've mastered GML (minus internet and particles) and I know what I can do with it and it's alot. [EDIT: O and how could I 4get; ITS FREE ($20 registered, which is useful, but you can do quite alot without it).<br />The resources are excessive because GM is designed to be able to make any kind of game, and thus has to be broad. If you wanted to make one specific kind of game, then you could write the engine to be the least resource-requiring, get what i mean.<br /><br />Alex, I got no clue what you mean by GMC; I'm not on any Game Maker forums unless I forgot lol. Oh and there's plenty games made in GM worth playing<br />[url=http://www.gamemakergames.com/]www.gamemakergames.com/[/url]<br />I highly recommend games by PugFugly; stupid name, but he pwnz; his games are very arcade style of the old days<br /><br />GM can do 3d u know, and I know how to do that too. I try to think of cool, original 3d style games for Keen. I believe that TUIT should be a new way of 3d games, just like KEEN1 had the new side-scrollling trick never before seen.TUIT should have a unique, orignal engine too. Not that I'm qualified to make it or anything lol.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5929,
+		"title": "Re: Reef",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-02T19:33:28.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Anything you can make in MMF (2d) you can make in GM. What z-one is making would also be very easy to make in GM.[hr][/quote]<br />Tee hee, MMF 2 is out, did you know? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Anyway, GM seems reasonable. After all, it's up to the maker of the game whether the game becomes good or not, if (s)he can find the power (s)he needs in the game creation app (s)he uses. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5930,
+		"title": "Re: Reef",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-10-02T23:26:47.000Z",
+		"content": "&lt;shamelessplug&gt;[url=http://scirra.com/]scirra.com[/url]&lt;/shamelessplug&gt;[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5931,
+		"title": "re",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-03T02:00:05.000Z",
+		"content": "Apparently MMF didnt support alpha channels until version 2. Is that true? GM's had alpha channels for ages.<br /><br />Heres a pretty good GM game that won a major game contest.<br /><br />[img]http://img175.imageshack.us/img175/4135/gmgamela1.jpg[/img]"
+	},
+	{
+		"id": 5932,
+		"title": "Re: re",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-03T06:34:25.000Z",
+		"content": "Well, here's the second version of my tiles:<br /><br />[url=http://img156.imageshack.us/my.php?image=newtilesrm0.png][/url]<br /><br />HAHA I redid them in a few hours; notice i reangled it from 45 to 22.5 degrees, which aint easy to readjust my automatic tiling scripts, but I did it. The observant will notice a discrepency near the top-left corners; I think i can fix this by shifting the edge lines over a few pixels.<br />Next step: implement drop-down ramps, as opposed to soild ramps<br />GARG! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]       I wish i didn't have to do this.<br />Still, NO BUGS [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]      <br />I wish you all would comment more; im so excited; im like totally outdoing myself here<br /><br />ALSO, I updated that big list a bit; in particular...<br /><br />[url=http://imageshack.us][img]http://img144.imageshack.us/img144/4466/kcbc8.png[/img][/url]<br />the crouching mechanism is taken care of (no stealing!)<br /><br />And hey, no one wants to alpha test it? DIdnt Harvey said he was a tester or something?<br /><br />- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 5933,
+		"title": "Re: re",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-03T09:33:05.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Apparently MMF didnt support alpha channels until version 2.[hr][/quote]<br />Err... The Alpha Channel object, which has been existing since MMF1 bonus pack 1?<br /><br />Schweet schweet looking game, I'd appreciate a link to it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />@Xtraverse: actually, Construct is being made by people who used MMF and moved on to create their own game creation tool, because the most demanded features weren't added in MMF2...____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5934,
+		"title": "Re: re",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-03T09:40:02.000Z",
+		"content": "[hr]<b>DaVince</b> @Xtraverse: actually, Construct is being made by people who used MMF and moved on to create their own game creation tool, because the most demanded features weren't added in MMF2...<br />[hr]I'm assuming he's the Chris listed on the Developers page."
+	},
+	{
+		"id": 5935,
+		"title": "Re: re",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-03T18:07:17.000Z",
+		"content": "Perhaps not, I'm a member in the Clickteam forums and on The Daily Click (where there was a topic about construct), and I can't remember any Xtraverses. Perhaps he has multiple nicknames, or just knows about this thing.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5936,
+		"title": "Re: re",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-10-04T02:03:50.000Z",
+		"content": "I am in fact a developer of Construct.  For years I developed extensions for Clickteam and became fed up that MMF2 went in the completely wrong direction, so me and some friends decided we could do better.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5937,
+		"title": "re",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-06T02:24:29.000Z",
+		"content": "mort u got msn??"
+	},
+	{
+		"id": 5938,
+		"title": "Re: re",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-06T08:45:28.000Z",
+		"content": "no, aol; i pmed u it so no1 else can c&lt;pre&gt;<br />-  ....  .     ..-  -.  ..  ...-  .  .-.  ...  .     ..  ...     -  ---  .-  ...  -     .-.<br />&lt;/pre&gt;"
+	},
+	{
+		"id": 5939,
+		"title": "Re: re",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-08T01:41:13.000Z",
+		"content": "aol... who uses aol these days. get msn!"
+	},
+	{
+		"id": 5940,
+		"title": "Re: re",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-08T03:02:50.000Z",
+		"content": "i wouldn't know. But what did you want to chat about? programming?<br /><br />anyway, check out the updated tiles. I made a new design that I'm stiking with.<br /><br /><br /><br />[url=http://img168.imageshack.us/my.php?image=newtiles2fm2.png][/url]&lt;pre&gt;<br />-  ....  .     ..-  -.  ..  ...-  .  .-.  ...  .     ..  ...     -  ---  .-  ...  -     .-.<br />&lt;/pre&gt;"
+	},
+	{
+		"id": 5941,
+		"title": "Re: re",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-08T13:07:54.000Z",
+		"content": "I see nothing but a broken image link. ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5942,
+		"title": "Re: re",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-08T19:39:52.000Z",
+		"content": "i cant get it to work, but it's a link, so just open it in new tab/window&lt;pre&gt;<br />-  ....  .     ..-  -.  ..  ...-  .  .-.  ...  .     ..  ...     -  ---  .-  ...  -     .-.<br />&lt;/pre&gt;"
+	},
+	{
+		"id": 5943,
+		"title": "Re: re",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-08T22:56:22.000Z",
+		"content": "Oh yeah. It works now.<br /><br />I'll be honest... This thing makes me dizzy. It would look less flashy if you smooth it out a bit with an inbetween colour and some dithering, and it would look better too.<br /><br />Well, that's just a comment for the side of the walls. The rest looks great. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5944,
+		"title": "Re: re",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-09T00:26:47.000Z",
+		"content": "lol it's supposed to be crooked, and I thought it was very keenish; if it was perfect square it would be too plain, and i was happy when I made that tile set.<br />If I can make another good one, i'll use it instead.<br />BTW my auto tiling script now features swapable colors using any of the nine. For example, red on gray. All in a day's work. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] &lt;pre&gt;<br />-  ....  .     ..-  -.  ..  ...-  .  .-.  ...  .     ..  ...     -  ---  .-  ...  -     .-.<br />&lt;/pre&gt;"
+	},
+	{
+		"id": 5945,
+		"title": "Re: re",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-10-09T03:02:51.000Z",
+		"content": "to be honest its kinda ugly and dizzying and i deffinetly think it would distract from the game and gameplay. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] [img]http://imagegen.last.fm/asimpleblue5/recenttracks/Mr12000.gif[/img]"
+	},
+	{
+		"id": 5946,
+		"title": "np",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-09T04:55:22.000Z",
+		"content": "very well, i'll comeup with another design, but later. I gotta get my atuo-tile script working with ramps; i only have the flat part, not the isometric yet.&lt;pre&gt;<br />-  ....  .     ..-  -.  ..  ...-  .  .-.  ...  .     ..  ...     -  ---  .-  ...  -     .-.<br />&lt;/pre&gt;"
+	},
+	{
+		"id": 5947,
+		"title": "Re: np",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-09T05:06:35.000Z",
+		"content": "I thought it looked kinda cool. Oh well."
+	},
+	{
+		"id": 5948,
+		"title": "Re: np",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-10T23:47:36.000Z",
+		"content": "I did too. I think's it's very original.<br />However, I'm almost ready to release a beta to a beta tester, but no one has offered yet. I could have sworn I saw Harvey say in his sig that he's like an official tester or something. Where is dat guy.<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]   <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]   <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]   <br /><br />OH btw, putting in additional characters won't be hard. I'm starting a poll in the poll section, so head there. {EDIT: forget the poll, it's too hard; just list your favorite four additional characters you'd like to see in my game; good suggestions are Vorticon, Yorp, Garg, Bloog, Shikadi, and Princess Lindsey.}- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5949,
+		"title": "Re: np",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-11T13:12:48.000Z",
+		"content": "I'd love to test. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5950,
+		"title": "Beta Test",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T02:23:34.000Z",
+		"content": "Not quite ready yet; I just wanna finish my auto-tile function;<br />But if you wanna test, then here is what I ask of you:<br /><br />Do not give the program to anyone else whatsoever;<br />Do not steal my work;<br />Do not moddify the program;<br />Delete it after a while, like after you're done testing it or another beta comes out;<br />Of course, do your best to find bugs and comment on anything you want; I would appreciate a report sent straight to me, and you could comment on the game's good-ness on the forums;<br /><br />All I want tested is the movement engine, so expect something like a big level feauring all current elements; Keen and Mort must be exactly the same, so test for any differences in them too;<br /><br />I just need some time to finish the auto-tile for ramps; it's not easy;<br /><br />In the meantime, here's a conceptual question for you computer geniuses:<br />I have two options for tiling things--either have huge sets of all tiles in all colors, or make one set for each picture in black and white and use color blending. Now, which one would use less memory/processing power? Don't worry about file size, cuz i'm sure the former option takes more HD space.<br />- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5951,
+		"title": "Re: Beta Test",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-13T03:39:01.000Z",
+		"content": "I say use the colour blending option, simply because it's a lot less work. Having to draw up a new set of tiles for every colour, even if you have an automated means of achieving it, is not worth the effort unless it's the only way about it (like when you're modding Keen 1-3).<br /><br />And for what it's worth, I do like the swirly tiles. However, they could do with some checkerboarding (or proper shading if you plan to increase the colour depth), and more gradual angles. Maybe even an extra tile leaning in the other direction for the sake of variety.<br /><br />Is there any particular reason you chose 19x19 as the tile size? Quite an unusual figure."
+	},
+	{
+		"id": 5952,
+		"title": "Re: Beta Test",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T04:05:46.000Z",
+		"content": "lol the squares for blocks are 20x20 at 2x for 40x40; getting the tiles to match means double-trouble: for the 2d squares and the iso's on top. I can say, however, that all iso tiles are multiples of 5, and at 2x, makes the end result all multiples of 10.<br />The bigger ramps tiles (2d part) are 80x60 for shallow and 40x60 for steep (remember, 2x them).<br />But Spleen, don't worry about effort; all i'm concerned about is processing power; which is faster for the comp to calculate and draw.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5953,
+		"title": "Re: Beta Test",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-13T04:14:58.000Z",
+		"content": "[hr]<b>MiB</b> the squares for blocks are 20x20 at 2x for 40x40;<br />[hr]Ah. I guess I must have clipped them wrong when I was messing around in Paint.<br /><br />[hr]<b>MiB</b> all i'm concerned about is processing power<br />[hr]Good to hear <i>someone</i> still cares about efficiency these days. It seems logical that colour blending would require more power, but just how much more would probably require some experimentation. Maybe someone more familiar with how Game Maker does those things might be of more help.<br /><br />That said, there are two other factors you'd do well to consider:<br />1) RAM - if the tileset becomes a lot larger, you're going to be using up more memory. You'll need to keep that balance in mind.<br />2) Flexibility - if you make versatiles [pun blatantly intentional] you have a lot more freedom in theming your levels.<br /><br />I say try both and find a way of benchmarking the outcomes."
+	},
+	{
+		"id": 5954,
+		"title": "Re: Beta Test",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T04:24:04.000Z",
+		"content": "[EDIT:] Oh darn, the larger the tileset, the more ram is needed to take it in lol; i knew that. blending would be quicker then, i think. and spleen whatdaumean by benchmarking?<br /><br />lol i have to care about processing power; you know how many collision checks are needed in this platform game?<br />But actually, i was concerned about internet play...im not promising it, but i gotta try and keep things optimized; maybe processing doesnt matter as long as it's not like 99% cpu, cuz internet lag is indepentent of that.<br />btw, I already made tile sets using every color; it wasn't that bad, just copy, paste and change this color into that and viola; but then i have to write scripts that call the right color; for example:<br /><br />tile_add(NewTilesFront, a, b, 20, 20, x-20+10, y+20, -1)<br /><br />a and b are the beginning coordinates of the tile slice and 20, 20, is the length and height to use. <br /><br />tile_add(NewTilesFront, 0+(0*80), 0+(0*80), 20, 20, x-20+10, y+20, -1)<br /><br />0+(0*80) can be though of as sets; the 0+ is the location of the tile in the set of red colors (or whatever color) and the (0*80) is  whatever color you want, cuz each set all one color tiles next to each other is 80 pxls. so (1*80) switches to the next set on the right, which would be yellow; or if that's in the height part, it siwtches to the next set beneath.<br />- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5955,
+		"title": "Re: Beta Test",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-13T07:29:59.000Z",
+		"content": "By benchmarking I mean measuring memory and processor usage for each option and comparing the results to find the best balance between the two elements."
+	},
+	{
+		"id": 5956,
+		"title": "Re: Beta Test",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-13T09:19:13.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Do not give the program to anyone else whatsoever;<br />Do not steal my work;<br />Do not moddify the program;<br />Delete it after a while, like after you're done testing it or another beta comes out;<br />Of course, do your best to find bugs and comment on anything you want; I would appreciate a report sent straight to me, and you could comment on the game's good-ness on the forums;[hr][/quote]<br />Hey, I've tested before, pretty many times too. Don't worry about a thing. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5957,
+		"title": "Re: Beta Test",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T19:18:19.000Z",
+		"content": "Okay, Davince is my tester; if Alex agrees to that too, then he's good; those will be the only dudes i need testing.<br />Almost ready, almost, almost almost...ditto- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5958,
+		"title": "Re: Beta Test",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-10-13T19:31:54.000Z",
+		"content": "If you generate the different colours of tiles during loading, that shouldn't affect the running speed of the game - and it may even save memory. (Although not so much as you'd notice.) Anyway, how much more collision detection do you need to perform in your engine than in the original Keen engine?<br />[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 5959,
+		"title": "Re: Beta Test",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T20:20:24.000Z",
+		"content": "I have no idea, as I can't read any language even if I could view source code.<br /><br />edit: there is an important poll topic in the keen voting booth regarding this game; please check it out and vote on it<br /><br />EDIT: OKAY BETA READY for Davince only, and Alex if he ever shows again and agrees to terms on last page. Davince, the file size is like 2.2mb zipped; if you're cool with it, gimme an email or some other method for giving it to you; after I have that, I will send it to you just as soon as I'm sure everything necessary is in the email.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5960,
+		"title": "Re: Beta Test",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-16T08:03:36.000Z",
+		"content": "Okay, PMed you with the contact details.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5961,
+		"title": "Re: Anyone Interested?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-16T19:44:06.000Z",
+		"content": "Okay, bro, but it's a zipped executable file, (2.1 MB), so check to make sure your mailer allows .exes- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5962,
+		"title": "Re: Anyone Interested?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-16T20:59:59.000Z",
+		"content": "It does, it web virus-scans them first anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Anyway, I got it! Will check it out now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5963,
+		"title": "Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-19T20:25:59.000Z",
+		"content": "There's little difference in most resources. Taken straight from windows task manager<br /><br /><br />Blending:   Page File use 300MB; Mem Use 41,932K<br />No Blending: Page File use 321MB; Mem Use 19,752K {EDIT: MORE LIKE 50,000K!!!!!!!} dumb me<br />BOTH: about 45 - 50% of my 3GHz processor<br /><br />As you can see, no blending uses 25% MORE RAM!!!!, blending is still under 64MB. Page File use in no blending is als0 worse, but only 7% more.<br />I thought blending was the better choice anyway.<br />For those of you who don't know, page file is ram that is written to the hard drive, which is slower.<br /><br /><br />Okay, so Davince, what's the word? it's been like 3 days now. At least tell us what you think of it.<br />- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5964,
+		"title": "Re: Benchmarks",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-19T22:39:35.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />The game doesn't really use that 300Mb+ memory, does it?"
+	},
+	{
+		"id": 5965,
+		"title": "Re: Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-20T00:10:41.000Z",
+		"content": "no, cuz the game maker editor was also running, since i ran the game from it. The operating system uses lots of ram too, of course. The Page File usage data was for everything running, not just the game. Task Manager just works that way.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5966,
+		"title": "Re: Benchmarks",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-21T01:41:32.000Z",
+		"content": "Why don't you go into the Task Manager options and enable the VM size columns, that will give you the page file use per-application, instead of for your overall system, which will be much more accurate.<br /><br />You'll find that the overall page file size increases the longer you've been running Windows (after a couple of weeks it's not uncommon to be well over 1GB with no programs running) so it's an extremely inaccurate way of measuring resources, unless you restart your PC between each test."
+	},
+	{
+		"id": 5967,
+		"title": "Re: Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-21T03:51:55.000Z",
+		"content": "In options, there are only three things: always on top, minimize on use, and hide when minimized, so idk what VM columns are, unless you're referring to the \"processes\" tab that has Image Name, User Name, CPU and mem usage (which is where I got mem usage from on my post). Im on Windows XP.<br />edit: btw, i did restart before each test- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5968,
+		"title": "Re: Benchmarks",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-22T00:33:39.000Z",
+		"content": "lol, not \"in the options menu\" I meant the options generally.  There's a menu item somewhere called \"columns\" or something that lets you choose which columns you want displayed, and there's about 30 things you can tick or untick, and this affects what columns show up on the \"processes\" tab (e.g. you can turn off the User Name column.)  Maybe you have to be on the processes tab before you can see the menu item.<br /><br />Just look through the menus until you find it.  I can't remember what it's called and I can't check as I don't run Windows here."
+	},
+	{
+		"id": 5969,
+		"title": "Re: Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-22T18:42:28.000Z",
+		"content": "ohhh i see. well, interestingly, they both use the same amound of pooled and non-pooled paged data. only mem usage is different by +10000k in the non-blend<br /><br />while im here, is it all right with the admins if i make a new topic that only has one post of mine showing the progress I have so far? This topic is getting full, and we can use it for discussion.<br />if you lock that new topic, will i still be able to edit it?- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5970,
+		"title": "Re: Benchmarks",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-10-24T03:22:05.000Z",
+		"content": "I don't think you can edit osts in a locked topic- I had a look at mine in the hi-res topic, and there doesn't seem to be an option to edit where there usually is.<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5971,
+		"title": "Re: Benchmarks",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-24T21:27:28.000Z",
+		"content": "Wow, sorry for not having been here for a while and not testing the game yet. I'll get to it right NOW!!!____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5972,
+		"title": "Re: Benchmarks",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-25T21:42:08.000Z",
+		"content": "Okay, I tested. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />The game really feels Keenish, that made me enjoy it. The new graphics (sitting, firing while sitting) looked real good and Keen-styled too. Only the background graphics were kinda mediocre, but I mentioned that before anyway.<br /> <br />I tested the whole platform engine thorougly, and I must say, this is pretty darn impressive. The system is almost as solid as it can get (except for a few small bugs, see below), and it's fun to play, even when just jumping around a lot.<br /><br />Pleeeeease make online play! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br /><br />I'll make some music for this game too, in the module format. Would you like music with Adlib instruments (I have *some* ripped to samples, pretty limited), chip songs, or songs with reasonable real-sample instruments?____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5973,
+		"title": "Re: Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-25T22:25:42.000Z",
+		"content": "oh i 4got about that. Just make them as close as the original as possible. If you want to make variations on them, that's fine too, but I only wanna use original ones.<br /><br />How about joint project? I have a good musical ear and can transcribe the notes for you. it's up to you.<br /><br />[EDIT:] everyone get to the keen voting booth! Do you prefer two-button firing or space?- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5974,
+		"title": "Re: Benchmarks",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-26T21:27:34.000Z",
+		"content": "I vote for a setting to toggle it.<br /><br />Thanks for wanting to transcribe the notes. I have a pretty good musical ear too, but could appreciate it if you could transcribe some songs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5975,
+		"title": "Re: Benchmarks",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-26T21:48:44.000Z",
+		"content": "Are you talking about the Keen music?  Don't bother trying to transcribe the notes, just convert them to MIDI and view the notes in a MIDI sequencer."
+	},
+	{
+		"id": 5976,
+		"title": "Re: Benchmarks",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-26T22:08:25.000Z",
+		"content": "Oh yeah, of course. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Well, umm, I'd still have to dowload a MIDI sequencer first. No prob though.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5977,
+		"title": "Re: Benchmarks",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-27T03:45:06.000Z",
+		"content": "lol that would be better, but i remember reading another post around here about .imf midi converter and I thought i read that it was very difficult if not impossible. O well.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5978,
+		"title": "Re: Benchmarks",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-27T23:48:22.000Z",
+		"content": "It's only difficult to make the MIDI sound like a proper song afterwards - extracting the notes is easy, I did it last weekend with the Ion Ventilation song from Keen 5, and it worked really well."
+	},
+	{
+		"id": 5979,
+		"title": "Re: Benchmarks",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-19T18:15:31.000Z",
+		"content": "What I've seen so far looks really good, Mort.  Keep up the good work...<br /><br />If you ever need any graphics help, just get on AIM and give me a holler.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5980,
+		"title": "Progress and Update",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-11-19T22:01:29.000Z",
+		"content": "Oh, well, I haven't worked on this in a long time. I've got lasers, moving plat paths, and bridges working for switches. (not including correct tiling with bridges). And I got doors to work (again, not tiling), both key card from K1-3 and gem type.<br />   Um, I hate to say this to you all, but I'm really considering not releasing this to the public at large. It has to do with my outlook on art (not the fact that it's too much work); ugh I can'[t even remember. I just felt I better say this sooner rather than later.<br />   Man I can't even remember right now why I don't wanna release my stuff. Something to do with too much entertainment--something...oh and something about protecting my work from stealers (ironic since I \"stole\" from Keen). Anyway, the point is I may not give this out to everyone. I'll edit this post when I can remember and write my reasons.<br />   Thank you tho, LoG, for your offer. Even if I do release it, I should say I proly won't need any help in art since it's gonna use mostly original stuff. But I'm still curious to what kind of art you can do. What do you specialize in? (I've seen your K3 tile and art remake stuff, but that's all i think).<br />- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5981,
+		"title": "Re: Progress and Update",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-19T22:59:24.000Z",
+		"content": "You're horribly afraid of your work being stolen. Did something happen with previous projects of yours or something? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5982,
+		"title": "Proliferated and Undead",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-11-19T23:59:27.000Z",
+		"content": "Aye, there's very little point in making a game if you're not going to let people play it. Sounds like you've bought into the entertainment industries' paranoia, which says that everyone is a thief that just wants to rip you off. The situation isn't nearly that desperate.<br /><br />Besides, if someone does use your work, it'll most likely be either for their own education or to improve the work, both of which are good outcomes. And generally they'll cite your project in some kind of Acknowledgements list.<br /><br />Just add a little licence or disclaimer asking the end user not to use this work for their own purposes without affording you credit, or without asking you first. You'd be surprised to find people are generally happy to accept such terms.<br /><br />It's not like you'll be making money off this anyway, and if you make a simple site or something about the game you'll have a degree of proof that you created it first in the unlikely event someone tries to pawn it off as their own. Take care to put your name, email and website in the readme and a couple of places in the game."
+	},
+	{
+		"id": 5983,
+		"title": "Re: Proliferated and Undead",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-20T02:52:15.000Z",
+		"content": "Well, considering Xky has declared my artwork for my new fangame to surpass Issis II, I think I can help.  =P Right now I know I could surpass Issis II's graphics by far and wide, but I like the style that I'm working with now.<br /><br />If you want to see any of my better stuff, just get on AIM after 6:00PM, or any time on the weekend.<br /><br /><br />Now, as for what I specialize in:<br /><br />Anything 2D gaming.  2.5D graphics, texturing, sprite sheets, tile sheets, wallpapers, et etera.<br /><br />I use MS Paint, which most people laugh at, but when they see the stuff I do, they quit laughing.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5984,
+		"title": "Re: Proliferated and Undead",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-11-20T04:48:40.000Z",
+		"content": "-i use MS paint too! I also use the GM sprite editor for a few of it's very handy features that paint is too cheap for, such as change one color into another for the whole pic (VERY USEFUL), and its blur, any degree rotate, hue/sat shift, gradients, shrink/expand/etc animations of n amount of frames, etc, etc, etc.<br /><br />-okay i still dont' remember my full reasons. But I can say that I would feel very bad spending too much time on entertaining people when there is so much suffering going on in the world, which is something much better to put effort into helping. But that's not all of it. No Davince, none of my stuff has ever been stolen to my knowledge, but i may be paranoid.<br />-still cant remember. I havent worked, and consequently thought, about this thing for a while. The college semester is almost over, however. I will remember soon enough, sooner than I can get the thing done. Oh and internet play will be challanging, to say the least.<br />-oh oh oh i do rememeber something. I was worried that it might be a bit too popular and get more people into Keen. I hope that doesn't sound arrogant, about me worrying that my thing will be too popular, for goodness sakes. But I think I really have something here; and the more popular, the more likely it will get stoeln. I am paraoind!<br />-tha main reasson is not those reasons, but it...had to do with my philosophy and outlook on my creations/art, which is the one thing that i just...cant...remember...<br />- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 5985,
+		"title": "Re: Proliferated and Undead",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-20T23:11:51.000Z",
+		"content": "So what would happen if your work was \"stolen\"?  If you released it to the Keen community everyone would know it was originally your work, and the thief wouldn't get any credit.<br /><br />I think the potential benefit (making people happy by providing them with something entertaining) far outweighs any potential negatives.  As a programmer brought up on DOS/Windows, I used to think this way - I was paranoid that if I released my programs people would try to steal them, but once I moved over to the Linux world where *everyone* releases their programs, source code and all, completely for free, suddenly I realised that I was worrying over nothing.<br /><br />Once you can let go of the paranoia, after your first couple of full releases you'll wonder what you used to worry about [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5986,
+		"title": "Re: Proliferated and Undead",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-21T01:28:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br />-i use MS paint too! I also use the GM sprite editor for a few of it's very handy features that paint is too cheap for, such as change one color into another for the whole pic (VERY USEFUL), and its blur, any degree rotate, hue/sat shift, gradients, shrink/expand/etc animations of n amount of frames, etc, etc, etc.<br />-okay i still dont' remember my full reasons. But I can say that I would feel very bad spending too much time on entertaining people when there is so much suffering going on in the world, which is something much better to put effort into helping. But that's not all of it. No Davince, none of my stuff has ever been stolen to my knowledge, but i may be paranoid.<br />[hr][/quote]<br /><br />My dear friend, worrying about all the suffering in the world isn't going to do a damn bit of good, niether is contemplating the pretention that you'll be able to save the world or make a video game.<br /><br />Becides, where in the hell would the world be without any entertainment?<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />-oh oh oh i do rememeber something. I was worried that it might be a bit too popular and get more people into Keen. I hope that doesn't sound arrogant, about me worrying that my thing will be too popular, for goodness sakes. But I think I really have something here; and the more popular, the more likely it will get stoeln. I am paraoind!<br />-tha main reasson is not those reasons, but it...had to do with my philosophy and outlook on my creations/art, which is the one thing that i just...cant...remember...<br />[hr][/quote]<br /><br />Well, then just send it out.  Trust me, if I'm spending the time to do the stuff I'm doing, then you should spend the time to make a good video game and giving it to the Keen peoples of the world.<br /><br />Hell, it may not be a superior noble goal, but it is still a goal.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5987,
+		"title": "Re: Proliferated and Undead",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-11-21T22:04:43.000Z",
+		"content": "\"My dear friend, worrying about all the suffering in the world isn't going to do a damn bit of good,\" -LoG<br /><br />Um, not really. There's lots you can do. There are plenty of people who give this no real thought and do nothing about it. That won't be me. I will give money to orgs for this and serve in them. I can't change everything, but I can help some people who are truly in need of it instead of just living for myself.<br /><br />When you say where would the world be without entertainment, u are shooting yourself in that foot man. That's like saying, okay the world is bad but u shouldnt worry; and there should be entertainment or the world will be bad.<br /><br />I dont have anything against entertainment, but i do have something against wasting your life on it and/or putting things in entertaiment that are a bad influence (not keen lol).<br /><br />\"So what would happen if your work was \"stolen\"?\" -Malvineous<br /><br />I am running, or will run, all the scenarios through my head. I know some of you are laughing at me right now ^^; lol<br /><br />Still haven't remembered my philosophy/outlook on art yet........- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	}
+]

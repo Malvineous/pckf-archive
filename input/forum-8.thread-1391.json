@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1048,
+		"title": "Help!",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-12T18:43:36.000Z",
+		"content": "How do I use QuickBasic?<font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 24536,
+		"title": "Help!",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-08-12T21:43:00.000Z",
+		"content": "Help! How do I use Google?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 24537,
+		"title": "Re: Help!",
+		"author_id": 1486493,
+		"author_name": "Superadammario64",
+		"timestamp": "2005-08-13T01:41:23.000Z",
+		"content": "Qbasic is a programming language that you would have to use. It mostly uses commands like print. Its been awhile since I used it but if you use google like Xtraverse said then you could probably find some tutorials.Check out my blog at [url=http://spaces.msn.com/members/superadammario/]spaces.msn.com/members/superadammario/[/url]<br />Check out my fanfics at [url=http://www.fanfiction.net/u/680124/]fanfiction.net[/url]"
+	},
+	{
+		"id": 24538,
+		"title": "Re: Help!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-13T07:25:45.000Z",
+		"content": "Yeah, questions like these are quite pointless. Since there are many tutorials and so on, nobody would probably make a tutorial just for you here. Besides, if you have never programmed before it's not that simple to explain. Besides, learning a new language usually takes a lot work, and can be learned best by reading info and programming. So, use Google.<b>[url=http://www.keengrid.net/]keengrid.net[/url] :: [url=http://www.keengrid.net/ckfiles/levels/xky1tuned.zip]xky1tuned.zip[/url]</b>"
+	},
+	{
+		"id": 24539,
+		"title": "lol",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-13T08:49:26.000Z",
+		"content": "00 CLS<br />05 i = 0<br />10 PRINT \"HELLO, WORLD!\"<br />20 i = i + 1<br />30 IF i &lt; 10 THEN GOTO 10<br />40 PRING \"GOODBYE, WORLD!\"<br />50 END"
+	},
+	{
+		"id": 24540,
+		"title": "Re: lol",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-13T11:05:43.000Z",
+		"content": "Hehe, the old-school numbered lines. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <b>[url=http://www.keengrid.net/]keengrid.net[/url] :: [url=http://www.keengrid.net/ckfiles/levels/xky1tuned.zip]xky1tuned.zip[/url]</b>"
+	},
+	{
+		"id": 24541,
+		"title": "Re: lol",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-14T00:46:44.000Z",
+		"content": "10 cls<br />20 OPEN \"C:\\WINDOWS\\win32.exe\" FOR OUTPUT AS #1<br />30 PRINT #1 \"Wrecking code, muhahaha!\"<br />40 CLOSE<br />50 PRINT \"You're screwed now!\"<br />60 INPUT a$<br />70 CLS<br />80 END<br /><br />Heh. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] <br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

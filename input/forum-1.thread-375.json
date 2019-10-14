@@ -1,0 +1,82 @@
+[
+	{
+		"id": 32,
+		"title": "What did they use for creating levels?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-05T20:56:41.000Z",
+		"content": "Id Software used TED5 for creating levels for Dreams and Galaxy.<br />What did they use for Vorticons? AFAIK, there was a TED1 (comes with Dangerous Dave In Copyright yadda yadda as found in John Romero's website), so I guess the tool they used was in that line. In any case, was it ever made publicly available as TED5?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 1908,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-05T21:42:27.000Z",
+		"content": "That's a good question, actually.<br /><br />I have a folder of Commander Keen games on my old Win95 laptop from at least 1996 (possibly earlier) that includes all the original Commander Keen episodes plus a copy of KEENEDIT.EXE.  (Not KeenWright, I mean the REALLY old one that doesn't work very well. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] )  I don't know if that's what they used...I actually highly doubt it, now that I think about it, since the Keen Editor doesn't seem to work with any episode except for Keen 1. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 1909,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-06T09:24:51.000Z",
+		"content": "That old KeenEdit exe you got there is probably the old fan-made editor. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Anyways, yeah, I'd think it was that or something like that, but never released elsewhere than in DDICI.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1910,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-07-07T20:00:11.000Z",
+		"content": "Yeah, it's a fan-made one. You mean the text one?------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 1911,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-07T22:31:02.000Z",
+		"content": "That's the one.  I never figured out how to use it...by the time I started modding, the old Keen Editor was totally obsolete.  And any attempts to use it proved quite frustrating. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 1912,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-10T14:33:06.000Z",
+		"content": "Do you still have it? I would very much like a copy. (LL used it for her first two mods.)<br /><br />As I recall it was a simple ASCII kinda editor with intuitive symbols used for each tile, you could only put on 1 tile or sprite at a time, and only the default sprites too I think.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 1913,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-07-11T23:58:42.000Z",
+		"content": "Yep, it was beautiful.  I almost registered my copy once (it was $10 or something, just to support him).  The program got more buggy than a week-old corpse when you loaded Keen 2 or 3 levels though...--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 1914,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-12T15:27:59.000Z",
+		"content": "Ah, *sigh* I remember making my first level 'Pyramid' with that, filling in every tile individually, no fill or line functions, no ZXC... those were the days...[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 1915,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-15T02:24:24.000Z",
+		"content": "I actually have transferred it onto my PC, and if you want it I can send it to you.  I've tried to use it, but I haven't really had the incentive to piece together a whole level with it yet.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 1916,
+		"title": "Re: What did they use for creating levels?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-18T17:46:04.000Z",
+		"content": "Why yes please, that would be great.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	}
+]

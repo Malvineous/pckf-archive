@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1468,
+		"title": "Monster Bash - Can help me???",
+		"author_id": 1486654,
+		"author_name": "nunoperalta",
+		"timestamp": "2005-05-25T21:03:48.000Z",
+		"content": "hi!<br />someone can give me file_id.diz for monster bash 1, 2 and 3? i need to can play this game! xD<br />tanks very much!<br /><br />send to gajocoolman@hotmail.com, please! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-potter.gif[/img]"
+	},
+	{
+		"id": 30429,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-05-25T21:43:13.000Z",
+		"content": "Doesn't it work if you just create the file yourself?  I don't think any games actually check the contents of the file, just that it exists.  Try something like<br /><br />echo hello &gt; file_id.diz<br /><br />Then run the game and see if that works."
+	},
+	{
+		"id": 30430,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1486654,
+		"author_name": "nunoperalta",
+		"timestamp": "2005-05-25T22:03:12.000Z",
+		"content": "Sorry, but... i don't understand... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  you can help me better, please???? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 30431,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-26T00:20:17.000Z",
+		"content": "No, it won't work - MB actually checks its file_id.diz file.  While I can't give you the file_id.diz file, you can extract it yourself from the data files using Wombat.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30432,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1486654,
+		"author_name": "nunoperalta",
+		"timestamp": "2005-05-26T01:16:51.000Z",
+		"content": "Thanks, i'll try, now!<br /><br />But... link [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]student.ci.qut.edu.au/~n4...=wombatwip[/url] doesn't exists..."
+	},
+	{
+		"id": 30433,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1486654,
+		"author_name": "nunoperalta",
+		"timestamp": "2005-05-26T01:41:24.000Z",
+		"content": "Sorry, I can access this... lol!"
+	},
+	{
+		"id": 30434,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1486654,
+		"author_name": "nunoperalta",
+		"timestamp": "2005-05-26T01:51:06.000Z",
+		"content": "Thanks! I LOVE YOU! Now, I can play the game!!!!"
+	},
+	{
+		"id": 30435,
+		"title": "Re: Monster Bash - Can help me???",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-26T13:14:40.000Z",
+		"content": "Ah, thanks for reminding me to take my old site down. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	}
+]

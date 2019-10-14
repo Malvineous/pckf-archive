@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1403,
+		"title": "Ken's build engine",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-10-29T22:42:43.000Z",
+		"content": "Without this, alot of games would of been impossible.<br /><br />[url=http://advsys.net/ken/buildsrc/default.htm]Kenbuild source-code and other stuff you might want to add to it[/url]<br /><br />Tell me what you think of it!<br /><br />(NOTE: I did not work on this at all, I just like it. BTW- I don't know how to use it, I only know how to open MAP files and a lot of game mode's keys (examples: [arrow keys]- movement [V]-swich from 1st person veiw to 3rd person veiw, and visa versa)... If you make any interesting maps (that is, if you even know how) could you PLEASE host it somewhere???)<font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />\"I always try to consume interesting animals.\"-LevelLord</font>"
+	},
+	{
+		"id": 29564,
+		"title": "Re: Ken's build engine",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-30T00:39:56.000Z",
+		"content": "Well it's not quite KenBuild but it's close enough to Duke3D, and I have [url=http://www.shikadi.net/oldstuff/maps/]made a few Duke maps[/url] in my time, including one of my old house (bet you can't find all the secret areas [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] )  These are all a good few years old now though!"
+	},
+	{
+		"id": 29565,
+		"title": "Re: Ken's build engine",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-31T16:23:25.000Z",
+		"content": "Yeah, Build engine is important piece of gaming history. Ke(e)n was quite a programmer, I'd say. It's pretty cool, and I wish I had time to do some mapping or such.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 29566,
+		"title": "Re: Ken's build engine",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-01T12:56:26.000Z",
+		"content": "Can someone tell me how to make a map with it?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />\"I always try to consume interesting animals.\"-LevelLord</font>"
+	},
+	{
+		"id": 29567,
+		"title": "Re: Ken's build engine",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-01T13:59:21.000Z",
+		"content": "*cough*library/Google*cough*<br /><br />Excuse me... heheheProud Leader of the \"Tough Guys Wear Pink\" Society<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/LLMod.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />-- NAJAWA --"
+	},
+	{
+		"id": 29568,
+		"title": "Re: Ken's build engine",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-11-02T20:01:09.000Z",
+		"content": "Yeah, I've also made 5-6 levels for Duke Nukem 3D and all of them were incompleted. But I remeber it was pretty easy and good engine and I liked it more than the Doom 2 editor because it gives me a lot more options. It's nice to hear that it's open source now, but most probably I won't look into it.----"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"id": 881,
+		"title": "Need PC Help (possible virus)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-16T05:06:25.000Z",
+		"content": "Hi there, just wondering what you make of this.<br /><br />I started my computer and the loading bar you see when you start XP<br /><br />[img]http://www.theeldergeek.com/images/XP%20Pro%20Setup%20Graphic%20II/BBB.gif[/img]<br /><br />would just keep loading and the computer wouldnt start up. I also noticed the HDD blinker on the computer stopped blinking.<br /><br />Resetting didnt help, however, i managed to run winxp under a different mode and found a file <br /><br />'VO.log' in the C Drive which contained...<br /><br />[pre] CPUID=0xbm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Bufferm_pTempYUY2Buffer[/pre]<br /><br />and it just kept going.<br /><br />Also i had Hardware acceleration on 'None' because i was recording off of Win Media Player and forgot to change it back, Could this have been the problem?"
+	},
+	{
+		"id": 21947,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-16T06:19:04.000Z",
+		"content": "Hmm, doesn't look quite like a virus, more like an infinite loop, although viruses can cause this to happen, they usually don't as at this stage it makes the virus' chance of spreading quite minimal. It may be a vital file has been corrupted, or that the buffer cannot load properly.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21948,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-16T06:48:41.000Z",
+		"content": "well i scaned for viruses, nothing showed up, and i reset my computer and it seems to be ok!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 21949,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1180427,
+		"author_name": "The Dixie Dazzler",
+		"timestamp": "2006-03-16T18:25:44.000Z",
+		"content": "Speaking of viruses... on my dads old computer (witch by the way, did not have any anti-virus) we downloaded on the verry last little bit of space an anti-virus, we found with in the first min. 15 trogan viruses... by the time we where done I think there where like, 105 trogan viruses, or somthing like that... I know crazy right? anyway... yeah just somthing on the topic...____________________________<br /><br />[img]http://i32.photobucket.com/albums/d24/TheFarleyBoy/CoolBackGround.jpg[/img]<br />____________________________<br /><br />\"Gue!! I Love It! I Love It!\" - Rosco P. Coltrane"
+	},
+	{
+		"id": 21950,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-03-17T00:10:04.000Z",
+		"content": "I have the solution.<br /><br />Format c:/<br /><br />If your computer is at this point where Windows screwed its self up this badly... I really don't recommend trying to fix the current install. I tried it way too many times before and all it does is keep your system running with a load of errors. It would probably be wise to back up your data, format and reinstall.<br /><br />And don't look at porn anymore. That would help. K? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] -----------------------<br />[url=http://Galaxie.Spatang.com][img]http://img360.imageshack.us/img360/548/blegdandsmeegnewbanner2wf.png[/img][/url]"
+	},
+	{
+		"id": 21951,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-17T04:40:08.000Z",
+		"content": "wow 105 trojans, thats crazy i hate to think how much damage that must be doing.<br /><br />[quote]<b><i>Quote:</i></b>[hr]And don't look at porn anymore. That would help. K? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [hr][/quote]<br /><br />well that just ruins all the fun [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]"
+	},
+	{
+		"id": 21952,
+		"title": "Re: Need PC Help (possible virus)",
+		"author_id": 1180427,
+		"author_name": "The Dixie Dazzler",
+		"timestamp": "2006-03-17T05:03:46.000Z",
+		"content": "lol you have no idia... we cant conect to the I-net anymore. there eating like all my songs and pictures.... its sad I know... but you know what can you do.. anyway... you get your problam fixed?____________________________<br /><br />[img]http://i32.photobucket.com/albums/d24/TheFarleyBoy/CoolBackGround.jpg[/img]<br />____________________________<br /><br />\"Gue!! I Love It! I Love It!\" - Rosco P. Coltrane"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id": 690,
+		"title": "Forum slow?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-23T22:18:20.000Z",
+		"content": "Hi all,<br /><br />I've noticed that this board seems to have *really* slowed down over time, so much so that it can take me up to a minute to move to another page.<br /><br />When trying to trace the problem, I discovered that the forum links to a couple of what appear to be tracer images on http://www.ripon.edu/students/cruzb/ - no doubt left over from the early days on the forum.<br /><br />I used Adblock in Firefox to block \"http://www.ripon.edu/students/cruzb/*\" and wow, the forum is *instant* now!  I just thought I'd let anyone else know that if the forum is running slowly for them too, this seems to help significantly.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18424,
+		"title": "Re: Forum slow?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-23T22:49:08.000Z",
+		"content": "That must be where the nifty table header images and such were stored when the forum saw a half-arsed and short-lived make over a few years ago.<br /><br />Someone with admin privileges want to fix that, and maybe link up a replacement graphic so we can have some of that shininess back?"
+	},
+	{
+		"id": 18425,
+		"title": "Re: Forum slow?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-24T00:10:18.000Z",
+		"content": "Thanks for the tip. You're right - things ARE a lot faster now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	}
+]

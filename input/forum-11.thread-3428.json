@@ -1,0 +1,250 @@
+[
+	{
+		"id": 1371,
+		"title": "I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-10-24T17:44:35.000Z",
+		"content": "Is it possible to extract Bio Menace music? It seems to be in the IMF format, and Bio Menace uses the same (almost) engine of CK 4/5. I'd really like to have the IMFs[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 29230,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-24T22:05:53.000Z",
+		"content": "You could probably extract it in the same way as you extract the Keen music.  I've got no idea how I ended up with it, but I have some of the Bio Menace music already in IMF, only it has proper filenames (not just track1.imf, track2.imf, etc.)<br /><br />Download [url=http://www.shikadi.net/pckf/biomusic.zip]biomusic.zip[/url] (50kB) if you're interested."
+	},
+	{
+		"id": 29231,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-25T14:03:32.000Z",
+		"content": "Interesting, could these be imported int the Keen games somehow? How did you manage to get them. [Use simple words, I am not programatically inclined.]<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 29232,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-10-25T15:02:02.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Download biomusic.zip (50kB) if you're interested.[hr][/quote]<br /><br />Um, some days ago I found a IMF files collection when searching for \"dukina.imf\" (which is one of the Duke Nukem II music files that I obtained using WinTextract). In that collection there are also some IMFs of Bio Menace, but not all of them (only Episode One music). Curiously it has exactly the same files of biomusic.zip. Somebody seems to have collected some of the Apogee music and put it in a single zipfile.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />I'd really like to find a way to extract them directly from the datafiles, because I could add IMF support for my game, and reduce the package size by using IMF files instead of OGG, WAV or MP3. Anyway I have captured some music and converted it to OGG.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 29233,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-25T19:37:02.000Z",
+		"content": "I think I might have all game IMFs in existance, and then a whole bunch of other Adlib files (loudness music too, this was used for Tyrian and Fuzzy's Space Golf).____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 29234,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-26T07:52:52.000Z",
+		"content": "Yes, but how did you get them?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 29235,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486167,
+		"author_name": "Yowza",
+		"timestamp": "2006-10-26T10:48:16.000Z",
+		"content": "I have them all too.<br /><br />... Can't remember how I got them though._________________<br />[url=http://www.getfirefox.com][img]http://tinypic.com/58fb5[/img][/url]"
+	},
+	{
+		"id": 29236,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-26T10:56:44.000Z",
+		"content": "I vaguely recall something about DeathAdder or someone getting some of the original Keen IMFs from John Romero or someone involved with the games, and this is probably true given that some of those IMFs are \"extended\" versions of the IMFs that made it into the game.<br /><br />I suspect that these Bio Menace songs were obtained in the same way, given the similar presentation.<br /><br /><i>I'd really like to find a way to extract them directly from the datafiles, because I could add IMF support for my game</i><br /><br />Has anyone tried using the Keen tools?  If the engines really are similar, it should be simple to extract all the Bio Menace music in the same way as you extract the Keen music.<br /><br />And I'd like to see you include IMF support in your game, because 1) the file sizes are a lot more civilised than MP3, and 2) it's a bit harder than you think [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Oh, and yes LA, if there's a utility that will let you insert songs into Keen (which I'm sure there is) you can certainly use the Bio Menace music (or the Wolf3D music, or the Monster Bash music, or any other IMF file out there) - which makes me often wonder why nobody has done it before, given how relatively simple it should be.  I mean instead of including those MIDI files with a Keen mod you might as well play them back in DOS, capture them to .DRO files in DOSBox and convert those to IMF and merge them into the game.  It's not rocket science...!"
+	},
+	{
+		"id": 29237,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2006-10-26T11:27:58.000Z",
+		"content": "[url=http://forums.3drealms.com/vb/showthread.php?t=2352]Imf music[/url]<br />[url=http://forums.3drealms.com/vb/showthread.php?t=15153]Bio Menace .imf files[/url]Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29238,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486167,
+		"author_name": "Yowza",
+		"timestamp": "2006-10-26T13:49:43.000Z",
+		"content": "imftools, that was it. That was how I got mine._________________<br />[url=http://www.getfirefox.com][img]http://tinypic.com/58fb5[/img][/url]"
+	},
+	{
+		"id": 29239,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-10-27T14:21:14.000Z",
+		"content": "Thanks for the link, Frenkel!<br />BTW, for some reason I had to register in 3drealms forum before downloading the file.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 29240,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-29T14:56:31.000Z",
+		"content": "So, these can imput custom imfs, or just export the existing ones?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 29241,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486296,
+		"author_name": "WizardyMan",
+		"timestamp": "2006-11-11T15:53:14.000Z",
+		"content": "@Shadow Master:<br /><br /><i>How</i> exactly did you manage to convert some of the existing music to OGG Format?"
+	},
+	{
+		"id": 29242,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-11-12T07:53:43.000Z",
+		"content": "He most likely recorded the music from Bio Menace using DosBox's Wave recording feature, then converted the Wav files to OGG files."
+	},
+	{
+		"id": 29243,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-12T23:03:16.000Z",
+		"content": "If you play your IMFs through Winamp with Adplug, then you can also use Winamp's disk writer output plugin, which will convert anything Winamp can play into a .wav file."
+	},
+	{
+		"id": 29244,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-14T17:10:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] <b>WizardyMan:</b> How exactly did you manage to convert some of the existing music to OGG Format?[hr][/quote]<br /><br />[quote]<b><i>Quote:</i></b>[hr] <b>SpikeNexus:</b> He most likely recorded the music from Bio Menace using DosBox's Wave recording feature, then converted the Wav files to OGG files. [hr][/quote]<br /><br />Exactly. I used DOSBox wave recorder. I recorded 1 loop and some extra seconds (at the end and at the start) of music. Then, I used Audacity to edit the .wav files directly, deleting extra time and getting a simple loop. After that, I exported them to Ogg Vorbis (with quality 3, variable bitrate). It's a difficult way of converting the IMF music to OGG.<br /><br />I remember I used XMMS Ogg recording plugin with Adplug for XMMS, for \"converting\" Cosmo's C. Adventure IMFs to Ogg. However, I noticed that the Adplug output doesn't sound like DOSBox output, and I got some extra sounds with mdevo.imf.<br /><br />BTW, I suppose that my game engine could support IMF files through the Adplug library. The only problem I'm having is that the Adplug library source code is not ready for MS VC++. If I resolve that, I guess it won't be too difficult to support those formats.<br />[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 29245,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-14T23:19:16.000Z",
+		"content": "Oh yeah, that's right - I got annoyed by that and wrote my own plugin for XMMS using the same Adlib emulator code as DOSBox, so there's no difference between the two (well except for that [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheclassics.showMessage?topicID=397.topic]stereo harmonic effect I added[/url].)<br /><br />If you're writing your game in C++ don't link in with AdPlug, just write the IMF player yourself - it's about 10 lines of code, and then borrow the DOSBox synth (which came from MAME originally, and so it means you'll have to make your game open source because of the MAME license, but that's no big deal.)  The synth is pretty easy to use, you just call a couple of functions and it copies the final sound into a buffer, which you keep sending out to the sound card."
+	},
+	{
+		"id": 29246,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-19T22:13:28.000Z",
+		"content": "What ten lines of code is that?  *drools*~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 29247,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-19T23:09:13.000Z",
+		"content": "All you do is read in four bytes from the IMF file in a loop - I can't remember the order of the bytes exactly, but one byte is the Adlib register, one is the data that goes into that register, and the other two are the delay before the next byte.  If you're running with a real OPL3 card all you do is output the register byte to port 0x388 and the data byte to port 0x389 (or something along those lines, I can't recall the exact port numbers off the top of my head) then wait for however long the delay was, and do the whole thing again.<br /><br />If you're using a software synth like the DOSBox one, you just call a function instead of outputting to a port, and it will generate a stream of (say) 48kHz 16-bit mono audio, and then it's up to you to stream that audio out to a soundcard (*that's* the hard part!)"
+	},
+	{
+		"id": 29248,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-21T16:53:37.000Z",
+		"content": "Well, I planned to release my game engine under the GNU GPL anyway. Your idea of using DOSBox OPL code is great, maybe I'll try it soon. In fact, DOSBox's builtin OPL emulator produces more detailed sounds than Adplug 2.0.1 + XMMS.<br /><br />Oh, and yesterday I captured more Bio Menace music and converted the WAVs into Ogg Vorbis files.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 29249,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-23T08:16:41.000Z",
+		"content": "\"If you're running with a real OPL3 card all you do is output the register byte to port 0x388 and the data byte to port 0x389 (or something along those lines, I can't recall the exact port numbers off the top of my head) then wait for however long the delay was, and do the whole thing again.\"<br /><br />That's right, although the OPL3 adds four more ports, 220h through 223h for address and data for the left and right channels, respectively. I don't know if this comes up in IMF files.<br /><br />Since we seem to have a couple of OPL geeks here, does anyone know whether someone has made a DOSbox patch to send directly to a real Adlib/Soundblaster? I don't know of one. I've been kicking the idea around for a future project (obviously not until I get a Soundblaster installed in my Linux box) but I don't want to duplicate effort.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 29250,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-23T21:53:17.000Z",
+		"content": "IMF files are OPL2 only (there's no way of accessing more than one port.)<br /><br />I don't think anyone's connected DOSBox to a hardware synth, after all, the idea behind DOSBox is that it's 100% emulated.  I wouldn't imagine it would be particularly difficult to do though (depending on how much effort you're prepared to go to.)"
+	},
+	{
+		"id": 29251,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-24T06:28:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I don't think anyone's connected DOSBox to a hardware synth, after all, the idea behind DOSBox is that it's 100% emulated. I wouldn't imagine it would be particularly difficult to do though (depending on how much effort you're prepared to go to.)[hr][/quote]<br />Pretty much what I was thinking on both counts. I'll save project for a rainy day.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 29252,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-24T09:04:39.000Z",
+		"content": "If you're going to go to the trouble of installing a sound card with an OPL chip, install two of them.  Then go play some game with OPL2 music and surprisingly enough there'll be no conflict and both cards will perform the synthesis, but they'll be different enough that if you put one card's speakers on the left and the other card's speakers on the right, you'll get a nice stereo harmonic thing happening.<br /><br />The things you discover when you're \"fiddling around\"... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 29253,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-24T10:28:59.000Z",
+		"content": "Heh. Classy. I'm not even sure I have a computer with one working SoundBlaster at this point. Step one is to try my auto-detection code (which does work in DOSBox, thank goodness). Then I hook it up to the PA and make some noise.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 29254,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2006-12-21T15:14:32.000Z",
+		"content": "you can extract all the tracks by using WDC ( Wolf Data Compiler )<br /><br />i got a \"modern sound\" version of one of the Bio Menace track:<br /><br />[url=http://www.darkocean.info/apogee\\126.mp3.99]www.darkocean.info/apogee\\126.mp3.99[/url]"
+	},
+	{
+		"id": 29255,
+		"title": "Hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-12-21T23:13:57.000Z",
+		"content": "Sounds nice!  I would've liked to hear more play on the ride cymbals during the breakdowns, and possibly inclusion of triangle (I recall it featuring prominently) but this is a refreshingly straightforward take on things.  I like the organ sample and balance you decided on."
+	},
+	{
+		"id": 29256,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-21T23:23:12.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Batteryman Darksoul:</b> i got a \"modern sound\" version of one of the Bio Menace track[hr][/quote]<br /><br />Your link doesn't work for me unless I replace the backslash '\\' with a forward slash '/'. (I'm using WinXP, Firefox 2, dunno if that's an incompatibility.)<br /><br />[url=http://www.darkocean.info/apogee/126.mp3.99]Corrected link to Modern-sound Bio Menace track[/url]<br /><br /><b>EDIT:</b> Just finished downloading it, and I played it. Awesome! I detected only one problem: there's a one second silience delay after the last sound, but it can be fixed (removed) with an audio file editor, like Audacity.<br />[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 29257,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2006-12-22T12:06:33.000Z",
+		"content": "Or a more proffesional studio like program like Adobe Audition 2 :P<br /><br />Thanks for thise who like my remix"
+	},
+	{
+		"id": 29258,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2006-12-22T12:07:54.000Z",
+		"content": "Or a more proffesoinal studio like program as Adobe Audition2 :P<br /><br />Thanks to thise who like my remix<br /><br />Another thing, i will also say a little secret about my mixing, mostly the virtual instruments i use , is massive sample libaryes , recorded from instruments from the real world<br />They are not synthezised<br />in fact , if you programmed the sample-players extremly good, or connect a midi grabber on a midi percussion set or a real one, you can get superb realistic feelings.<br />In fact , my plug ins i use is used in modern pro studio<br />The only limit i have , is that i dont have keyboard's and percussions connected to the midi, and humans to play it, so i have to use notes from the midi file and programm the dynamic by my self<br />But belev me, my virtual instruments isnt any crap, they are expencive like hell, and often take over 4-6 GB each"
+	},
+	{
+		"id": 29259,
+		"title": "Re: I want to extract Bio Menace music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-12-22T19:56:17.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Your link doesn't work for me unless I replace the backslash '\\' with a forward slash '/'. (I'm using WinXP, Firefox 2, dunno if that's an incompatibility.)[hr][/quote]<br /><br />Well, one shouldn't EVER use backslashes in URLs. Only IE supports them because it's half explorer anyway.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1117,
+		"title": "Bug in ezBoard?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-31T17:37:46.000Z",
+		"content": "Has anyone else problems replying to topics?<br />For some reason I have, and the board doesn't show my existence! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />I wonder how this topic works out.. Hopefully you can see it.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 25329,
+		"title": "Re: Bug in ezBoard?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-31T17:40:33.000Z",
+		"content": "Seems that the topic appeared. Let's see how this reply here works. Check out my profile and there the recent posts -- and see for youself; there reads I've posted at them, but you can't see my posts there. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]   Really strange, hopefully it gets fixed soon.<br /><br />Edit: Hmmm, now this reply can be seen here, but in the main topic selection you can't see my name as the latest poster. :\\ Here's the error message:<br />[pre] Request Error - Message not understood: #messageIDAn error has occurred executing your request.Message not understood: #messageIDIf you feel you may have information which would be helpful in determining the cause of this problem, please post a bug report here at the ezboard bugs help forum: Report Request Errors!Stack backtrace:BBSMessage(Object)&gt;&gt;doesNotUnderstand:optimized [] in BBSTopicMessage&gt;&gt;handleAt:OrderedCollection&gt;&gt;detect:ifNone:BBSTopicMessage&gt;&gt;handleAt:BBSTopicMessage(BBSAbstractMessage)&gt;&gt;addReply:toMessage&lt;!--EZCODE EMOTICON START <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif ALT=\":p\"&gt;&lt;!--EZCODE EMOTICON END--&gt; osterEmail:withData:BBSForum&gt;&gt;addReplyFromData:BBSForum&gt;&gt;addMessageFromWeb:using:BBSForum&gt;&gt;addReplyFromWeb:optimized [] in WebLocalNamedObjectReference&gt;&gt;runWebRequest:useMethod:Error class(GenericException class)&gt;&gt;handle:do:EzBWebObjectReference(WebLocalNamedObjectReference)&gt;&gt;runWebRequest:useMethod:EzBWebObjectReference(WebNamedObjectReference)&gt;&gt;runWebRequest:WebRequest&gt;&gt;dispatchRequestWebRequest&gt;&gt;runRequestFromServer:WebRequestHandler&gt;&gt;handleRequestoptimized [] in WebServer&gt;&gt;handleClient:BlockClosure&gt;&gt;on:do:optimized [] in Process class&gt;&gt;forBlock&lt;!--EZCODE EMOTICON START <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif ALT=\":p\"&gt;&lt;!--EZCODE EMOTICON END--&gt; riority:[/pre]<b>You hear in your mind: GAAARRRRRGG!</b>"
+	}
+]

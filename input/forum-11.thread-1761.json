@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1418,
+		"title": ".0SC compression",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-29T05:24:19.000Z",
+		"content": "Alright, using Szevvy's Wombat, and a small PNG editor of my own devizing, I have managed to extract several of the 0SC images in Jazz Jackrabbit [url=http://levellord.toxicsheep.com/0scs.zip][I have them here][/url] I even managed to extract the panel in PANEL.000 [Its even easier to decode than CHEAT.0SC] However, this presents a few problems, Womabat extracts discolored files, includes animation and image information, and won't properly extract large files.<br /><br />While so far I've managed to get at least some data from said files, it would help if anyone out there could give me some more information on the structure of 0SC files that may aid my extraction.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 29714,
+		"title": "Re: .0SC compression",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-08-31T04:46:05.000Z",
+		"content": "Wow; I'm really impressed...how on earth did you use Wombat for that?!?!  I tried and tried and had no luck...<br /><br />My current code is pretty much exactly the same as Mark Spear's, although the word on the street is that there's a fixed one out there that puts out the last pixel correctly, while this one doesn't.<br /><br />[pre] int decompressJazz(char * dest, char * source, int start, int sourceSize){        int currentLocation = start;        int currentDest = 0;        unsigned char control;        while (currentLocation &lt; start + sourceSize)        {                control = source[currentLocation++];                if (control == 0)                {                        dest[currentDest++] = source[currentLocation++];                        currentLocation++;                        if (source[currentLocation++] &gt; 5) //kind of kludgey.. will fix to real solution very soon                                currentLocation += 2;                }                else                if (control &lt; 0x80)                {                        for(int i=0; i&lt;control; i++)                                dest[currentDest++] = source[currentLocation++];                }                else                {                        unsigned char copy = source[currentLocation++];                        for(int i=0x80; i &lt; control; i++)                                dest[currentDest++] = copy;                }        }        return currentDest;}[/pre]<br /><br />Is that what you were after?  It's the best I can do at the mo', I'm afraid.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 29715,
+		"title": "Re: .0SC compression",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-01T01:13:57.000Z",
+		"content": "Thanks, I'm sure this will help me, after I get all these backgrounds out I'm going after the animation. [I think the CD version start has about 60 animations, they're hard to discern, so I'm not trying anytime soon.]<br /><br />To get those images out took a bit of work; Wombat will get a discoloured image out of any 0SC file renamed CHEAT.0SC, but it comes with assorted junk and as I said, discoloured. I made a small [Okay, huge] program to edit the outputted bitmaps to restore normal colour and cut the junk. The discolouration is usualy 'standard' but in some cases it varies meaning I had to give the program some screenshots to calibrate it.<br /><br />Once again, much thanks, Wombat is appreciated. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 29716,
+		"title": "Re: .0SC compression",
+		"author_id": 1486224,
+		"author_name": "The NEW spaz",
+		"timestamp": "2005-09-06T10:36:04.000Z",
+		"content": "I'll try and make Mark take a look at this post one of these days.<br /><br />Oh, and levellord. If you ever figure out how the animations and such work I'd be very interested. Our JJ1 editor could use some fixing up [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /><br />Stan"
+	},
+	{
+		"id": 29717,
+		"title": "Re: .0SC compression",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-07T01:20:09.000Z",
+		"content": "YOU have a JJ1 editor? What can it do? Where can I get it?<br /><br />As far as I can figure out, the animations are merely a series of still images compressed along with data on thier location. First Jazz draws the background, then at every 'frame' Jazz simultaneously erases the last image while drawing the next. <br /><br />My brother used a screenshot program coupled with a graphics program to edit the Jazz CD start, all the animation images are here:[ [img]http://img.photobucket.com/albums/v410/Gannalev/CDanm.png[/img] ] it really shows how epic made it look like there are more frames then there are.<br /> A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 29718,
+		"title": "Re: .0SC compression",
+		"author_id": 1486783,
+		"author_name": "Unknown Rabbit",
+		"timestamp": "2005-09-07T06:49:36.000Z",
+		"content": "NS probably just refers to J1CS the level editor.<br />Is it just me, or does the Batman image right after the blink resemble part of the JJ2 jumping animation? It's a very similar pose."
+	},
+	{
+		"id": 29719,
+		"title": "Re: .0SC compression",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-09-07T18:57:54.000Z",
+		"content": "Cool Picture!!! ^_^<font color=\"BLUE\">A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Down with VGA! Up with EGA!<br />Email me a beta at HarveySmiths3rdemail@hotmail.com[/email]! :-)</font>"
+	},
+	{
+		"id": 29720,
+		"title": "Re: .0SC compression",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-07T21:43:00.000Z",
+		"content": "That's better."
+	},
+	{
+		"id": 29721,
+		"title": "Re: .0SC compression",
+		"author_id": 1486224,
+		"author_name": "The NEW spaz",
+		"timestamp": "2005-09-09T13:12:27.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]NS probably just refers to J1CS the level editor.[hr][/quote]<br /><br />What do you mean \"just\"? JCS94 isn't an editor?"
+	},
+	{
+		"id": 29722,
+		"title": "re: .0SC compression",
+		"author_id": 1486783,
+		"author_name": "Unknown Rabbit",
+		"timestamp": "2005-09-11T23:29:27.000Z",
+		"content": "Well, it is, but I assme LL already knows about that, and the post suggested something thinking of something more, like graphic editing."
+	}
+]

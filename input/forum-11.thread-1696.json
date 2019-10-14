@@ -1,0 +1,386 @@
+[
+	{
+		"id": 1353,
+		"title": "Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-06T13:12:07.000Z",
+		"content": "Well, here's another challenge for you all.  Does anyone know how to play the high scores screen in Bio Menace?<br /><br />[img]http://www.shikadi.net/pckf/bioscores.png[/img]<br /><br />No image editing, now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28979,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-06T21:42:24.000Z",
+		"content": "IIRC...<br /><br />BMENACE1.EXE TEDLEVEL 24<br /><br />Not sure if 24 is the correct level number for the high scores screen. I did this some time ago with the Apogee splash \"level\" and the Secret level entrance \"level\" too.<br /><br />This works with the 3 episodes.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28980,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-06-06T22:14:09.000Z",
+		"content": "Um...<br />Is there any way to get the game to work in XP? Even in DOSbox, it freezes in the first level... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 28981,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-07T00:21:17.000Z",
+		"content": "In DOSBox 0.65 and earlier, you must use a patch provided in DOSBox's website (search in the game database).<br /><br />DOSBox 0.70 runs Bio Menace correctly without any patches, so you'd better upgrade. It also runs DN3D without performace issues. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]  <br /><br />3D Realms provided the patch for DOSBox 0.63 with the freeware release of Bio Menace. I had to download the one for DOSBox 0.65 later.<br /><br />Now that I use DOSBox 0.70, I need no patch. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28982,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-06-07T00:47:42.000Z",
+		"content": "Ohh... That must be it. I was using the patch for 0.63, but have 0.65. I'm gonna upgrade.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 28983,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-07T11:09:47.000Z",
+		"content": "Oh that's right, I've been using TEDLEVEL for days and I forgot about it.  Interestingly enough, that doesn't work when you try to play the high-scores screen in Keen4...<br /><br />Okay then, how about this one instead:<br /><br />[img]http://www.shikadi.net/pckf/biojump.png[/img]<br /><br />Anyone think they can reproduce that with an in-game screenshot??? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 28984,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-07T14:06:08.000Z",
+		"content": "Patch? Level edited with TED5 so that the player sprite is on that building?<br /><br />TEDLEVEL doesn't work properly for the high scores screen in Keen 4 because the EXE tries to find the \"level entrance text\" for that level, which isn't present except in Keen 5 (\"Keen finds himself...\") and Keen 6 (\"Call ID!\"). So, it probably causes a memory access violation instantly.<br /><br />Bio Menace doesn't use level entrance text, it just uses the map name from the GAMEMAPS file.<br /><br />CK 4-6 , btw, read the level name (the one displayed in the status window) from the EXE, not from the GAMEMAPS.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28985,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-07T18:07:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Anyone think they can reproduce that with an in-game screenshot??? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr][/quote]<br />NO. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Manny an hour I spent trying to reproduce that when I was a young one.<br /><br />I didn't give up easily when I was a child.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 28986,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-06-07T18:48:47.000Z",
+		"content": "Has this second challenge something to do with your post on the [url=http://forums.3drealms.com/vb/showthread.php?t=13003]3D Realms Forums[/url] and your update of the Bio Menace page on the [url=http://www.shikadi.net/moddingwiki/Bio_Menace]ModdingWiki[/url]?Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 28987,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-07T18:56:35.000Z",
+		"content": "I guess so. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  Sounds like he discovered something that we haven't.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28988,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-08T02:06:27.000Z",
+		"content": "Ha, very thorough Frenkel - lucky I haven't saved that page on the ModdingWiki yet or I wouldn't be able to gloat some more first [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />And yes SM, you're right - I've discovered how you're supposed to activate the cheats in Bio Menace.  And it would seem that I'm the first to do so...!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28989,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-08T05:38:30.000Z",
+		"content": "That is very cool how things like this are still being discovered about old games.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 28990,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-08T12:34:16.000Z",
+		"content": "Roflwaffle!<br /><br />This game spooks me silly; I can get the cheats now easily, but only because I had someone get rid of the debug code first.<br /><br />Now if I can only remember how to get onto that building; give me a few hours willya?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 28991,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-08T20:03:50.000Z",
+		"content": "It SPOOKED you? I guess the city park was a LITTLE creepy...-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 28992,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-09T15:29:50.000Z",
+		"content": "Oh, in that case, LLa should try The Enforcer in part 2. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28993,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-10T01:08:48.000Z",
+		"content": "For those who don't also browse the 3DRealms forums, I've now published the [url=http://www.shikadi.net/moddingwiki/Bio_Menace_Cheat_Codes]new Bio Menace cheat codes[/url].<br /><br />I think it's interesting that the Bio Menace jump cheat works the same way as the Keen Dreams one (in that you can't jump again if you're in the process of falling.)  Aside from being quite annoying, it makes me wonder whether Bio Menace originated from the Keen Dreams engine (or a very early Keen 4 engine.)  I always assumed it came at least after Keen 4.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28994,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-10T05:12:19.000Z",
+		"content": "My question is... HOW DID you FIND this? Sheer luck or did you figure it out through hex editing?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 28995,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-06-10T12:30:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I think it's interesting that the Bio Menace jump cheat works the same way as the Keen Dreams one (in that you can't jump again if you're in the process of falling.) Aside from being quite annoying, it makes me wonder whether Bio Menace originated from the Keen Dreams engine (or a very early Keen 4 engine.) I always assumed it came at least after Keen 4.[hr][/quote]<br /><br />It could explain why Commander Keen wears pyjamas when you look at him in episode 2 of Bio Menace in Ted5 (the level editor used for Bio Menace, Commander Keen and a lot of other games).Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 28996,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-06-10T16:11:19.000Z",
+		"content": "mmm i cant get the j+i+m+space to work<br />i press c+o+d and enter 91827 enter<br />then j+i+m+space nothing<br /><br />man the j+i+m+space timeing is wierd[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 28997,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-11T02:26:01.000Z",
+		"content": "I used a disassembler to pull apart the code, and then slowly figured out what it was doing.  It took a couple of literally full days (only stopping to eat and sleep) but I really enjoyed it.  I've never done anything like that before, so now I know how to do it, it should be much easier next time.<br /><br />The JIM+Space key combination is a bit weird, it's set up so that if you push the spacebar first, it won't check for the other keys.  You have to hold down J+I+M first, and then press the spacebar last.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28998,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-11T12:14:58.000Z",
+		"content": "Yeah, that's like in Keen 4.<br /><br />Can the debugging prompt be bypassed?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 28999,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-06-11T17:17:59.000Z",
+		"content": "Cool. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Also, I didn't know the 'tedlevel' command. Or at least couldn't remember it. Nice. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 29000,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-11T17:51:08.000Z",
+		"content": "You can use that command in Keen Dreams, Keen 4-6 and Bio Menace, and works the same for each.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29001,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-11T21:42:09.000Z",
+		"content": "I don't know whether you can bypass the debug prompt, I didn't check whether there were alternate methods.  I don't think it would make a difference though, because I think you have to type that code in *and* enable debug mode before the normal cheats will work - so if you could enable debugging mode, you'd still have to type the code in anyway.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29002,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-12T04:45:12.000Z",
+		"content": "The cod sequence does nothing for me, no prompt, no nothing, for all 3 biomenaces I have, help?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29003,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-12T11:45:53.000Z",
+		"content": "That's odd then - I take it JIM+Space doesn't work either?  If you'd like, you can e-mail me one of your EXE files and I'll have a look at it.<br /><br />Also if you have another computer and/or keyboard try that, some keyboards really don't cope well with multiple keys being held down.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29004,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-12T14:07:51.000Z",
+		"content": "Has anybody tried passing NOWAIT in the command line? I know it can be done like in Keen 4, but haven't tried to see if it makes any differences in the unofficial cheat codes.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29005,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-12T21:28:02.000Z",
+		"content": "Yep, the command line parameters were one of the first things I looked at (although admittedly not in too great a detail - my main focus was the interesting sounding word \"sewerman\" near the start of the .exe, which unfortunately doesn't seem to be used for anything.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29006,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-13T16:09:14.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br /><b>Malvineous wrote:</b> I think it's interesting that the Bio Menace jump cheat works the same way as the Keen Dreams one (in that you can't jump again if you're in the process of falling.) Aside from being quite annoying, it makes me wonder whether Bio Menace originated from the Keen Dreams engine (or a very early Keen 4 engine.) I always assumed it came at least after Keen 4.<br />[hr][/quote]<br /><br />My theory is that Id Software licensed the vanilla Keen: Galaxy engine for Apogee. By \"vanilla\", I mean a source code distribution that was later heavily modified to produce the released Keen Dreams, 4, 5 and 6 games. The main modifications might be the menu screen layout (changed only in Keen Dreams), the level-entering mode (Keen Dreams and Bio Menace display a progress bar when you load a level), the physics system (Bio Menace and Keen Dreams share a more standard, less Keenish system), the cheat activation mechanism (Keen Dreams and Keen 6 v1.0 don't require an activator, while later versions of Keen 4-6 and Bio Menace do), and the text screens (in Keen 4-5 you have a red background with the yellow line bitmaps read from EGAGRAPH, while in Keen 6 v1.0 you have a gray background, v1.4 has a plain red background, and Bio Menace uses blue background with the line bitmaps read from EGAGRAPH too). However, most of the physics system, sprite manager, tile manager and tile map/TED5 format I/O system, remain unmodified between the games in question.<br /><br />That's what leads me to think Id licensed a vanilla source code distribution for Bio Menace. Also, it's possible, since Keen Dreams was developed later IIRC, and only for Softdisk, that they used the same distribution with minor modifications (for Softdisk likings) to produce the Keen Dreams engine, and they didn't have enough time to put the pogo in and such things.<br /><br />(BTW, you can see this vanilla thing if you compare the differences and similarities between all WinXP/.NET editions; Home Edition, for instance, has a mangled networking subsystem.)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29007,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-20T05:31:08.000Z",
+		"content": "Malv, since your email is private, I just uploaded all 3 .EXEs here for you to look at: [url=http://levellord.toxicsheep.com/bm.zip]levellord.toxicsheep.com/bm.zip[/url][img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29008,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-20T21:53:05.000Z",
+		"content": "You've sent me e-mail before [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Someone else posted their EXEs over at the 3DRealms forum and I had a look at them, and it seems that the registered version also has cheats removed (like the shareware release) - so for some reason the version that was released as freeware was some sort of internal testing/prerelease version, where all the debugging code was still available.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29009,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-06-21T00:54:39.000Z",
+		"content": "I'm surprised Joe let that stuff fly on the 3D Realms board.  Technically, posting exe's is illegal you see.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 29010,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-21T04:53:43.000Z",
+		"content": "I thought as much; I was looking for the keypresses and didn't find them; what a stink! I paid (Well, Levellord did) for these games and I get less than freeware! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br /><br />Now what do I do?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29011,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-21T06:17:20.000Z",
+		"content": "Well presumably by paying you had the privilege of being able to play the games earlier than everyone else, cheats or no cheats.  Now, like probably everyone else, you can download the freeware version and use that instead [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />And posting EXEs is illegal?  How?  You can't use them for anything without the rest of the game data, and that's the reasoning behind all the Keen patches to different versions isn't it?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29012,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-06-21T09:07:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]so for some reason the version that was released as freeware was some sort of internal testing/prerelease version, where all the debugging code was still available.[hr][/quote]<br /><br />My guess is that the freeware release is a later version than the other v1.1 registered version. When you start the freeware version, you get a screen with some technical help for when you have problems with the game. I don't get this helpful screen in the other v1.1 version of Bio Menace. I guess the freeware release version is from a time after their \"We hate cheats\"-period, so they enabled the cheats again.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29013,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-22T13:32:15.000Z",
+		"content": "That screen appears only in BMENACE1 of the freeware. BMENACE2 and 3 only display the \"don't distribute\" screen.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29014,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-22T14:53:06.000Z",
+		"content": "It's entirely possible the help screen was removed when a better and more stable version was coded; the 3 EXEs all seem to have been done pretty much at the same time from what I can see.<br /><br />My turn to issue a challenge; can anyone recreate this scene in game?<br /><br />[img]http://img.photobucket.com/albums/v499/Nevad/bmenace1_000.png[/img]<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29015,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-22T15:12:55.000Z",
+		"content": "And what the hell has that screenshot of special?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29016,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-06-22T19:22:12.000Z",
+		"content": "I would try, but not knowing the games too well, I have no idea what game that is, what level, or what area that is. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-disguised.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 29017,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-06-22T21:52:51.000Z",
+		"content": "biomanace 1 bosslevel lower right[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 29018,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-23T00:44:05.000Z",
+		"content": "Okay, I think I know what your point is...<br /><br />[img]http://www.shikadi.net/pckf/bmenace1_003.png[/img]<br /><br />Interestingly enough that colour code thing at the top-right of the screenshot reveals some items, but the ceiling above the items isn't blocked - so if you jump up and to the right, you fall all the way down to the exit.  Admittedly you need jump cheat on to jump that high, though...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29019,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-24T15:22:44.000Z",
+		"content": "Indeed, however I was wondering more about if anyone can get the boss to shoot at a rate of about 2 fireballs per second; you'll notice Malv's is sadly deficient in this respect.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29020,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-24T21:37:32.000Z",
+		"content": "Give us a hint - is this in game, or does it require hex editing?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 29021,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-25T04:43:46.000Z",
+		"content": "You can do it in game, but it's bloody difficult, it's easier to hexedit.<br /><br />Ooh, anyone notice that in large levels the first purple slime shot just disappears? (Instead of spawning bloody bits.) Or that the second big robot in Goliath (On top of the exit.) can be bombed but won't explode until offscreen?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29022,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:18:05.000Z",
+		"content": "I think that's induced by the memory limitations of the game. I've already noticed that, but thought it was just my DOSBox setup.<br /><br />(Incorrect: \"Lemme guess, Level Lass, you hid the status window (the one at the top left corner) with BACKSPACE and the game's speed was boosted up, right? I discovered that while playing with Goliath indeed.\")------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29023,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T16:40:40.000Z",
+		"content": "Who needs hex editing the exes with this?<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumtheclassics.showMessage?topicID=499.topic]w00t! Patch'em now![/url]<br /><br />Thanks goes to Levellass for helping me to test this one (she pressed me to write it in first place).------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 29024,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-26T06:23:14.000Z",
+		"content": "Drat! I totally forgot about the backspace window![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29025,
+		"title": "Re: Bio Menace challenge",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-04T22:19:39.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>John Romero:</b> After a year of fulfilling our end of the Gamer's Edge agreement with Softdisk, we were finally off doing our own thing with no more ties to Softdisk.  But Softdisk considered my Dangerous Dave character to be a valuable asset, so they had two more sequels made in the ensuing years (using the <b>Keen Dreams engine</b>, I believe): Dangerous Dave's Risky Rescue and Dangerous Dave Goes Nutz![hr][/quote]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

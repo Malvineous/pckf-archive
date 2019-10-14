@@ -1,0 +1,50 @@
+[
+	{
+		"id": 145,
+		"title": "Gameplay question",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-10-05T21:05:06.000Z",
+		"content": "Not sure which forum to put this in. Please move if necessary.<br />This is a gameplay question, relating to moving platforms. (aka, goPlats.)<br />I can't think of a place in the original games where this could be answered, but if there is a good example, that would be great.<br /><br />Suppose you have two platforms that pass each other, one on its way up, the other on its way down. And the player standing on the platform moving down. Like in this situation:<br />[img]http://keen.keenx.com/temp/plat.gif[/img]<br /><br />When the two platforms pass each other, if you (the player) don't do anything, should the bottom platform \"pick you up\"? Meaning, without any action on your part, should you end up standing on the platform moving up, or stay on the one going down?"
+	},
+	{
+		"id": 3751,
+		"title": "Re: Gameplay question",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-05T22:09:47.000Z",
+		"content": "I think somewhere in Keen 4 (rectangular platforms, so maybe K6) there is a situation with a falling platform and... a stationary one I think.<br />If you stand on the falling one, above the stationary one, you'll fall down, right through the other, so you don't get stuck there or anything like that.<br /><br />I don't think your particular situation exists, but I suspect you'd also keep moving with whichever platform you're on, ignoring the other.<br />You could edit the games to get that situation, I'm pretty sure.<br />Finally, I don't have an opinion on which option it \"should\" be.<br />You can always drop down, so always ending up on the higher platform would be most player-friendly I suppose at least.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 3752,
+		"title": "Re: Gameplay question",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-06T02:28:01.000Z",
+		"content": "I don't know the answer to the question, but I think it'd look silly if the lower platform picked you up... Maybe in the original games it does, and that's why they haven't made any level like that?"
+	},
+	{
+		"id": 3753,
+		"title": "Re: Gameplay question",
+		"author_id": 1035697,
+		"author_name": "0 UNFLEEXABLE 0",
+		"timestamp": "2005-10-06T07:18:04.000Z",
+		"content": "I think it'll pick you up if you're moving upward, but it won't pick you up if you're heading downward. My keen has never left the platform which he was standing on whenever I played any of the games. Period.-- Censorship is F**ked! --"
+	},
+	{
+		"id": 3754,
+		"title": "Re: Gameplay question",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-06T09:34:22.000Z",
+		"content": "To answer this we peek at the code governing Keens sprite properties, and lo, yes, the solid upward moving platform will lift thee to the heavens!A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3755,
+		"title": "Re: Gameplay question",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-06T09:35:58.000Z",
+		"content": "Actually, remember in Keen 4 where you can pogo into the ceiling above the green acid pools, where the secret Life Flasks are?<br />That platform is of the falling kind, and since there isn't a stopper (I'm sure there's a neat technical term as well) below it, it'll just keep falling out of the level.<br />Keen however can't go through the floor, so... sticks.<br />It sort of qualifies. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />However, when it comes to platform, I agree.<br />I really can't think of a situation where the paths of 2 platforms actually cross eachother, I think simply because of the way they're programmed.<br /><br />If I remember correctly every platform just \"gets\" a push at the start, and at every turn there's a little thingy pushing it in another direction, until the final thingy pushes it back identical to its earliest heading, completing the circle (rather polygon of some... any kind).<br />Of course in some cases (K6 secret level for instance) the platform moves into the track only after coming outside of the ceiling where it was hidden.<br />Also there are the falling platforms, which I think just need a thingy to stop them from falling down any further.<br />Actually there are situations where multiple platforms use a single path, like in Keen 5 (it's in one of the demo movies) where you have to jump up a platform, and keep on going forever if you're not quick enough.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	}
+]

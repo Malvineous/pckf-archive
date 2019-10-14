@@ -1,0 +1,442 @@
+[
+	{
+		"id": 725,
+		"title": "Proof of concept: the PCKF, converted",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-06T13:57:28.000Z",
+		"content": "Whilst on a random journey around the net, I stumbled across the ezBoard converter for phpBB again. Having nothing better to do, I decided to try it out on the PCKF. (I'd done this shortly before the ezBoard attack, and to my shame deleted the converted database assuming I'd never need it.) The link below is the result of my brief effort to convert this forum into a phpBB forum.<br /><br />This isn't a live forum, so you can't register or log in - it's just there so you can look at it as a demonstration of how simple the move would be.<br /><br />[url=http://toxicsheep.nfshost.com/pckf/]PCKF Mirror[/url][url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 18996,
+		"title": "Re: Proof of concept: the PCKF, converted",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T14:56:47.000Z",
+		"content": "Access denied for every subforum. It's nice how easy the move can be though.<br /><br />EDIT: actually, for every link. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  <br />EDIT 2: great, works now. Nice conversion! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18997,
+		"title": "yep",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-06T15:31:19.000Z",
+		"content": "Looks good.  Definitely got to look into this, as that Yuku thing looms on the horizon."
+	},
+	{
+		"id": 18998,
+		"title": "Re: yep",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-06T18:42:01.000Z",
+		"content": "Amazing, works very well. Chogall shall know about this.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18999,
+		"title": "Re: yep",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-06T19:08:55.000Z",
+		"content": "Interesting. I didn't know there was such a converter...------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19000,
+		"title": "Re: yep",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-06T19:42:54.000Z",
+		"content": "Very cool.<br /><br />This NEEDS to be done!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19001,
+		"title": "Re: yep",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-06T22:06:27.000Z",
+		"content": "Yes I agree. PLEASE lets do something about this.<br /><br />But someone, the community or what have you, (I would be willing to help what little I could.) would need to make a nice layout. The standard PHP-BB skin is well...<br /><br /><br />Circus...-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19002,
+		"title": "Re: yep",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-06T22:24:20.000Z",
+		"content": "I actually have a half-finished version of the current PCKF theme for phpBB - I could always finish it if we were to move."
+	},
+	{
+		"id": 19003,
+		"title": "Re: yep",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-06T23:20:51.000Z",
+		"content": "Okay, well, although people are used to this theme, I think we need something a little better looking.<br />Perhaps have a theme with similar colors, but a little nicer?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19004,
+		"title": "Ooh.",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-05-07T05:55:00.000Z",
+		"content": "I don't really mind how the site looks that much.<br /><br />This needs to be done; could we just move everyone across and change the appearence later? <br /><br />---Freeyorp"
+	},
+	{
+		"id": 19005,
+		"title": "Re: Ooh.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-07T12:50:32.000Z",
+		"content": "Something in cooler colors I think, or at least in the green bay packer's style.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19006,
+		"title": "Re: Ooh.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T13:27:52.000Z",
+		"content": "Now that we're talking about a forum switch, I was thinking we could use a bit of an actual SITE too. For example what spatang had: a database of all released mods, games, resources and applications. It would make things so much easier. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />(I could chip in here, I know some basic PHP and SQL, so... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] )____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19007,
+		"title": "Re: Ooh.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-07T13:49:14.000Z",
+		"content": "I'm working on something for commanderkeen.org in Django/Python - which would hopefully have a proper index of mods, patches and so on - but there's no real timescale for its completion. I really need to learn a bit more first."
+	},
+	{
+		"id": 19008,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-07T14:37:31.000Z",
+		"content": "Speaking of Spatang.com, my username and password don't seem to work, there.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 19009,
+		"title": "Re: ...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-07T15:52:38.000Z",
+		"content": "Yeah, a new theme would be nice too, at some point.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19010,
+		"title": "Re: ...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:26:46.000Z",
+		"content": "Cool, my name is in the last post in the Official... oh, ah [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br />That sample phpBB conversion made me drool. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19011,
+		"title": "W00t",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-07T18:08:12.000Z",
+		"content": "this is neat i say do it !!"
+	},
+	{
+		"id": 19012,
+		"title": "Re: W00t",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T18:40:25.000Z",
+		"content": "Why do we have to wait for Cho'gall's decission? Let's go now! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19013,
+		"title": "Re: W00t",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-07T22:29:04.000Z",
+		"content": "We need a poll - \"would you move if KeenRush said there was a new site\" - if lots of people vote yes, then KR can make the decision and we don't need to wait for anyone else [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 19014,
+		"title": "Re: W00t",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-08T00:43:45.000Z",
+		"content": "So what you are saying, Mal, is more along the lines of \"We do and believe what Keenrush tells us.\"-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19015,
+		"title": "Oooooh, yeah.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-08T02:44:34.000Z",
+		"content": "All hail KeenRush!<br /><br />And grafix. Great work there. I do recall that theme you were working on, many moons ago. I'm happy with the current theme, but if someone comes up with a better one I'm all for it. Let's just get the hell away from ezBored already!"
+	},
+	{
+		"id": 19016,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T11:07:21.000Z",
+		"content": "Well, if there's one person on this forum who is respected enough to make a decision like that, I think it'd have to be KR...  If he left ezBoard to start his own Keen forum, I'd certainly join him.<br /><br />Ask yourself this - if Chogall or one of the other PCKF owners came along and gave you one URL for the new board, and KR gave you a different one, which one would you choose?  (and don't say you'd visit both, that's not the point.)  Not that I have anything against Chogall, but KR certainly posts a lot more and I think his forum would be much more active."
+	},
+	{
+		"id": 19042,
+		"title": "Forum move",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-05-08T12:21:10.000Z",
+		"content": "Well, for what it's worth, I think I'd be willing to move..."
+	},
+	{
+		"id": 19043,
+		"title": "Re: Forum move",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-08T12:57:06.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]So what you are saying, Mal, is more along the lines of \"We do and believe what Keenrush tells us.\"[hr][/quote]<br /><br />'In time of hunger the people eat mud, in times of need an ox is found among ants, in the kingdom of the blind, the one-eyed man is king.'[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19044,
+		"title": "Re: Forum move",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T14:52:32.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  Hehe. I'm flattered but I'll move when Chogall moves. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19045,
+		"title": "Re: Forum move",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-08T14:55:09.000Z",
+		"content": "KeenRush, you are God. You do not need to pay attention to Chog'all decissions.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19046,
+		"title": "Re: Forum move",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T15:19:06.000Z",
+		"content": "But I decide to do so, so have patience (and obey). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19017,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-08T15:37:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, if there's one person on this forum who is respected enough to make a decision like that, I think it'd have to be KR... If he left ezBoard to start his own Keen forum, I'd certainly join him.[hr][/quote]<br />Are you kidding me? I would listen to any of the more active, older peoples. Spleen, Mr.Rush, Xtra and perhaps even Grafix. Grafix is a little kid (I think, if I remember correctly he is about LL's age.) but holds a lot of respect by me because he actually does stuff. (Like this thread for example.)-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19018,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-08T15:40:14.000Z",
+		"content": "I thought Grafix was adult, since he has his own domain (toxicsheep.com), etc.<br /><br />edit: I never noticed that I passed the 314 posts barrier.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19019,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-08T16:30:00.000Z",
+		"content": "Nah, I'm only 15 - and I've had a domain since I was 12, thanks to the UK's child-friendly policy on handing out debit cards.<br />[quote]<b><i>Quote:</i></b>[hr]Grafix is a little kid[hr][/quote]Oi! 5'11\" isn't that little! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]"
+	},
+	{
+		"id": 19020,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-08T16:31:48.000Z",
+		"content": "You're surely a genius.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19021,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T17:33:45.000Z",
+		"content": "Speaking of this forum, yours truly accidentally removed something small part of html code from the header you can see on main page. I removed the line about the results of the level competition (as it's a 'few' weeks old now) and accidentally removed something else that results the header not to be centered anymore. Does anyone know how it was? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  Naturally I could try and center it with pure html center command.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19022,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-08T17:45:39.000Z",
+		"content": "Enclosing the header like so:[pre] &lt;div style=\"text-align:center;\"&gt;&lt;!--EZCODE ITALIC START--&gt;&lt;em&gt;header goes here&lt;/em&gt;&lt;!--EZCODE ITALIC END--&gt;&lt;/div&gt;[/pre]should work.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 19023,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T17:55:53.000Z",
+		"content": "Aha. Well, I just before reading this changed the p have 'center' as its align. I guess the original could've been something like that, as I had accidentally removed the p-part. Now it looks as it was before. Your way is probably the best, but I let it be as it (hopefully) was before. This place generally isn't designed in CSS, either. (I guess.) Cheers. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19024,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T22:04:25.000Z",
+		"content": "<i>Are you kidding me? I would listen to any of the more active, older peoples. Spleen, Mr.Rush, Xtra and perhaps even Grafix.</i><br /><br />Oh don't get me wrong, I wouldn't ignore any of the 'respectable' people around here, it's just that in my mind KR is the central Keener here.  He's been around for a long time and his posts generally seem to be more Keen-related than everyone else's.  If Spleen, Xtra and Grafix got together and created a new forum instead of this one I'd definitely make the switch, but KR's probably the only person here who could successfully go it alone, without any backing from other members."
+	},
+	{
+		"id": 19025,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-09T12:40:09.000Z",
+		"content": "I think the if Cho and Kr were to set up two different sites, KR's would get all the traffic; he draws keeness to himself like ants to sugar.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19026,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-05-09T22:26:15.000Z",
+		"content": "Cho'gall gets listened to because he pays the bills.<br /><br />He's the one who's footed Gold Forum status for years now.  However, we will be moving soon.  He recently renewed for 6 more months, and they are definately the last ones that we will be here.  So yeah patience.  There really are things going on behind the scenes.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 19027,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-10T11:53:28.000Z",
+		"content": "Like a case of indigestion, there's more than meets the eye?<br /><br />Sounds exciting![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19028,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-10T14:57:31.000Z",
+		"content": "Yes.<br /><br />And yeah, as Flaose said, Chogall has paid a pretty penny for keeping up this board.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19029,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-05-11T23:56:40.000Z",
+		"content": "did I hear someone say revolution? lol[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 19030,
+		"title": "Re: Oooooh, yeah.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-12T09:36:26.000Z",
+		"content": "Awww<br /><br />*Hugs Cho*[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19031,
+		"title": "The peasants are revolting!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-12T22:47:33.000Z",
+		"content": "[hr]<b>KeenRush</b> Chogall has paid a pretty penny for keeping up this board.<br />[hr]Heh, too bad that's one of the factors that's kept us chained to ezBoard.<br /><br />As long as something is definitely happening, and the community ultimately has some input, I'm willing to wait it out a bit longer."
+	},
+	{
+		"id": 19032,
+		"title": "Re: GUILTY!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-04T16:55:10.000Z",
+		"content": "See this, see this:<br /><br />[url=http://www.shikadi.net/keenwiki/Special:Listusers]KeenWiki: registered users list[/url]<br /><br />Cho'gall is registered there! (What's the point anyway?)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 19033,
+		"title": "Re: GUILTY!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-05T03:40:51.000Z",
+		"content": "Well, maybe he takes Keen quite seriously.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19034,
+		"title": "Re: GUILTY!",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-06-07T13:47:45.000Z",
+		"content": "Haha, according to the KeenWiki I'm the most active member of the PCKF.  I guesss I've been here too long.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 19035,
+		"title": "Re: GUILTY!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-07T14:02:32.000Z",
+		"content": "*runs away*------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 19036,
+		"title": "Re: GUILTY!",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-07T17:38:05.000Z",
+		"content": "Who the heck knew my middle name?! That's...<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />It seems I signed up a while ago... I don't remember doing that.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19037,
+		"title": "Re: GUILTY!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-08T02:16:38.000Z",
+		"content": "That'll be Shadow Master - obviously having never read any wiki etiquette pages around the place [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />[quote]<b><i>Quote:</i></b>[hr] - Other users may edit pages in your user space, although by convention your user page will usually not be edited by others.<br />...<br /> - Limit editing of others' User page to correcting typos and such, unless invited to do more.<br />...<br /> - Finally, as a note of etiquette, do NOT edit another User's USER PAGE, only his/her TALK PAGE.<br />[hr][/quote]Not that any of us mind, I'm sure [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 19038,
+		"title": "UGLY!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-08T02:49:13.000Z",
+		"content": "Aww, but that means I'd have to make my own user page. Unless...<br /><br />*invites people to edit (create) user page... within reason*"
+	},
+	{
+		"id": 19039,
+		"title": "Re: UGLY!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-08T12:48:35.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Who the heck knew my middle name?! That's...<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />It seems I signed up a while ago... I don't remember doing that.[hr][/quote]<br /><br />It's simple; me and Spleen got you roaring drunk, wheedled your middle name out of you, then signed you up.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 19040,
+		"title": "Re: GUILTY!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-08T14:06:00.000Z",
+		"content": "Oh, I'm sorry.<br /><br />But I didn't ever touch Gal's page, so it wasn't me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 19041,
+		"title": "Re: GUILTY!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-08T18:09:56.000Z",
+		"content": "Aw, just as I was about to discover his middle name, the User:Gal was marked red, meaning the page doesn't exist.<br /><br />Foiled again! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19047,
+		"title": "Re: Proof of concept: the PCKF, converted",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-06-08T19:55:34.000Z",
+		"content": "I saw that \"Galaxieretetter\" was in the list... I didn't sign up with that name (I signed up with \"Gal\".) Yet I was still in the user list. Now \"Galaxieretter\" is REMOVED from said list and you can only access the page if you type in \"Galaxieretter\" in the search box.<br /><br />I iz comphused.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19048,
+		"title": "Re: Proof of concept: the PCKF, converted",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-09T00:16:26.000Z",
+		"content": "Ah yes, according to the article history Levellass created a *page* called \"Galaxieretter\" instead of using your userpage.  It never would've appeared in the userlist though, maybe you got to it from someone else's userpage?<br /><br />Must make a note to tidy that up at some point...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 19049,
+		"title": "Re: Proof of concept: the PCKF, converted",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-11T21:00:59.000Z",
+		"content": "I'll try, since nobody seems to be updating existing articles anymore. I already fixed many broken links to andy.durdin.net, when they should be to files.keenmodding.org and www.keenmodding.org.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

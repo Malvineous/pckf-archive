@@ -1,0 +1,58 @@
+[
+	{
+		"id": 223,
+		"title": "KeenX Latest and Hiatus",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2007-03-14T15:19:19.000Z",
+		"content": "<b>The Game</b><br />The latest progress of the KeenX project is available for download. You can get it here: [url=http://keen.keenx.com/keen/files/keenday2007.zip]keen.keenx.com/keen/files...ay2007.zip[/url]<br /><br />Some things to check out:<br /><br />- Pogo Push<br />Big thanks to Retodon8 for this idea.<br />By default, this is done by pressing \"z\". Try using it on a wall too.<br /><br />- Map<br />Nothing special. Just reused some graphics from Keen 4. There isn't much to do in a map, so I spent very little time on it.<br />However, the level is exactly the same to the engine as any other level, except that the player looks different and has different physics. So it wouldn't be very difficult to make very complicated and interesting maps.<br /><br />- Level Entrances<br />Nothing too special or complicated here either. But there is the possibility for some interesting game ideas.<br />Each level entrance specifies what level file it goes to. So you could go from one map to another, or from one regular level to another, or any other creative ideas you can think of.<br /><br />- Menu<br />Only the Configure and Quit items do anything. Though you may want to check out the Configure menu... Press Enter to select a menu item. Maybe this is a good time to mention...<br /><br />- Settings<br />Check out <b>settings.ini</b>. Mostly this is The items are pretty self-explanatory. But make sure the line after LEVEL_FILE: is a real level file. Use this to check out some of the other provided levels, or any you make yourself.<br /><b>Warning</b> it's not a good idea to set DEBUG to true. This will severely hurt the performance, and cause the game to dump a whole a lot of text files.<br />Also look at the files in the <b>settings folder</b>. ctrlnames and keycodes contain the text used in the configuration menu. But player.ini might be interesting, this is where you can modify the physics a little bit.<br /><br />- Music and Sounds<br />Mostly just to see that it does work. I've only put in a few sound effects. And they are hard coded. But the music is set in the level file. By the way, the music system supports both mp3 and ogg.<br /><br />- Teleports (A.k.a. \"doors\")<br />Only the basic functional system is implemented. So you get the obvious lack of animation (walking into/out of a door.) In the level editor, you set what door you come out of when you go into one. (And you can have just an exit door that you can't enter.)<br /><br />- Keys<br />If you try the test_box level (See settings.ini), you will get to see a rough implementation of the use of keys. These work like the gemkeys in Keen 4, though obviously the graphics are lacking. But because of how these work, simply plugging in the right graphics is very simple.<br />Keys are actually done by setting a property on a switch (the property that says it requires a certain key). Keys are known to then engine only by their ID (set in the level editor). So it might be very bad level design, but you could have multiple keys that look exactly the same, but only one will work in a certain lock.<br /><br />Speaking of Keys/Switches ...<br />- Doors<br />Along with the Key demonstration, we see a door. Actually, these are switched tiles. The engine supports connection a switch to most objects in the game. How the object interprets whether it is switched on or off is up to itself. (And many objects simply ignore it.) But this has led to many fun gameplay ideas."
+	},
+	{
+		"id": 5477,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2007-03-14T15:20:34.000Z",
+		"content": "<b>The Editors</b><br />The latest progress of the KeenX Editors is also available for download. You can get it here: [url=http://keen.keenx.com/keen/files/keenday2007_ed.zip]keen.keenx.com/keen/files...007_ed.zip[/url]<br /><br />These have not been available with previous tech demos because they were full of bugs. They still have many bugs, but they are the tools I used to create the game as it is today.<br />The other problem is that they are not as user-friendly as they would be in the end. I expect that you will have many questions, so please start asking them and maybe we can put together a faq and I can improve the tools.<br /><br />To get you started, here's what you need:<br />These were built in C#, so you'll need the .Net runtime installed. I think this is automatically included in Windows XP. But if you don't have it, it's around 20MB and I can point you to it. In order to find out if you have it, try running one of the programs.<br />Game settings:<br />Both of these tools use your registry to store the game location. (Specifically, they store it in Current User\\Software\\KeenKoncepts\\KeenX.) When one starts up, if the registry info is missing, it will default the location to C:\\Development\\KeenX. You probably didn't install the game here. No big deal, just go to Options-&gt;Game Directory. If you use the Browse button, go find Keen.exe.<br /><br />Notes on the Level Editor:<br />It might not be obvious, but the editor loads up with a separate Selected Object window. This is where you select what you are putting on the level when you click. (Initially nothing is selected.) You can bring this window to the front by clicking View-&gt;Selected Item. (Or press F3.) Also, you can make the window stay on top. Right-click next to the tabs, or right of the Properties button and you'll see...<br />If you make a brand new level from scratch, make sure to go to View-&gt;Level Properties and set a level name. While you're here, the Browse button will not work, but you can provide the path (relative to the game location) to the music file for this level.<br />Setting the player location within the main editor window has a little quirk. If you manually type in a location, you need to move the cursor out of the location box to actually make the update. And to see the player move, you need to get the view to refresh. (Scrolling is what I usually do.)<br /><br />A cool feature in the level editor is the Map. This is the area right below the Level Name. You can click on this to quickly see an area of the map in the main view.<br /><br />How to work with some objects might not be obvious. A general rule of thumb, if you want to tweak something in the level, right click on it and select the appropriate properties item."
+	},
+	{
+		"id": 5478,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2007-03-14T15:23:21.000Z",
+		"content": "<b>The Status</b><br />So the bad news is that this project, for a variety of reasons, is on hold now. Other than patching a few things up to get something working for today, I haven't done anything with it since last September.<br />I will go into detail later on the KeenX forums (no need to clutter these up), but suffice it to say that my life got <b>very</b> busy with other things last October, and it will be that way at least through the end of this year. Don't take this as some emo \"oh my life sucks\" whine. In fact, the reasons it will remain very busy are things that I'm quite happy about. Again, I'll go into detail elsewhere to explain this.<br /><br />Now there is a big negative reason for putting this on hold. But it's really more of an opportunity.<br />I took an objective look at where the project was, and what I would need to do to finish it. I have a nice concise list of engine features I needed to implement. But by far, the biggest issue was creating all of the graphics. I'm not an artist, so who knows if I could even get the quality acceptable. But just getting it close was going to take many months of hard work and long hours.<br />There are a lot of great game ideas documented and a story worked out, so I would still like to complete the project. But I really need a ton of help with graphics.<br />Additionally, I have no problem giving the source code out, as long as you will actually use it to contribute to the community. (And as long as you won't nitpick too much - some of the code is over 7 years old, from when I just started learning, it's not very pretty.)"
+	},
+	{
+		"id": 5479,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-15T04:12:00.000Z",
+		"content": "Alrighty then; looks interesting, a pity it is on hold, but better sleeping than dead.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5480,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-15T20:24:30.000Z",
+		"content": "Looks good, and that wall-pogo is just awesome! I love it.. It'd be so awesome to climb walls using that technique, in some fast paced Keen adventure.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5481,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-30T06:11:10.000Z",
+		"content": "can you post some screenshots?"
+	},
+	{
+		"id": 5482,
+		"title": "Re: KeenX Latest and Hiatus",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-30T16:28:32.000Z",
+		"content": "You can find some [url=http://keen.keenx.com/Screens.aspx]screenshots[/url] on the official site, but they're slightly out of date. I suggest you download the game and try it out."
+	}
+]

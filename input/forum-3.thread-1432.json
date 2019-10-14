@@ -1,0 +1,50 @@
+[
+	{
+		"id": 373,
+		"title": "Issis II screenshots?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-21T00:41:13.000Z",
+		"content": "Does anyone have any good quality Issis pics?<br /><br />I have one, but I was just wondering if anyone else had some pics.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 11190,
+		"title": "Re: Issis II screenshots?",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-11-21T13:35:23.000Z",
+		"content": "Why don't you make them yourself? There are two demo's.-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 11191,
+		"title": "Re: Issis II screenshots?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-21T13:40:45.000Z",
+		"content": "Nope, I don't have them saved anywhere. Nor do I know where I could see them. Yeah, too bad the project was discontinued before it was finished.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 11192,
+		"title": "Re: Issis II screenshots?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-21T17:21:26.000Z",
+		"content": "I tried to use ScreenThief... it crashed Isis II.<br /><br />Then, I tried to run Isis II into DOSBox (0.65) and take screenshots with DOSBox. Even with a DPMI server running, Isis II crashes during initialization. Sometimes it causes DOSBox to crash too.<br /><br />I also tried to use DOSEmu (Linux), but I had the same problem I had with DOSBox, except that DOSEmu doesn't crash.<br /><br />I really liked that fangame. In fact, whenever I feel depressed and stop writing code for my game engine, I run the last Isis II demo and play it. After playing one Isis II level, I think: \"I MUST write a game engine to complete my dream of having a full-featured Keen fangame with nice music and graphics.\"<br /><br />Without Isis II, I wouldn't have started my own game engine. I wish someone could finish making Isis II someday.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 11193,
+		"title": "Re: Issis II screenshots?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-02T02:38:59.000Z",
+		"content": "I took some shots with help of MS Virtual PC 2004 and an old Windows 98 CD I have. Unfortunately they aren't \"good quality\". Perhaps VPC is not correctly scaling the actual screen resolution used by Allegro/Isis II. I crashed my host machine while trying, but anyway I have 2 screenshots of demo1 and 3 of demo 2.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 11194,
+		"title": "Re: Issis II screenshots?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-12-02T10:13:24.000Z",
+		"content": "Wouldn't it be a better idea just to run it on your normal OS and use an actual screenshot program? :P"
+	}
+]

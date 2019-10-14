@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1118,
+		"title": "Indeed a bug in ezboard",
+		"author_id": 180328,
+		"author_name": "DivoKeen",
+		"timestamp": "2005-05-31T17:53:18.000Z",
+		"content": "Request Error - No such file or directory (\"/home/ezDude/bbs/boards/6/656/publiccommanderkeenforum/other/2103.topic.dir\")An error has occurred executing your request.<br /><br />No such file or directory (\"/home/ezDude/bbs/boards/6/656/publiccommanderkeenforum/other/2103.topic.dir\")<br /><br />If you feel you may have information which would be helpful in determining the cause of this problem, please post a bug report here at the ezboard bugs help forum: Report Request Errors!Stack backtrace:<br />FileErrorHolder class(OSErrorHolder class)&gt;&gt;reportProceedingOn:<br />FileErrorHolder(OSErrorHolder)&gt;&gt;reportErrorProceeding<br />optimized [] in OSErrorHolder class&gt;&gt;initializeErrorActions<br />SystemError&gt;&gt;handleErrorFor:<br />UnixFilename(Filename)&gt;&gt;makeDirectory<br />BBSMessage&gt;&gt;saveIn:<br />BBSMessage&gt;&gt;save<br />BBSTopicMessage&gt;&gt;addToMessageRegistry:<br />BBSMessage(BBSAbstractMessage)&gt;&gt;addReply:toMessage[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] osterEmail:withData:<br />MessageHandle&gt;&gt;addReply:toMessage[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] osterEmail:withData:<br />BBSForum&gt;&gt;addReplyFromData:<br />BBSForum&gt;&gt;addMessageFromWeb:using:<br />BBSForum&gt;&gt;addReplyFromWeb:<br />optimized [] in WebLocalNamedObjectReference&gt;&gt;runWebRequest:useMethod:<br />Error class(GenericException class)&gt;&gt;handle:do:<br />EzBWebObjectReference(WebLocalNamedObjectReference)&gt;&gt;runWebRequest:useMethod:<br />EzBWebObjectReference(WebNamedObjectReference)&gt;&gt;runWebRequest:<br />WebRequest&gt;&gt;dispatchRequest<br />WebRequest&gt;&gt;runRequestFromServer:<br />WebRequestHandler&gt;&gt;handleRequest<br />optimized [] in WebServer&gt;&gt;handleClient:<br />BlockClosure&gt;&gt;on:do:<br />optimized [] in Process class&gt;&gt;forBlock[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] riority:<br /><br />-Got that when trying to reply here. Wasn't even able to acces Keenrush's post with same topic; it worked the first time I looked but not when I decided to post this error. Hopes it gets fixed soon.-------------------------------<br />If something's HARD to do, then it's NOT worth doing. -Homer J. Simpson"
+	},
+	{
+		"id": 25330,
+		"title": "Re: Indeed a bug in ezboard",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-31T19:15:49.000Z",
+		"content": "Yeah.. As well, this topic proves I'm not insane and the only one getting these bugs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	}
+]

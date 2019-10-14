@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1419,
+		"title": "get MID and IMF for Monster Bash here!",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2005-08-21T18:56:15.000Z",
+		"content": "[url=http://s26.yousendit.com/d.aspx?id=2WEKFGOY3GVXR36VZYO5M5P7FI]s26.yousendit.com/d.aspx?id=2WEKFGOY3GVXR36VZYO5M5P7FI[/url]<br /><br />allright, i converted the Monster Bash music to MID as there was a request for it. the original IMF are in the zip aswell.<br /><br />just remember that the midi files sounds quite ugly as they are not ment to be played in that format. but the midi data should be fully extractable.<br /><br />unfortunately i could not convert the first file for some strange reason :s<br />sorry for that.<br /><br />also, Xtraverse could host it properly for us? please?? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />happy remixing!"
+	},
+	{
+		"id": 29723,
+		"title": "yay",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-21T19:15:35.000Z",
+		"content": "Thanks for this, DSL.  :-)  Always wanted to have a peek at the notes."
+	},
+	{
+		"id": 29724,
+		"title": "Re: yay",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-08-21T20:00:38.000Z",
+		"content": "Thanks for the download DSL!<br /><br />For those unaware, [url=http://www.winamp.com/]Winamp[/url] plays IMF files if you also install [url=http://adplug.sourceforge.net/]AdPlug[/url].<br />You'll want to actually download AdPlug [url=http://www.informatik.uni-oldenburg.de/~dyna/adplug/]here[/url] though.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 29725,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-21T20:23:35.000Z",
+		"content": "Thanks for the work DSL !!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   <br /><br />Can you tell me, how do you do this convertion ?<br /><br />JD"
+	},
+	{
+		"id": 29726,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2005-08-21T21:18:49.000Z",
+		"content": "there is a handy tool called IMF2MID out there wich simply translates the data in the IMF and assigns a suitable midi instrument to each channel.<br /><br />nothing big really... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]"
+	},
+	{
+		"id": 29727,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-21T21:26:33.000Z",
+		"content": "But in fact, i would like to know how you have \"ripped\" the sound from game itself ?<br /><br />Thanks"
+	},
+	{
+		"id": 29728,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2005-08-21T22:09:14.000Z",
+		"content": "oh, i got it from a tool that was posted here on the board some time ago called \"Wombat\" i think. there are remains of the thread here on the board but most of them are gone [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br />the tool could extract data from Monster Bash and some other games too. so i used the tool to extract the IMF files.<br />but they had to be fixed with some tool wich i don't remember the name of (it was some tool you used for adjusting sound in the old Wolfenstein, for moding purposes) but it fixed something with the IMFs so they became playable and convertable.<br /><br />anyways, there you have them.<br />it would be nice to give the file a proper host though..."
+	},
+	{
+		"id": 29729,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-08-22T05:08:39.000Z",
+		"content": "Done.<br /><br />[url=http://www.stephenarnott.plus.com/files/monsterbash_midis.zip]www.stephenarnott.plus.com/files/monsterbash_midis.zip[/url]<br /><br />Anyway, you can get Wombat at [url=http://www.szevvy.com]szevvy.com[/url].[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 29730,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2005-08-22T10:29:38.000Z",
+		"content": "splendid, thanks alot!"
+	},
+	{
+		"id": 29731,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-22T11:19:41.000Z",
+		"content": "Thanks DSL for you explanations.<br /><br />JD"
+	},
+	{
+		"id": 29732,
+		"title": "Re: get MID and IMF for Monster Bash here!",
+		"author_id": 1486595,
+		"author_name": "JD",
+		"timestamp": "2005-08-28T12:23:21.000Z",
+		"content": "Now, i can go to work with MB songs in IBead, it s very fun :-)<br /><br />Horever, why the midi convertion has not the same quality (the idea is for my Samsung GSM (i know, i'm crazy))<br /><br />JD"
+	}
+]

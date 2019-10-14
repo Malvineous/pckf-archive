@@ -1,0 +1,130 @@
+[
+	{
+		"id": 46,
+		"title": "Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2007-02-25T19:42:14.000Z",
+		"content": "Coincidentally I released a bug in Keen Dreams today. Maybe it is already known, but I didn't find it in the KeenWiki.<br /><br />I was in level 5 (Parsnip Pass) tried to avoid a Squash, but he hit Keen while he was jumping, and this time Keen was at the right border of the level. And what happens? Keen died, but then the message that Keen had finished the level appeared. The level was really finished on the world map, and Keen even hadn't lost a life!<br /><br />[img]http://img231.imageshack.us/img231/1308/keendreamsbug1rs7.gif[/img]<br /><br />Does this also work in other levels in not so abstract situations? Yes:<br /><br />[img]http://img158.imageshack.us/img158/5720/keendreamsbug2fs2.gif[/img]<br /><br />[img]http://img486.imageshack.us/img486/8256/keendreamsbug3ka9.gif[/img]<br /><br />That means that Keen can always finish the level like this when he can be killed be an enemy at the right border of a level.<br /><br />---<br />[url=http://www.deine-stimme-gegen-armut.de][img]http://img50.imageshack.us/img50/5547/wwwdeinestimmegegenarmutde5ta.gif[/img][/url]<br />[url=http://www.deine-stimme-gegen-armut.de]www.deine-stimme-gegen-armut.de[/url]<br />(EVERY 3 SECONDS A CHILD DIES AT THE CONSEQUENCES OF EXTREMLY POVERTY)<br />(your-vote-against-poverty)"
+	},
+	{
+		"id": 2152,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-25T21:57:21.000Z",
+		"content": "Interesting find - I didn't know about this.  Don't forget to add it to the KeenWiki [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 2153,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-02-25T23:02:22.000Z",
+		"content": "Didn't know it either. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  One can do the same thing in Keen 4-6 if one saves, and then loads the game, and hits the border that way (even moving across the level as dead can be done by saving and loading numerous times). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I should add this to wiki, too..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2154,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-26T11:16:30.000Z",
+		"content": "This seems to work becaus the Keen Dreams engine registers the level as won if Keen's clipping box touches the edge of th level; dying makes his box etend horizontally and thus touch the border, the ending level code intervenes and Keen wins without losing a life.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 2155,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-02-26T21:50:52.000Z",
+		"content": "Ah geez...I thought everyone knew this one! Well, anyways, the bug can be exploited whenever there are no obstructions on a right-hand side wall (regardless if the exit is on that side or not). E.g., with some tricky maneuvering you could finish Horseradish Hill by dying at the starting point (like I said, tricky maneuvering).--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 2156,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-27T07:04:43.000Z",
+		"content": "Shoot a Tater Trooper down, then get him to kill you, yeah, it's tough.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 2157,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2007-03-12T06:57:03.000Z",
+		"content": "Does this work with all versions?<br /><br />Tight... does it work with the final level?Tough Guys Wear Pink!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 2158,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-13T05:42:22.000Z",
+		"content": "Yes.<br /><br />Yes, in theory, the wll makes it doubtful though.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 2159,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-29T15:03:39.000Z",
+		"content": "This works in Keen 4-6 too (my year 2004 discovery), but in a different way.<br /><br />Get killed near the REAL right border of any level (REAL: not caused by split screen indicator), save the game immediately during Keen animation, repeat the procedure 2 or 3 times (might be even more) and you'll win the level without losing a single life. Of course, if you do this in a level that contains a Gnosticene, you won't rescue him unless you use the warp cheat later and rescue him normally.<br /><br />I didn't try this in KDreams anyway.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 2160,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-29T16:33:52.000Z",
+		"content": "Hmm. This is an odd bug. I guess it has something to do with the way the game handles level exits and Keen being off the screen...------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 2161,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-31T07:16:42.000Z",
+		"content": "Yes, it appears to work with Keen 4,5 and 6; the gold standard in their code seems to be 'Keen off bottom- die, Keen of side- exit'<br /><br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 2162,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-31T18:29:42.000Z",
+		"content": "What about if he goes of the top of the screen?------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 2163,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-03-31T22:18:53.000Z",
+		"content": "When I tried this in keen4-6 the game freezes until he is visible again (the game keeps on moving stuff around though). In keen 1-3 he bounces off, like the doors.<br /><br />---Freeyorp"
+	},
+	{
+		"id": 2164,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1485726,
+		"author_name": "Master Inferno",
+		"timestamp": "2007-04-02T02:58:49.000Z",
+		"content": "Haha...that's actually how I finished the Parsnip Pass level on my first few playthroughs of Keen Dreams.<br /><br />I didn't think to try throwing the Flower Powers upwards to hit the enemies on that platform.\"A man is the less likely to become great the more he is dominated by reason: few can achieve greatness - and none in art - if they are not dominated by illusion.\"<br />--Mr. Doctor"
+	},
+	{
+		"id": 2165,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-04-04T20:19:52.000Z",
+		"content": "I've known about this one for years. =P~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2166,
+		"title": "Re: Keen Dreams Bug - Keen dies and finishes the level",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-29T06:06:56.000Z",
+		"content": "this happends to me too sometimes[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]"
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"id": 148,
+		"title": "Hey",
+		"author_id": 1486389,
+		"author_name": "cybercyborg04",
+		"timestamp": "2005-05-22T02:26:35.000Z",
+		"content": "Hey guys.  Danm its been a while since I played this.  Is there any way I could get this game or other dos games for not dos?(preferably mac but I do have windows)"
+	},
+	{
+		"id": 3767,
+		"title": "Re: Hey",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-05-22T03:56:53.000Z",
+		"content": "DOS games not for DOS? Hmm... not sure if many of those sort exsist. Especially for Mac, but you could try [url=http://dosbox.sourceforge.net/]DOSBox[/url], a DOS emulator, to run DOS games on your Mac system.<br /><br />Welcome to the forums.<br /><br />EDIT: Oh, and check out 3drealms.com for shareware copies of all their DOS games, including Keen."
+	},
+	{
+		"id": 3768,
+		"title": "Re: Hey",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-22T07:02:23.000Z",
+		"content": "Yeah, probably only way is to use emulator. Keen isn't ported to any other system, neither are other classics.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 3769,
+		"title": "Re: Hey",
+		"author_id": 1486892,
+		"author_name": "PBoard",
+		"timestamp": "2005-05-27T02:34:20.000Z",
+		"content": "I used dos box, it is great."
+	},
+	{
+		"id": 3770,
+		"title": "Re: Hey",
+		"author_id": 1035697,
+		"author_name": "0 UNFLEEXABLE 0",
+		"timestamp": "2005-05-27T22:27:33.000Z",
+		"content": "You can download free shareware DOS Games at [url=http://www.dosgames.com]www.dosgames.com[/url]. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://www.geocities.com/miniopolis/soul.txt[/img]"
+	},
+	{
+		"id": 3771,
+		"title": "Re: Hey",
+		"author_id": 1486594,
+		"author_name": "Greenpoe",
+		"timestamp": "2005-06-17T14:19:23.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You can download free shareware DOS Games at www.dosgames.com.[hr][/quote]<br />But [url=http://www.dosgamesonline.com]www.dosgamesonline.com[/url] has many more.  DOS games online has well over 500 games."
+	},
+	{
+		"id": 3772,
+		"title": "Re: Hey",
+		"author_id": 1486909,
+		"author_name": "RocketJess",
+		"timestamp": "2005-06-28T01:38:10.000Z",
+		"content": "Some DOS games *will* work on newer computers without needing DOSbox, but not always. Keen works fine on one of my computers but refuses to run on the other...[hr]<br /><br />RocketJess, blasting off again!<br /><br />[url=http://www.geocities.com/rocketjess]The Dragonkeeper's Lair[/url]"
+	},
+	{
+		"id": 3773,
+		"title": "true",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-06-28T21:52:03.000Z",
+		"content": "Usually the only reason to use DOSBox is to get sound.  I can't hear the Adlib music and sound effects without it.  The other solution is to search online for DOS-compatible drivers for your soundcard, but that's not always easy, or even possible."
+	},
+	{
+		"id": 3774,
+		"title": "Re: true",
+		"author_id": 1485968,
+		"author_name": "Yumi",
+		"timestamp": "2005-08-25T12:25:11.000Z",
+		"content": "hi everyone!<br />I'm trying to play KEEN using DOSBox, but it says: \"Out of memory! Try unloading your TSRs!\"<br />What I need to do?? I want to play but I can't, and I don't know what to dooooooooooo!!!!!<br />Sorry, I'm crazy, I know... ^^u<br /><br />Can anyone help me? I can't speak English very well..."
+	},
+	{
+		"id": 3775,
+		"title": "Re: true",
+		"author_id": 1486493,
+		"author_name": "Superadammario64",
+		"timestamp": "2005-08-25T17:25:53.000Z",
+		"content": "what is your computer specs? That could help us in solving your problem.Check out my blog at [url=http://spaces.msn.com/members/superadammario/]spaces.msn.com/members/superadammario/[/url]<br />Check out my fanfics at [url=http://www.fanfiction.net/u/680124/]fanfiction.net[/url]"
+	},
+	{
+		"id": 3776,
+		"title": "Re: true",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-08-25T19:21:28.000Z",
+		"content": "You'll need to play with your dosbox.conf file. Open it up (it's plain text) and play with the ems/xms settings. I think some combination of those should fix it. There's only four possible configurations, so just try them all.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 3777,
+		"title": "Re: true",
+		"author_id": 1485968,
+		"author_name": "Yumi",
+		"timestamp": "2005-08-27T12:25:49.000Z",
+		"content": "ems=false, xms=false ........ I tried writing \"true\"... but still don't work. T_T<br /><br />my computer is... windows xp profesional, pentium 4, 512mb RAM... and he hates me<br /><br />thanks for help me! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 3778,
+		"title": "Re: true",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-08-28T06:24:02.000Z",
+		"content": "That's funny. I don't know what the problem is. You can be pretty sure it's a problem with your DOSBox configuration and not with the rest of your computer.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 3779,
+		"title": "Re: true",
+		"author_id": 1485968,
+		"author_name": "Yumi",
+		"timestamp": "2005-09-10T17:12:09.000Z",
+		"content": "is my computer, no doubt... T_T<br /><br />well, I tried with my father's computer and it works perfectly! I don't need DOSBox or something to play, cool! ^.^"
+	}
+]

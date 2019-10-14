@@ -1,0 +1,66 @@
+[
+	{
+		"id": 563,
+		"title": "Update: baCK, version 0.02",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-29T10:49:37.000Z",
+		"content": "Ok, i've uploaded a new version with a Bounder inside...<br />There's a lot of work to do, but for the next two weeks I dont have time, so dont expect anything (however it's possible that I program anyway <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />Btw, does someone know, where the sound-propierties are stored in the exe? Because every sound has a priority which indicates if another osund is stopped or so (u can notice that if u die or get a life)<br />Thanks in advance..<br /><br />[url=http://home.arcor.de/panthele/peter/back.zip]Download v0.02[/url]<br /><br /><br />MfG<br />OnkelPeterle"
+	},
+	{
+		"id": 15226,
+		"title": "Re: baCK, version 0.00000000.........001 :)",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-01-29T15:47:28.000Z",
+		"content": "Uhh, yeah. I had to download a whole bunch of DLLs that weren't included in the download in order to play it, and when I finally got it working, the background was misaligned with the window, so the slug, assuming he was actually there, was below the viewing area.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15227,
+		"title": "Re: baCK, version 0.00000000.........001 :)",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-29T15:58:53.000Z",
+		"content": "Hm, thats strange... can u take a picture of it? And btw: what dll's do u need further?<br /><br />MfG<br />OnkelPeterle<br /><br />PS: u can scroll the screen with the keyboard and the slug should be near the end (so u have basiclly just to scroll a little bit down and maybe a little bit right)"
+	},
+	{
+		"id": 15228,
+		"title": "Re: baCK, version 0.00000000.........001 :)",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-01-29T18:00:11.000Z",
+		"content": "[img]http://www.psychoholiday.com/uploaded/keenbackwtf.gif[/img]<br /><br />I had to download MSVCIRTD.dll, MSVCRTD.dll, and MSVCP60D.dll, IIRC.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15229,
+		"title": "Re: baCK, version 0.00000000.........001 :)",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-29T19:04:49.000Z",
+		"content": "Well, u should just scroll the screen down with the coursor-keys [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  (near the exit there is a little slug which should walk there - u can controll it by pressing ctrl + coursor-keys)<br />And the background is no misalignement: the brown top is like it is stored in the map-file (although there is a scroll-seperator, so u should normally never see it - i've already implemented stuff like that, but without a player it's not activated). And sorry for the dll's: this is because i compiled a debug-enabled-version (and no retail-version - so u'll need the debug-dll's from the msvcrt). The next version should run without that extra dlls [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />MfG<br /><br />PS: I've uploaded a new exe which should use only the normal versions of the dlls (so without the ending 'D': MSVCIRT.dll, MSVCRT.dll, and MSVCP60.dll) which everyone of u should already have on his system..."
+	},
+	{
+		"id": 15230,
+		"title": "0.ooh!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-30T11:58:46.000Z",
+		"content": "Stunning. IIRK, you're reverse engineering via a disassembler, no? Already looking impressively accurate. This could be <i>the</i> Keen4 remake yet... here's hoping. Can't wait to see some true Keenish movement physics.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15231,
+		"title": "Re: 0.ooh!",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-30T12:18:58.000Z",
+		"content": "Well, yes I am [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />And the physics will be 1:1 like in the original games (however i will not allow bugs like impossible bullet or so, because it would mean some disadvantages like limited objects per level or so - well, i could programm this bug in, but that would be annoying [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />MfG"
+	},
+	{
+		"id": 15232,
+		"title": "Re: 0.ooh!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-31T06:05:36.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]  First that Vorticons clone and now this!<b>Eat your veggies!</b>"
+	}
+]

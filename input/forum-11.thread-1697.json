@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1354,
+		"title": "Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-28T15:48:37.000Z",
+		"content": "Well, here it is. I have uploaded two zip files with the original music tracks of Bio Menace and CCA, as they should sound with a true AdLib card (well, as they sound in DOSBox's AdLib emulator).<br /><br />[url=http://shadowm2006.sitesled.com/music/biomusic.zip]Bio Menace (10.6 MB ZIP, Ogg Vorbis encoded files)[/url]<br /><br />[url=http://shadowm2006.sitesled.com/music/ccamusic.zip]Cosmo's Cosmic Adventure (4.5 MB ZIP, Ogg Vorbis encoded files)[/url]<br /><br />This is primarily intended for fangame makers who don't have the possibility to use the original IMF tracks, or don't want/have remixed MIDIs. Personally, I use them to have some music playing while working on my projects.<br /><br />Enjoy! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 29026,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-12-29T03:51:17.000Z",
+		"content": "Not bad, but how come you only did low quality versions of them?  At 22kHz the percussion (hi-hats, cymbals, etc.) sound all muffled.<br /><br />At 44kHz they sound much \"sharper\" - e.g. this version of [url=http://www.shikadi.net/pckf/mrockit.ogg]mrockit.ogg[/url] (831kB)<br /><br />It's also not really worth encoding them as stereo unless they really are stereo like my version above - just one way of making them that little bit smaller."
+	},
+	{
+		"id": 29027,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-12-29T04:25:37.000Z",
+		"content": "Nice.<br />Follow Malv's advice - His version sounded much better,-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 29028,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-29T18:41:20.000Z",
+		"content": "I wonder what application he used for recording it (Winamp/XMMS + Adplug/his own plugin?).<br /><br />I thought about removing the extra track (stereo) many times. If you think it's better, I'll remove it. But I couldn't get that nice mrockit version by resampling to 44 KHz and changing the speed -50%. It sounded like the original 22 KHz version I had.<br /><br />BTW, I definitely should work on MIDI remixes instead. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] [hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i>"
+	},
+	{
+		"id": 29029,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-29T18:44:26.000Z",
+		"content": "I wonder what application he used for recording it (Winamp/XMMS + Adplug/his own plugin?).<br /><br />I thought about removing the extra track (stereo) many times. If you think it's better, I'll remove it. But I couldn't get that nice mrockit version by resampling to 44 KHz and changing the speed -50%. It sounded like the original 22 KHz version I had.<br /><br />BTW, I definitely should work on MIDI remixes instead. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  <br />EDIT: Wait, WhateverTracker versions would be better than MIDIs.<br /><br />EDIT2: uh oh! I clicked the back button by accident!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img] [hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i>"
+	},
+	{
+		"id": 29030,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-12-30T00:35:00.000Z",
+		"content": "I did use XMMS and my own plugin, but my own plugin was based off the DOSBox synth so the only thing you'd lack is the stereo effect.<br /><br />If you resample it to 44kHz it will sound the same (resampling doesn't add any new sound data), you need to actually capture it at 44kHz to begin with.  Look in your DOSBox config file, there's an option called \"oplrate\" in the [sblaster] section - I have mine set as \"oplrate=48000\" to get it at DVD's 48kHz quality, but you can set to to 44100 for CD quality as you probably won't be able to hear the difference - but it will certainly sound a lot better than the default 22050!<br /><br />You may also want to set the \"rate\" option in the [mixer] section to the same value as well, otherwise the mixing could lower the quality.<br /><br />As to the extra channel, once you've done all this, try encoding it in both stereo and mono and see if there's a difference in the file size.  There will be a noticeable difference in the uncompressed .wav size (the mono file will be half the size) but there may or may not be such a difference in the Ogg Vorbis file because of compression.<br /><br />Out of curiosity, what program are you running in DOSBox to play the songs?  AdPlay?<br /><br />Oh, and one other thing you might want to do before encoding them is to normalise (or 'maximise', depending on the program) the volume - this will adjust the volume so that it's the loudest possible without any clipping artifacts.  This should also mean that all your songs play back at the same volume, and they're not overly quiet compared to other songs you might also have in your playlist."
+	},
+	{
+		"id": 29031,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-07-04T08:32:41.000Z",
+		"content": "Did anyone do anything with this eventually? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  (Yes, new member.)<br /><br />- Spike"
+	},
+	{
+		"id": 29032,
+		"title": "Re: Bio Menace and Cosmo's Cosmic Adventure music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-04T08:59:15.000Z",
+		"content": "No, apparently not, such is life hmmn?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	}
+]

@@ -1,0 +1,210 @@
+[
+	{
+		"id": 112,
+		"title": "Porting Keen to GBA?",
+		"author_id": 1486154,
+		"author_name": "thenewmoonsidianX",
+		"timestamp": "2006-03-10T20:50:17.000Z",
+		"content": "Has anyone ever considered making a DOS emulator for the GBA so that old games (specifically the Commander Keen games) could be downloaded to a flash cartridge and played on the GBA?<br /><br />It seems like it would be within the GBA's capabilities to play Commander Keen, plus it would be cool to play the games portably! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  Are any DOS emulators for GBA already in existence to do something like this, or has it never been attempted?"
+	},
+	{
+		"id": 3204,
+		"title": "Re: Porting Keen to GBA?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-10T21:12:20.000Z",
+		"content": "EDIT: Nvm[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 3205,
+		"title": "Re: Porting Keen to GBA?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-10T22:53:31.000Z",
+		"content": "No idea. Not sure if it would be fast enough to emulate DOS.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3206,
+		"title": "Re: Porting Keen to GBA?",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-03-11T00:49:52.000Z",
+		"content": "Well... Google would reveal that there seems to be a lot of GBA emulators that run in DOS, but not the other way around. Even though I don't have a GBA, I imagine it would be fun to play Keen on it.<br /><br />--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 3207,
+		"title": "Re: Porting Keen to GBA?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-03-11T17:02:00.000Z",
+		"content": "there are some dos games for the gba like wolf3D doom and doom2 so it is possible[img]http://img.photobucket.com/albums/v177/memsys/sig-png.png[/img]       [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/os/type/0/memsys.png[/img][/url]"
+	},
+	{
+		"id": 3208,
+		"title": "Hmm...",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-11T21:36:39.000Z",
+		"content": "Then again, the source for those games is available to the public. Keen's is still undisclosed (and supposedly \"lost\"). Plus they're FPSs, which are \"popular\".<br /><br />It would be nice to play Keen on a handheld console, however.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3209,
+		"title": "Re: Hmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-11T22:33:57.000Z",
+		"content": "Indeed, their source code is ported and probably modified a lot to get the game working in the environment. DOS isn't emulated when running them.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3210,
+		"title": "Re: Hmm...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-11T23:06:50.000Z",
+		"content": "Actually i think PSP can run emulators. Don't know. Hmm...-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3211,
+		"title": "Indeed.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-12T00:57:25.000Z",
+		"content": "I've heard of a SNES emulator for PSP. However, considering that DOSBox doesn't like to run on much less than a 1GHz/64Mb GFX, I dunno how well it would fare ported to PSP. Then again, I don't know that machine's hardware specs so it could be a possibility.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3212,
+		"title": "Re: Indeed.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-12T20:51:43.000Z",
+		"content": "I gathered this info from Wikipedia.. The processor of GBA is \"a custom 32-bit 16.8-MHz ARM processor (ARM7TDMI)\", that is capable of up to 130 MIPS -- Intel 486DX for example was capable of \"54 MIPS at 66 MHz\". The modern computers are at thousands of MIPS. Perhaps DOS just might be emulated, but no idea at which speed it'd work.. But DosBox definitely would be impossible to port. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3213,
+		"title": "Re: Indeed.",
+		"author_id": 1486154,
+		"author_name": "thenewmoonsidianX",
+		"timestamp": "2006-03-12T23:52:36.000Z",
+		"content": "Oh well...it was a cool thought.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]"
+	},
+	{
+		"id": 3214,
+		"title": "Re: Indeed.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-03-13T14:08:33.000Z",
+		"content": "It is possible to play keen smoothly on a gba , since wolfenstein 3D  (for the gameboy) runs smooth except when there are 10 or more enemys shooting at you at the same time .<br />And I know this because I own a gameboy advance and the game wolfenstein 3D .<br />But to play keen on a gba all the files must be convert to a file that a gba can read[img]http://img.photobucket.com/albums/v177/memsys/sig-png.png[/img]       [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/os/type/0/memsys.png[/img][/url]"
+	},
+	{
+		"id": 3215,
+		"title": "Re: Indeed.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-13T22:21:01.000Z",
+		"content": "Yeah, but that Wolfenstein 3D game is probably just a modified source code to work with the GBA's internal hardware rather than the original DOS game, as said earlier. And porting a game to a different platform ain't always that easy, especially when all the code is really created for just one operating system (MS-DOS, in this case).<br /><br />And then there's the thing you'll need the original source code, would you want to change the source code so it works well on, for example, a GBA.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3216,
+		"title": "Re: Indeed.",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-14T06:02:38.000Z",
+		"content": "yeah you got a much better chance having this on the psp than GBA, plus anyway the psp screen is much bigger anyhow."
+	},
+	{
+		"id": 3217,
+		"title": "Re: Indeed.",
+		"author_id": 1486493,
+		"author_name": "Superadammario64",
+		"timestamp": "2006-03-16T19:30:32.000Z",
+		"content": "The DS could be better for running Keen due to it being faster and more powerful than the gba. Plus running Keen on 2 screens like Sonic Rush would be awsome.Check out my blog at [url=http://spaces.msn.com/members/superadammario/]spaces.msn.com/members/superadammario/[/url]<br />Check out my fanfics at [url=http://www.fanfiction.net/u/680124/]fanfiction.net[/url]"
+	},
+	{
+		"id": 3218,
+		"title": "Re: Indeed.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-16T21:08:29.000Z",
+		"content": "I don't see why the DS would be any better performance-wise for running Keen - in fact, Keen could work just as well on the Game Boy Color. Platform games aren't particularly resource-hungry. Two-screen Keen could be pretty neat, though..."
+	},
+	{
+		"id": 3219,
+		"title": "Re: Indeed.",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-03-18T20:07:22.000Z",
+		"content": "Hand held Keen would be a dream![img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 3220,
+		"title": "Re: Indeed.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T15:45:09.000Z",
+		"content": "@Grafix: emulating an entirely different system isn't as easy as you would think. Just look at the DOSBox emulator; it's barely capable of running Pentium 1 MS-DOS games due to the huge amount of instructions that has to be emulated.<br /><br />MS-DOS for Gameboy Color? It may sound easy to you, but forget it. It's impossible as everything would run WAY WAY too slow. Nintendo DS would probably the mimimum to get something like MS-DOS and its games running on a handheld.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3221,
+		"title": "Re: Indeed.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-03-21T18:26:19.000Z",
+		"content": "@davince<br />the gba has more than enough power to run keen all that you have to do is convert the keen files to files that a gba can read<br /><br />[url=http://www.pineight.com/gba/]look here to see that it is posible[/url][img]http://img.photobucket.com/albums/v177/memsys/sig-png.png[/img]       [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/os/type/0/memsys.png[/img][/url]"
+	},
+	{
+		"id": 3222,
+		"title": "Re: Indeed.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-21T19:44:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]@Grafix: emulating an entirely different system isn't as easy as you would think. Just look at the DOSBox emulator; it's barely capable of running Pentium 1 MS-DOS games due to the huge amount of instructions that has to be emulated.[hr][/quote]<br />I was thinking of if it was specifically ported to the DS - I agree that the DS would probably not be powerful enough to emulate a DOS executable environment."
+	},
+	{
+		"id": 3223,
+		"title": "Re: Indeed.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T22:53:41.000Z",
+		"content": "@Memsys: the only way the code of Keen can be ported to work well is bu editing the original source code, which we don't have.<br /><br />Look, I have experience with computer apparatus specs, emulation and the stuff around programming. You can trust me on this one.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3224,
+		"title": "Re: Yeah.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-21T23:54:31.000Z",
+		"content": "Indeed. As already mentioned, Keen could be ran on it, but that would definitely require porting, which would require the original sources (which we do not have). Emulating would be out of question.<br /><br />By the way, do they write stuff for GBA in Assembler or can C be compiled to that platform? (Most probably it can, I'd guess.) Although porting would still require a lot tweaking on the sources, I guess. It really is too bad iD releases the sources of Dooms and Quakes but keeps strictly away from releasing Keen sources. (Or giving the rights away.)3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3225,
+		"title": "Re: Yeah.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-22T08:49:29.000Z",
+		"content": "It uses C. I once got my hands on a GBA development package, and I was surprised to see C files in there, but... There were.<br />I've read Gameboy, Gameboy Color and Nintendo DS use C too (or C++).___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3226,
+		"title": "Re: Yeah.",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-03-22T19:03:55.000Z",
+		"content": "I wonder, that nobody noticed this....<br /><br />[url=http://pspupdates.qj.net/2006/02/commander-keen-psp-v09-released.html#comments]CK for PSP[/url]<br /><br />MfG"
+	},
+	{
+		"id": 3227,
+		"title": "Re: Yeah.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-03-22T20:27:44.000Z",
+		"content": "@davince<br />did you skip half of my post or something<br /><br />[quote]<b><i>Quote:</i></b>[hr]all that you have to do is convert the keen files to files that a gba can read it[hr][/quote]<br /><br />what i mean with that you take keenX and edit the the files to a piont that it's competible [and yes i know that i typed it wrong but i can't find it in my dictionary] with a gba[img]http://img.photobucket.com/albums/v177/memsys/sig-png.png[/img]       [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/os/type/0/memsys.png[/img][/url]"
+	},
+	{
+		"id": 3228,
+		"title": "Re: Yeah.",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-22T20:50:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I wonder, that nobody noticed this....<br /><br />CK for PSP<br /><br />MfG [hr][/quote]<br />Nothing special, it's just a fan project from someone outside the Keen community. The port doesn't seem to work the full 100% and I don't have a PSP so I really don't care.-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	}
+]

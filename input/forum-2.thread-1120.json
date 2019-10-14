@@ -1,0 +1,66 @@
+[
+	{
+		"id": 217,
+		"title": "META engine for [Keen] fangames",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-04T14:27:41.000Z",
+		"content": "I started this small project in September 2006, and, although things progress really slow, I'm sure this will get somewhere in the future.<br /><br />This is a Allegro/C++ based game engine for Keen fangames. It should provide a good base for making fangames without programming knowledge, by being extensible and blah, blah, blah.<br /><br />Modders will have fun with this someday if they want more than 16 colors for their graphics, flexible AI systems, etc.<br /><br />I don't intend to repeat the same song again. Check the original announcement:<br /><br />[url=http://fortvortabella.commanderkeen.org/forum/viewtopic.php?id=22]Teh Original Announcement[/url]<br /><br />This game engine is based on some ideas I've seen in action in some Keen fangames, particularly Real Keen Player 2/3 and The Mystery of Isis II.<br /><br />It's been a long time since Alpha 1. But, anyway, here it is Alpha 3. Started from scratch because I didn't understand my original code, there was too much crap mixed in it, my C++ programming skills have improved since then, and I'm using Isis II source code for progressing faster on this thing. It's not so abandoned after all, is it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   <br /><br />This game engine will run on Windows and GNU/Linux (although it's currently being developed and tested only for the last one).<br /><br />Not much to say. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pig.gif[/img]   <br /><br />edit: I originally intended this to be in Unofficial Keen games forum.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5342,
+		"title": "Re: META engine for [Keen] fangames",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-05T03:38:59.000Z",
+		"content": "Woo-hoo![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 5343,
+		"title": "Re: META engine for [Keen] fangames",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-05T14:05:04.000Z",
+		"content": "I'm currently working on a tilemap specification and the following objects:<br /><br />player (depends on sprite)<br />sprite (depends on actor)<br />actor<br />tilemap<br /><br />I'll publish some of it as soon as I have them done.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5344,
+		"title": "Re: META engine for [Keen] fangames",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-05T14:41:58.000Z",
+		"content": "Why not wait and release some more code once you have an engine that actually does something?____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5345,
+		"title": "Re: META engine for [Keen] fangames",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-05T15:10:16.000Z",
+		"content": "Well, the idea is brainstorming. I'd actually progress and write code IF someone told me what the code should do (i.e. a fangame project was relying on this engine).<br /><br />I was wondering how this specification would make for tilemaps:<br />[url=http://shadowm.rewound.net/src/meta/meta_tilemap_spec.txt]META engine Tilemap format specification version 0.1[/url]<br /><br />I'm not sure about the file sizes, but it shouldn't be a problem with Zlib compression algorithms, but I've been thinking about this for a long time, and today, I finally wrote it down completely.<br /><br />I'm pretty sure this format is similar to TED5 tilemap format in some way, correct me if I'm wrong.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5346,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-06-05T17:15:21.000Z",
+		"content": "If you ever do release a demo/full game, i'll build an os x version if you'd like."
+	},
+	{
+		"id": 5347,
+		"title": "Re: .",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-11T20:36:50.000Z",
+		"content": "OK, thanks in advance, but I guess I'm not ready for porting it yet.<br />Anyway, if I publish a new release, any volunteers for porting it to Windows? It is currently built for Linux, but since it uses the standard C/C++ libraries and Allegro, it shouldn't cause porting issues.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5348,
+		"title": "Re: .",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-15T20:45:48.000Z",
+		"content": "* It should provide a Keen: Galaxy style physics system.<br />* Should take advantage of modern Windows and GNU/Linux systems, via the Allegro programming library and built-in platform communication APIs.<br />* Should support a 4-planar tile-map format (the META Tile-map format), with a background tile plane, bimetric background tile plane, bimetric interaction tile plane and foreground tile plane.<br />* Should be extensible via game scripts (META scripts), so new games can be made using the same engine as base, abd the authors should not need advanced programming knowledge as the engine source code itself should not be modified for such creations.<br />* Should allow for extensible tilesets, with a reasonable size limit; the tilesets should be stored in 32-bit color PNGs, and their alpha channels should be processed.<br />* Should implement a parallax-scrolling engine.<br />* Should provide a particle and weather system.<br />* Should allow for almost unlimited spritesets, each one containing sprites, which may be actual game elements (creatures, enemies, etc.) by using an extensible actor AI engine.<br />* Should be compatible with the following music formats: WAV, Ogg Vorbis, MOD (ProTracker), S3M (Scream Tracker 3.x), XM (FastTracker), IT (Impulse Tracker).------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

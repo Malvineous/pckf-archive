@@ -1,0 +1,514 @@
+[
+	{
+		"id": 1337,
+		"title": "Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-07-04T09:11:12.000Z",
+		"content": "Hey folks,<br /><br />Since I'm new to the community, noone may know me here [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   <br /><br />I run a VGM website for Sierra's classics, Sierra Music Central.<br />([url=http://smc.sq7.org]smc.sq7.org[/url] - links don't seem to work on this board for some reason.)<br /><br />As well as recording the Realms of Chaos soundtrack (if you're interested, click the link at my site and send the relevant email), I've always been interested in working with Apogee music as well (although the only thing I ever did was one Monster Bash track :P ).<br /><br />The reasons were that (as far as I know) Apogee composers (which consists mainly of Bobby Prince) aren't particularly passionate about the old music and aren't interested in recreating it. <br />I also didn't think there was much of an Apogee community.<br /><br />But, seeing this forum makes me think.<br /><br /><br /><br />Down to business- I have lots of Apogee IMF and MIDI files. If anyone is interested in converting IMF's to MIDI files, or enhancing MIDI files from Apogee General MIDI games (like Realms or Hocus, etc), please contact me (through my website mentioned earlier).<br /><br />If I get interest, I will do easy things like record a Hocus soundtrack, or perhaps something more advanced like recording a proper Monster Bash enhanced CD (say, the original tracks then enhanced GM files of each).<br /><br />Let me know folks.<br /><br />Regards,<br />- Spike"
+	},
+	{
+		"id": 28636,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-05T04:10:23.000Z",
+		"content": "I loved the music from the Incredible Machine! Almost as much as the music from Hocus Pocus. That does sound very interesting... there were two [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheclassics.showMessage?topicID=488.topic]Hocus Pocus remixes[/url] done already... they were very good, too. It would be awesome to see a soundtrack of Hocus Pocus!"
+	},
+	{
+		"id": 28637,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-07-05T10:43:48.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I loved the music from the Incredible Machine! Almost as much as the music from Hocus Pocus. That does sound very interesting... there were two Hocus Pocus remixes done already... they were very good, too. It would be awesome to see a soundtrack of Hocus Pocus![hr][/quote]<br />There's many TIM games, so that's a vague kind of statement [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   My favourites are the digital audio from Toon Machine and TIM2/3 (same music).<br /><br />Anyway, back to Apogee here [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   (You're welcome to talk TIM or anything Sierra/Dynamix at my forums, though!)<br /><br />Yeah, I checked out those Hocus Pocus remixes, and commented already [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   They're very good, although the quality of instruments the guy boasted didn't quite live up to my expectations (not that they're crappy by any means!).<br /><br />It would also be easy to make a HP soundtrack, because it's General MIDI, not Adlib IMF files. <br />[I say that because I don't really want to record IMF's cart-blanche (mono Adlib sound doesn't do it for me for casual listening).<br />Besides, you can listen to them as IMF's on your PC anyway.]<br /><br />Anyway. I will do HP sometime, for sure. Have TIM on my plate though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br /><br />On other games, <b>I'm very interested for someone who can edit MIDI files to edit the converted IMF-&gt;MIDI files, such as from Monster Bash.</b> I have a pretty good Apogee IMF and MIDI library, and the rewards are there- I'm not asking for personal gain (as in, do this for me so I have a nice library), but would use proper MIDI's to make quality CD-worthy soundtracks for these old scores, available to everyone for free, as I do with my site now. Ideally, I'd like to do Monster Bash, BioMenace, Duke 2, and more. (For purists, I'd probably include digital versions of original IMF's as well.)<br /><br />I think I have Cosmo's soundtrack in GM (although I need TeckWrd converted) already, just in case anyone offered to do that. I'd love BioMenace or Monster Bash though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />Regards,<br />- Spike"
+	},
+	{
+		"id": 28638,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-07-05T11:03:44.000Z",
+		"content": "Monster bash is possible to convert, but you need to build up the percussion.<br /><br />The percussion can possible be anylized by a beat detector.<br />Or you can try to synch a beat in a sequencer.<br /><br /><br />I can give one easy example : [url=http://www.darkocean.info/cyclops.mp3]www.darkocean.info/cyclops.mp3[/url]"
+	},
+	{
+		"id": 28639,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-01T01:49:42.000Z",
+		"content": "yes her is Duke nukem 2 music<br /><br />[url=http://www.darkocean.info/apogee/he-back.mp3]www.darkocean.info/apogee/he-back.mp3[/url]<br />[url=http://www.darkocean.info/apogee/dn2theme.mp3]www.darkocean.info/apogee/dn2theme.mp3[/url]"
+	},
+	{
+		"id": 28640,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-01T14:12:42.000Z",
+		"content": "Those are really good! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 28641,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-02T01:55:20.000Z",
+		"content": "Is there a list somewhere of what you do have and what you need?<br /><br />edit: I just wrote some stuff that I'll test when I get back to the hotel which should rip Mystic Towers (MOD) and Biomenace (IMF) music - would you be interested?    ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28642,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-02T12:02:54.000Z",
+		"content": "Make cry, from Duke nukem2<br /><br />[url=http://www.darkocean.info/Apogee/makecry.mp3]www.darkocean.info/Apogee/makecry.mp3[/url]"
+	},
+	{
+		"id": 28643,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-02T14:48:17.000Z",
+		"content": "Argh, I love that song, needa listen it!------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 28644,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-06T00:57:54.000Z",
+		"content": "I'm new at doing this sort of thing... here are my first two songs.... how are they?<br /><br />[url=http://www.filenanny.com/files/44f7b9c9f14e0/Bubbles.mp3]Bubbles[/url]<br />[url=http://www.filenanny.com/files/44f7b9c9f14e0/Math%20Rescue%20Candy%20Land.mp3]Math Rescue[/url]<br /><br />Bubbles is from Hocus Pocus and the second one is the Candy Land theme to Math Rescue. In Bubbles, I tried to fade it out by slowly removing all of the instruments until the polysynth was the only one left, then I just faded that one out. I think that the drums become too much near the end of the Math Rescue song...<br /><br />Bubbles was a hard one, because there were so many notes and the reverberation on the instruments was too much at times, so some notes are missing. Tell me what you think for my first songs!"
+	},
+	{
+		"id": 28645,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-06T11:47:12.000Z",
+		"content": "okey. The first one from hocus pocus: the polysynth sounds sharper, indeed, that will make it to a more \"the polysynth is the most importon thing in the song\"<br /><br />but it in some case, it suite not bad, well at least on my speaker system as it sound.<br />Maybe you have choicen a song that is a bit plain.<br />but i agree that song is very primitive.<br /><br />The other song, is more interesting, .<br />so i guess i like it.<br /><br />well its nice to see someone else too is experiments whit game music as well, good luck [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 28646,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-06T12:26:38.000Z",
+		"content": "Thank you! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   <br /><br />EDIT: I added that Hocus Pocus-like effect to the songs.<br /><br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/Bubbles2.mp3]Bubbles[/url]<br /><br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/Math_Rescue_Candy_Land2.mp3]Math Rescue[/url]<br /><br />Malvineous created an IMF synth that gives IMF files this same effect."
+	},
+	{
+		"id": 28647,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-07T17:01:01.000Z",
+		"content": "thats calling choirus<br />it gives a little out of phase. that make it wider.<br />Nice sterio effect on the Candy land, but the percussion may have a bit too much you see. <br /><br />the bubbles again, sounds a bit like when you are \"drunk\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  , i guess the attack envelope on the pad that goes in the background, its too slow."
+	},
+	{
+		"id": 28648,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-07T23:34:14.000Z",
+		"content": "Haha! Yeah, Bubbles does sound weird, but it sounds pretty cool through headphones!"
+	},
+	{
+		"id": 28649,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-08T01:28:08.000Z",
+		"content": "I should also point out that 'bubbles' isn't the actual proper name of the song...but seeing as there are no filenames in the data file I made 'em up.  Just a heads up.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28650,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-08T01:50:32.000Z",
+		"content": "Oh....... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br /><br />Well, I guess I like the name Bubbles.... It was a good name for it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28651,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-09T00:34:26.000Z",
+		"content": "I thought so too [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   What I'm basically saying is that if anyone knows what any of the songs are actually called...that would be awesome.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28652,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-09T22:07:51.000Z",
+		"content": "Some of them have names (Spooky, Wedding, etc.) but I guess you'd have to ask Rob Wallace for the names of the other songs.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28653,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-15T14:29:50.000Z",
+		"content": "Instead of making a new thread about it i could ask here i think!<br />Anyone got the latest working version of Wombat?<br />I need to extract Monster Bash IMFs again!<br /><br />Searched the board and found an old thread, none of the links works and most of the posts are missing in them..."
+	},
+	{
+		"id": 28654,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-15T15:02:20.000Z",
+		"content": "www.szevvy.com still contains the old version... Nice to see the .com domain returned, btw. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28655,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-15T16:24:21.000Z",
+		"content": "Thank you very much [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />When i updated my AdPlug for winamp i realized my Monster Bash tunes was too slow in tempo. I think it was because the old version of AdPlug played them too fast and i reduced them in tempo with some tool... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]"
+	},
+	{
+		"id": 28656,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T22:01:55.000Z",
+		"content": "The latest version of AdPlug should play IMF files at different speeds depending on the file extension courtesy of a patch by yours truly - .imf is faster, .wlf is slower.<br /><br />This means all you have to do is rename the file if it plays at the wrong speed instead of modifying it.  The only game it doesn't work for is Duke Nukem II because they run at a different speed again, but there are tools to slow those down to .imf speeds.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28657,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-15T22:16:31.000Z",
+		"content": "Well, i used Wombat and extracted the music straight out.<br />Latest AdPlug seem to play them allright [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28658,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-16T14:55:48.000Z",
+		"content": "well, i could say that i'm working whit Monster bash tunes, for midi.<br /><br />but it all seems a bit complicated maybe, to optimaze the midi tunes.<br /><br />the percussion is not any problem at least, now its more to get the instruments sound fine enough.<br /><br />by some experiment, the midis sounds best in winamp, by the plug in \"in_midi\" that open the \"hidden\" instrument for midi, since there are total around 220~ patches.<br />But thise hidden patches dosnt seem to be suppored by wmp, or standar midi playback.. sigh.. i hate microsoft some time..<br /><br />well, maybe i could also include a costum soundfont as well.<br />but i would also make the midi file be compatible whit standar playback, as possible.<br /><br />by the way, i downloaded the Roland-MT32 bank 8MB, that sounds interesting when it used in midi playback. so we shall se what happend then [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28659,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-16T17:22:50.000Z",
+		"content": "I realized i had an old remake of the tune Vulture from Monster Bash on one of my harddrives, i might aswell share it in this thread [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I have tried to emulate that old analogue recording sound with tube distortion and crackling [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-gimp.gif[/img] <br /><br />[url=http://www.speedyshare.com/893351501.html]Vulture Remake[/url]"
+	},
+	{
+		"id": 28660,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-16T18:46:30.000Z",
+		"content": "2 things.<br />Very cool 50s horror stylish effect<br />But.. if you tryed to emulate the Adlib synth, i'm afraid you doing it in the wrong way.<br />but yes you seems to have emulate the venyl sound close enough :P"
+	},
+	{
+		"id": 28661,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-16T19:08:52.000Z",
+		"content": "It's not supposed to be AdLib like.<br />For what reason should i make a remake that sounds just like the original? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 28662,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T19:50:45.000Z",
+		"content": "There's plenty you can do with FM Synth, so it wouldn't necessarily have to turn out like the original. Just like some modules are sometimes remixed, using the same instruments (an example is this funk song, which was later remixed for use in Jazz Jackrabbit 2).____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28663,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T21:45:47.000Z",
+		"content": "I get a 400 Bad Request when trying to download the Vulture remix - how come nobody is using Grafix's CKFS hosting?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28664,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2007-08-17T11:57:37.000Z",
+		"content": "orly? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] <br /><br />Seems to be working for me though.<br />If anyone knows a better place for hosting..!"
+	},
+	{
+		"id": 28665,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-17T13:19:19.000Z",
+		"content": "Nope, if I click on the link in a browser it just reloads that same page, and if I use wget it gives me a 400 Bad Request.<br /><br />I point you to a [url=http://p098.ezboard.com/fpubliccommanderkeenforumother.showMessage?topicID=2474.topic]decent hosting service[/url].<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28666,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-17T15:28:41.000Z",
+		"content": "well, this should work <br />[url=http://www.darkocean.info/Apogee/monsterbash_vulture_remake.mp3]www.darkocean.info/Apogee...remake.mp3[/url]"
+	},
+	{
+		"id": 28667,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-18T01:03:56.000Z",
+		"content": "Ah that's better, no troubles with that download [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />That is a pretty good version of the song!  The instruments do work quite well.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28668,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-20T01:28:54.000Z",
+		"content": "Just to answer some of the comments, like Svezzy's (you're Aussie too aren't you? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ) :<br /><br />Basically, my goal is to have MIDI files for Apogee game scores, some of them anyway (I don't care about Mystic Towers' music for example). But I do care about (in no particular order) Monster Bash, Cosmo, Duke2, BioMenace, especially MB and BM. (Hocus Pocus and Realms of Chaos are already GM games.)<br /><br /><br />I would use them to make CD releases on my website, mix them, make them sound nice. In an ideal world, I'd work with Batteryman and make 2 CD sets, CD1 being my mixes and the second CD being him being creative, like his MP3 remixes are.<br />But I should ask him first [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br /><br /><br />The sticking point is anyone being able to extract (proper) IMF's first (which I think is resolved these days), and also getting MIDI data that's a good representation of the IMF data.<br /><br /><br />If anyone can help me out with this, I'm always eager to listen. I'd love to make a MB or BM soundtrack.<br /><br /><br />Final point- why am I so interested in this and not working with the Adlib files? <br />Well, while I enjoy the original scores, I think they have obvious flaws and limitations that a good MIDI rendering (and subsequent mixing) would be able to overcome. I want to 'recreate' the scores with good quality instruments and make them sound as good as I can.<br /><br /><br />Regards,<br />- Spike"
+	},
+	{
+		"id": 28669,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-20T05:58:05.000Z",
+		"content": "I think we have byte-perfect rips of all the ones you have listed - Monster Bash, Cosmo, Duke2 I know for sure are rippable, Biomenace I can do with no problems - although BatteryMan recently sent me some adlibs etc from Biomenace so I'd say he's also got everything ripped from the data files. ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28670,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-20T06:57:47.000Z",
+		"content": "I presume you're talking about IMF's, not MIDI's, right? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I'm pretty sure I have correct speed MB IMF's, and D2/Cosmo also. Just not BM.<br /><br />I even have most of the Cosmo soundtrack in MIDI format.<br /><br />- Spike"
+	},
+	{
+		"id": 28671,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-21T08:05:57.000Z",
+		"content": "well, the midis of MB are in progress.<br />So one day they will be avatible as MIDI GS format<br />Thats mean they will sound incorrect whit Normal GM             ( General Midi )<br /><br />The tunes will be optimized for Roland Canvas GS and it use also extra patches that is not normally used for standar midi playback.<br />Winamp is recomended or a player that support all GS patches . keep in mind that the Roland Canvas sound bank contains 227 instrument patches and 9 percussion patches"
+	},
+	{
+		"id": 28672,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-21T14:18:38.000Z",
+		"content": "Heh, I own a Sound Canvas [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Awesome news though BD.<br /><br />Actually, a proper GS-compatible bank will include MT-32 tones and will be 350+ tones. But that's not relevant for what you're doing, I think.<br /><br /><br />I hope yours are more accurate than Bobby Prince's- I really didn't like some of those DN2 'conversions', for example.<br /><br />I'm really looking forward to it!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Regards,<br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28673,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-21T14:39:34.000Z",
+		"content": "\"But that's not relevant for what you're doing, I think.\"<br /><br />Not really, still i use some extra patches that is not standar for GM.<br />But its true what you say.<br /><br />Right now there is 10 tunes in progress"
+	},
+	{
+		"id": 28674,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-22T03:49:56.000Z",
+		"content": "Oh, I just meant the MT-32 tones probably aren't relevant, not that SC GM wasn't relevant.<br /><br />Power drums are fun [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Plus, Monster Bash has weird tracks, like that lab theme from the end of chapter 2- I'm interested to see how the main theme and that lab theme can be made GM!<br /> <br />But, I don't want to question you, on the evidence of your remixes I'm confident you'll do a great job [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28675,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-22T13:38:47.000Z",
+		"content": "yes, power drums can maybe be fun.<br />The MB midis will aim at adlib like percussion.<br />Mostly TR-808 percussion and 808 Toms, are very simmilar to Adlib like perc.<br /><br />Yesterday i discover i little mistake i did, i have by an accident programmed them for DirectMusic GM/GS.<br /><br />The instrument sound nice , but when i use GS only, the instruments are too loud or too rough, so i guess, i have to relese in different versions then.<br />Bouth DirectX MIDI and Standar GS.<br />the samples are the same, its all coming from the GM.DLS file, but different realtime-render technics.<br /><br />Thats also explain whay Malvineous get an another experience, when he plays my midis. beacuse Linux dosnt have DirectX./DirectMusic<br /><br />So, this is it atm, i first program them in DirectMusic GS, that sounds most detalied, and then i will tweak them for other playback system, [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28676,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-25T14:50:52.000Z",
+		"content": "here i can show you one of the tracks in progress, using Roland GS bank, so this is recorded from a GS midi file played trough my midi hardware.<br /><br />[url=http://www.darkocean.info/Apogee/demons-GS-MIDI.ogg]www.darkocean.info/Apogee...S-MIDI.ogg[/url]"
+	},
+	{
+		"id": 28677,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-26T02:37:31.000Z",
+		"content": "Yeah, you're right about TR-808.<br /><br />Listening to the new sample.. I like lots of bits (the electric piano, the bass), but that lead synth is pretty horrible (saw wave?). Almost *too* intense.<br /><br />But, you said it was in progress, so this is a REALLY good effort. I'm really impressed.<br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28678,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-26T18:52:18.000Z",
+		"content": "listen to this instand<br /><br />This is played trough Microsoft GS wavetable<br />[url=http://www.darkocean.info/Apogee/demons.ogg]www.darkocean.info/Apogee/demons.ogg[/url]<br /><br />i added fake reverb , and changed the lead to a brassy sound whit som stac attacks"
+	},
+	{
+		"id": 28679,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-27T01:16:23.000Z",
+		"content": "This one is played trough virtual Roland Canvas<br /><br />[url=http://www.darkocean.info/Apogee/demons.mp3]www.darkocean.info/Apogee/demons.mp3[/url]"
+	},
+	{
+		"id": 28680,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-08T01:12:14.000Z",
+		"content": "i just whant to show how far i have comes whit this one. atm<br /><br />[url=http://www.darkocean.info/Apogee/theme.mp3]www.darkocean.info/Apogee/theme.mp3[/url]<br /><br />the midi file didnt use any fx other than from the midi driver itself.<br /> Virtual Sound Canvas midi driver"
+	},
+	{
+		"id": 28681,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-10-01T20:36:58.000Z",
+		"content": "I don't know if this counts as Apogee, but Mike Voss (the creator of Hocus Pocus) also made Clyde's Revenge, but didn't publish it with Apogee. Here is MV01 and MV07 from Clyde's Revenge:<br /><br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/MV01.mp3]MV01.MP3[/url]<br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/MV07.mp3]MV07.MP3[/url]<br /><br />Here are the same songs, just with the Hocus Pocus chorused effect added:<br /><br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/MV01chorused.mp3]MV01.MP3 Chrorused[/url]<br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/MV07chorused.mp3]MV07.MP3 Chrorused[/url]"
+	},
+	{
+		"id": 28682,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-01T22:00:14.000Z",
+		"content": "That's interesting - the Apogee theme used in Halloween Harry was composed by Neil Voss...I wonder if they're related?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28683,
+		"title": "Out of Curiosity",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2007-10-04T16:55:17.000Z",
+		"content": "I've been curious about this for a while now...  When synthesizing AdLib music for MIDI playback, do most people prefer to retain the original, rather warm/un-precise sound, of the original piece, or to have the instruments interpreted, and converted to what they possibly were trying to represent in the original?"
+	},
+	{
+		"id": 28684,
+		"title": "Re: Out of Curiosity",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-10-04T18:02:11.000Z",
+		"content": "MIDI bank 127 on my computer has the same order of instruments as the IBK files used in the music for Math Rescue and Word Rescue."
+	},
+	{
+		"id": 28685,
+		"title": "Re: Out of Curiosity",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-04T21:51:49.000Z",
+		"content": "Well I'm certain the Word and Math Rescue songs were originally MIDIs, so that would make sense.  Does the conversion using bank 127 sound any different to the MIDIs I did?<br /><br />And if by \"synthesizing\" you mean \"converting\" then Batteryman is the only person I know of who likes the MIDIs to sound like the original Adlib songs - everyone else seems to prefer interpretting the instruments, to come up with a version of the song that could have been used had the game supported MIDIs to begin with.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28686,
+		"title": "Re: Out of Curiosity",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-05T21:53:31.000Z",
+		"content": "thats very much depend, how well midi GM/GS bank is suited the song style [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />back when i maded a midi sounds like ADlib, whas more a practice by using modulations in midi.<br /><br />what the source sound is , is another question [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28687,
+		"title": "MP3 Records of Monster Bash midis in Winamp",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-07T08:04:23.000Z",
+		"content": "Here you all can listen on records from the midis <br /><br />[url=http://www.darkocean.info/Apogee/Bash-GS/apogfnfr.mp3]www.darkocean.info/Apogee...ogfnfr.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Bachbash.mp3]www.darkocean.info/Apogee...chbash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Bashdnce.mp3]www.darkocean.info/Apogee...shdnce.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Cavebash.mp3]www.darkocean.info/Apogee...vebash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Chase.mp3]www.darkocean.info/Apogee.../Chase.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Cyclops.mp3]www.darkocean.info/Apogee...yclops.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Demons.mp3]www.darkocean.info/Apogee...Demons.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Fastbash.mp3]www.darkocean.info/Apogee...stbash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Ghouls.mp3]www.darkocean.info/Apogee...Ghouls.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Goodbye.mp3]www.darkocean.info/Apogee...oodbye.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Haunted.mp3]www.darkocean.info/Apogee...aunted.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Johnny's.mp3]www.darkocean.info/Apogee...hnny's.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Lovebash.mp3]www.darkocean.info/Apogee...vebash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Madnbash.mp3]www.darkocean.info/Apogee...dnbash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Main.mp3]www.darkocean.info/Apogee...S/Main.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Theme.mp3]www.darkocean.info/Apogee.../Theme.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash-GS/Vulture.mp3]www.darkocean.info/Apogee...ulture.mp3[/url]"
+	},
+	{
+		"id": 28688,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-10-21T01:45:34.000Z",
+		"content": "Here's a Bobby Prince song that is less known than his others. It's a song from Word Rescue Plus, the sequel to the Word Rescue Trilogy. It wasn't published by Apogee, but it's basically the same as the trilogy, just with different music made by Bobby Prince.<br /><br />[url=http://www.filenanny.com/files/46b88e00dcbc35146/Word_Rescue_Plus.mp3]Word Rescue Plus[/url]<br /><br />...no chorused effect this time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I wanted to use the original instruments, but they didn't sound right, so I decided to put in new instruments that sounded right."
+	},
+	{
+		"id": 28689,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-21T22:41:10.000Z",
+		"content": "here is something quite different too :P<br /><br />[url=http://www.darkocean.info/Jack-say-hi.mp3]www.darkocean.info/Jack-say-hi.mp3[/url]<br /><br />Ups! this is Sierra music, not Apogee.. anyways. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 28690,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-23T12:44:06.000Z",
+		"content": "here is something Monster Bash music, thats use VSTi<br />this are also in progress.<br />but dont expect i will use all my time on all the MB tracks, beacuse i have some things that are more importon.<br /><br />[url=http://www.darkocean.info/Apogee/Bash/VSTi/Ghouls.mp3]www.darkocean.info/Apogee...Ghouls.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash/VSTi/Bashdnce.mp3]www.darkocean.info/Apogee...shdnce.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash/VSTi/Chase.mp3]www.darkocean.info/Apogee.../Chase.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash/VSTi/Bachbash.mp3]www.darkocean.info/Apogee...chbash.mp3[/url]<br />[url=http://www.darkocean.info/Apogee/Bash/VSTi/Theme.mp3]www.darkocean.info/Apogee.../Theme.mp3[/url]"
+	},
+	{
+		"id": 28691,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-10-23T21:45:31.000Z",
+		"content": "Wow, those were pretty good!"
+	},
+	{
+		"id": 28692,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-23T22:21:14.000Z",
+		"content": "Interesting choice of instruments...! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28693,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-24T16:07:29.000Z",
+		"content": "Just a note... \"Oktober\" isn't English. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28694,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-24T21:15:12.000Z",
+		"content": "happy now?"
+	},
+	{
+		"id": 28695,
+		"title": "Re: Anyone interested in working with Apogee music?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-25T21:54:55.000Z",
+		"content": "lol, sure. Sorry for being so nitpicky. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28696,
+		"title": "First Relese of Monster Bash Midi",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-10-27T22:05:54.000Z",
+		"content": "This is my first full relese of the complete Monster Bash tunes in GS midi<br /><br />[url=http://www.darkocean.info//Apogee/Mid/Monster_Bash_GSmidi.rar]www.darkocean.info//Apoge...GSmidi.rar[/url]<br /><br /><br />In order to play this correct you need to set the player to GS mode.<br /><br />In winamp, make sure you have selected Direct music for midi playback. <br />The Midi extension should be \"GS (Roland) \"<br />And Playback methode in \"Misc\" setting, use Realtime<br /><br />otherwise it will not play the correct instruments<br /><br />Players like XMplay should use a soundfont that is the same as the sounbank in Windows xp<br /><br />For Linux users, a soundfont that is 100% compatible<br />[url=http://www.darkocean.info/GS%20sound%20set%20(16%20bit).rar]www.darkocean.info/GS%20s...20bit).rar[/url]"
+	},
+	{
+		"id": 28697,
+		"title": "great",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2007-11-01T03:54:46.000Z",
+		"content": "This is great stuff, Thanks for the Monster Bash release"
+	},
+	{
+		"id": 28698,
+		"title": "Re: great",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-11-02T18:14:01.000Z",
+		"content": "thanks, as you know, thise midis are maked in DirectMusic mode.<br />So winamp is high recomended whit GS realtime mode.<br /><br />Windows media player is not recomended<br /><br />Also i will thanks alots Malvineous for assisting me and for his great tool dro2mid<br /><br />I will thanks Image Line for the awesome FL studio i buyed from them and use, <br /><br />I will thanks Spikey698 for guideing me what Roland midi stuff i should use. and some more.<br /><br />And at least my self, for the massive amounth of patience of spending so much work on it"
+	}
+]

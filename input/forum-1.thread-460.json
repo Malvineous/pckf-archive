@@ -1,0 +1,74 @@
+[
+	{
+		"id": 117,
+		"title": "Commander Keen 6 v1.5?",
+		"author_id": 1486653,
+		"author_name": "oldkeenfan",
+		"timestamp": "2006-01-27T19:19:50.000Z",
+		"content": "I bought my game in 1996 straight from Apogee and it was v1.4 . I searched the web but nowhere did I find a v1.5. What bugs does this patch fix? Also, I'm unable to unlzexe the keen6.exe 1.5 version whereas with the original 1.4 version I was able to decompress it. Please help."
+	},
+	{
+		"id": 3308,
+		"title": "Re: Commander Keen 6 v1.5?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-27T21:31:16.000Z",
+		"content": "Too bad I don't have the 1.5. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  No idea, but it could fix the Molly glitch/bug. (Molly gliding through the doors because she's placed one tile too low.)<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3309,
+		"title": "Re: Commander Keen 6 v1.5?",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-01-27T21:55:34.000Z",
+		"content": "Mine is 1.5 also. Purchased in a nice box from Radio Shack.<br />Is it legal to share the exe without the game data?"
+	},
+	{
+		"id": 3310,
+		"title": "Re: Commander Keen 6 v1.5?",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-01-27T22:37:34.000Z",
+		"content": "Xtra [url=http://dosclassics.com/keen/dl.php?id=of]made a bunch of patches[/url] a while back to convert pretty much any version of the games to any other version."
+	},
+	{
+		"id": 3311,
+		"title": "v1.5",
+		"author_id": 1486642,
+		"author_name": "CK Guy",
+		"timestamp": "2006-01-30T00:15:09.000Z",
+		"content": "The only place I ever remember seeing v1.5 was in a patch made be Unfleexable I think it was."
+	},
+	{
+		"id": 3312,
+		"title": "Reply to Vitamin Zach",
+		"author_id": 1486653,
+		"author_name": "oldkeenfan",
+		"timestamp": "2006-01-31T15:09:18.000Z",
+		"content": "I'm not so sure I can trust the patch after noticing a discrepency in the time stamp of the files. After the Keen 6 v1.4 to v1.5 patch, the time stamps on each of the files is different even though it would normally be released with all files having the same time stamp. Which of those 3 files in v1.5 shows the correct file time stamp?<br /><br />When you purchased the game from Radio Shack, what were the time stamps on your files?"
+	},
+	{
+		"id": 3313,
+		"title": "Re: Reply to Vitamin Zach",
+		"author_id": 1486653,
+		"author_name": "oldkeenfan",
+		"timestamp": "2006-02-03T01:05:21.000Z",
+		"content": "Looks like the v1.4 to v1.5 is perfectly ok. My apologies to xtraverse for the initial mistrust since it obviously wasn't an official patch.<br /><br />Sad and pathetic that neither id software nor formgen ever bothered to help their customers keep their paid keen6 software fully up to date. Also, I talked to Apogee and they told me that all along the days they merely resold Keen 6 from 1991 to 1997 up to the last disk, they originally sold v1.0 but by 1993 started selling v1.4 after they obviously finished selling the remaining inventory of v1.0 even after v1.4 came out. Oddly though, they were never given v1.5 to resell. Then again, since Apogee merely resold Episode 6 like other retail stores and versions weren't a major concern back in those earlier days, one could easily purchase v1.0 and NEVER EVER realize that a later version 1.4 let alone 1.5 actually came out so Apogee and every retail outlet that still kept selling v1.0 wouldn't have to go through the process of sending back unsold authorized copies of v1.0 back to Formgen in exchange for updated v1.4/1.5 authorized copies. Also, in both v1.0 and v1.4, the time stamps of all files were consistent but not in v1.5 but all runs well. In Keen 4 and 5, there were a few minor bugs even after the last v1.4 such as the bug in \"Lifewater Oasis\" level in Keen 4 and a few other impossible to normally reach items in a few other levels throughout Episodes 4 and 5. I'm not sure about Keen 6 but like 4 and 5, maybe there were minor/crash bug fixes too from v1.0 to v1.4. Odd though that it took a year to go from v1.4 to v1.5 in Keen 6. Maybe Wolf3d/Spear's popularity eclipsed Keen 6, who knows."
+	},
+	{
+		"id": 3314,
+		"title": "Re: Reply to Vitamin Zach",
+		"author_id": 1486311,
+		"author_name": "bobnomad",
+		"timestamp": "2006-02-27T04:47:30.000Z",
+		"content": "Hehe.. I sent that patch to Xtraverse atleast a year ago maybe longer and he never had it on his site. I posted it awhile ago and intrest faded so I deleted it from my webspace. I have the CGA version as well..."
+	},
+	{
+		"id": 3315,
+		"title": "Re: Reply to Vitamin Zach",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-02-27T06:47:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Is it legal to share the exe without the game data?[hr][/quote] <br /><br />Heck no. Game data without exe is fine though.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

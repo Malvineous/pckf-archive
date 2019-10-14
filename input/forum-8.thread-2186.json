@@ -1,0 +1,74 @@
+[
+	{
+		"id": 750,
+		"title": "Online Java-based PC Emulator",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-03-25T01:10:00.000Z",
+		"content": "[url=http://www.physics.ox.ac.uk/jpc/Demo.html]www.physics.ox.ac.uk/jpc/Demo.html[/url]<br /><br />It's basically an emulator like VMWare or QEmu, except it runs anywhere Java does. This copy is running a copy of FreeDOS with a bunch of games preloaded... including Commander Keen! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  It's incredibly slow, but still cool to check out.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 19616,
+		"title": "Hehe",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-03-25T03:33:39.000Z",
+		"content": "Hah, that's classy. Nice find. It ran at a good speed for me, but it has the usual VM graphics limitations so Keen is unable to use the quirky hardware \"features\" to scroll properly."
+	},
+	{
+		"id": 19617,
+		"title": "Re: Hehe",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-25T13:42:56.000Z",
+		"content": "Whoa. I thought it was impossible, guess I was wrong. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />One problem: it doesn't catch the alt key. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19618,
+		"title": "Re: Hehe",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-25T19:14:49.000Z",
+		"content": "Well, with enough computational power everything (or well, not everything) is possible. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19619,
+		"title": "Re: Hehe",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-03-26T13:23:25.000Z",
+		"content": "nice [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 19620,
+		"title": "Re: Hehe",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-26T17:19:09.000Z",
+		"content": "Well yeah KeenRush, but I figured Java would lay enough strain on the machine to make fast x86 emulation impossible, anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />After these examples (there are some links to other Java emulators) Java doesn't seem as slow as I get taught at school. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19621,
+		"title": "Re: Hehe",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-26T22:21:01.000Z",
+		"content": "Java isn't necessarily a slow language in itself, it's just that it's almost always compiled into \"bytecode\" which is then run through an interpreter on the destination machine.  As these interpreters get better, the performance of Java will improve.  (And this is the same reason why DOS games run much slower in DOSBox - it's also an interpreter, just like most Java plugins in web browsers.)<br /><br />You can already get Java compilers which will compile Java programs into native code (in the same way as you might compile a C++ program) which although I've never tried it, apparently gives you a *huge* increase in speed (although of course you can then only run that fully compiled Java program on one platform, unlike the half-compiled bytecode.)"
+	},
+	{
+		"id": 19622,
+		"title": "Re: Hehe",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-27T00:08:05.000Z",
+		"content": "Yeah, I knew all of this (except for the machine code compiler that exists now), I learnt that stuff at the start of my course. But I figured the JVM's would make code at least half as slow. I guess with the computers that exist now speed is not that much of an issue anymore.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19623,
+		"title": "Matrix",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-27T10:03:31.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, with enough computational power everything (or well, not everything) is possible.[hr][/quote]<br /><br />Including a simulation of this reality we are in currently, indeed, this is more than likely that case.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	}
+]

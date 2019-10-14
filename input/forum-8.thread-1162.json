@@ -1,0 +1,90 @@
+[
+	{
+		"id": 819,
+		"title": "PayPal script",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-07-17T04:27:10.000Z",
+		"content": "does anyone know where i can find a script that tells u the last donation that a person may have made by paypal?<b>Rorie</b>"
+	},
+	{
+		"id": 20952,
+		"title": "Re: PayPal script",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-17T15:15:36.000Z",
+		"content": "I'm not familiar with PayPal but I'd assume there'd be some option for each users to do transactions without other people seeing whatever they've done. So, I'd guess it's not possible.. Probably the official PayPal site has info about that, dunno. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 20953,
+		"title": "Re: PayPal script",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-17T16:30:21.000Z",
+		"content": "It's been done, so it's possible. Ask around on the PayPal site.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 20954,
+		"title": "Re: PayPal script",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-02T23:41:42.000Z",
+		"content": "okay i got someone from the pdn to make me a script<br />but i still have a problem, i can't seem to get it to display onto a html page can somebody help me?<b>Rorie</b>"
+	},
+	{
+		"id": 20955,
+		"title": "Re: PayPal script",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-03T10:39:58.000Z",
+		"content": "HTML? I don't think that's possible, you'd need dynamic pages and HTML are static, not dynamic.<br /><br />Sure, there's Javascript for HTML, but that's too limited to access a database like PayPal's.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 20956,
+		"title": "Re: PayPal script",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-08-05T00:01:08.000Z",
+		"content": "It's still possible to put stuff in HTML pages though.<br />Like you said, embed JavaScript, Shockwave/Flash, or something like that, or just generate the HTML on the server with PHP, ASP for instance.<br />No idea whatsoever about PayPal though.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 20957,
+		"title": "Re: PayPal script",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-07T23:13:25.000Z",
+		"content": "it is a perl script done in cgi that needs to be emded in a html if that's make it any easier<b>Rorie</b>"
+	},
+	{
+		"id": 20958,
+		"title": "Re: PayPal script",
+		"author_id": 1486309,
+		"author_name": "Molfarm Duvalier",
+		"timestamp": "2006-08-08T07:14:16.000Z",
+		"content": "A real pal would not demand to be paid!"
+	},
+	{
+		"id": 20959,
+		"title": "Re: PayPal script",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-08T23:09:46.000Z",
+		"content": "i'm not asking to be paid, i just trying to get help setting up a perl script in cgi so that people can see how much money was donated via paypal on my future website<br /><br />i would never asked to be paid unless i had a reason<br />so think before posting next time<br /><b>Rorie</b>"
+	},
+	{
+		"id": 20960,
+		"title": "Re: PayPal script",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-09T16:33:44.000Z",
+		"content": "He meant a a joke.  <b>Pay</b>/<b>Pal</b> - A real <b>Pal</b> would not ask to be <b>Paid</b>.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 20961,
+		"title": "Re: PayPal script",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-09T23:07:36.000Z",
+		"content": "okay then, i'll take it as a joke<b>Rorie</b>"
+	}
+]

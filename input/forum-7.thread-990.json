@@ -1,0 +1,58 @@
+[
+	{
+		"id": 647,
+		"title": "IMF and Keen",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-24T15:05:49.000Z",
+		"content": "1.) What is a good way to play these files?<br /><br />2.) How can I put one into Keen? (4-6 and presumably dreams.)[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16628,
+		"title": "Re: IMF and Keen",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-06-24T15:12:05.000Z",
+		"content": "1) The only way I know is to use WinAmp with Adplug (or whatever it's called). Of course, I haven't used it in a while (I started having problems with the plugin, and I rarely used it).<br /><br />2) I don't think its possible yet (Well, <i>possible</i>, but not that easy to do. I think Shadow Master was gonna add a music/sound feature to EModKeen, but I'm not sure...-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 16629,
+		"title": "Re: IMF and Keen",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-24T21:40:38.000Z",
+		"content": "You mean the reason why none of the existing Keen4-6 mods have custom music is because there's no music import utility?!  Wow, that would explain why most of them turn the music off by default - I thought the modders were just lazy [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16630,
+		"title": "Re: IMF and Keen",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-25T04:39:19.000Z",
+		"content": "There is a utility out there, Ceilick used it.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16631,
+		"title": "well..",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-06-25T05:18:17.000Z",
+		"content": "From what I understand, it is possible to change the music in-game by using the WDC, which is a Wolfenstein 3d editor--but getting WDC to play nice with TED5 was a complicated task.<br /><br />At least, the last time I tried to get changed music to combine with custom levels (albeit a while ago--at least 10 months) I had absolutely no success.  Changing levels wasn't too hard, and changing music was somewhat understandable, with WDC... but for some reason I couldn't do both at once.<br /><br />Though rumor has it that Zero X. Diamond is leaps and bounds ahead of us all, on this front... *suspense*"
+	},
+	{
+		"id": 16632,
+		"title": "Re: well..",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-25T05:56:40.000Z",
+		"content": "Well technically it's not a hugely complicated task - all you'd need to do is extract all the files from the AUDIOT.CKx file, replace the extracted music and/or sound effect files however you please, then generate a new AUDIOT.CKx file.  This will produce a new AUDIOHED.CKx and AUDIODCT.CKx, which you'll need to patch into the .exe file (no doubt by using CKPatch.)<br /><br />As far as I'm aware Wolf3D uses the same format, so I'd be surprised if that editor didn't work.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16633,
+		"title": "Re: well..",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:28:03.000Z",
+		"content": "If you kick me constantly via MSN or AIM, I might add AUDIOT extracting to Modkeen. I just need pressure. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

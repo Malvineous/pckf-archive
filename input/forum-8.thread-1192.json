@@ -1,0 +1,202 @@
+[
+	{
+		"id": 849,
+		"title": "re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-04T02:22:17.000Z",
+		"content": "hello people, i recently create a website for a organisation &amp; we were having problems setting up the domain for the website, it loads on the computers @ st.laurence so if anyone is reading this topic, can you please see if the url below loads up on your computer<br /><br />[url=http://www.thecrew.org.au/]www.thecrew.org.au/[/url]<br /><br />if you can do this it will be great news for the organisation who uploaded the site<br /><br />thanks<br />rorie[url=http://www.ironmaiden.com][img]http://i11.photobucket.com/albums/a199/rorie1983/ironmaiden.jpg[/img][/url]<br /><br />[url=http://simplythebest.net/fonts/fonts/font_downloads/iron_maiden.zip]Download the Iron Maiden font[/url]"
+	},
+	{
+		"id": 21481,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-04-04T02:33:55.000Z",
+		"content": "No dice.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 21482,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-04T02:37:18.000Z",
+		"content": "thanks, we still have a long way to go b4 it can be seen on the world wide web[url=http://www.ironmaiden.com][img]http://i11.photobucket.com/albums/a199/rorie1983/ironmaiden.jpg[/img][/url]<br /><br />[url=http://simplythebest.net/fonts/fonts/font_downloads/iron_maiden.zip]Download the Iron Maiden font[/url]"
+	},
+	{
+		"id": 21483,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-04T04:37:00.000Z",
+		"content": "I can't see it...<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21484,
+		"title": "...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-04-04T19:45:35.000Z",
+		"content": "nope... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 21485,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-04T21:41:01.000Z",
+		"content": "You haven't pointed your domain name at your server's IP address yet - if you try to \"ping www.thecrew.org.au\" you get an 'unknown address' error."
+	},
+	{
+		"id": 21486,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-04T23:28:42.000Z",
+		"content": "one of the guys has said that we need to ring telstra &amp; get the server details &amp; c what the problem is with quost, they have cheap domains it was 2 good to refuse a $18 2 year org.au domain[url=http://www.ironmaiden.com][img]http://i11.photobucket.com/albums/a199/rorie1983/ironmaiden.jpg[/img][/url]<br /><br />[url=http://simplythebest.net/fonts/fonts/font_downloads/iron_maiden.zip]Download the Iron Maiden font[/url]"
+	},
+	{
+		"id": 21487,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-05T22:11:11.000Z",
+		"content": "You'll need to log in with 'quost' and there will be somewhere where you can put in the IP addresses of your nameservers - you'll need two before the domain will become active.  Some places will provide you with nameservers so you don't have to run your own, but for $18 I doubt they would.  The alternative is to get your web host to run these, they'll usually throw that in for free as part of your web hosting package.<br /><br />Telstra probably isn't the cheapest web host out there, but assuming you have a proper web hosting package (not someone's home Internet connection) then you'll be able to log in to their web page and set up your domain from there (they'll also give you the nameserver IPs to put into your Quost account.)"
+	},
+	{
+		"id": 21488,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-06T04:34:03.000Z",
+		"content": "i modifed the the dns<br />can you see if the site loads up now <br /><br />update: wait 4 at least 24-48 hrs b4 checking cuz the internet has to source it<br /><br />[url=http://www.thecrew.org.au]www.thecrew.org.au[/url][url=http://www.ironmaiden.com][img]http://i11.photobucket.com/albums/a199/rorie1983/ironmaiden.jpg[/img][/url]<br /><br />[url=http://simplythebest.net/fonts/fonts/font_downloads/iron_maiden.zip]Download the Iron Maiden font[/url]"
+	},
+	{
+		"id": 21489,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-06T11:11:43.000Z",
+		"content": "You've now got nameservers looking after the domain, but you still have to tell those nameservers where your website is hosted.  At the moment the name \"www\" isn't pointing to an IP address, so when you visit \"www.thecrew.org.au\" your web browser doesn't know which server to connect to (it asks the nameservers you've configured, but at the moment the nameservers are replying with \"I don't know\" so the web browser gives up.)<br /><br />You'll need to tell your nameservers that the hostname \"www\" should point to the IP address of your web host - and you'll need to ask your web host what their server's IP address is for this (usually they'll tell you in their hosting FAQ.)"
+	},
+	{
+		"id": 21490,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-27T00:19:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You've now got nameservers looking after the domain, but you still have to tell those nameservers where your website is hosted. At the moment the name \"www\" isn't pointing to an IP address, so when you visit \"www.thecrew.org.au\" your web browser doesn't know which server to connect to (it asks the nameservers you've configured, but at the moment the nameservers are replying with \"I don't know\" so the web browser gives up.)<br /><br />You'll need to tell your nameservers that the hostname \"www\" should point to the IP address of your web host - and you'll need to ask your web host what their server's IP address is for this (usually they'll tell you in their hosting FAQ.) [hr][/quote]<br /><br />we are using our own server &amp; we are confused, we tried using the dns from the bigpond site (which didn't work) we even tried calling them but got confused even more, we can't really find the correct dns since this is our 1st time, we have even considered paying someone else to do it for us<b>Rorie</b>"
+	},
+	{
+		"id": 21491,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-27T22:03:08.000Z",
+		"content": "If you're running Windows, open a command prompt and type \"ping www.thecrew.org.au\" - I get an error \"unknown host www.thecrew.org.au\" which means I won't be able to see the web site.  You *should* get the same error, and then you can just play around with the DNS until you fix the ping error."
+	},
+	{
+		"id": 21492,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-28T00:01:25.000Z",
+		"content": "i pinged www.thecrew.org.au<br /><br />&amp; this is what i got<br /><br />Pinging www.thecrew.org.au [61.9.143.4] with 32 bytes of data:<br /><br />Reply from 61.9.143.4: bytes=32 time&lt;1ms TTL=64<br />Reply from 61.9.143.4: bytes=32 time&lt;1ms TTL=64<br />Reply from 61.9.143.4: bytes=32 time&lt;1ms TTL=64 <br />Reply from 61.9.143.4: bytes=32 time&lt;1ms TTL=64<br /><br />ping statistics for 61.9.143.4:<br /> Packets: Sent =4, Received =4, Lost = 0 &lt;0% loss&gt;.<br />Approximate round trip times in milli-seconds: <br /> Minimum = 0ms, Maximum =0ms, Average = 0ms<br /><br />so as you can see when i pinged www.thecrew.org.au from a st.l computer i don't get an error     <b>Rorie</b>"
+	},
+	{
+		"id": 21493,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-04-28T18:43:38.000Z",
+		"content": "The problem is that the DNS servers that thecrew.org.au is pointed at are not returning the correct IP address to computers on the public internet. When I ping the IP address that thecrew.org.au is shown to resolve to below (61.9.143.4), it works fine.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 21494,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-29T03:09:06.000Z",
+		"content": "<i>so as you can see when i pinged www.thecrew.org.au from a st.l computer i don't get an error</i><br /><br />It looks like you must have some internal server performing this job, which is why it seems to work fine for you, but nowhere else.  Ask your network person why it works inside your network but not outside, and they'll know why."
+	},
+	{
+		"id": 21495,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-04-30T03:08:32.000Z",
+		"content": "tell me step by step on what i need to do with www.thecrew.org.au<b>Rorie</b>"
+	},
+	{
+		"id": 21496,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-05-02T02:39:03.000Z",
+		"content": "please tell me step by step on what i need to do to get www.thecrew.org.au to load up on the net?<b>Rorie</b>"
+	},
+	{
+		"id": 21497,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-05-02T16:48:36.000Z",
+		"content": "I doubt very much that Malvineous knows, since the original cause of this problem can only be explained by the people running the DNS servers - try asking people who work in the computer department of St. Laurence and they should be able to help you.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 21498,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-05-02T23:13:38.000Z",
+		"content": "that's the thing we are confused &amp; don't know what to do so i have to ask others for help. i am even considering paying someone who can actually fix the problem<b>Rorie</b>"
+	},
+	{
+		"id": 21499,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2006-05-03T00:05:07.000Z",
+		"content": "Really?! My dad works for microsoft, I could get payed for my dads work! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] ___________________________________________<br />[url=http://greenftechn.com/brandon]greenftechn.com/brandon[/url]<br />-proud member of the      \"tough guys wear pink\" society- <br />[img]http://greenftechn.com/brandon/images/tough_guys_wear_pink.gif[/img]"
+	},
+	{
+		"id": 21500,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-06T00:27:06.000Z",
+		"content": "But what happens if they're running Linux on their servers? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   Your dad would get fired for helping [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Rorie, Grafix was right, I have no idea why it's not working.  The domain lists the nameservers as Telstra's, so you could try asking Telstra how to set up domain names that were registered through them.  I suspect when you (or \"Stephen Oakes\") registered the domain, you were given a username and password to log in to Telstra's domain management site.  Log in here, and that's where you'll be able to add hosts.  You'll need to add a host called \"www\" and give it the IP address of your webserver (this is probably the same IP that comes up when you ran that 'ping' thing at St. Laurence.)  If you still can't get it to work, ask Stephen who he contacted to register the domain, and ring those people up and ask them how to do it.<br /><br />I'm still stumped as to why it does work within St. Laurence, though."
+	},
+	{
+		"id": 21501,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-05-08T23:17:55.000Z",
+		"content": "try the link again [url=http://www.thecrew.org.au]www.thecrew.org.au[/url] one of the guys says it is working<b>Rorie</b>"
+	},
+	{
+		"id": 21502,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-05-08T23:43:33.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The Crew Computer Services is operated by the clients of the wenesday computer program, you can meet the current members of The Crew by clicking here, whenever you want to upgrade a existing computer system or need a repair or need some maintenance done or want to buy a computer system, We can help email us or give us a call (03) 5222 6522 &amp; speak to one of our staff members[hr][/quote]<br /><br />It seems to be working, yep.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 21503,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-16T11:43:02.000Z",
+		"content": "Yep, works for me too.  So what was the problem in the end?"
+	},
+	{
+		"id": 21504,
+		"title": "Re: re: can you see if this site loads up on your computer?",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-05-16T23:41:11.000Z",
+		"content": "we fiddled with it a bit more found something called advanced dns added the dns to it &amp; it worked <b>Rorie</b>"
+	}
+]

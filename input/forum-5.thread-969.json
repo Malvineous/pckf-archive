@@ -1,0 +1,74 @@
+[
+	{
+		"id": 626,
+		"title": "PlanetCK Mods Section",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-06T22:09:07.000Z",
+		"content": "Ok, in the mods section of planetck, i have it set up similar to how TGMM is. Should the mods go in order from new to old, or from old to new. (I'd ask this on my own forum but we only have 5 members.)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 16280,
+		"title": "I think...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-06T22:52:22.000Z",
+		"content": "It's great to have mods arranged chronologically, although it's difficult to ascertain when each one was released."
+	},
+	{
+		"id": 16281,
+		"title": "Re: PlanetCK Mods Section",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-08-07T00:51:07.000Z",
+		"content": "New to old is best, because otherwise you have to scroll all the way to the end to see the latest additions - and if you have multiple pages that's really going to be a hassle (and the oldest, dodgiest mod will always have a front row seat...)<br /><br />Like Xky says, make it obvious how old each mod is, and don't forget to highlight ones that have new versions released.  It'd also be nice to have an indicator telling us how much of the game was actually modded - just a few levels, or all levels, all graphics, and most sounds, etc."
+	},
+	{
+		"id": 16282,
+		"title": "Re: PlanetCK Mods Section",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-07T00:53:42.000Z",
+		"content": "Yeah, i never thought about it like that. Hmm, i'd hate to scroll several pages... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <br /><br />Of course I'm gonna need to know when each of the earlier mods were released (or i could just say \"earlier mods are not in exact order\" or something)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 16283,
+		"title": "Re: PlanetCK Mods Section",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-07T09:50:40.000Z",
+		"content": "Have you thought about alphabetical order?<br /><br />And I have been working on a 'mod timeline', I have a lot of data, maybe I could help?A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 16284,
+		"title": "Re: PlanetCK Mods Section",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-07T18:16:05.000Z",
+		"content": "Hmmm, maybe new to old is best. I should probably do that in TGMM as well, it's really really small job to do. As well, mods in TGMM aren't in perfect order, mainly because I was too lazy to do research when something was released and to compare times. As well, sometimes I just forgot something. Oh, well..<br />LL, sounds like interesting project! Happy to see it when it's done.<b>Half a level and final testin'..</b>"
+	},
+	{
+		"id": 16285,
+		"title": "Re: PlanetCK Mods Section",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-08-08T11:07:03.000Z",
+		"content": "The Keenran, Chap 1.1:<br /><br />'In the beginning there was nothing, and darkness was apon the face of the level makers, and they spake among themselves saying 'Oh woe! When shall we edit levels?'<br /><br />2.) And behold, a bright light came forth, and his name was Adur, and he tooketh a simple [minded] man from Oz and sayeth 'Take these tools I give the and make a mod, so that people will know of my glory wherever it is played.'<br /><br />3.) And make it in 16 levels, yea, and even 16 colours, make it with new enemies, and new tiles, and spread the name of Keen even unto the heathens in the Jazz Jacrabbit forums.<br /><br />4.) And so for 40 days and 40 nights didst the profit KeenRush work [and eat, sleep, watch TV] until it was completed, apon which he sayeth: 'It is no good!' and deleted it. <br /><br />5.) And lo, 1 year later did he release his work, it was called 'Commander Keen in the Yorphius II' and it laketh CKxpatch, and bat files.<br /><br />6.) And Adur looked apon it and sayeth 'Woe! It is hard and none may abide the playing thereof'<br /><br />7.) And so he brought forth CKPatch, and Modkeen, yea even KeenEdit, so that all may mod and bring joy even to the 3D Realms, where the savages FPS in darkness.<br /><br />8.) And so it was, and it was good.<br /><br />[Mmmm, carried away.]A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 16286,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-08-08T11:14:11.000Z",
+		"content": "Profit =/= Prophet  :-)<br /><br />Also, don't eat the apple of Keenlightenment, no matter how much that LevelLordian snake suggests it.  *runs*"
+	},
+	{
+		"id": 16287,
+		"title": "Re: hehe",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-08-08T20:10:20.000Z",
+		"content": "If you can, have column for names as well as one for dates, and allow people to sort using either, both up and down.<br />I suppose one for authors wouldn't hurt either once you're busy.<br />It should be doable if you use something like MySQL.<br /><br />You could use this alternative method instead (uses JavaScript):<br />[url=http://www.brainjar.com/dhtml/tablesort/]www.brainjar.com/dhtml/tablesort/[/url]<br /><br />Sorting would be perfect, anything less could still be good of course. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	}
+]

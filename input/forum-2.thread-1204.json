@@ -1,0 +1,714 @@
+[
+	{
+		"id": 259,
+		"title": "ideas for a keen4 mod...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-10T23:25:39.000Z",
+		"content": "Hi there<br /><br /> Just some ideas here. I've been working on a keen4 mod and I thought I'd post my main ideas to see what you think...<br /><br /> ---The story---<br /><br /> Mort developed a giant prison compound and long story short, captured a variety of people invaluble to keens' next stike againdt mort (14 in total - I modified the no. of people you had to rescue.)<br />(EDIT:these people are prisoners, captured by mort, held captive and tortured to find out how much they know before being excecuted.)<br /><br /> ---Enemies---<br /><br /> The poison slug is replaced with a minelayer, a mechanical brute which creates and deploys landmines.<br /><br /> The Arachnut if the worst pain ever - a ton of frames to work from and quite big too. So far I thought a car-tank thing, that tries to run you over. Any help here would be appreciated, thanx.<br />(EDIT: now I have two arachnuts, one a toxin spewing robot used for testing, and modified to charge at keen as a weapon in later levels. the other is a mechanical security drone which I was given to by najawa. thanx, I'l be sure to include you in the credits!)<br /><br /> The bounder is an oddity. So far, I think I'll do some yorps that mortimer took with him from mars as test subjects.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]   <br /><br /> The blue-bird thing - aeroplanes that fly around. methinks something similar for the cloud - maybe a bombs drop for the cloud-lightning?<br /><br /> Mimrocks I'll probably drop altogether.<br /><br /> The lick has a *lot* of possibibities. A bouncing guard with a short range bio gun, a mechano-robot with a knife, drop attack police which raid the facility and misake keen for mort [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]    [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]    the possibilites for this are quite good. If I can find a way, I'd try to do all this using the same sprite with modified grapics over.<br />(EDIT: the bouncing guard with a bio-gun (refered to ingame as bio-guards) is <i>in</i>! featuring dominantly throughout the facility, sometimes mutated due to bio exposure! some bieng other replacements, like mad mushroom and berkaloid. There are rumours that mort has been mutating them on purpose, but surely not even mort would go that far...)<br /><br /> Wormouths are also reasonably versatile. The oddest idea yet is something like those tinhat robots in keen1, but with a hidden stun gun.<br /><br /> The skypest is a delicate scout instrument, easily squashed [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]    <br /><br /> The berkeloid is some sorta soldier which throws grenades about.<br />(EDIT: Notso! What the heck was I thnking? The better idea sofar is the mutated bio-guard, which tries to shoot you but dislodges bio slop from his gun, (which is much worse than the normal guards, in some ways) which soars through the air. Rumour has it that as mort noiced that these were much better guards and more obedient, mort mutated them deliberately. But this cannot be more than just a rumour, can it...)<br /><br /> As mentioned before, the cloud is a plane which drops bombs around. I'm currently trying to extend the range of the plane's bombs' range. Any tips for this? it is proving much more difficult than I anticipated.<br /><br /> The mad mushroom is a mutated test-yorp (the bounder).<br />(EDIT: mutated bio guard.)<br /><br /> I'll probably drop the inchworms.<br /><br /> 'underwater' creatures could be adjusted to fit the air, but they will probably also be dropped.<br /><br /> As an afterthought, can the 'dropped' sprites be adjusted to the extra 'licks'? This would be brilliant if possible.<br />(EDIT: Duh, I must have been tired! This was very easy to achieve.)<br /><br /> ---Items---<br /><br /> quick shot coffee  ---------------------------   100 points<br /> energy bar  ---------------------------------   200 points<br /> sugar puff  ----------------------------------   500 points<br /> antitoxin  ----------------------------------- 1000 points<br /> bowl of sugar stoopies [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]     -------------------  2000 points<br /> giant chocolate bar -------------------------  5000 points<br /><br /> supa soda  ------------------------------  1/100th extra life<br /> sopa soda mega pack  ---------------------------- extra life<br /> gun ------------------------------------------------shots<br /> access computer ------------------------------  open doors<br /><br /><br />~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br /><br /> Yow, thats a long list!  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img]    . Any comments, approval, or suggestions are OK. feel free to rip off this list for any of your mods, just think carefully before taking the whole thing. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   <br /><br /><br />____________________________________________________<br /><br />                       - the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6889,
+		"title": "Re: ideas for a keen4 mod...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-11T10:09:22.000Z",
+		"content": "Hmmm, good ideas, good luck with the mod![url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 6890,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-09-11T18:42:03.000Z",
+		"content": "Since the Arachnut uses the same 4 frames to run Left and Right, it's tricky to decide what to do with it--if you make it a vehicle, it'll be driving in reverse half the time.  Consider making it something which faces toward or away from the screen... like a robot repairing something in the background, with limbs whirring and buzzing everywhere--or some sort of whirlwind, bustling across the desert.  :-)"
+	},
+	{
+		"id": 6891,
+		"title": "Re: hmm",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-12T09:48:03.000Z",
+		"content": "Or make it a rolling enemy, or two headed.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6892,
+		"title": "Re: Ideas:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-12T11:55:09.000Z",
+		"content": "Well, If you are going to make bounders into yorps, try to make the look crazy! MAD! Mutinated! This will explain why they are so bouncy.<br /><br />The Arachnut could be replaced with mortimers genetically altered Immortal Fleexe!!! *silence*<br /><br />Okay...<br /><br />Mimrocks are good used as creatures which have a shield on when they think you can't hurt them; they are not brave enough for head-on-head conbat.<br /><br />Good luck... I'd love to play any sort of Keen 4 mod. It'd be a very nice change. Just try not to recolor, or rip to many graphics; this just makes it look like someone swapped colors on the palate; very annoying.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6893,
+		"title": "Re: ideas for a keen4 mod...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-16T22:33:36.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Consider making it something which faces toward or away from the screen... like a robot repairing something in the background, with limbs whirring and buzzing everywhere--or some sort of whirlwind, bustling across the desert.[hr][/quote]<br /><br />hmmm...<br /> I was envisioning a mechanical\\energy setup like keen5, but I guess I do lack the variety of characters that keen games normally have.<br /> How could a whirlwind be 'knocked out' by a raygun charge though? maybe it dematerialises the dirt and stuff in it to stop it, or it could have the repairing robot inside it and it stuns that.<br /> Or a toxin cloud. I do need to put an emphasis on the bio testing going on in the prison compound - for the suprises at the end [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]     <br /><br />[quote]<b><i>Quote:</i></b>[hr]Well, If you are going to make bounders into yorps, try to make the look crazy! MAD! Mutinated! This will explain why they are so bouncy.[hr][/quote]<br /><br />hmmm again...<br /> The yorps could be made mad in the first place by the way mort uses them as gueinea pigs for his toxin tests in his plan to destroy keen...<br /><br />[quote]<b><i>Quote:</i></b>[hr]The Arachnut could be replaced with mortimers genetically altered Immortal Fleexe!!![hr][/quote]<br /><br /> Do you mean fleex? And why and how did he modify them? and mortimer making anyone (besides himself) immortal? Too many questions here.<br /><br />Here is a sketch of the first level of keen jailbreak (the name of my mod), the airlock:<br /><br />[img]http://www.stephenarnott.plus.com/images/airlock-sketch-s.png[/img]<br /><br />EDIT: fixed the picture<br /><br />____________________________________________________<br /><br />- The yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6894,
+		"title": "Re: ideas for a keen4 mod...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-17T07:29:05.000Z",
+		"content": "Ah. You can't just link to images on your hard drive, because we can't see your hard drive. Email it to me at \"grafix5000 a|t gmail {dot} com\" (except turn it into a proper email address by removing the spaces, replacing a|t with @ and {dot} with a .) and I'll put it up on my webspace.<br /><br />EDIT: Here you go: [img]http://www.stephenarnott.plus.com/images/airlock-sketch-s.png[/img] (linked for reasons of space)[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 6895,
+		"title": "...",
+		"author_id": 1486909,
+		"author_name": "RocketJess",
+		"timestamp": "2005-09-18T08:41:15.000Z",
+		"content": "Out of interest, who are the people being rescued?"
+	},
+	{
+		"id": 6896,
+		"title": "Arachnut:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-18T13:43:39.000Z",
+		"content": "Heres an insperation:<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/ArachnutReplacement.jpg[/img]<br /><br />Use something with weapons on both sides. I already am using the VGA version in <i>my</i> Keen 4 mod [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] .<br /><br />If you want to know what it is, take a peek at the XkyKeen4 Disscussion Thread.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6897,
+		"title": "Re: Arachnut:",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-18T17:41:11.000Z",
+		"content": "Keen 4 doesn't use VGA... so mods can't either, right?<br />The enemy looks like a GameBoy to me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 6898,
+		"title": "Insparation:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-18T23:35:06.000Z",
+		"content": "No; this is just an inspiration; the real VGA sprites are on my photoblog; I actually posted them on K:M<br /><br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=737]andy.durdin.net/keen/modd....php?t=737[/url]<br /><br />I'm (At the time of this post) having some problems with it, and I think I'll shrink it a bit.<br /><br />Oh, well; and it's not a gameboy (Read the XkyKeen4 Disscussion Thread to learn more).<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6899,
+		"title": "Re: updating",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-19T23:16:20.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Out of interest, who are the people being rescued? [hr][/quote]<br /><br />Prisoners, scheduled to be executed [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]    I origionally thought of a time based game like Xky's keen3, but then I figured it would be too much of a rip off, and this would be difficult under keen4 anyway.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Heres an insperation:<br /><br /><br />Use something with weapons on both sides. I already am using the VGA version in my Keen 4 mod [hr][/quote]<br /><br />cool...  but as you said:<br />[quote]<b><i>Quote:</i></b>[hr]I already am using the VGA version in my Keen 4 mod [hr][/quote]<br /><br />I don't really want to rip off too much, if you are already using it then I'd better leave it. Brilliant idea though, and good luck with your mod!<br /> Anyways... I <i>finally</i> got the arachnut sorted [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img]  . The robots which produce the toxins - covered in a spinning vortex of toxin! Shooting it stuns the robot, which then stops making the toxin. They home towards keen, and if he is hit by the toxin, well: [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]   .<br /><br />I have some more pictures to post, is there a way to put them on immediatly without my errr... of last time?<br /><br /> I'm delveloping a complex brand-new sprite of mortimer himself! I gotta be careful now... <br /><br /> --brief description--<br /><br /> mort screames round the air and ground on a high speed hoverboard with  gun attachments; the hoverboard is a lousy shot- mortimer aims alot better [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]   --suspense music--: dah dah dah duhhh...<br /><br />EDIT: correted some stuff.<br />____________________________________________________<br /><br />- The yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6900,
+		"title": "Insparation:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-19T23:48:02.000Z",
+		"content": "I made it to show you what I did; so you could get an Idea of what else you could use it for.<br /><br />I will give you to completed sprites if you want them; I am doing a star wars mod; and made this robot in my spare time; If you took it from me; I could deticate my time on more star warsy graphics, an not generic robots; basically, to take it would be mercy unto me.<br /><br />Do you want it???<br /><br />-- NAJAWA --<br /><br />Edit:<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/4SPR0301.jpg[/img]<br />^4SPR0301^<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/4SPR0302.jpg[/img]<br />^4SPR0302^<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/4SPR0303.jpg[/img]<br />^4SPR0303^<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/4SPR0304.jpg[/img]<br />^4SPR0304^"
+	},
+	{
+		"id": 6901,
+		"title": "Re: Insparation:",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T03:06:46.000Z",
+		"content": "OK, cool. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />Is there any specific modifications made to the sprite i should know?<br /><br /> I'l probably evolve it slightly, Ie detailing the white space (i'm perfectionist - I hate anything which involves bland spaces). maybe some shading, or some larger diffrenciation on the bot's screen, or is that a chipset? if so, then a mini-screen on it should be good.<br /><br /> I do already have a toxin-like arachnut replacement, but thanx -- two types of arachnuts for different 'schemes' of levels. keen4 has the broadest variety of themes in the series, so the variety has to be broad. thanx again.<br /><br /> Ah, a complete sprite- just what i wanted for my birthday [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img]   .<br /><br /> as soon as i can figure how to gat theese pictures going right il post the 'toxin arachnut' (refered to as 'toxibot' ingame) here.<br /><br />____________________________________________________<br /><br />- The yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6902,
+		"title": "The toxibot, description of the toxibot and a general update",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T04:47:06.000Z",
+		"content": "<b>The toxibot:</b><br /><br />A powerful robot which produces toxin in the toxin 'scheme' setup. <br /><b>decription of the toxibot:</b><br /><br /> Origionally used in testing, in later levels mort realised the weapons potential of these bots and told them to home to keen whenever he entered the sublevel they were on.<br /> Fragile, they can be stunned for long periods where they cannot produce toxin.<br /><br /><b>Aand a general update</b><br /> <br />mortimer. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]  <br />The hoverboard is a nice touch, as well as complete origionality for the sprite (mort never appeared in an original game as more than a picture, and when he did appear in a mod he mas something like a statue or a breifly modified sprite), and provides a major challenge to the player. Firing seven wide shots at last version, (although this will probably change) and one aiming shot, from mort himself rather than the weapons platform on the hoverboard. Later levels only!<br /><br />Swimsuit- I am thinkng of using an item like this in here, maybe climbing gear for a mountain range he needs to cross or something. Hmm... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  <br /><br />Also, the lick replacement(s). Could someone tell me what they thought of it? And i'l be adding more stuff to the origional list soon for more ideas... watch that space [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   !<br /><br />and i still have some images if any1 knows how to putem on right...<br /><br />____________________________________________________<br /><br />- The yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6903,
+		"title": "The white space:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T05:17:27.000Z",
+		"content": "The sprite must be a multiple of 24. This sprite is a multiple of 24, and therefor; changing its size would be most discouraged, because in order for it to work; it must be a multiple of 24.<br /><br />One thing you must do: Now go to you Keen 4 mod directory, and look for the text file labled \"4SPRITE\" Change the value of 4SPR0301 - 4SPR0304's clipping boxes. Levellord documented how this works pretty well over here: [url=http://andy.durdin.net/keen/modding/viewtopic.php?t=737]andy.durdin.net/keen/modd....php?t=737[/url]<br /><br />If you don't edit these values, the sprite wont hover on, but in the ground.<br /><br />(For those who helped perfect this grapgic: Sorry for those who helped me perfect this graphic; at least it will show up in a keen 4 mod anyways. I'm giving it to freeyorp101, because I finnally relized I needed to use more Star Warsy graphics. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  ; I gave away the plot! Oh, well [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img]  . Big spoiler).<br /><br />Freeyorp101: Because you accepted this sprite; I forbid you to consider to stop modding. I mean this in an encouraging way. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6904,
+		"title": "Re: The white space:",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T06:57:33.000Z",
+		"content": "whoa, an entire new keen forum!<br />yep, i'l change this right now.<br /><br />good luck with your game, sounds pretty good.<br /><br />and belive me, as i probably will never stop keen modding I won't stop modding in a long time! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6905,
+		"title": "K:M:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T10:13:10.000Z",
+		"content": "Keen: Modding has been around since 2003. Keen Modding is a forum where you can request, and post patches, mods, and help with anything modding. Just a little warning; the ediquite there is just a bit stricter; and isn't as free form. Avoid replys that wander off topic; a barrier which almost got me a posting restriction.<br /><br />See you there [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6906,
+		"title": "Aren't we already a bit off topic?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T20:18:14.000Z",
+		"content": "I still need to find out how to post pictures. can someone please tell me how?<br /><br />NEways, what do you think of the bio-guards? (can be seen as those glaring blobs in those coil-bio-suits in my prev. picture) Any critique for this? it would be appreciated.<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6907,
+		"title": "Re: files...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T20:21:58.000Z",
+		"content": "The files i have to put on include :<br /><br /> - the toxibot sprites<br /> - the modified guard-bot i got from najawa<br /> - more level-sketch pictures<br /> - and soon, a sound track.<br /><br />Any help?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6908,
+		"title": "Free Picture Hosting:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T21:28:04.000Z",
+		"content": "If you want to host pictures; I'd reccomend www.photobucket.com because:<br /><br />1) It's free<br />2) Signing up is sooo easy!!!<br />3) You can link to images from off site locations (it is really helpful for this).<br /><br />or, email grafix5000, and I think he may offer you a bit of webspace (which will allow you to host mods, post pictures, sounds, and anything - more flexible than photobucket).<br /><br />Well, good luck.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6909,
+		"title": "Re: files...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-21T04:11:15.000Z",
+		"content": "thanx!<br /><br />now, the guard-bot. No serious changes, only within the white space. it is now segmented and shaded, and while this probably is going too far, i will probaby be contiuing to work on it.<br /><br />here...<br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/ae378964.jpg[/img]<br /><br />and the toxibot sprite. partcularly shaded to show the outline of the bot inside. the bubbles look a bit too thick though...<br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/4SPR03011.jpg[/img]<br /><br />what do you think?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6910,
+		"title": "Re: files...",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-21T06:52:10.000Z",
+		"content": "The guard bot is cool, but he has strange... ehrm hands. As for the toxibot - I don't get an idea what actually is this.----"
+	},
+	{
+		"id": 6911,
+		"title": "Re: files...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-21T08:33:00.000Z",
+		"content": "Actually, those are weapons. developed from the sprite najawa gave me. See najawwa's forum on the bot for more details ...<br /><br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=737]andy.durdin.net/keen/modd....php?t=737[/url]<br /><br />or there is also a posting on the XKYkeen4 forum:<br /><br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm17.showMessageRange?topicID=1084.topic&start=21&stop=40]p072.ezboard.com/fpublicc...21&amp;stop=40[/url]<br /><br />Although for my modified guard-bot il probably put somthing like this in the help menu:<br /><br />|-------------------|  the guard bot is a dangerous mech<br />|...........................| which mort uses to guard his more<br />|...........................| valuble centres. The strong armour<br />|........picture..........| plates absorb most of anything that <br />|.........here............| keen can do to it, although it may <br />|...........................| delay the beast. With a deadly electric<br />|...........................| prod and a vibro sword, this is a <br />|-------------------|creature to be reckoned with.<br />Very fast, very dangerous. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] <br /><br />----------------------------------------------<br /><br />The toxibot is a robot used for creating the toxins mort uses for his experiments. They appear in the later levels, as one of their poisons proves effective mort orders them to home towards keen.<br /><br />----------------------------------------------<br /><br />As a mod with two similar arachnut replacements could be embarrassing as they move at the same speed etc. so il modify them so that the guard-bot moves faster or they don't appear with each other in near parts in the level.<br /><br />does this help?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6912,
+		"title": "Re: files...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-21T10:23:00.000Z",
+		"content": "Hmmm, your toxicbot needs a more slimy appearance, right now it looks like a greenish blotch. Look in say Cosmo or Monster Bash for how they drew body organs and copy that style.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6913,
+		"title": "Re: files...",
+		"author_id": 1486909,
+		"author_name": "RocketJess",
+		"timestamp": "2005-09-21T10:28:54.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr][the people being rescued are] Prisoners, scheduled to be executed  I origionally thought of a time based game like Xky's keen3, but then I figured it would be too much of a rip off, and this would be difficult under keen4 anyway.[hr][/quote]<br />I was actually meaning, who are the prisoners? Particular characters (like maybe Lindsey) or just random people?[hr]<br /><br />RocketJess, blasting off again!<br /><br />[url=http://www.geocities.com/rocketjess]The Dragonkeeper's Lair[/url]"
+	},
+	{
+		"id": 6914,
+		"title": "Wow!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-21T22:11:14.000Z",
+		"content": "I love what you did to it!!!<br /><br />RocketJess; You can't have different people rescued in a keen 4 mod. All of the 8 people rescued used the same frames of animation. Basically; it'd be best for freeyorp101 to just do a standard prisoner in black and white stripes.<br /><br />Good luck, freeyorp101.<br /><br />I think your toxibot should be more blubbery. XkyKeen1's butler bot replacement is a ver fine example of a blubber glob.<br /><br />I can't wait for the release.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6961,
+		"title": "Re: release times, and updates",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-22T06:39:49.000Z",
+		"content": "You like it?<br />Cool. I always like diong shadings and 3d applications to pictures. (The shading is somewhat subtler on the toxibot, but it is there.) Speaking of which, I have the updated toxibot (in white background) here:<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/toxibot.jpg[/img]<br /><br /><br />and the release... well, I don't get much time to work on it, so will probably be some time before it comes out. But when it does, it should be pretty good.<br /><br /><br />Anyways, any critique for the lick replacemet? I would like to see what people think, as this will be the primary enemy.<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6962,
+		"title": "Er...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-22T11:07:37.000Z",
+		"content": "Th toxi-bot still looks a little to flat. It needs to be shaded a bit better. What is the toxi-bot replacing?<br /><br />Good luck.<br /><br />BTW - Do you know what you're doing for your lick? You could do a mini guard bot which jumps around, and shoots a limited ray of gas (or flame, or anything for that matter).<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6963,
+		"title": "Re: Er...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-23T06:54:54.000Z",
+		"content": "the toxi-bot is anoter replacement for an arachnut.<br /> As for the bio-guards (the lick replacement), there are two featuered in the picture I put on before, one on the box just after the toxin pool, and one after the door, on the slope.<br /><br /> A similar fromat as before, like what is displayed in the help menu:<br /><br />|-------------------|The Bio-Guard is the standard enemy<br />|...........................|in the compound. fast, bouncing blobs <br />|...........................|in an enhanced weapons suit. Be <br />|........picture..........|careful, these guys fire toxic bursts <br />|.........here............|from their guns on the weapons <br />|...........................|platform. Often appearing in the worst <br />|...........................|of places, do keep an eye out for them.<br />|-------------------| The bio-guards constant exposure to radioactive waste have caused them to mutate into a variety of forms as well, so watch out!<br /><br />(These forms are the mutated bio guard  (mad mushroom)and the agitated mutated bio-guard (berkaloid.))<br />Yeah, I know; some variety there. Ah well, it's still good.<br /><br />---And elaborating on the story:---<br /><br /> After being shocked by molly's tale of terror involving mortimer blowing up the universe, keen rushes back home to his town in the suburbs.<br /><br /> Quick adjustments to photachyon transceiver (origionly featured in goodbye galaxy) to generate top priority on files which even remotely mention moritmier mcmire. Mortimer covered his tracks well however, and 15 minutes of high tension waiting yeilded nothing [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] . however, just as keen was about to leave to pursue other methods, he hears a sudden crackling on the transiever; an advert for guard duties for a new prison facility mortimer is building. Halfway through the ad, there is a crash and a shout and mortimer himelf yelling at an 'idoit fool for betraying our position. a raygun sound appears next, and then static.<br /><br /> Using the detais given to him inadvertantly by the hapless recruiting agent, keen jumps into the bwb with his pogo and raygun, and sets off to the prison camp.<br /><br /> Landing on the platform, keen hides the ship with another of his recent inventions, The hologrammatic hypertransformer.<br /><br /> Frying the door to the airlock, stepping inside and sticking a sheet of paper over the gap, keen enters the facility.<br /><br /> Consulting a nearby computer, Keen finds several things:<br /><br /> - His breaching of the airlock alerted the whole facility of his presence.<br /> - That it is not just a prison, but a fortress for mortimer to operate behind while he blows up the universe.<br /> - It is also a weapons testing and bio-testing labrotory for mortimer.<br /> - the facility is not yet fully operational, and only emergency security has been activated, not the full platen - yet. <br /> - That there are a total of 14 prisoners aboard the ship.<br /> - That the prisoners know enough to narrow the location of mortimers capital flagship (the universe destroyer) to an area no larger than half our solar system.<br /> - That the security system is activated and gives the viewer a nasty elecric shock to prying eyes asking about where exactly mortimers capital flagship is.<br /><br /> OW! Keen rubs his hand and glares at the computer. A guard suddenly bounds down the corridor. Keen shoots him.<br /><br /> -And so the adventure begins...-<br /><br />What do you think?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6964,
+		"title": "Drool!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-23T13:50:45.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] Howley (Harda ta speak normal when youller droobling)[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />I love the story; but... you can only use one arachnut replacement at a time. Are you doing 2 mods, two connected mods?<br /><br />Keen:Modding has some patches you may want to check out (if already haven't). You cab change the number of prisoners... but sadly, only one arachnut per mod. I don't want to sound like I'm prefering mine better, but with the shading and all, It looks a bit more prefessional. STick with it, unless you update you toxi-bot to look globbish.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6965,
+		"title": "Re: Actually...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-23T21:55:04.000Z",
+		"content": "I've actually been fiddling around with keen4 to allow two types of arachnuts. It's taken ages, and there is still itty bitty pieces to sort out [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; , but this is how I sorted it - and I have been formatting to get this to work for some time now - This game is seriously HUGE: a major map, where it displays the BWB moving about the fortress. Then entering submaps, wherever you can breach a node. These submaps are smaller than the normal keen size maps. from these submaps you enter the levels- about ten levels to a submap or less, depending on how far you are and whether or not there is a prisoner on the sub-map. each sub-map is like an smaller keen game it's own. It will make it take a lot of time to complete, but it should be great. This ship is the size of a planet, realisticly. Now no offense to keen1, keen3 and that - but it didn't really give the feel of a full planet; now this should.<br /><br /> Sorry if this uts it out of reach of some people, but this is going to take up a lot of space.<br /><br /> Does this make it clearer of how I am fitting in multiple types of replacements, and why it is going to take so long?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6966,
+		"title": "*Mouth drops*",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-23T22:10:04.000Z",
+		"content": "Oh My Gosh!!! Gimme!!!<br /><br />Darn... when do you think you will be done? Have you tested the duel arachnut thing... ALL IN ONE MOD???<br /><br />GIMME!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6967,
+		"title": "Re: heh heh...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-24T02:30:14.000Z",
+		"content": "Interesting reaction... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Anyway: kudos to a friend for coming up with the multi-map idea.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Have you tested the duel arachnut thing... ALL IN ONE MOD???[hr][/quote]<br /><br />Hmm... depends on what your idae of 'all in one mod' is. It is played like a mod, but I guess it is multi- mods linked together in one, using similar palettes and sprites (changing sprites in some [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  .) anyway - as for when it comes out, it depends on how much I get done in a day. I would like to say 2006, but that would probably be wishful thinking. <br /><br /> ANYWAY, CAN SOMEONE <i>please</i> TELL ME ABOUT THE LICK REPLACEMENT!? (sighs)<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6968,
+		"title": "Hmm...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-24T02:39:35.000Z",
+		"content": "So, are you going to link these... how? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6969,
+		"title": "Re: Hmm...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-24T05:36:26.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]So, are you going to link these... how?[hr][/quote]<br /><br />Easy, I just copied the same script from keen. Seeing as it is all compiled from the same application, it is just a level link. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Now, about the lick replacement... <i>please!?</i><br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6970,
+		"title": "Re: Hmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-24T08:25:32.000Z",
+		"content": "Hey, how does the multimap thing work? Sounds like an awesome idea.. How do you enter the submaps? I wanna hear the technique you've used! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 6971,
+		"title": "Re: Hmm...",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-24T08:37:58.000Z",
+		"content": "Script?<br />Have you been reverse-engineering the original code a bit?<br />That seems like the only way to accomplish the map thing, as well as the Arachnut thing, and is a little bit illegal.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 6972,
+		"title": "Re: Hmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-24T09:50:30.000Z",
+		"content": "No, this looks to workk simalarly to my first and second shadowKeen mods. *Shudders at memory*A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6973,
+		"title": "Gunk Scetch:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-24T14:26:22.000Z",
+		"content": "This is a quick scetch I drew up in under a minute:<br />[img]http://i15.photobucket.com/albums/a371/najawa/Sprites/gunk.jpg[/img]<br /><br />You lick replacement should have a short range weapon (It'd be really funny if you gave him a cork gun, on a string [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] )<br /><br />I drew treads, but now that I think about it, a little spring would be cool to; It (the origional sprite) bounces quite a bit.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6974,
+		"title": "Re: actually,",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-24T23:52:15.000Z",
+		"content": "This is my skrtch of the bio-guard (lick replacement):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/bio-guard.jpg[/img]<br /><br />[quote]<b><i>Quote:</i></b>[hr]The Bio-Guard is the standard enemy in the compound. fast, bouncing blobs in an enhanced weapons suit. Be careful, these guys fire toxic bursts from their guns on the weapons platform. Often appearing in the worst of places, do keep an eye out for them. The bio-guards constant exposure to radioactive waste have caused them to mutate into a variety of forms as well, so watch out![hr][/quote]<br /><br />It's all been said.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Have you been reverse-engineering the original code a bit? That seems like the only way to accomplish the map thing, as well as the Arachnut thing, and is a little bit illegal. [hr][/quote]<br /><br />Not really. It is linked the excact same way as the maps to the levels, all I had too do is to change the level files into map files. Easy as pie. (although it isn't working in the way I want it too  at the moment, It's being sorted [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  )<br /><br />What do you think of this Bio-guard (lick) ?<br /><br /><br />Features:<br /><br /> - Coiled 'legs' for advanced jumping.<br /> - Guns wired directly into their brains, for quick firing.<br /> - Guns which fire short-range toxins rather than ballistic weapons.<br /> - Heaps and heaps of mechanical replacements for biological body organs (mortimer likes to keep control - remember the vorticons?)<br /> - Multiple data readouts to keep an eye on everything around them<br /> - Etc.<br /> - And stuff I haven't thought of - yet. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6975,
+		"title": "Re: actually,",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-25T00:10:14.000Z",
+		"content": "Oops! sorry, I put an earlier version of the picture on ...<br /><br />here's the latest:<br /><br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/bio-guard2.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6915,
+		"title": "Re: prisoners!?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-25T01:05:02.000Z",
+		"content": "Just re-read the entries, and realised that rocketjess might have a point.<br /> As I have already set it up so that thaere are different arachnuts, I could also set it up so that there are different prisioners. Hmmm, this could be interesting...<br /><br /> Also, I forgot two replacements in my list:<br /><br /> - the gnositcene ghosts (the treasure eaters) could something like collectors mortimer sent out around the ship to collect all items that could be useful to keen, armed with the latest teleporation devices.<br /><br /> - Lindsay - interesting that sprite, it scrolls text across whenever keen goes to it. These could easily be computer terminals that keen reads as he moves along the ship, hoping to find some information as he goes. Heh, it could even be mortimer himself, sending taunt messages to keen as he (keen) tries to resue the prisoners.<br /><br /> As for the toxin-bot (blubbery-ness), I was envisioning a gaseous-liquid toxin, not liquid-solid toxin (much); and this way, you can see glimpses of the bot inside as well. Remember that this is fresh toxin that is being made, not settled toxin, and that photobucket kept on changing my bmp image into jpeg format - it actually looks a lot different on bmp.<br /><br /> Say, how about a third arachnut replacement? Say another toxibot, producing toxin V 2.0 - blue toxin or soomething.<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6916,
+		"title": "Neat!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-25T04:42:28.000Z",
+		"content": "I like it... but it looks like a lick in an exo-skeleton; mebey you should put a raw brain in it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />I love your ideas. It's too bad photobucket is soo stubborn; but we'll see the final results in your mod. (You want to keep a few secret for that, don't you?)<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6917,
+		"title": "Re: Neat!!!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-26T23:10:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I like it... but it looks like a lick in an exo-skeleton; mebey you should put a raw brain in it.[hr][/quote]<br /><br /> Hmmm... I don't really like brains, and it dosn't seem to fit in with keen. on the other hand, It would explain why they need the suit. I'll work on that, but on a different tangent, here's a greyer new version I have also been exploring.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/bio-guard2glow.jpg[/img]<br /><br /> So it's very similar to the previous. I just want to give justification to the image on page 1, the airlock, as I have been starting to expand this into a level.<br /> I've just lost the origoinal paper, so I can't do too much at the moment. <br /><br /> The most difficult error so far is linking sub-maps back to the bwb map. what do you think about using the landed bwb as a link back to the primary map? Would it work as a pointer (shortcut) in data or would a more complex approach be needed? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]   . [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt;   grrr, I wish there was just a simple way too all this without destroying the layout!<br /><br /> And yes, I do want too keep some secrets. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   Notice I have only shown here what would be quick to find anyway (airlock, first level, standard enemy (bio-guard), and the toxibot, toxibot v2.0, and guard-bot - well just hit f1 - the game [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br /> I abandoned the morti-multi sprite, it slows the hdd and slows production of the game even more.<br /><br /> Very little is going to be ripped here, with the exeption of keen, the bwb l and r, score box and  nueral stunner. just about everything else is origional. No major ripping is going to happen here (I hope!)<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6918,
+		"title": "Re: lick",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-26T23:12:54.000Z",
+		"content": "For those who can't make out the SGA on the bio-guard's suit, it says 'ACME' and 'KILL KEEN'<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6919,
+		"title": "Nice!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-26T23:14:54.000Z",
+		"content": "Now that looks like a robot!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />I'm Lovin' it!!!<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6920,
+		"title": "Re: main map",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-27T07:16:54.000Z",
+		"content": "The major map is starting, and I am doing it in sections. <br /><br />Features of the map include:<br /><br /> - a nice starry backdrop<br /><br /> - a major grey hulking ship, keens' target [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /> - levelwise, the landing bay, defence bay alpha, defence bay beta, the toxin factory, and reactor 1 veiwable from the starting screen. I'll picture this as soon as I have finished. It's brilliant, if I do say so myself [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /> - wapons platforms<br /><br /> - and <br />I won't give away the shot just now, just wait ... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6976,
+		"title": "Re: actually,",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-09-30T01:56:38.000Z",
+		"content": "The mod looks good so far! keep it up.  I really like the shading you did to najawa's bot.  Looks very nice, but the toxibot needs some work.  I dont really care for the way youve chosen to make it, but its your mod [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img]"
+	},
+	{
+		"id": 6921,
+		"title": "Re: Huh?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-02T00:17:20.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I dont really care for the way youve chosen to make it, but its your mod[hr][/quote]<br /><br />Could you clarify that please? Is it the multimap idea, or the storyline, or somethng else? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]   hmmm...<br /><br />On another tangent, I don't really want the toxibot to be too complex - it will rarely be iin open spaces, the toxibot is under it's own toxin generrally, as shown here, in a clipping of a sketch of level 23, sublevel 3 (reactor one):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/3-23clips.jpg[/img]<br /><br />EDIT: grrr... stupid photobucket. I'll post the full thing as soon as I can find a solution ...<br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6922,
+		"title": "1337?",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-02T01:06:06.000Z",
+		"content": "[hr]<b>freeyorp</b> This game is seriously HUGE: a major map, where it displays the BWB moving about the fortress. Then entering submaps, wherever you can breach a node.<br /><br />I've actually been fiddling around with keen4 to allow two types of arachnuts. It's taken ages, and there is still itty bitty pieces to sort out [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; <br />[hr]Can you clarify these points? You give the impression that your main map level can link to other map levels, and that you've tweaked the game somehow to allow two enemies that work exactly the same way but use different sprites.<br /><br />But then it could be as LL said:<br />[hr]<b>LevelLord</b>  No, this looks to workk simalarly to my first and second shadowKeen mods. *Shudders at memory*<br />[hr]Which would mean you're essentially creating two separate mods forming Part 1 and Part 2 of the same release, each with a different set of sprites for the arachnut.<br /><br />If it's the former, then that's fucling awesome and you must tell us what you've done to allow two arachnuts in the one game. Seems you've already described the submaps technique. I must give that a shot ASAP:<br /><br />[hr]<b>freeyorp</b> It is linked the excact same way as the maps to the levels, all I had too do is to change the level files into map files.<br />[hr][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 6923,
+		"title": "Re: heh heh...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-02T02:17:27.000Z",
+		"content": "CommanderSpleen: each submap has a set of sprites, which follow the exact same advantages (and limitations) of normal mods. The major map is a link to those, also coupling these multiples together. Be warned that this does still not work properly yet, so no garantees that this will be part of this mod. I hope I do get to fix it, as this is a major feature (though not the only feature [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  ) of this mod.<br /> As you can see, LL was (sort of) right when he said it was similar to making part 1 part 2 etc, except it is all in one and linked properly. (he did say <i>similar</i> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]  you know.)<br /><br /> [quote]<b><i>Quote:</i></b>[hr]If it's the former, then that's fucling awesome and you must tell us what you've done to allow two arachnuts in the one game. Seems you've already described the submaps technique. I must give that a shot ASAP:[hr][/quote]<br /><br /> Ha ha, true. It's both really. The limitations mean only one type per sublevel. It's just really a very very big set of mods using near identical sets, linked to form one mod.<br /><br /><br /> And one more thing: You said:<br />[quote]<b><i>Quote:</i></b>[hr]two arachnuts in the one game[hr][/quote]<br /> re-read the posts and you'll see I said:<br />[quote]<b><i>Quote:</i></b>[hr]third arachnut replacement? Say another toxibot, producing toxin V 2.0 - blue toxin or soomething.[hr][/quote]<br />I have developed this, so it is really 3 arachnut replacements [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /> not saying too much now, but rumor has it im working on a 4th arachnut ... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6924,
+		"title": "Re: heh heh...",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-02T02:27:14.000Z",
+		"content": "Like before, I think I'm really not following this.<br />The map level is of course just another level, only with something set so you see little-from-above-Keen, won't fall down, etc..<br />I gather the idea is to add this something to other levels as well, so you have more than 1 map.<br />I can imagine this working, instead of entering \"Level 2, Arachnut Castle\" you just enter another map level.<br />However this would limit the amount of regular levels, increase the amount of distance to walk between actual levels, only to have less levels to play.<br />Maybe with some hacking Keen 4 can support more levels, just like Keen 1?<br /><br />OK, but then there's the part about multiple Arachnuts.<br />The Arachnut is simply a sprite (a bunch of loose graphic files) that comes with the game, not any level (map or otherwise) in particular.<br />Is the idea (besides the first Arachnut replacement) to get rid of some other sprites, maybe the \"Sprite\" character, and substitute them with other Arachnut replacements, followed with some hacking to make the \"Sprite\" character work just like the Arachnut?<br />Or, is the idea to really add new graphics, and hack the game to be able to access those as well?<br /><br />Maybe I'm just dumb, but whatever you're doing, I didn't think it was possible.<br />It sure opens up some possibilities though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 6925,
+		"title": "Re: hmmm...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-02T05:04:10.000Z",
+		"content": "No retodon, you're not dumb. That is one of the primary problems I encountered. You can only have that x submaps from the primary maps. For the submaps it is not a problem, as I already stated that I will be using a maximum of ten maps there. Fitting in the high number of submaps I planned into the main map - big problem. <br /> I have been avoiding hacking and origioal code rewriting as much as possible, but maybe it is the only way to do so. I don't want this to become illegal, So maybe I will just have to cut some levels, and include them in later mods or something. <br /> Maybe including them in a 2nd part keen4 mod, half and half? say repatch the game to only include 7 members here, in part 1, and the endtext could be saying somewhat like keen taking the prisoners back to his ship hoping the'd have enough but then being forced to the other side of the ship (part 2) to rescue the other 7 ... <br /><br /> The energy sheild that stopped keen from going back out in the hope to catch him inside (mortimers indirect doing) fails somehow (any help here [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  ???) and they shot out, and the former prisoners converse, saying maybe some of the secrets I was savng for the origional end.<br /><br />[hr]<br /><br /> On another front, I was scrolling though some other forums yesterday in the hpe of finding an answer to how the switches worked. Finding lucky, this gave me some more ideas ...<br /><br /> If switches replaced tiles with other tiles, could they replace death tiles as well? say, a reactor control switch. Keen pulls it, and the map lights up in a bright white nuclear explosion - death.<br /><br /> Also, this might be able to open and close secret passages.<br /><br /> Could the switches modify sprites as well? say, a bio-guard mutates into a vertiguard (mad mushroom) or a muti-guard (berkiloid) when keen fiddles with toxin controls.<br /><br /> can switches also do multiple of these? I look forward to seeing what you think.<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6926,
+		"title": "Re: hmmm...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-10-02T08:16:17.000Z",
+		"content": "You can use switches to flip death tiles, but each switch can only flip one tile at once. However, some tiles on the info layer place other tiles (eg the bridge/door info tiles), which would make the secret passages possible.<br />[quote]<b><i>Quote:</i></b>[hr]You can only have that x submaps from the primary maps.[hr][/quote]<br />I'm pretty sure that number is the total number of maps allowed in the game, rather than the amount of levels allowed on the primary map.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 6927,
+		"title": "Re: hmmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-02T12:52:12.000Z",
+		"content": "To avoid issues of ilegality, copy the changed code to a file of its own, then use the %patchfile command in CK4patch to temporarily overwrite the origional code, this way everyone can play your mod without having to download the modified executable.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6928,
+		"title": "Re: hmmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-02T15:42:08.000Z",
+		"content": "\"Not really. It is linked the excact same way as the maps to the levels, all I had too do is to change the level files into map files.\"<br />But how does this technically happen? Patch? Hex-edit? I haven't done almost anything with Keen 4-6 engine..<br /><br />And, I'd like to hear too how you've got multiple arachnuts; as far as I can see (unless didn't notice something) you haven't answered that part of Retord8's question.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 6929,
+		"title": "Re: hmmm...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-02T23:51:41.000Z",
+		"content": "Graffix5000:<br /><br />[quote]<b><i>Quote:</i></b>[hr]You can use switches to flip death tiles, but each switch can only flip one tile at once. However, some tiles on the info layer place other tiles (eg the bridge/door info tiles), which would make the secret passages possible.[hr][/quote]<br /><br /> Hehe, I was actually imagining death tiles through different layers. But true, this is a bit of a problem.<br /><br />Both Graffix5000 and keenrush:<br /><br />[quote]<b><i>Quote:</i></b>[hr]I'm pretty sure that number is the total number of maps allowed in the game, rather than the amount of levels allowed on the primary map. [hr][/quote]<br /><br />[quote]<b><i>Quote:</i></b>[hr]how does this technically happen? Patch? Hex-edit? I haven't done almost anything with Keen 4-6 engine..[hr][/quote]<br /><br /> The submaps are linked via shortcut in the file. In-file shortcuts are tedious, but I can link these via them. just make a map file as normal as if it was a standard mod, then the levels, link the levels, compile and complete the files as you would a normal mod, then link the files via a shortcut. <br /> The total number is indirect, as seperate programs (or keen4 mods) are used to run the submaps. Effectively, there are 19 executables (or bat files) to run the game. It would be great to combine them into one, as presently anyone with half a brain cell [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  can walk in and run the files with the submap- prison levels, and skip half the game.<br /><br /> <b>AS FOR THE ARACHNUT</b>, each sublevel is a mod in it's own effectively, so different sets of sprites can be used. I just make sure each one is similar enough so people don't notice the difference.<br /><br />Levellord:<br /><br />Ummm... could you clarify that? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />[hr]<br /><br /> I may have to cut some levels, as currently there are 199 planned (1 primary map, 18 submaps (max submaps), and 180 satndard levels (18 submaps X 10.)) And I think that that is excessive, even if i dont [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  before I finish. Halve the standard levels, maybe cut some submaps, and reduce the number of prisoners (14 seems a bit excessive, don't you think?). <br /> This massive amount is going far, maybe too far. I just need to find some where between a zillion million levels that no-one can complete in a lifetime and making one level (boring!) what do you guys do when something doesn't work out right? How do you manage to create brilliant mods in so short a time?<br /> Can anyone help please? Some [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  ideas here, but I don't want it to take forever, nor do I want it to be rushed. I have done most on the reactor level so far. I'll put a larger portion on as soon as I can find a site to host the full picture...<br /><br />I hope this explains your questions.<br /><br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6930,
+		"title": "Re: hmmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-03T07:46:45.000Z",
+		"content": "Yes, that explains. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Cheers.<br /><br />Good luck with the mod, there's a massive amount of work to do. Sorry, can't help, all my free time goes to my personal work/projects.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 6931,
+		"title": "Re: hmmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-03T10:32:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Ummm... could you clarify that?[hr][/quote]<br /><br />About the mid 1990's people became aware that although they could make Keen oh that much better if they altered say, the titlescreen position, they couldn't actually do that as editing the executable in ANY way was ilegal.<br /><br />Then out of the gloom, one man had an idea, an idea that would shake the Keen community to its very foundations and make modding possible. By utilizing an obscure DOS command, he could patch the entire executable into memory, and run the game off of it. With this temporary program, any edits made to it wouldn't affect the EXE as such and were thus completely legal. The first patches arrived just weeks later.<br /><br />And then a forum, patches began to collect, they began to form something other than a fun addittion people could fiddle with in their own home.<br /><br />And then came KeenRush and the Yorphius mod.<br /><br />Instantly a trend was set; people started downloading mods that had been specifically designed to be complete (legal) graphics remakes. The Keen community has never looked back since.<br /><br />------<br /><br />Anyways, there exists a program called Ck4patch (and 5patch, 6patch, dreamspatch and so on) that will allow you to legally 'edit' the executable. On the Keen:Modding forum there are instructions on where to download and how to use this nifty tool, but in your case the explainment is as follows:<br /><br />The %patchfile command is used whenever the hack you've made is too large for you to bother with breaking it up into dozens of small one line patches such as:<br /><br />%patch $4040 \"This is my big story patch\"<br />%patch $4059 \"Zibble, another line! 1337\"<br /><br />Instead you'd use the %patchfile command, putting your entire code into one easy to make file:<br /><br />%patchfiile $4040 Storytest.txt<br /><br />In your case simply find the location you've editied to make your 1337 maps, copy the code to a file (any file, whatever) and use the %patchfile command.<br /><br />Phew! Any questions?A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6932,
+		"title": "Re: pathfile",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-03T20:50:50.000Z",
+		"content": "Wow LL, that sound great. But as there are multiple exectutables (or bat files) to use, is it possible to combine it all into a single file?A very detailed explanation there, kudos to you! I'll try setting it now...<br />Thanx![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6933,
+		"title": "Re: Candy",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-03T21:02:46.000Z",
+		"content": "Coffee (100 pt):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/coffee.jpg[/img]<br /><br />Energy bar (200 pt):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/energybar.jpg[/img]<br /><br />Sugar puff (500 pt):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sugarpuff.jpg[/img]<br /><br />Antitoxin (1000 pt):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/antitoxin.jpg[/img]<br /><br /><b>Chocolate</b> (5000 pt)[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  :<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/chocoslab.jpg[/img]<br /><br />Other stuff:<br /><br />Supa soda (1/100th life):<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/supasoda.jpg[/img]<br /><br /><b>Supa soda mega pak</b>(free life)[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  :<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/Supasodamega.jpg[/img]<br /><br /><br />What do you think?<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6934,
+		"title": "Re: Multimaps",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-03T23:48:59.000Z",
+		"content": "Multimaps are an interesting addition to this mod, but they probably will also cause a few errors. (probably becaus the game is still being compiled, and will be for some time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img]   ) Can anyone help here?<br /><br /> - Every time you switch between maps, it will most likely revert to the ol' standard 3 life, 5 shot, 0 points etc. This is probably the biggest error.<br /><br /> -  the transition won't work properly, and every new level opens a new application, so you'd have to configure joystick etc for every new map.<br /><br /> - whenever you enter a new map, it opens a new file (exe/bat) and if I terminate the application, the game will most likely crash.<br /><br /> I <b>need</b> to get these bugs fixed, as otherwise I will be unable to intergrate the submap systerm. (Which may not be too bad, come to think of it...)<br /><br />[hr]<br /><br />If I do get these fixed, which I hope I do, another possibility arises. the 'underwater' template could be used as levels straight from the primary map (ie flying the bwb through a giant map. As the sprite set can be set for the primary map as completly different, you could shrink the existing sprites and maybe add some new ones.)<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6935,
+		"title": "Re: posting levels...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-04T03:13:31.000Z",
+		"content": "Does anyone know a decent site with no rezizes or format changes to post pictures on? I have a level strip that some people may find interesting.<br /><br />BTW, Is it possible to transfer sprites into composition sprites? That way you could see the stuff in seperate layers (ie solid, foreground, background, items, sprites etc)<br /><br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6936,
+		"title": "Re: posting levels...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-04T11:03:17.000Z",
+		"content": "This photobucket.com works well for example storing the pictures.<br /><br />\"BTW, Is it possible to transfer sprites into composition sprites? That way you could see the stuff in seperate layers (ie solid, foreground, background, items, sprites etc)\"<br />You mean like sprite having for example two layers? Sorry, nope. You can get that kind of effect slightly by not masking part of the image, I think.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 6937,
+		"title": "Re: hmmm...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-05T04:41:59.000Z",
+		"content": "[img]http://i16.photobucket.com/albums/b33/freeyorp101/3-23strips-f.jpg[/img]<br /><br />That is a cutout of one of my levels, in full colour. Photobucket flattens the sprites into jpeg format, so no layers; but this should still give a decent impression af what my levels are going to be like. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I'll post a decent res image as soon as I can find a better host than photobucket (ie allows bmp, files 2.47 MB (the size of this picture) and is free.)<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6938,
+		"title": "Re: hmmm...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-05T06:50:27.000Z",
+		"content": "Eww, don't post BMP, they're uncompressed and a waste of space - if you don't like JPEG use PNG, they're the same quality as BMP only compressed.<br /><br />Doesn't your ISP give you a few MB of webspace?  You could just FTP the pictures there instead if you're looking for somewhere better.  Failing that there are plenty of people here who'd give you a web account for uploading pictures to."
+	},
+	{
+		"id": 6939,
+		"title": "Re: hmmm...",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-05T11:04:38.000Z",
+		"content": "freeyorp101, just because an image is in jpeg, it doesn't mean it has smaller dimensions, but the filesize will be a lot less compared to a bmp. If you convert your bmp files to jpg before uploading them to photobucket, you'll be able to upload much bigger images. Learn the purpose of file formats."
+	},
+	{
+		"id": 6940,
+		"title": "Re: hmmm...",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2005-10-05T14:29:32.000Z",
+		"content": "BMP BMP!!! is [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]    [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]     if you want to put it online .<br />and if you cant save it in .jpg of .png i know a good and small progam [url=http://www.irfanview.com/]click linky to go to the irfanview site[/url]<br /><br />EDIT its free 0$I am the bad you are the ugly There is no good"
+	},
+	{
+		"id": 6941,
+		"title": "Re: *sigh*",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-06T01:51:23.000Z",
+		"content": "This file has pretty much the same filesize as a bmp as a png, and bmp is gennerally more common, so I said bmp.<br /> If you have such a strong aversion to bmp, i'll make it png, but it won't make much difference in the filesize aspect. Granted, it may save a few bytes, [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  but otherwise its alright.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6942,
+		"title": "Barf on My Pupils!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-06T08:06:51.000Z",
+		"content": "[hr]<b>freeyorp</b> This file has pretty much the same filesize as a bmp as a png, and bmp is gennerally more common, so I said bmp.<br />[hr][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  What are you using to convert it? PNG usually ends up a similar size to GIF, which is less than 100kb for a BMP of this size. It is definitely not the same as BMP.<br /><br />Stick with Photobucket, but convert your files to PNG or GIF. Never put BMP online unless it's in a .zip file.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 6943,
+		"title": "Re: Barf on My Pupils!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-06T09:40:53.000Z",
+		"content": "I'm not 100% sure, but I'm pretty sure Windows BitMapped Pictures (BMPs) have absolutely no compression.<br />PNG files definately do, although depending on the encoding there is a different amount of it.<br />Look for Ken Silverman's PNGOUT tool to get a better compression than most programmes can give you.<br /><br />Anyway, there is a huge filesize difference, especially for larger pictures.<br />BMPs really aren't common anymore as they used to be, at least not in the circles I travel.<br />They are maybe synonymous to VOC files... although of course the most-used BMP-format is a Microsoft format, and VOC is Creative Labs, whereas its competitor (hardly relevant anymore either) is Microsoft.<br />OK, getting off-topic here, sorry. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 6944,
+		"title": "Re: Barf on My Pupils!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-06T10:17:16.000Z",
+		"content": "FWIW .BMP files can actually be compressed, but it only uses a very basic RLE compression (Run Length Encoding - which basically means instead of writing 100 black pixels, you write one black pixel and then a code that says \"do this 100 times\")<br /><br />It's not used very often, and PNG's compression is vastly superior.  You can also adjust the level of PNG compression with most programs, so you might want to try that too.  PNG files can be uncompressed, so it's possible the program you're using just doesn't compress them at all and that's why they're similar in size to BMP.<br /><br />And I guess the .BMP format isn't that popular because Microsoft invented it just for storing icons and graphics in Windows - and probably long after GIF came out.  On the other hand, I'm sure .VOC came out before .WAV, but perhaps .WAV won out because although a slightly inferior format, it's much simpler to process from the programmer's point of view."
+	},
+	{
+		"id": 6945,
+		"title": "Re: Barf on My Pupils!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-10-06T16:55:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]it's much simpler to process from the programmer's point of view.[hr][/quote]<br />Is it? I read a programming book by Andre LaMothe, who said that it was easier to process .VOC files because they had a simpler format - .WAV files had a more complex format because they were based on a generic container format originally specified by Electronic Arts. Wikipedia seems to [url=http://en.wikipedia.org/wiki/WAV]think so[/url], too (follow the IFF and RIFF links).<br /><br />Moving back on-topic, I think the difference between a compressed PNG image and its equivalent BMP image would be more than a few bytes. (A few megabytes, more like - BMPs are huge) Also, I don't understand this:<br />[quote]<b><i>Quote:</i></b>[hr]Photobucket flattens the sprites into jpeg format, so no layers[hr][/quote]<br />BMP files don't have layers, so how is that relevant?[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 6959,
+		"title": "Re: *sigh* again",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-06T19:59:08.000Z",
+		"content": "Photobucket converts the files to JPEG regardless of size or file type. And I didn't put the bmp file online - I put the JPEG counterpart online.<br /><br /> Sorry, I just remembered that all of my files are automaticly compressed anyway (high compression, not standard) so it probably is a lot more than 2.47 MB. This may also explain why there is not such a high level of difference between the bmp and it's png counterpart.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Photobucket flattens the sprites into jpeg format, so no layers.<br /><br />BMP files don't have layers, so how is that relevant? [hr][/quote]<br /><br />I changed the file format since then, so that is no longer relevant at all.<br /><br />[quote]<b><i>Quote:</i></b>[hr]getting off-topic here, sorry.[hr][/quote]<br /><br />Too true - we're discussing the which is the best file format in a mod ideas topic.<br /><br />[hr]<br /><br />To go back on topic, I'm having difficuties with the music in keen. Would it be fitting to keep the music, or should I continue trying to compose some more?<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6960,
+		"title": "Re: picture - sized up",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-06T20:08:10.000Z",
+		"content": "[img]http://i16.photobucket.com/albums/b33/freeyorp101/3-23strips-f-j.jpg[/img]<br /><br />(you will probably want to zoom out to view the full picture [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  . It is very big, so I linked the file.) <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6946,
+		"title": "Re: Barf on My Pupils!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-06T21:45:21.000Z",
+		"content": "<i>\"I read a programming book by Andre LaMothe, who said that it was easier to process .VOC files because they had a simpler format\"</i><br /><br />Well it depends how you look at it - the .WAV header is more complicated, but once you've read in the header you pretty much have an uninterrupted stream of sound data.  The VOC format is divided into chunks, so while most sounds are  one chunk of PCM data (and thus simpler than .WAV), you have to cater to the possibility that you'll come across a chunk of 'silence' data, a chunk of 'looped' sound data, etc.  All in all there are about 10 or so different types of chunks you have to handle, and IMKO that's more complicated than just the one stream of PCM data you get with .WAV."
+	},
+	{
+		"id": 6947,
+		"title": "Re: GRRRR!!!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-07T21:21:08.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  Enough with those posts please! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br /><br />make your own topic in misc or something on file formats but PLEASE don't put them here!<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6948,
+		"title": "Re: GRRRR!!!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-08T00:40:01.000Z",
+		"content": "Okay, calm down - all posts eventually go off topic if you don't keep giving us more things to discuss.  Just saying \"enough with these posts\" won't help, what else are we supposed to discuss? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Well I'll bring it back on topic then by saying the level looks good, but there's one fatal flaw - too many points.  You seem to have a trail of points leading the player around the level, which means you'll have an excessively high score by just completing the level.  Points are supposed to be in places where you wouldn't normally go, so you have to actually go to some effort to collect them.<br /><br />The only time you should make a trail of points is when the player can't see where they're going, and they can follow the points instead.  But this doesn't happen very often in most levels."
+	},
+	{
+		"id": 6949,
+		"title": "Re: points - heh heh.",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-08T23:47:06.000Z",
+		"content": "The excessive amount of points are deliberate - a build up for the fact that it is a very tricky level, and optional (like the bloogdome in keen6 in that aspect.) <br /> Note there are 'secret' areas that have been uncovered there for visual reference, ie the path that leads to the switch that activates a vital bridge later in the level, and that most points are the lower points. The most common are the quick shot coffee, and the supa soda. There is an extra life backed up against the wall to the far left, but four gun turrets and toxin make it quite difficult to get to. <br /> The 'claws' have a hidden death aspect to them, and I am hoping to revolve the death tiles around. I am unsure of how to rotate death tiles, but maybe an origional sprite for the claws?<br /> The level cutout was given as a small indication of what the more difficult levels would be like. There are no guns in this level, save one at the start in a secret area [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]  , so you need to be able to dodge and duck rather than shoot.<br /> Back to death tiles/switches, maybe a 'boby trap' for the switches, where the switch turns into a switch with something nice and sharp poking out of it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  . <br /> Maybe I could give you a larger cutout of the level to give an indication of what is going on there. But if so, I may have to whiteout some areas, as this level contians some spoilers/clues for wat is going to happen at the end of the game.<br /> Hee hee, this should give plenty to last. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6950,
+		"title": "Re: submaps",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-18T04:47:12.000Z",
+		"content": "I have decided on eleven submap levels as of now:<br /><br />- submap one: Landing bay<br /> Picture: a  random cluster of buildings. <br />    8 levels:<br />.....................................START<br />........................................|<br />................................1. the airlock<br />........................................|<br />.....2. energy storage-----------------4. bio storage<br />...............|.............................................|<br />.....3. weapons testing..............|--------------------------|<br />.................................5. packaging......................6. security booth 1<br />..............................................................................|<br />.......................................................................7. personnel storage<br />.............................................................................|<br />.....................................................................8. security booth 2.)<br /><br />- submap two: Defence bay alpha<br /> Picture: a giant missile<br />......5 levels:.......START<br />............................|<br />..........|-------------------------|<br />9. missile construction......10. explosives construction<br />..........|<br />11. the factory<br />..........|<br />12. the missile<br />..........|<br />13. the warhead<br /><br />submap 3: The power plant<br /> [hey, I do want to keep some things a secret!]<br /><br />submap 4: Toxin production<br /> [see above answer ^]<br /><br />submap 5: Security center<br /> [^]<br /><br />submap 6: Prison cell one<br /> [^]<br /><br />submap 7: The temple of mortimer<br /> [^]<br /><br />submap 8: Defence bay beta<br /> [^]<br /><br />submap 9: Prison cell two<br /> [^]<br /><br />submap 10: Defence bay fury<br /> Picture: an animated pit showing toxin, fire, missiles, and more.<br /> Specificly made to guard mortimers castle, this is the second most difficult submap in the game.<br /><br />Submap 11: Mortimers castle<br /> Picture: a giant, spiky, golden, armour plated monstrosity shooting out of the ship.<br /> The most difficult submap in the game - oh, and watch your step! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />[hr]<br /><br />The prisoners are located in pison cell one and two, and the third in Mortimers castle.<br /> I changed the number of prisoners again, this time to 3, as fourteen may be just a teensie dificult...<br /><br /><b>Can you *Please* help with these errors:</b><br /><br />- Every time you switch between maps, it will most likely revert to the ol' standard 3 life, 5 shot, 0 points etc. This is probably the biggest error.<br /><br />- The transition won't work properly, and every new level opens a new application, so you'd have to configure joystick etc for every new map.<br /><br />- Whenever you enter a new map, it opens a new file (exe/bat) and if I terminate the previous application, the game will most likely crash.<br /><br /> Once these are fixed, I can start compiling and Building the game. As it will take a long time anyway [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img]  , I would like to start sooner rather than later.<br /> Any help would be greatly appreciated, thanx.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />____________________________________________________<br /><br />- the yorp shalt inherit the mars -"
+	},
+	{
+		"id": 6951,
+		"title": "Err...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-18T10:20:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Freeyorp101 said:</b> - Every time you switch between maps, it will most likely revert to the ol' standard 3 life, 5 shot, 0 points etc. This is probably the biggest error.[hr][/quote]<br /><br />Would this also mean that the prisioner lvl is also reset? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6952,
+		"title": "Re: Bugs",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-19T04:34:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Would this also mean that the prisioner lvl is also reset?[hr][/quote]<br /><br />You betcha.<br /><br />All continuity between submaps would be broken.<br /><br />- maybe I should do like LL sugesteed in that of something like shadowkeen - although I don't want to abandon the linking segment [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />The multimap idea is good, but flawed. I need help with all 3 bugs, as here I have no idea of what to do about it. I do not want to abandon the conector app. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6953,
+		"title": "Keen Clone;",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-19T05:03:35.000Z",
+		"content": "Well... the keen clone in the release forum seems to show that you can keep multiple programs in one window. It's possible, but not likely...<br /><br />Here's an idea:<br /><br />Play Mod 1 - when finished; you get a password (ending sequence [really just an animation which gets the player ready for mod 2)<br /><br />Set up the next mod to open a program. This program uses a password. Once open, you can play the next mod... ect...<br /><br />I'm getting tired!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6954,
+		"title": "Re: Keen Clone;",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-19T09:42:33.000Z",
+		"content": "I used a 'save game, switch games, load game' approach in SK2, but I abandonded it in the reedit as being too difficult when Xky found a more interesting method [for Keen 1-3]A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6955,
+		"title": "Re: Bugs",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-10-22T22:50:02.000Z",
+		"content": "Najawa:<br /><br />The problem with this idea is that you would have to do all of the submaps rather than selective few, an option that is displayed in the official keen games. <br /><br />- Do most people play all the levels in the mods straight off?<br />- How would <i>you</i> increment the password setup?<br /><br />Levellord:<br /><br />- Eh? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  I don't really get the purpose of that post.<br /><br />[hr]<br /><br />And one query:<br /><br />What would you classify as most important in a mod:<br /><br />(a) The quality of the levels,<br />(b) The quantity of the levels,<br />or (c) how long it takes to mod?<br /><br />This would be helpful to in how I make my mod.<br /><br />[hr]<br /><br />Keep in mind, this is intended as an ideas forum, not really to much of the actual modding forum (that comes later ...)<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6956,
+		"title": "Re: Bugs",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-23T11:36:39.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]- Eh?  I don't really get the purpose of that post.[hr][/quote]<br /><br />Forgive. The approach I used in SK1 was that of a player finnishing one part of the game, saving their game, then running the second part of the game. This may not work to well of Keen4-6 where you can save in levels. A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6957,
+		"title": "I'd say:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-23T20:54:54.000Z",
+		"content": "I'd have to say I'd choose:<br /><br />[quote]<b><i>Quote:</i></b>[hr]The quality of the levels[hr][/quote]<br /><br />because lots of crappy lvls are boring, and we don't give a fudge if you've been working on that mod before kindergarten!!!<br /><br />[quote]<b><i>Quote:</i></b>[hr]Eh? I don't really get the purpose of that post.[hr][/quote]<br /><br />Must I explain everything? I guess I do.<br /><br />I basically meant that you could not open up any levels in your mod unless you had a password. You would get the password for each submod in the ending sequence by patcing it in somewere.<br /><br />E.G. instead of it saying 'The End', it says 7455(01)3 (Passcode)<br /><br />Get it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 6958,
+		"title": "Re: me back",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-11-11T22:55:03.000Z",
+		"content": "K, Im back now.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Must I explain everything? I guess I do.<br /><br />I basically meant that you could not open up any levels in your mod unless you had a password. You would get the password for each submod in the ending sequence by patcing it in somewere.<br />[hr][/quote]<br /><br />err, that wasn't what i meant najawa, but thanks anyway.<br /><br />the thing is, you seemed to describe a linear form for keen, rather then optional levels (ie. like the temple of the forbidden, isle of tar etc.)<br /><br />Another idea is if we are linking these, there could be keen5's as well. (not keen6, no help like keen4,5 so no continuity there.)<br /><br />One consideration is just to make a normal mod, and just have one sprite set, etc.<br /><br />Forgive me if I seem a little [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  at times, but I haven't been modding as long as some you guys.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	}
+]

@@ -1,0 +1,274 @@
+[
+	{
+		"id": 26,
+		"title": "Commander Keen - Marooned on Mars 1.34 & 1.0(?)",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-29T13:06:23.000Z",
+		"content": "I just came across this really strange version of Commander Keen 1 when searching for lost older versions of the Keen games. On the startup screen the game is identified as version 1.34, and judging by the docs, it's the version Precision Software distributed in the UK and Europe. Interesting is that most references to Apogee have been removed, and the information about Fight for Justice has been replaced with information about Goodbye, Galaxy! Anyone interested in seeing this can download it from here:<br />[url=http://cd.textfiles.com/silvercollection/disc1/APOGEE/KEEN_1.EXE]cd.textfiles.com/silverco...KEEN_1.EXE[/url]<br /><br />EDIT: Found another version, read later post"
+	},
+	{
+		"id": 1739,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-29T13:16:13.000Z",
+		"content": "Interesting. Where did you find this? Doesn't seem to be anything different about the gameplay, just cosmetic intellectual property-based stuff."
+	},
+	{
+		"id": 1740,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-29T13:25:56.000Z",
+		"content": "The adress from where is found this file is in the original post. A site that collects various CDs with files from BBSes and then uploads the contents."
+	},
+	{
+		"id": 1741,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-29T13:29:32.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Highly interesting, cheers!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1742,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-29T15:02:01.000Z",
+		"content": "Holy crap, that website has a lot. Thanks for that. Nice find, too. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 1743,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-07-29T20:25:24.000Z",
+		"content": "I've compared the files of version 1.34 and version 1.31 and the different files are:<br /><br />EGAHEAD.CK1<br />EGALATCH.CK1<br />EGASPRIT.CK1<br />ENDTEXT.CK1<br />KEEN1.EXE<br />PREVIEWS.CK1<br /><br />ENDTEXT.CK1 has ordering information in v1.31, but not in v1.34.<br />PREVIEWS.CK1 talks about The Fight for Justice in v1.31 and about Goodbye Galaxy in v1.34.<br />KEEN1.EXE is compressed with LZEXE in v1.31 and PKLITE in v1.34. After uncompression the filesizes are still different.<br />I haven't examined EGAHEAD.CK1, EGALATCH.CK1 and EGASPRIT.CK1, but I guess the difference has something to do with \"Copyright 1990 by Id Software\" on the title screen.<br /><br />The other files are all the same. So all the levels are also the same.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 1744,
+		"title": "Re: Commander Keen - Marooned on Mars v1.34",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-07-29T20:35:53.000Z",
+		"content": "Wow... this is so cool. After all these years new versions are STILL being found.<br /><br />Please excuse my ignorance, but why would any references to Apogee be removed?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 1745,
+		"title": "because",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-29T20:39:22.000Z",
+		"content": "When id Software was being founded, for Keen1, it was just 4 guys working after-hours to produce the game.  They weren't an established game company, and they had no real distributive capabilities... so they signed on with Apogee to distribute their work.  Chances are, because of their level of success, they were able to publish on their own without Apogee, and hence the version with Apogee references removed.<br /><br />Just speculation."
+	},
+	{
+		"id": 1746,
+		"title": "because because",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2007-07-29T21:34:36.000Z",
+		"content": "Look at this.<br /><br />[url=http://www.mobygames.com/game/commander-keen-invasion-of-the-vorticons]Precision Software Publishing[/url]<br /><br />A Commander Keen trilogy from Precision Software....<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img]"
+	},
+	{
+		"id": 1747,
+		"title": "Re: because because",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-29T22:59:51.000Z",
+		"content": "I think most references to Apogee were removed simply because this isn't the version that Apogee distributed. This version was distributed by Precision Software Applications (just like the Goodtimes Software versions, or the Promo Keen 6 demo Frenkel discovered, I found the original distribution file for this from [url=http://cd.textfiles.com/silvercollection/disc1/APOGEE/ALIENS.EXE]here[/url]) so it would naturally be quite stupid to include the instructions as how to order the game from Apogee when this was advertising Precision Software. The confirmation for this being a Precision Software release comes when you quit the game.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Look at this.<br /><br />Precision Software Publishing(link)<br /><br />A Commander Keen trilogy from Precision Software....[hr][/quote]<br />Yes I also found that thing some time ago, I thought that the guy who uploaded those scans could be the key for us getting patches for the registered versions of 1.34. =)<br /><br />Also whilst you are here Gohan, I think you have already answered this question quite a lot of times but it never hurts to ask, I guess. Are the invasion of vorticons game in the id Anthology all version 1.31? After this discovery I'd expect id to cook up their own versions, but I guess you would've noticed if they were different."
+	},
+	{
+		"id": 1748,
+		"title": "because because well just...because",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2007-07-29T23:43:55.000Z",
+		"content": "Yeah Keen 1-3 from id anthology is 1.31 nothing different.<br /><br />And here is the [url=http://cd.textfiles.com/silvercollection/disc1/APOGEE/KEEN4EGA.EXE]keen 4[/url] ([url=http://cd.textfiles.com/silvercollection/disc1/APOGEE/KEEN4CGA.EXE]CGA[/url]) Precision Software.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 1749,
+		"title": "Re: because because well just...because",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-30T09:13:59.000Z",
+		"content": "What a week!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1750,
+		"title": "Re: because because well just...because",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T09:14:05.000Z",
+		"content": "Is there anything different in that CGA version compared to the original? After a rather quick look I couldn't find anything that differs between that and the actual 1.1 version."
+	},
+	{
+		"id": 1751,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T10:02:15.000Z",
+		"content": "These discoveries newer end, I think I just stumbled upon an early (1.0?) or maybe even a BETA version of Commander Keen 1! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  There's no version number mentioned at start-up and the game seems mostly the same, but look at the previews! That keen2 shot seriously looks like beta at least! The keen3 shot is completely different than the one in 1.1. Also there are some typos etc. that makes me think this is an earlier version. Get the file from [url=http://real_hotdog.sitesled.com/Pictures/1KEEN.ZIP]here[/url].<br /><br />EDIT: Differences:<br />- Preview screenshots different<br />- Typos in help text<br />- No version number<br />- Vorticon feet slightly different<br />- F8 does not crash game, plays 1-UP sound"
+	},
+	{
+		"id": 1752,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2007-07-30T11:05:40.000Z",
+		"content": "Woah, excellent find!"
+	},
+	{
+		"id": 1753,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-07-30T12:11:43.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Is there anything different in that CGA version compared to the original? After a rather quick look I couldn't find anything that differs between that and the actual 1.1 version.[hr][/quote]<br /><br />The files that are needed to run the game are exactly the same.<br /><br />But the PSA Keen 4 CGA version comes with the file PRICES.EXE and that's pretty interesting to read, because it tells us what's comming from Apogee Software in 1992:<br />[quote]<b><i>Quote:</i></b>[hr]<br />Cosmo. Kid from Space<br />Bio Hazard<br />Dino Days<br />Gate World<br />Graveyard<br />The Adventures of Zonk<br />Commander Keen Volume 4<br />[hr][/quote]<br /><br />\"Cosmo. Kid from Space\" and \"The Adventures of Zonk\" were both working titles of \"Cosmo's Cosmic Adventure\".Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 1754,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T12:36:42.000Z",
+		"content": "Was GateWorld going to be an Apogee title? And what's Dino Days and Graveyard?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]"
+	},
+	{
+		"id": 1755,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-07-30T13:45:08.000Z",
+		"content": "That Keen 1 1.0 is awesome. It's amazing how much different the Keen 3 levels were! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] -Genius314"
+	},
+	{
+		"id": 1756,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T13:54:49.000Z",
+		"content": "Yeah they seem very different but I don't think the actually had a single complete Keen 3 level at that point. The thing I'd really like to know is whether Apogee was distributing this shareware (1.0) version at some point..."
+	},
+	{
+		"id": 1757,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-07-30T13:55:38.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Was GateWorld going to be an Apogee title? And what's Dino Days and Graveyard?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [hr][/quote]<br /><br />[url=http://www.rinkworks.com/apogee/s/2.5.shtml]GateWorld was going to be an Apogee title. Dino Days was never started.[/url]<br />[url=http://www.rinkworks.com/apogee/s/2.4.shtml]Graveyard was a working title for Monster Bash.[/url]Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 1758,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-30T14:15:28.000Z",
+		"content": "That Keen 1.0 version is a lot more buggy and unresponsive. The beta shots of Keen 2 and 3 look pretty nice. Good find! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 1759,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T18:23:38.000Z",
+		"content": "How exactly did you notice that 1.0 s buggy and unresponsive? Can you give an example of a bug (I'd like a list but I guess you won't go to that). During my quick look I couldn't find any bugs that I never noticed in the later versions."
+	},
+	{
+		"id": 1760,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-30T19:18:22.000Z",
+		"content": "Unresponsive as in when I hold a direction key for a while in the world map and then release it, it'll keep on walking for a short while. The key queue isn't empty after I released the key, apparently.<br /><br />Buggy as in that, plus the help text scrolls immensely fast and is just as unresponsive, plus it won't do anything when I'm only tapping the keys.<br /><br />The levels themselves mostly play fine, but the menus and world map have these problems in v1.0. Then again, it was the first released version (or even a beta).____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 1761,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T20:29:23.000Z",
+		"content": "Actually I'm asking these things in order to make a list of differences between this version and 1.1 and add to the Keen Wiki (already started a list). That scrolling timing bug (happens when too fast computer) exists in version 1.1, from top of my head I think it got fixed in 1.3.<br />I couldn't replicate that keyboard unresponsiveness on my computer, but that of course just means it doesn't happen to me. Could you try checking if it happens in 1.1 or 1.3?"
+	},
+	{
+		"id": 1762,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-30T21:41:26.000Z",
+		"content": "This is unbelievable! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  Awesome! Those pics are cool, I wonder what city that was going to be first, the one in that Keen 2 preview pic? Or is it London? I added the pics to Keen wiki. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1763,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-30T21:53:56.000Z",
+		"content": "I think it's interesting that Keens 2 and 3 appear in the ordering info when they obviously were not finished at the time this version of Keen 1 was made.  That Keen 3 screenshot looks nice, though...the water is wavier and less watery and I think the ground is more natural-looking.  Also, I bet that image in the Keen 2 screenshot is the old London pic.  Maybe it was too dark or not distinctive or something.<br /><br />Very cool! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />EDIT:  I've looked at the screenshot again, and I think that the ground texture is the same.  I guess it looked more rounded when I first saw it... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 1764,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-30T22:09:37.000Z",
+		"content": "I was also at first wondering what city that Keen 2 shot could be from, but after further inspection I'm convinced that it's London. There's clearly a tower (quite short for whatever reason) with a big clock on it, what else could it be than Big Ben [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I did notice the different tiles used for the water, but didn't realize that the ground tiles differed. Interesting, maybe someone will dig up a beta of Keen 2 and 3?"
+	},
+	{
+		"id": 1765,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-07-30T22:33:04.000Z",
+		"content": "In version 1.0 of Keen 1, on the world map when I use the GOD-cheat, I can't walk through the walls as in the later versions.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 1766,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-30T22:46:23.000Z",
+		"content": "Ooh, didn't catch that![img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 1767,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-31T08:46:54.000Z",
+		"content": "Ah, so it seems! I added that bit of info to the wiki. The water looks cool, I didn't even notice it at first. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1768,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-31T12:42:40.000Z",
+		"content": "Looks like I found further confirmation for this 1.0 to be legit. That Commander Keen 3 shot can also be seen [url=http://www.mobygames.com/game/dos/commander-keen-invasion-of-the-vorticons/cover-art/gameCoverId,62416/]here[/url].  Also take a look at that Keen 2 shot under it, doesn't that level entry look different than in the final? Looks like we found some more beta shots!"
+	},
+	{
+		"id": 1769,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-31T14:02:37.000Z",
+		"content": "That ad *AHEM* cover art was also contributed by someone who has Hall as a last name. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  <br /><br />Btw, I didn't know 1.1 had the reaction-on-keypresses bug too. Then again I never tried 1.1.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 1770,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-07-31T14:46:51.000Z",
+		"content": "Ad? It's a cover art, y'know [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Anyways I think I'll try sending a mail to that guy and persuade him to check what version his commander keen games are."
+	},
+	{
+		"id": 1771,
+		"title": "Re: WT* IS THIS?!",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-08-08T18:49:29.000Z",
+		"content": "I just recieved a response from the guy who had bought the Commander Keen Vorticons games from Precision Software and his versions were 1.1 for Keen 1 and 1.0 for 2 &amp; 3 meaning we'll need to find someone else to get those 1.34 registered patches."
+	}
+]

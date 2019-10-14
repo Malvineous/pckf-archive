@@ -1,0 +1,82 @@
+[
+	{
+		"id": 711,
+		"title": "To all those new to this forum",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-25T22:35:47.000Z",
+		"content": "Please, if you see something that you think is a new Keen game (like 2000 or Krodacia), <b>search the forums for your answers before posting</b>. Chances are that <b>we already know about it</b>, and it only adds clutter.<br /><br />Not to attack anyone personally. I was worse than this, anyways.-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 18782,
+		"title": "Re: To all those new to this forum",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-26T02:11:23.000Z",
+		"content": "To be fair, ezBoard's search function sucks.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 18783,
+		"title": "Re: To all those new to this forum",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-26T05:00:36.000Z",
+		"content": "That is true. I just tried it and had a hell of a time finding stuff.<br /><br />But still, some things are kind of a given. If there is a real Keen 7, someone here knows about it already.-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 18784,
+		"title": "Re: To all those new to this forum",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-26T06:13:14.000Z",
+		"content": "I have to agree, I can't find anything with it.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 18785,
+		"title": "Re: To all those new to this forum",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-26T07:08:48.000Z",
+		"content": "[url=http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Anl%3Aofficial&hs=0xH&q=site%3Ahttp%3A%2F%2Fp072.ezboard.com%2F+keen+KEYWORD+HERE&btnG=Search]Google link to search these forums.[/url] Well, most of it anyway.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18786,
+		"title": "Re: To all those new to this forum",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-26T10:16:50.000Z",
+		"content": "I haven't tested this outside of Firefox, but you can create a new bookmark, and paste this into its URL field:<br /><br /><i>javascript:Qr=document.getSelection();if(!Qr){void(Qr=prompt('Search the PCKF for:',''))};if(Qr)location.href='http://www.google.com/search?q=site%3Ap072.ezboard.com+'+escape(Qr)+'+%22Commander+Keen+Forum%22'</i><br /><br />Then when you click on the bookmark a window will pop up asking you for some search terms, and when you click OK it will bring up the results in Google.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18787,
+		"title": "Re: To all those new to this forum",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-26T20:03:45.000Z",
+		"content": "Or, you know, we could always switch to phpBB and EMBED THINGS LIKE THAT INTO THE FORUM.-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 18788,
+		"title": "Re: To all those new to this forum",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-26T21:46:51.000Z",
+		"content": "What? phpbb is way limited, if we decide to switch at least switch to a more secure and capable forum system. Like SMF.<br /><br />If you switch to a different forum system, what's the point in embedding that anyway? All newer ones come with search functions that work.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18789,
+		"title": ".",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-07-27T22:27:48.000Z",
+		"content": "Or get a PCKF PHP based site, and it comes with forum software. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 18790,
+		"title": "Re: .",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T20:46:24.000Z",
+		"content": "Website + standard forum system instead of only a standard forum system? Sounds good, but who would code the site?<br /><br />(I'm assuming you don't mean preset systems like Postnuke or... Mambo?, because that stuff is way generic and boring.)____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	}
+]

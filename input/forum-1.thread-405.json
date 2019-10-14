@@ -1,0 +1,106 @@
+[
+	{
+		"id": 62,
+		"title": "keen 6 backdoor passwords",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2006-10-08T06:24:19.000Z",
+		"content": "Keen 6 has passwords like spear of destiny does to play the game.<br /><br />I found out spear of destiny has backdoor passwords:<br /><br />JOSHUA<br /><br />PELT<br /><br />SNOOPS<br /><br />Do you think keen 6 might have backdoor passwords too?"
+	},
+	{
+		"id": 2348,
+		"title": "Re: keen 6 backdoor passwords",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-08T09:18:38.000Z",
+		"content": "Haven't heard of any, but it's an interesting thought. Not entirely impossible that there'd be some. I tried to find, but couldn't, however. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2349,
+		"title": "codes",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-10-08T18:16:16.000Z",
+		"content": "A disassembly or hex dump might help in finding out, right?"
+	},
+	{
+		"id": 2350,
+		"title": "Re: codes",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-09T00:58:00.000Z",
+		"content": "Where is all the text stored in Keen 4+? I went through the files with a hex editor but couldn't find any straight text. The names must be stored in there somewehere."
+	},
+	{
+		"id": 2351,
+		"title": "Re: codes",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-09T03:32:30.000Z",
+		"content": "Its probably encrypted. I think keen dreams has a backdoor pass because i remember seeing some people playing a hidden level in it."
+	},
+	{
+		"id": 2352,
+		"title": "Re: codes",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-09T08:45:34.000Z",
+		"content": "\"A disassembly or hex dump might help in finding out, right?\"<br />Well, that was what I was trying. I did find the enemy name texts, however, but not at least among them was anything hidden words. Those might be of course hidden encrypted somewhere. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />\"Where is all the text stored in Keen 4+? I went through the files with a hex editor but couldn't find any straight text. The names must be stored in there somewehere.\"<br />All the text is stored in the game exe, as far as I know. Now the Question: Did You Unlzexe Your Exe? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2353,
+		"title": "Re: codes",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-09T09:49:14.000Z",
+		"content": "[hr]<b>KeenRush</b> Did You Unlzexe Your Exe? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />[hr][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br /><br />No sign of that stuff in Keen 6, though. Maybe Andy has some idea, since he has managed to extract the ending text using Modkeen2."
+	},
+	{
+		"id": 2354,
+		"title": "Re: codes",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-09T22:29:26.000Z",
+		"content": "I know Rise of the Triad stores all the cheat codes backwards in the .exe, and given Keen6's copy protection I wouldn't be surprised if the answers to those questions are encrypted - but I'm not sure what a secret password might do exactly, I thought the passwords just allowed access to the game."
+	},
+	{
+		"id": 2355,
+		"title": "password",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-10-09T23:32:39.000Z",
+		"content": "In this case, the 'backdoor' password would allow access to the game, regardless of which monster was requested.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 2356,
+		"title": "Re: password",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-10T08:50:25.000Z",
+		"content": "\"and given Keen6's copy protection I wouldn't be surprised if the answers to those questions are encrypted\"<br />I already told, they are in normal text form. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  Written in all-capitals. Naturally I'm talking here about the enemy names..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 2357,
+		"title": "Re: password",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-10T22:13:54.000Z",
+		"content": "Oh sorry, I didn't realise you were talking about the passwords - well if you've seen the passwords in the .exe and there were no unusual ones, I think that answers this question..."
+	},
+	{
+		"id": 2358,
+		"title": "password...",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2006-10-11T05:53:52.000Z",
+		"content": "Really?<br /><br />Well, I'm not done trying to find one but I guess they weren't thinking about backdoor passwords when they made keen 6.<br /><br />Hey does anyone want a modified keen 6 .EXE with the copy right password part taken out?<br /><br /><br />[center] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]  [/center]"
+	},
+	{
+		"id": 2359,
+		"title": "Re: password...",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2006-10-12T03:12:01.000Z",
+		"content": "A backdoor password would be cool for keen 6, I cant find one.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] <br /><br />Maybe a can make one."
+	}
+]

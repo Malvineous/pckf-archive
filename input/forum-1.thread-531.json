@@ -1,0 +1,114 @@
+[
+	{
+		"id": 188,
+		"title": "Keen 3 - Blatant \"bug\"",
+		"author_id": 1485889,
+		"author_name": "Root16",
+		"timestamp": "2005-03-12T02:46:27.000Z",
+		"content": "Big Macs are worth 500 points, right?  And Zitto candy bars are worth 100 points, right?<br /><br />Well, according to the help screen they are.  And if you look at the placements of the candy bars vs. the big macs, it makes perfect sense that'd be the case.  But then you check your score each time you get a zitto bar and a big mac, and you see the points are reversed. This is clearly not intentional, and yet it seems to blatant of an error to be in the official game.  And it seems even more unlikely that I'm the only one who has noticed this.<br /><br />I tried downgrading from 1.31 to 1.0, but the bug was in the old version of the game as well.  Kinda takes the fun out of the game. :-/  Get extra lives without any effort, which allows you to stock up on ammo... which kinda makes the whole thing pretty easy when you can blast away and not worry about running out."
+	},
+	{
+		"id": 4439,
+		"title": "Re: Keen 3 - Blatant \"bug\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-03-12T02:54:45.000Z",
+		"content": "\"Big Macs are worth 500 points, right?\"<br /><br />They're actually Big'n'beefy Burgers.<br /><br />Never knew that. I always thought it was annoying how the 500 point item came before the 100 point item on the tileset.<br /><br /><br />EDIT: <br />Look at 1TIL000, 2TIL0000, or 3TIL0000.<br />The items go:<br />Pizza (500), Lollipop (100), Soda (200), Book (1000), Bear (5000)<br />Burger (500), Candy Bar? (100), Soda (200), Cake? (1000), Vorticon (5000)<br />Burger (500), Candy Bar (100), Soda (200), Cake (1000), Ninja (5000)[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 4440,
+		"title": "Re: Keen 3 - Blatant \"bug\"",
+		"author_id": 1485889,
+		"author_name": "Root16",
+		"timestamp": "2005-03-12T03:01:09.000Z",
+		"content": "what tileset?  You mean in the editor?  NOt sure what you mean."
+	},
+	{
+		"id": 4441,
+		"title": "Re: Keen 3 - Blatant \"bug\"",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-03-12T04:08:55.000Z",
+		"content": "The tileset extracted by ModKeen. In the tile properties code, 500 points comes before 100 points as well.<br /><br />This is not so much a bug, as a possible oversight.<br /><br />On a totally unrelated note, I have a Keen 4 saved game where all the points you get give you 1 life each, until you have 46 lives. Odd. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] A proud member of the signature stealing society<br /><br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/antiror.jpg[/img]<br /><br />\"No one should be here.<br />\" -Level Lord"
+	},
+	{
+		"id": 4442,
+		"title": "Re: Keen 3 - Blatant \"bug\"",
+		"author_id": 1485889,
+		"author_name": "Root16",
+		"timestamp": "2005-03-12T06:16:23.000Z",
+		"content": "What's that now, LevelLord?  Extra lives in Keen 4?<br /><br />So this \"oversight\" in keen 3- no one noticed before?"
+	},
+	{
+		"id": 4443,
+		"title": "Re: Keen 3 - Blatant \"bug\"",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-03-12T09:20:44.000Z",
+		"content": "Hmmm, I don't get it.. Isn't the information just correct -- in help file there reads they give 500 points and in game they do so? I've noticed the way the burger comes before other items in the tileset, though, and can't understand why..<br /><br />\"The tileset extracted by ModKeen. In the tile properties code, 500 points comes before 100 points as well.\"<br />The tileset (picture) is just extracted by modkeen, and the real tile data is taken from Keen exe (and most probably with Tileinfo). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Edit: One can get extra lives in Keen 4-6 as well, by collecting 100  of those 'vital' stuff or stuff that gives whole life or gets enough scores. Interesting sounding bug LL, never happened to me.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 4444,
+		"title": "Indeed.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-03-13T00:45:29.000Z",
+		"content": "[hr]<b>&amp;#8730;16</b> This is clearly not intentional, and yet it seems to blatant of an error to be in the official game. And it seems even more unlikely that I'm the only one who has noticed this.<br />[hr]Sorry to burst your bubble, but it's been noticed before.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I don't remember where it's written, though. It was compensated for in TileInfo by putting 500 before 100 in the tile properties list.<br /><br />[hr]<b>LevelLord</b> On a totally unrelated note, I have a Keen 4 saved game where all the points you get give you 1 life each, until you have 46 lives. Odd. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br />[hr]Upload.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] Cave assectatorem Ductoris Alacris <br /><br />\"You are so afraid to <i>live</i>--so afraid of <i>life itself</i>--that you've given up the <i>very nature of your being</i> in trade for security.\"<br />-CWG Book 3, Neale Donald Walsh<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 4445,
+		"title": "Re: Indeed.",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-03-13T03:53:27.000Z",
+		"content": "someone should do a simple mod or patch to fix this."
+	},
+	{
+		"id": 4446,
+		"title": "Re: Indeed.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-03-13T10:26:12.000Z",
+		"content": "Why?! I can't see any problem. There reads in help file that the burger gives 500 points. In game it does so. What can be the problem? Who cares if they aren't in increasing order in the tileset? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 4447,
+		"title": "Re: Indeed.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-03-13T13:33:39.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]What's that now, LevelLord? Extra lives in Keen 4?[hr][/quote]<br /><br />Indeedy. I'd like to see if it works for other peoples games, so do tell.<br /><br />Edit: Oh, it makes your score go up to 1'000'000'000 too.<br /><br />[url=http://www.freewebs.com/gannalev/SAVEGAM0.CK4]www.freewebs.com/gannalev/SAVEGAM0.CK4[/url]A proud member of the signature stealing society<br /><br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/antiror.jpg[/img]<br /><br />\"No one should be here.<br />\" -Level Lord"
+	},
+	{
+		"id": 4448,
+		"title": "Re: Indeed.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-03-13T15:40:16.000Z",
+		"content": "Cool! Hmmm, there is something with the next life score counter, all the values are a lot above it so you can get a new life every time, but then it changes to some big value and you won't get the lifes anymore. Perhaps it (the value) wraps around.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 4449,
+		"title": "Re: Indeed.",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-03-14T05:14:12.000Z",
+		"content": "<b>KeenRush said</b><br />[quote]<b><i>Quote:</i></b>[hr]Why?! I can't see any problem. There reads in help file that the burger gives 500 points. In game it does so. What can be the problem? Who cares if they aren't in increasing order in the tileset?[hr][/quote]<br />Hmm maybe I am confused. I thought this thread was about how in the game that burgers and candy bars values were switched. Is that not what Root16 said?"
+	},
+	{
+		"id": 4450,
+		"title": "Re: Indeed.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-03-14T06:09:10.000Z",
+		"content": "I think he's talking about that they aren't planned well, so that Keen accidentally gets more points than he is meant to, although everything is ok in the actual game, it has just been level designers who have misplaced 500 points instead of 100 points, I guess that's what he's saying.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 4451,
+		"title": "Re: Indeed.",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-03-14T10:42:44.000Z",
+		"content": "I don't want to ruin anything, but you should read [url=http://www.classicgaming.com/cc314/encyclopedia/enemies/enemies-k3.html]this[/url] page on CC314."
+	}
+]

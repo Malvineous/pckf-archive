@@ -1,0 +1,74 @@
+[
+	{
+		"id": 168,
+		"title": "NO SOUND IN KEEN 5 & 6",
+		"author_id": 1486715,
+		"author_name": "oldgamer79",
+		"timestamp": "2005-07-06T23:09:50.000Z",
+		"content": "I installed Keen 5 &amp; 6 and have no sound.  I had the same trouble with Wolfenstein 3D.  What can I do?"
+	},
+	{
+		"id": 4049,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-07-06T23:11:05.000Z",
+		"content": "If you're on XP, use DOSBOX.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 4050,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1486715,
+		"author_name": "oldgamer79",
+		"timestamp": "2005-07-06T23:18:18.000Z",
+		"content": "I am using window xp but I am a blonde--what is DOXBOS"
+	},
+	{
+		"id": 4051,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-06T23:37:41.000Z",
+		"content": "It's DOSbox, not DOXbos [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Anyway, its a program that runs DOS programs.<br />Im not sure what the website is to get it, though.<br /><br />Alternatively you could use a program called VDMsound (get it off [url=http://www.dosclassics.com/keen/dl.php]Here[/url])[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 4052,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1486715,
+		"author_name": "oldgamer79",
+		"timestamp": "2005-07-07T00:58:25.000Z",
+		"content": "saw on another topic post where  to download that DOSBOX<br />but once I download it what do I do with it.  I downloaded it, installed it and went to play Keen and it was still without sound.  what now?"
+	},
+	{
+		"id": 4053,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-07-07T01:11:49.000Z",
+		"content": "Just drag the Commander Keen icon over the DOSbox icon.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 4054,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-07-07T05:52:14.000Z",
+		"content": "Also check if you've got sound effects/ music/ whatever you need/ enabled in the configuration menu of whichever Keen game you're playing - the solution to my sound problems mulitple times...[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 4055,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-07T13:05:02.000Z",
+		"content": "Also remember that PC speaker plays through the regular speaker in DOSbox.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 4056,
+		"title": "Re: NO SOUND IN KEEN 5 & 6",
+		"author_id": 1486715,
+		"author_name": "oldgamer79",
+		"timestamp": "2005-07-07T22:01:36.000Z",
+		"content": "Thanks for the help but nothing seems to work.  I must have something really messed up.  I am basically illeterate when it comes to computers.  I push buttons and it is supposed to work--I know nothing more than that."
+	}
+]

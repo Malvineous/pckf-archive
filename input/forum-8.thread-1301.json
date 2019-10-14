@@ -1,0 +1,50 @@
+[
+	{
+		"id": 958,
+		"title": "Unusual Request - Translation Utility",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-19T00:59:32.000Z",
+		"content": "Hey peoples. For no apparent reason, I've been working on a Java script Translation thing to test out my J S skills. It's basically a form with js, a small cs sheet, and another javascript. It's purpose is to translate single words, sort of like a english-french dictionary online or whatever. With a total of 5 or so words, &gt;&lt;, it's worked pretty well. Right now the external java script has all the code to translate a few words from english to french, back, english to japanese, back, as a test. However, with a bit of rewriting, I'm going to have each different translation (1 for each way) on its own external java scripts. Bla bla bla...<br /><br />Anyways, it's fairly easy to customize and soon will be even easier. So after a while if I can get it fixed up and I get some input, I will send to anyone who wants the code and directions on how to customize. The best use for now would be people who are learning a language and want to put words in an easy to use reference. And since it uses java script, you can put it up on your web space and not worry about it being blocked or not working (lots of free services won't let you use php, asp, whatever). Anyway, if anybody would like to know more, than just ask. If you don't think it's a good idea (the concept in general), don't stone me too bad because I've already thought about it. But I'm sure 1-2-5 people can use this.<br /><br />Note: And don't ask me for this right away because I still have to edit some things, as well as add a couple of features like O/I (I'll explain later) and IgNoRe CaSe, WhIcH iS oBvIoUs.<br /><br />Notteeee: I'm thinking of going for a complete sentence-paragraph-etc translator, but it would take a lot of time and I'm not sure it would work right.[hr]<br />\"Don't ask, don't tell.\" -ME<br />[img]http://img447.imageshack.us/img447/4808/dimesterrulez24aa.gif[/img]"
+	},
+	{
+		"id": 22911,
+		"title": "Re: NEEd Slleepz",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-19T06:25:59.000Z",
+		"content": "More info on the project, what I fixed:<br /><br />Now all languages use their own javascript.<br /><br />Adding a language/words to it will take up less space now and is extremely easy.<br /><br />The new O/I button, takes output, copies to input box, so you can translate a word through more than 1 language ultra fast.<br /><br />Now words can be typed in any combination of caps, but is reduced to lowercase so the javascript can read. Extra spaces/anything else will mess it up, but it's a start.[hr]<br />\"Don't ask, don't tell.\" -ME<br />[img]http://img447.imageshack.us/img447/4808/dimesterrulez24aa.gif[/img]"
+	},
+	{
+		"id": 22912,
+		"title": "Re: NEEd Slleepz",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-19T10:17:46.000Z",
+		"content": "I suggest keeping the project as simple word-to-word translator, else it'll get so complex soon that javascript isn't able to handle it.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 22913,
+		"title": "Re: NEEd Slleepz",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-20T02:07:38.000Z",
+		"content": "Damn right. Leave total translation to the language teachers.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 22914,
+		"title": "Re: NEEd Slleepz",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-11-20T02:21:45.000Z",
+		"content": "don't worry. I'm not going to touch full translation right now and it would be infinetly more complicated to customize. at this moment, I'm going to see what needs to change before I give it out with manuel/instructions.[hr]<br />\"Don't ask, don't tell.\" -ME<br />[img]http://img447.imageshack.us/img447/4808/dimesterrulez24aa.gif[/img]"
+	},
+	{
+		"id": 22915,
+		"title": "Re: NEEd Slleepz",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-11-22T13:11:07.000Z",
+		"content": "I don't mean to shoot you down in flames, but what's wrong with [url=http://www.google.com/language_tools?hl=en]Google Translate[/url]?  You can even use that to browse around an entire website written in another language."
+	}
+]

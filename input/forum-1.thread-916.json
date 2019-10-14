@@ -1,0 +1,450 @@
+[
+	{
+		"id": 115,
+		"title": "Even newer version : Editor v0.99beta!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-11T23:38:49.000Z",
+		"content": "new version v0.99beta!<br /><br />There is no separate download for the exe as it wouldn't be enough in itself now.<br />[url=http://hely.fw.hu/editor/knedit099.zip]hely.fw.hu/editor/knedit099.zip[/url]<br /><br />As usual, report bugs here. This version may have newer bugs as I haven't tested it with keen maps but hopefully there is none.<br /><br />Note: you'll need to export the map you're currently working on with v0.5, and import it again with the new one because I've changed the file format![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3247,
+		"title": "Re: Keen 4 - 6 map editor for Windows soon!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-01-11T23:45:25.000Z",
+		"content": "Yay! Finally i can make a level for keen 4-6!! (Ted never worked too well for me)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3248,
+		"title": "Re: Keen 4 - 6 map editor for Windows soon!",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-01-12T00:34:21.000Z",
+		"content": "Awesome work, z-1.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 3249,
+		"title": "Sooooooooooooooooooon!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-12T01:09:20.000Z",
+		"content": "This is among the most beautiful things I've seen in recent times.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3250,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-12T01:27:43.000Z",
+		"content": "There's a little help you could do to make editing Keen maps easier for everyone! My game uses 3 separate layers plus a block layer and a sprite layer, so there is that extra layer and the block layer still unused when editing Keen maps. If anyone would help me to identify those blocks that are used for secret passages, I could automatically put them to that extra layer.<br /><br />Tomorrow I'm gonna write the opposite of the level extractor, and create a test map to see if it's that easy. There's still lot of work on the editor before it gets easy to use, but it's already easier than Ted for many of us, I guess. Not to mention that it runs on XP too [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />What about editing tile images and the tile information itself? Is there a way? Because I can't extract the tile images, I simply read in the already extracted ones as tiles. I want to include them in my editor if it's legal, but I don't know if it is. Anyone can extract their own tileset easily though, with modkeen and a simple image editing program. I will tell you how if you need it.<br /><br />*EDIT* I forgot to say that I already read all layers and display them in my editor![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3251,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-01-12T05:58:55.000Z",
+		"content": "I could just cry;<br /><br />Its so beautiful! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br /><br />And it opens the world of Keen 4-6 modding to me... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3252,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-12T13:28:37.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Here is the background layer of the Keen 4 map in my level editor! It was just a test to see if I can read it in from gamemaps.ck4, but it means that I can read the others and write as well![hr][/quote]<br />Please, add also support of the TED 5 format (MAPTEMP.CKx and MAPTHEAD.CKx) into your level editor.<br />And explain me, why can't i see the screenshot, which you posted?[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3253,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-12T13:30:25.000Z",
+		"content": "Sorry for previous question. That picture is now visible.[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3254,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-12T13:52:41.000Z",
+		"content": "I can only add support for files if I know their format. Point me to a document about it and I add support for it. At the moment you can \"only\" export levels from the original game, and I'm working on the import functions right now. It's not hard but there are many ways for doing it and I have to choose one that is easy enough for everyone![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3255,
+		"title": "Re: Sooooooooooooooooooon!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-01-12T17:09:32.000Z",
+		"content": "OMG OMG OMG OMG OMG [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  good work z1[img]http://img.photobucket.com/albums/v177/memsys/sig-png.png[/img]"
+	},
+	{
+		"id": 3256,
+		"title": "try this",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-12T18:29:50.000Z",
+		"content": "If anyone wants to know how does dopefish look like on Keen 4 level 1, try this!<br />[url=http://z-one.uw.hu/files/dopeon1.zip]dopefish on level 1[/url]<br /><br />The editor is user friendly, but importing to and exporting from keen is not (yet). But it works! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I'm gonna upload the user friendly version when it's ready.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3257,
+		"title": "Re: try this",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-12T20:18:13.000Z",
+		"content": "As I've said at K:M, this thing is just awesome! I really gotta try my hand at Keen 4-6 levelling when this is released! Yes! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3258,
+		"title": "Re: try this",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-13T00:03:11.000Z",
+		"content": "This is fun [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br />[img]http://img.photobucket.com/albums/v505/z-one/thisisfun.png[/img]<br />Now all I have to do is disable most of the menu items and buttons when editing Keen maps so you can't make the program crash by doing something bad, and I'm gonna upload the editor!<br /><br />*EDIT* I don't say it's without bugs but everything works somehow. I'll upload the first working version for beta testing tomorrow. I'd do it today but I'm too tired to write a how-to. So tomorrow is the day! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3259,
+		"title": "hum",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-01-13T03:18:59.000Z",
+		"content": "How's the compatibility with modded graphics?"
+	},
+	{
+		"id": 3260,
+		"title": "Re: hum",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-13T03:42:25.000Z",
+		"content": "if you don't change the number of sprites, background and foreground tiles, than it is fully compatible. If these things can be changed, just tell me how and the editor WILL be fully compatible. My priority is to release it first though.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3261,
+		"title": "Re: hum",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-13T17:57:05.000Z",
+		"content": "Awesome. Awesome. Awesome!!!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   <br />Beside working perfectly it also looks pretty good and is a stable level editor.. This is really cool. I can't believe this is really happening! So many have been waiting for this to happen. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   <br /><br />Couple of suggestions:<br />1. Make something values to the bottom bar telling the tile number of the current tile the pointer is hovering above. And the info plane value too.<br />2. Make the file open dialog have different texts for creating and exporting Keen files. When you go to exporting Keen files and have previously created Keen files, the program still tells the user to select KeenX executable instead of GAMEMAPS. It's a small bug that can easily confuse.<br /><br />Great work.<br /><br />Oh, and how do I select a bunch of tiles from the right tile window? Also, it's great that the tile windows' width is adjustable.<br /><br />Hmmm, zooming to 200% caused the program to crash and to go to something endless loop of showing error message.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3262,
+		"title": "Re: hum",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-13T18:36:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Oh, and how do I select a bunch of tiles from the right tile window?[hr][/quote]Select the top left tile and shift+click on the bottom right. This creates a brush from the tiles in between which you can use for drawing.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Hmmm, zooming to 200% caused the program to crash and to go to something endless loop of showing error message.[hr][/quote]It does this when I zoom out to 50% percent. Was it what you meant? At the moment the only solution for that is not to zoom out. I don't know why but drawing too many tiles makes openGL crash. It's not an error in it though, as it was never meant to be used like this. Maybe I'll disable that 50% view for Keen. It works well for 32 pixel wide tiles that my game uses.<br /><br />1. I wanted to do this but I wanted to upload as soon as I can, but the next version will include it.<br />2. This too will be in the next version! I had some problems with this, but I'm gonna solve it.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3263,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-01-13T20:50:14.000Z",
+		"content": "Awesome!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] <br />FYI, I had to download a couple libraries to get it working: borlndmm.dll and cc3260mt.dll."
+	},
+	{
+		"id": 3264,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-13T21:06:09.000Z",
+		"content": "Maybe because of that BMGLIB.DLL that I use for loading the images... Many programs install these dll's so it may not be a problem for everyone, but if it is, you can find them with google.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3265,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-14T00:07:13.000Z",
+		"content": "Yah, I had to get those DLLs too. Luckily they could be found rather easily.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3266,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-01-14T02:09:48.000Z",
+		"content": "Two words z-1;<br /><br />Keyboard Support.<br /><br /><br />Othwerwise its a dream! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3267,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-14T10:46:56.000Z",
+		"content": "Yeah, I agree with LL! We demand the ability to move with arrow keys in the main window! And space bar to place a tile! And 'a' character to place selected info plane value. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  (And if possible, shift + 'a' to set the value to zero (remove).) And it'd be good if 's' would change the tile window to info plane/sprite window (where are those small icons for enemies and other stuff), and 't' would change it to tile window. This way it'd be quite near adurdin's KeenEdit that we're so used to. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3268,
+		"title": "Re: Keen 4 - 6 map editor for Windows IS HERE!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-14T14:32:38.000Z",
+		"content": "I'll work on the editor soon and include all what were requested. Are there any other keyboard shortcuts that should be included, or any functions that would be heavily used?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3269,
+		"title": "Huzzah! *tests*",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-14T14:52:07.000Z",
+		"content": "I haven't done much with it so far, but two things I can suggest already:<br /><br />- The tile plane should adjust itself to the width of the tileset automatically so everything lines up as it's meant to. At the moment it gets set to like five or so tiles wide every time a level is loaded.<br /><br />- It would be much easier if when a brush is created (click, Shift-click) that brush would be selected automatically, since most of the time the intention is to use that selection of tiles straight away.<br /><br />Very comfortable so far, though the process of setting everything up could do with some streamlining. Considering the editor wasn't designed specifically for the original Keen games though, it's doing a good job of supporting them. This is an excellent contribution to the Keendom.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3270,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-14T21:15:18.000Z",
+		"content": "I tried this editor, but it works too bad. When i try to open the map, included in the archive, i see loop of messages \"External exception: EEFFACE\". Could you fix it, please?[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3271,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-01-14T21:53:51.000Z",
+		"content": "It comes up with errors if i try to load a file while one is already opened.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3272,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-14T22:28:34.000Z",
+		"content": "SupFanat, what is it exactly what it says? Does it mention some dll or something?<br /><br />Genius, it does that sometimes but I can't reproduce it when I want to so you have to wait till I fix that. It's some memory bug...[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3273,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485848,
+		"author_name": "kudos",
+		"timestamp": "2006-01-14T23:26:55.000Z",
+		"content": "Hey everyone, I'm new [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />Anyways,<br />I'm having an error, too.<br />Whenever I try to \"Create Keen Files\" (or whatever it is underneath the 'File' menu button) and I click on keen4e.exe, a box comes up telling me, \"Couldn't determine exe version number.\" so I press ok, and then another box comes up telling me, \"Couldn't extract maphead.\" Then it just goes back to what it looks like when you first open Keen: Next editor.<br />These are legitimate keen games, too, installed right off the floppy. Am I missing something?<br /><br />Looks great, though, I hope I can get it working."
+	},
+	{
+		"id": 3274,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-14T23:38:04.000Z",
+		"content": "The original Keen executables are archived to be smaller. You need to unlz them with unlz.exe. Download it from [url=http://dosclassics.com/download/198]here[/url]. [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3275,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-14T23:43:39.000Z",
+		"content": "z hyphen one, i already told the extact error message: \"External exception: EEFFACE\". The only way-out is to close this program with Ctrl-Alt-Del. What it means? [img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3276,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-14T23:50:00.000Z",
+		"content": "I've looked up this message on the internet and the information wasn't quiet useful... It can mean many things. The most likely I can think of at the moment is that you video card cannot handle openGL well so openGL doesn't work and my program crashes while using it. I had such exception with openGL before when I tried to draw too much, but this doesn't mean you have the same problem. What are the specs of your video card?<br /><br />*EDIT* SupFanat (and anyone else with error with opening maps), please [url=http://z-one.uw.hu/files/kndebug.ZIP]download[/url] this debug version. The zip file only contains the exe, replace the previous one with it. Try opening a map with this and tell me the last message you see before the error! It shows numbers from 1 to 20 during opening a map. I've changed the opening sequence a little and it may help but I don't believe it, so I need your help.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3277,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-15T00:14:34.000Z",
+		"content": "My videocard is Intel740 Win9x PV 4.0. I don't know, does it support OpenGL. Maybe turning off of harware acclesation will help? It will force CPU to do graphics calculations, which videocard can't.<br />Also good idea for your editor. After changing of left or top edges all adresses for switches, gemholders and etc... must be changed. Could you make it automatic. I.e if you add 10 new tiles in the left, the adress 68;50 (X;Y, numbers are decimal) must be changed to 78;50. Or if you add 10 new tiles in the top, the address 68;50 should be corrected to 68;60. It could be done so:<br /><br />After changing of these two edges, the info layer is rewiewed.<br />All values which are more than the number of last icon (~12[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img]  are changed:<br /><br />If you add (or remove) x tiles in the left, they must be increased (or decreased) to x, because the horizontal coordinate is stored in a second byte of info value. <br />If you add (or remove) x tiles in the top, they must be increased (or decreased) to x*256, because the vertical coordinate is stored in a first byte of info value.<br /><br />I hope, you can undestand, what i mean.[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3278,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-15T00:21:18.000Z",
+		"content": "SupFanat, please read my previous message. I've edited it after you already posted.<br /><br />*edit* and corrected the link... oops [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3279,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-01-15T01:18:31.000Z",
+		"content": "Tell me, could this editor perhaps do what no other program has even been <i>close</i> to doing...?<br /><br />Could it edit Keen Dreams levels?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3280,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-15T01:26:01.000Z",
+		"content": "I don't know anything about keen dreams map format. If adurdin knew, he could help us out. Unfortunately I don't have time to search for binary data at the moment, maybe later?<br /><br />I'm working on that keyboard support right now, it will soon be ready [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3281,
+		"title": "Re: Huzzah! *tests*",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-01-15T02:53:22.000Z",
+		"content": "Well, I dont know, if I'm helpfull (I dont think so *g*),  but the KD-leveldata isnt compressed with the carmacize algorithmen (at least afaik), but it is compressed with RLE and huffman (with the node-table somewhere stored in the exe-file). I would be glad if I could post you the offset, however I dont know it, but someone at K:M should know it... Ask MultiMania as he should now it a little bit better <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />MfG"
+	},
+	{
+		"id": 3282,
+		"title": "new version",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-15T14:08:50.000Z",
+		"content": "Read first post![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3283,
+		"title": "Subliminal messages in Post Titles",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2006-01-15T15:43:17.000Z",
+		"content": "I haven't tested these, as I just worked them out then but...<br /><br />Keen Dreams Shareware v1.31:<br /><br />Maphead: 0x1FA50 in exe image.<br />Mapdict: No clue. The huffman dicts are at...<br /><br />EgaDict: 0x29846<br />???Dict: 0x29c46<br />???Dict: 0x2a046<br /><br />One of these will work and one won't.<br /><br />For those who care, the maps are stored in KDREAMS.MAP and are in a modified TED5 map format. <br /><br />There is no !ID! header in the chinks, and possibly other changes. I haven't attempted a detailed examination yet. It is possible that the whole file (with the exception of the TED5v1.0 header is huffman compressed."
+	},
+	{
+		"id": 3284,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-15T22:41:28.000Z",
+		"content": "SupFanat, have you tried the debug version?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3285,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-15T23:05:33.000Z",
+		"content": "No, i didn't use the dedug vesrion, but i'll try it.[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3286,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-01-16T07:05:23.000Z",
+		"content": "Yays! New version!<br /><br />[And possibility of KD editing??? O.O]<br /><br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3287,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-16T12:29:49.000Z",
+		"content": "I don't yet know if I make it or not. At the moment I don't have time nor the experience to work out the file format, but if someone does it for me, I'm gonna definitely include KD editing in a future version.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3288,
+		"title": "Re: Woo-hoo!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-01-19T22:45:28.000Z",
+		"content": "Yays, I can finally get somewhere with keen:jailbreak now... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 3289,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-31T19:41:01.000Z",
+		"content": "z hyphen one, when will you make new vesion of your editor. I didn't use it, but i improved the Ted 5: I've edited the Keen 5 graphics in order to make the secret passages and some other things visible:<br />The secret passages are shown by a big letter \"H\" (Hidden passage). The walls with poles are marked by a letter \"P\". The tiles, from which you can jump off are marked by a letter \"J\".[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3290,
+		"title": "Re: Subliminal messages in Post Titles",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-02T10:26:23.000Z",
+		"content": "I don't think I'll ever make that without help. The editor is created for my own game, and I can make it show some extra stuff over the tiles, but I won't experiment with Keen 5 level creating, so I won't be able to find which tiles must be labeled. You can do it for me for all Keen 4-6 versions and I'll implement it.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3291,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2006-02-02T17:41:52.000Z",
+		"content": "<b>Excellent!</b>[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />z hyphen one, you make us happy! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I started to make a level and I have some questions:<br /><br />Often when I exported the level to MAPHEAD.CK4 and I started the game with GO4.BAT, something was happened with the door teleporters (e.g. the grey houses). As often as I saved, as higher was the place where Keen appeared after entering a door. Now he appears even outside the house in the black tiles. Why?<br /><br />And is it already possible to edit the special actions where the questions marks are? Thanks! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 3292,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-02T20:54:00.000Z",
+		"content": "Do you use the first or the current version of the editor? The first one had a bug with opening and saving the info layer, but I've fixed it. It's possible that there's still some bug there so please try to specify exactly how many tiles does Keen appear away from the original location!<br /><br />It is already possible to edit the info tiles. Press ctrl+right click on the tile, or use the mapcursor function and press the 'a' key (if I remember correctly) over the tile.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3293,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2006-02-04T16:13:39.000Z",
+		"content": "Thanks for the tip with CTRL+right click. It works fantastic! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />Now Keen appears one tile higher at every exporting. So I have already to give the Info Tiles coordinates one tile over that I want.<br /><br />I imagine - now we can even make Patchwork Mods for Keen 4, 5 and 6! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-poisonslug.gif[/img]"
+	},
+	{
+		"id": 3294,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486788,
+		"author_name": "White Wizard1",
+		"timestamp": "2006-02-06T13:30:03.000Z",
+		"content": "When I try to load the .knp file, I get an error message \"Can't find EDITMAPS\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 3295,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2006-02-08T20:01:38.000Z",
+		"content": "Really after loading the map.knp? EDITMAPS is neat when you want to export and import. Simply \"Create Keen Files\" (KEEN4E.EXE needed)."
+	},
+	{
+		"id": 3296,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-08T21:33:32.000Z",
+		"content": "Sorry for not being here to help. I'll fix that error with the info layer but it seems that the error doesn't appear for every sprite, so please be patient.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3297,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486788,
+		"author_name": "White Wizard1",
+		"timestamp": "2006-02-09T14:54:34.000Z",
+		"content": "Yeah I'm sorry. I meant when I try to 'import/export' a level <br /><br />PS: I explained it in pm z hyfen (or smt [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] )"
+	},
+	{
+		"id": 3298,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-09T18:59:13.000Z",
+		"content": "Sorry but I don't read the personal messages of the message board. I haven't noticed either. Is there anyone who does?<br /><br />ps: do you have the latest version of the Keen exe? I don't know what else could be the problem if you have created the needed files (the option can be found in the files menu for that)[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3299,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-02-21T02:32:36.000Z",
+		"content": "the links are dead, can i please have links that work, or can z hyphen one please email it 2 jawawars@yahoo.com.au <br />thanks[url=http://www.ironmaiden.com][img]http://i11.photobucket.com/albums/a199/rorie1983/ironmaiden.jpg[/img][/url]<br /><br />[url=http://simplythebest.net/fonts/fonts/font_downloads/iron_maiden.zip]Download the Iron Maiden font[/url]"
+	},
+	{
+		"id": 3300,
+		"title": "Re: New version : Editor v0.5beta",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-21T10:29:31.000Z",
+		"content": "I found a bug that was mentioned before. I've already fixed it but there are a few changes I want to make before I upload the new version, but I'll do it in a week. Please be patient.<br /><br />PS. I deleted my previous web page 'cos it was a bit old and my webhost account too... I'll register a new one soon but until then it's not so easy for me to upload anything.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 3301,
+		"title": "editor update",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-03-07T20:36:13.000Z",
+		"content": "Sorry for the long delay... here is the update for the editor. I hope it's fixed but it may have newer and more advanced bugs now! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   <br />[url=http://hely.fw.hu/editor/knedit099.zip]hely.fw.hu/editor/knedit099.zip[/url]<br /><br />*edit* before I forget: you need to export your current maps with the old version and import them again with the new as I've changed the file format!<br /><br />*edit2* there was some problem with a dll so I had to update the zip file once again. try this new download if your version wants another dll, apart from those we already know about.[hr]<i>The human brain is not user-friendly...</i>"
+	}
+]

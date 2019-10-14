@@ -1,0 +1,130 @@
+[
+	{
+		"id": 811,
+		"title": "question",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-18T15:13:07.000Z",
+		"content": "what is the maximum size hd that a pc from 1994 can cope ?<br /><br /><br />[darn dictionary can't find the word][url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 20826,
+		"title": "Re: question",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-18T17:05:50.000Z",
+		"content": "Maximum hard drive capacity is dependent on your OS and more specifically your formatting.<br /><br />I'm not sure but I think MsDOS 6.22 can't have HD's bigger than 2 GB if I remember right...<br /><br />Windows 95 uses FAT32 and can theoretically handle Hard Drive sizes up to 125 GB.<br /><br />The older file systems rely on the [url=http://en.wikipedia.org/wiki/FAT32]File Allocation Table, or FAT.[/url] I am assuming anything from 1994 is not going to be running Windows NT or Windows XP and therefore not using the NTFS.<br /><br />So to sum up... If you have Dos, 2 Gigabytes. <br />If you have Windows 95 or 98, 125 Gigabytes.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 20827,
+		"title": "hum",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-18T21:41:13.000Z",
+		"content": "Ok, more importantly, then: If I've got an 80GB harddrive that I'm formatting for use in a new computer, how come I can only partition the thing into 10gb drives?  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif?ttinline=true\"/>  Do I need special software to do more?"
+	},
+	{
+		"id": 20828,
+		"title": "Re: hum",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-19T01:49:33.000Z",
+		"content": "Xky, I have no idea why you can only do 10 GB at a time.<br /><br />Maybe a limitation in the BIOS?<br /><br />What format utility are you using? That doesn't make sense.<br />You got any more information? What OS you are trying to load, what file system you are formatting in...<br /><br />Bad hard drive maybe?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 20829,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-19T02:38:58.000Z",
+		"content": "It's probably the motherboard/bios.  This is an ancient HP Pavillion N3110.  It came stock with only 32MB RAM and a 4GB HDD... I've since upgraded it to 256 and the supposed 80GB, though it's currently registering the partitioned space as 3 10GB drives.<br /><br />*shrug* No big deal; it's got more space than I'll ever need in a KeenModdin' machine.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 20830,
+		"title": "NO LIMITS!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-08-19T06:31:49.000Z",
+		"content": "As it happens, just yesterday I did an experiment to see if I could partition an 80Gb HDD on my 200MHz DOSBeast. It picked up the drive as 12Gb or something.<br /><br />It's dependent on the BIOS. You may be able to flash it to a later version, but I doubt you'll get anything higher than 20Gb or so running on a Pentium Classic.<br /><br />The filesystem type doesn't come into play until the computer has booted past the BIOS. It's possible (and indeed preferable) to install DOS on a FAT32 partition, so I'd say ~125Gb would be a practical maximum for any partition... you should be able to get something like a 250 running as two separate partitions and still run in DOS, if you were so inclined, but don't quote me on that.<br /><br />I suggest you simply experiment. Test the machine with a sequence of drives of increasing size, and note when it stops detecting the full volume. There you'll find your limit.<br /><br />I also suggest using FreeDOS over MS-DOS. One advantage is its much-improved and speedier fdisk utility."
+	},
+	{
+		"id": 20831,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-08-19T07:21:02.000Z",
+		"content": "i belieive maxtor has something called ezbios, you install it before installing windows and it should recognize the full 80gb. i remember we had to use this when we had our old 486s and pentium 1 pcs."
+	},
+	{
+		"id": 20832,
+		"title": "Re: NO LIMITS!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-19T13:48:37.000Z",
+		"content": "I have Windows 98 with a 160 GB hard disk using its full potention, so 125 GB is NOT the max for that OS. I think the BIOS takes care of it for me, as I do have a pretty new (2003) system.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 20833,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-19T23:09:14.000Z",
+		"content": "The FAT32 limit is actually 2TB (2048GB) so that won't be a problem, but using FAT16 the largest partition you can have is 2GB - so you'd need almost 40 partitions to use the full 80GB (assuming your BIOS can see the full 80GB), and with only 24 drive letters available (C: through Z:) you're not gonna get anywhere close <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />Seagate also have a drive overlay which will take over from where the BIOS left off and give you full access to the drive's capacity, but again, with FAT16 you'll run out of drive letters before you reach full capacity.  Your only option is probably to run the version of DOS that came with Win9x, and use FAT32 (or if FreeDOS supports FAT32, then that.)  I run DOS 7.1 on my DOS machines (which came with Win98) and have never had a problem - although the largest disk I've ever put in those machines is 3.2GB, you'd have to have rather a lot of DOS games to fill up anything near 80GB...<br /><br />Oh, and Windows 95 and on have this \"drive overlay\" built into them, which is why they can see the full capacity of the disk without any extra software."
+	},
+	{
+		"id": 20834,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-19T23:12:21.000Z",
+		"content": "malv do you know the sys req for win 98se ?[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 20835,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-19T23:24:14.000Z",
+		"content": "The GUI part or just DOS?  I had the GUI running on a Pentium 100 w/ 16MB RAM, 1.2GB disk and it was usable, but a bit on the slow side.  The DOS will probably work on a 386 w/ 1MB RAM."
+	},
+	{
+		"id": 20836,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-19T23:36:22.000Z",
+		"content": "googled a bit and found this<br />[url=http://kb.iu.edu/data/aezf.html]sys req for win95[/url]<br />[url=http://kb.iu.edu/data/afqp.html]sys req for win98[/url]<br />i can't run win98 but i can run win95 and i don't have win95 so that means [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img]  i have to go to the one stop warez shop [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 20837,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-08-20T01:01:07.000Z",
+		"content": "One question though - why would you *want* to run Windows on a PC that old?"
+	},
+	{
+		"id": 20838,
+		"title": "Re: NO LIMITS!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-20T08:24:08.000Z",
+		"content": "lol, Windows 3.1 anyone? I still have the original disks, even burned a CD version. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 20839,
+		"title": "Re: NO LIMITS!",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-20T18:02:59.000Z",
+		"content": "ohhh give me give me plz[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 20840,
+		"title": "Re: NO LIMITS!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-22T15:14:07.000Z",
+		"content": "If you're serious... MSN. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Only Dutch version though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />Even got it all set up so it works smoothly in DOSbox. I can even play MIDI files, but with an Adlib driver, so it plays any MIDI with Adlib instruments! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	}
+]

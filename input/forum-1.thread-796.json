@@ -1,0 +1,18 @@
+[
+	{
+		"id": 55,
+		"title": "Running Keen 1 in Windows",
+		"author_id": 1486382,
+		"author_name": "The Spainish Inquisition",
+		"timestamp": "2006-12-23T23:57:54.000Z",
+		"content": "I'm trying to run Keen 1 in Windows, but I'm having problems. Could I have some help please?"
+	},
+	{
+		"id": 2267,
+		"title": "Re: Running Keen 1 in Windows",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-12-24T00:19:11.000Z",
+		"content": "What version of Windows are you using, and what are the specifications of your machine?<br /><br />Modern computers have trouble running old DOS games, not always because of Windows but often due to hardware incompatibilities. If you're running something that's above 1GHz (maybe a bit less might work), check out .[url=http://dosbox.sourceforge.net/]DOSBox[/url]. <br /><br />Once it's installed, create a shortcut to dosbox.exe on your desktop or somewhere else that's easily accessible, and drag any DOS executable, like keen1.exe, onto it.<br /><br />It might need reconfiguring if things run a bit slow. Ask if you need any further help."
+	}
+]

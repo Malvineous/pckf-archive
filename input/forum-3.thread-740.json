@@ -1,0 +1,394 @@
+[
+	{
+		"id": 397,
+		"title": "[#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-10T04:08:35.000Z",
+		"content": "[img]http://img213.imageshack.us/img213/6250/text9gi.png[/img]<br />[url=http://imageshack.us/index4.php][img]http://img117.imageshack.us/img117/3797/upload4ar.png[/img][/url][url=http://img117.imageshack.us/img117/3794/novote4sz.png][img]http://img117.imageshack.us/img117/6140/vote8bx.png[/img][/url][img]http://img117.imageshack.us/img117/9847/space3ks.png[/img]<br />[img]http://img117.imageshack.us/img117/9035/topbar7cj.png[/img]<br />[img]http://img268.imageshack.us/img268/2448/leftbar0jx.png[/img][img]http://img215.imageshack.us/img215/5327/14hk.png[/img][img]http://img268.imageshack.us/img268/8962/rightbar4fk.png[/img]<br />[img]http://img445.imageshack.us/img445/1293/bottombar0je.png[/img]"
+	},
+	{
+		"id": 11668,
+		"title": "Re: Community Tile Work [#1] [DL 24 Dec]",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-12-10T05:34:52.000Z",
+		"content": "looks awesome! cool upload and voting system! cool![img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 11669,
+		"title": "Re: Community Tile Work [#1] [DL 24 Dec]",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-10T10:43:15.000Z",
+		"content": "Thanks, this idea will hopefully encorage others to join in and not only improve their skills, but give a wide variety of tiles and sprites to choose from once they're all done. Im currently working on the crane and its not looking too bad. <br /><br />Even if your not an artist, you should still give this a go, its fun, and really not as hard as it looks. I will try my best to do as many of these tiles/sprites as i possibly can, so i hope you will all join me. <br /><br />Also if possible, i'd like this to become a sticky. Alex.<br /><br />PS: Incase your wondering, #1 stands for the tile number currently being re-made, and (DL date) is the dead-line before the next tile/sprite is placed on the board."
+	},
+	{
+		"id": 11670,
+		"title": "wowza!",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-12-10T15:38:39.000Z",
+		"content": "OMG This is just what the doctor ordered!<br />Ill start right away even though I wont win!<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 11671,
+		"title": "wait wait",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-10T22:20:32.000Z",
+		"content": "Clarify for me... are we simply changing the per-pixel colors, or are we blending edges and raising resolution?  The statement says \"do not change OUTSIDE borders\" does that mean I can refine the innards?"
+	},
+	{
+		"id": 11672,
+		"title": "Re: wait wait",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-12-10T22:40:53.000Z",
+		"content": "We're enlarging them 4x. I haven't gotten a clear definition of what that means yet. Either each side is 4x as long or each side is 2x as long, giving 4x as many pixels. Higher res redraws, but with no anti-aliasing on the outer edges.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 11673,
+		"title": "Re: wait wait",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-12-11T00:04:34.000Z",
+		"content": "Each side is 4x as long, giving 16x the number of pixels."
+	},
+	{
+		"id": 11674,
+		"title": "Re: wait wait",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-11T03:13:47.000Z",
+		"content": "Ok sorry for not clarifying, basically, the tile you see has been already enlarged by 400% (4x), all you have to do it basically redraw it, re color it (what ever, just improve it). You are not allowed to anti-aliase the edges (blur), however, you are allowed to lower the aliase around the edge. You are only allowed to antialiase the inside of the tile.<br /><br />Its best not to change shape or size, however, if you do happen to make a dramatic change to shape or size, it shouldnt matter too much. Once we start working on floors, poles, walls etc, then size and shape will be somthing you will not want to mess around with (for connective reasons).<br /><br />Heres an example of my work so far...<br /><br /><br /><br />[img]http://img214.imageshack.us/img214/2294/sofar5cx.png[/img]<br /><br /><br />EDIT: To give people more time, ive decided to change 'fortnight' to '3 - 4 weeks' depending on how detailed the image is."
+	},
+	{
+		"id": 11675,
+		"title": "Re: wait wait",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-11T16:31:36.000Z",
+		"content": "Whoaly garg, that looks amazing already! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 11676,
+		"title": "well",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-11T20:50:21.000Z",
+		"content": "How many colors are we allowed to use?"
+	},
+	{
+		"id": 11677,
+		"title": "Re: well",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-11T21:56:51.000Z",
+		"content": "The resolution seems a bit too large but otherwise it's ok. Don't you think less will be more than enough? (with good quality too)[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11678,
+		"title": "Re: well",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-12T00:16:25.000Z",
+		"content": "Im aiming at having them run under a resolution of 1280x960 (todays standards). Your allowed to use as many colors as you like, and are allowed to change colors, however, i wouldnt suggest you change to a completely different color as things might not work out as well. So in other words, you can change color, just dont go overboard (dont change a blue tile into green or anything major like that).<br /><br />Basically, the only rules are, you must keep the ratio, and save as PNG (gif is also acceptable, as long as it dosn't lower the number of colors). The shape of the crane isnt a huge issue like i said before, but when we get into poles, pole holes, floors etc, then we will need to stick to a template, but dont worry too much about that just yet."
+	},
+	{
+		"id": 11679,
+		"title": "ugh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-12T00:25:43.000Z",
+		"content": "This is really hard to do with MSPaint.  :-)"
+	},
+	{
+		"id": 11680,
+		"title": "Re: ugh",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-12T01:36:20.000Z",
+		"content": "yeah i know. But youve got 3 weeks, which is more than enough.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 11681,
+		"title": "Re: ugh",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-12T02:49:30.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Im aiming at having them run under a resolution of 1280x960 (todays standards).[hr][/quote]Then it won't run on my machine [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  Which (not 3D) games run on this resolution anyway?<br /><br />We could make it 99999x99999 too but it wouldn't raise the enjoyment... I'll still try to do it though soon, as you can always downsample the image, but as I've tried stating above, this is too big. It won't be easy to create and maybe we can only create something with less quality in this size.[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11682,
+		"title": "Variety.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-12-12T04:10:14.000Z",
+		"content": "I agree with Z-1. 64x64 is a bit large unless you're adding in a lot more detail to the image. I'll stick to good ol' 32x32x8 targeted at an 800x600 resolution.<br /><br />It shouldn't matter which size each participant chooses, though--even a 1:1 redraw would be acceptable for an 8- or 16-bit remake. As long as each of us is consistent in our approach, there should be no problems, it just means there'll be a larger variety of styles at the end of it all.<br /><br />This is assuming each person that undertakes this intends to follow through on the entire tileset, but if several take a similar approach their tiles could be interchanged in case one misses an instalment, or they could be filled in by others later on.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 11683,
+		"title": "Re: Variety.",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-12T05:43:04.000Z",
+		"content": "ok, ill change it to 2x. If youve already started making a 4x tile than thats ok, you might want to shrink it so the rest can be finished quicker."
+	},
+	{
+		"id": 11684,
+		"title": "Re: Variety.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-12-12T23:18:29.000Z",
+		"content": "It seems silly to me to draw for some huge resolution (esp. 1280x960 -- what is that, some weird widescreen thing?). If you're so intent on future-proofing, vector graphics would make more sense anyway.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 11685,
+		"title": "Re: Variety.",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-13T00:07:01.000Z",
+		"content": "Well, 1280x960 is just a normal 4:3 resolution like e.g. 1024x768 or so. And I dont think that vector-orientated graphics are intended for high details (they would become just too big)...<br />But I also think that the choosen scale-factor is too high, 2x should've been enough <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />MfG"
+	},
+	{
+		"id": 11686,
+		"title": "Re: Variety.",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-13T02:17:06.000Z",
+		"content": "Okay, well seeing how everyone is uncontrollably complaining [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img]  ive decided to decrease the scale to only 2x (200%). Same rules apply, no edge blue etc. I've updated the tile on first post so its at 200%."
+	},
+	{
+		"id": 11687,
+		"title": "Re: Variety.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-12-14T01:55:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, 1280x960 is just a normal 4:3 resolution like e.g. 1024x768 or so.[hr][/quote]<br />You're right, it is! I was thinking it was more like 1280x1024 since that's what I see more often. But that's not 4:3 is it.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 11688,
+		"title": "Re: Variety.",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-12-14T04:08:15.000Z",
+		"content": "[img]http://img466.imageshack.us/img466/135/keenmachine1lb.png[/img][center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 11689,
+		"title": "Shiiiiinnnyy!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-12-14T04:40:35.000Z",
+		"content": "Duuuuuuuuude!! That is friggin' awesome. Do you have any in-progress shots? It'd be great to see how you put that together.<br /><br />I'm still stuck on redefining the outlines.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 11690,
+		"title": "Re: Shiiiiinnnyy!",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-14T05:34:32.000Z",
+		"content": "holy smackerall, thats awsome! See what i mean, everyone complains about the 400% and allstories is already finished.<br /><br />thumbs up!"
+	},
+	{
+		"id": 11691,
+		"title": "Re: Shiiiiinnnyy!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-14T07:19:21.000Z",
+		"content": "Mmmh. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  Looks awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 11692,
+		"title": "Re: Shiiiiinnnyy!",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-12-14T11:26:26.000Z",
+		"content": "Some people always have to ruin competitions by adding something that no one can match.-----------------<br />[img]http://jamba.nl/storage/view/335/0/cr/CrazyFrog___Axel_F_Rocket.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 11693,
+		"title": "Re: Shiiiiinnnyy!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-14T11:47:06.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]holy smackerall, thats awsome! See what i mean, everyone complains about the 400% and allstories is already finished.[hr][/quote]I don't say it was easy to make in 3D, but there's relatively little detail that wouldn't show in 200%. This is not against allstories' image though, it looks good.<br /><br />*EDIT* I've just started mine. I don't say this is the best there is, but I've decided not to use the tablet. I'm curious where I can get without it. [img]http://img.photobucket.com/albums/v505/z-one/status0.png[/img][hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11694,
+		"title": "Mmmh..",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-14T21:43:06.000Z",
+		"content": "Looks rather promising already. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Better than I could do.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 11695,
+		"title": "Re: Mmmh..",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-14T21:50:39.000Z",
+		"content": "Update:<br />[img]http://img.photobucket.com/albums/v505/z-one/status1.png[/img][hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11696,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-12-14T22:04:09.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Duuuuuuuuude!! That is friggin' awesome. Do you have any in-progress shots? It'd be great to see how you put that together.[hr][/quote]<br /><br />Uhh, sure, I guess.<br /><br />[img]http://gnosticus.spatang.com/hmcstudios/blendermachine1.gif[/img]<br /><br />The problem with mine is that it probably won't look good by itself next to a bunch of non-3d tiles. It'd be better suited alongside other tiles of it's kind.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 11697,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-14T22:42:51.000Z",
+		"content": "[img]http://img.photobucket.com/albums/v505/z-one/status2.png[/img]<br />That's enough for today.<br /><br />That 3D tile looks nice, but the yellow and black stripes look like they are floating. This kind would look good in a 3D game, so I guess it's up to you to do it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11698,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-12-15T01:54:00.000Z",
+		"content": "<i>OMG</i><br />That IS great! I have no 3D srt program that is that good, Im gettin that 3D rendering software! ___________________________________________<br />[url=http://greenftechn.com/brandon]greenftechn.com/brandon[/url]<br />-proud member of the      \"tough guys wear pink\" society- <br />[img]http://greenftechn.com/brandon/images/tough_guys_wear_pink.gif[/img]"
+	},
+	{
+		"id": 11699,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2005-12-15T02:10:36.000Z",
+		"content": "Uhh, wrong version [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br />What version is that?___________________________________________<br />[url=http://greenftechn.com/brandon]greenftechn.com/brandon[/url]<br />-proud member of the      \"tough guys wear pink\" society- <br />[img]http://greenftechn.com/brandon/images/tough_guys_wear_pink.gif[/img]"
+	},
+	{
+		"id": 11700,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-12-15T02:30:51.000Z",
+		"content": "2.36[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 11701,
+		"title": "bubububu",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-15T05:39:30.000Z",
+		"content": "Holy crap--z-1, you've GOT to write a tutorial on how you shaded that.  That looks wonderful!"
+	},
+	{
+		"id": 11702,
+		"title": "Re: bubububu",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-15T06:39:04.000Z",
+		"content": "argh... i accidentally saved over my image! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img] <br /><br />now i gotta start again..."
+	},
+	{
+		"id": 11703,
+		"title": "Re: bubububu",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-12-15T19:33:22.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]you've GOT to write a tutorial on how you shaded that.[hr][/quote]<br /><br />He shaded that with cooly chosen colors.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-disguised.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 11704,
+		"title": "Re: bubububu",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-12-16T03:01:40.000Z",
+		"content": "Blender? Man... I never was good at blender; it was too confusling...<br /><br />BUT MAN!!!<br /><br />Tricked out work to everyone!<br /><br />I think I'll pass this tile... I was beaten by allstories before I even got started.<br /><br />I can't wait for the pink tile from allstories!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] Tough Guys Can Fix Their Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 11705,
+		"title": "Just do it.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-12-16T13:14:44.000Z",
+		"content": "This isn't a competition. Besides, there'd be no way of judging a 3D modelled image against pure pixel art. If you're going to join in, forget about trying to compete with existing contributions. Just do what you can, and if there's room for improvement someone else could take your image and rework it at a later date, or you could edit it later when your skills improve (and they will).<br /><br /><b>EDIT</b><br />Here's something I'm working on for another project that will be useful here.<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/keenlike/highres/grnfont.png[/img]<br />[img]http://img.photobucket.com/albums/v192/Jimage/keenlike/highres/redfont.png[/img]<br />[img]http://img.photobucket.com/albums/v192/Jimage/keenlike/highres/bluefont.png[/img]<br />[img]http://img.photobucket.com/albums/v192/Jimage/keenlike/highres/prplfont.png[/img]<br /><br />Does anyone have a good 256-colour palette lying around? The default Games Factory one doesn't quite suit Keen, especially the greens as you can see.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 11706,
+		"title": "Re: Just do it.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-17T11:09:19.000Z",
+		"content": "Whoaly garg Spleen -- this font absolutely ROCKS! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 11707,
+		"title": "progress again",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-25T22:57:24.000Z",
+		"content": "[img]http://img.photobucket.com/albums/v505/z-one/status3.png[/img]<br />not ready yet (it'd be easier with more interesting tiles)[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11708,
+		"title": "gah!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-26T08:59:18.000Z",
+		"content": "Shading tutorial please!  That's incredible!"
+	},
+	{
+		"id": 11709,
+		"title": "Re: gah!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-26T10:39:50.000Z",
+		"content": "I don't know how, unless you can watch me... You see the images already posted, so here is a little explanation for them.<br /><br />[img]http://img.photobucket.com/albums/v505/z-one/status0.png[/img]<br />I've created the colored form for the differently colored parts. Preferably all on a different layer.<br />[img]http://img.photobucket.com/albums/v505/z-one/status1.png[/img]<br />I've created another layer for the shading for that pivoting thingy, and I've used this same layer for all of these later.<br />[img]http://img.photobucket.com/albums/v505/z-one/status2.png[/img]<br />Here you can see that I've pixel shaded all of the different parts. Use different layers for every main color, but not their variations, they can share layers (like the different shades of blue). I separate even the same colors with layers, depending on whether I want to blend them later or not.<br />[img]http://img.photobucket.com/albums/v505/z-one/status3.png[/img]<br />This got a bit complicated, as I've started to blend the different colors together and added darker shades too. For blending I simply used the blur tool, but I've selected the layer that will be blurred (ctrl+click on the layer in photoshop), so it doesn't go out of it's borders. When I wasn't statisfied I added darker or lighter colors to places and blurred them too. It can help to change the size of the blur brush from time to time.<br /><br />This is where I am now, I hope this helps. Is there any specific area that needs more explaining?<br /><br />*edit* just a few typos[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 11710,
+		"title": "Re: gah!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-12-27T05:50:51.000Z",
+		"content": "Nice[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 11711,
+		"title": "Shouldn't there be a \"goal style\"?",
+		"author_id": 1485539,
+		"author_name": "Hypaeolian",
+		"timestamp": "2006-01-19T09:23:07.000Z",
+		"content": "Not that I'd ever DREAM of attempting to do this since my Photoshop skills are horrible. But if everyone submits an improved version of a sprite -- and let's say 5000 sprites have been slogged through and improved -- doesn't that mean each sprite, or at least a lot of different sprites, will have different \"looks\" to them? \"So what,\" you may say. \"Variety doesn't mean a thing when you've got 5000 improved sprites.\" But I don't know, if I made a mod, I'd want to have all the sprites have the same \"style\", otherwise it might look silly.<br /><br />Anyway, my suggestion is, when a certain sprite is up for improvement, that there be a certain \"goal style\" that goes with it. (Of course, I don't know how one could imitate a certain \"style\", or what that \"style\" should be. It's just something I noticed though.)"
+	},
+	{
+		"id": 11712,
+		"title": "Re: Shouldn't there be a \"goal style\"?",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-01-29T04:36:11.000Z",
+		"content": "*Looks at watch...*<br /><br />Ehem... wasn't this thing meant for two weeks?<br /><br />Oh, and next time Alex; only do one object; one crane, not 2.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />Tough Guys Wear Pink!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 11713,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-01-29T08:15:09.000Z",
+		"content": "sorry guys i havnt visited here for a long time and i probably wont. im very buzy. If you guys really want to continue with this (even though not many people are participating) then i put who ever is admin/mod in charge. just make a keen voting thread for who's is better (remember the tile number # in the name of the thread) and have it linked to the vote button on page 1.<br /><br />as for the tiles them self well i guess its up to you now. Sorry i couldnt participate as much as i promised, but ive been very buzy lately. cya later guys."
+	},
+	{
+		"id": 11714,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-30T12:11:13.000Z",
+		"content": "I started work on the blue crane, and it's actually nearly done apart from a few shading details. I'll post it here when it's done.<br /><br />Maybe we should do a non-background object next.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 11715,
+		"title": "Re: [#1] Community Tile Work (DL 31 Dec) (Reduced to 2x)",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-31T02:02:10.000Z",
+		"content": "I'm not too happy with my tiles and I had no time to continue but I don't think that tile drawing works like this. You have to have a concept before you start doing it and the first tiles you do shouldn't only be decorative tiles either. This community tile work would have more potential with better planning.[hr]<i>The human brain is not user-friendly...</i>"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1396,
+		"title": "JCS'94 Jazz Jackrabbit editor",
+		"author_id": 1486865,
+		"author_name": "Newspaz",
+		"timestamp": "2005-11-28T21:44:22.000Z",
+		"content": "I already mentioned this in another topic, but I think it deserves a bit more attention. Last week a team of Jazz Jackrabbit fans released a new version of their Jazz Jackrabbit 1 editor. You may already have seen the previous one, but this one actually is usable. Here are some screenshots to prove our point.<br /><br />[url=http://www.jazz2online.com/jcs94/images/screen1.jpg][img]http://www.jazz2online.com/jcs94/images/screen1t.jpg[/img][/url][url=http://www.jazz2online.com/jcs94/images/screen2.jpg][img]http://www.jazz2online.com/jcs94/images/screen2t.jpg[/img][/url][url=http://www.jazz2online.com/jcs94/images/screen3.jpg][img]http://www.jazz2online.com/jcs94/images/screen3t.jpg[/img][/url]<br /><br />Jazz Jackrabbit2 fans don't really seem to be interested, but it took us a lot of time to create this. Which is why I'm trying to advertise it here a bit. Consider it a compliment [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] , I think commander keen fans are more into these older kind of games.<br /><br />Here's the website with a download link.<br />[url=http://www.jazz2online.com/jcs94/]www.jazz2online.com/jcs94/[/url]<br /><br />And some nice examples of JCS94 creations:<br />[url=http://www.jazz2online.com/J2Ov2/downloads/info.php?levelID=3903]www.jazz2online.com/J2Ov2/downloads/info.php?levelID=3903[/url]<br />[url=http://www.jazz2online.com/J2Ov2/downloads/info.php?levelID=3904]www.jazz2online.com/J2Ov2/downloads/info.php?levelID=3904[/url]"
+	},
+	{
+		"id": 29493,
+		"title": "Re: JCS'94 Jazz Jackrabbit editor",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2005-11-28T23:52:01.000Z",
+		"content": "I used the first JCS'94 a bit a while ago. I didn't really get into it because I didn't have the time to figure out how to use it properly. I'll give this one a go and hopefully be able to make some levels.<br /><br />The screenshots look enticing. Nice work.<br /><br />--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 29494,
+		"title": "Re: JCS'94 Jazz Jackrabbit editor",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-12-02T21:35:22.000Z",
+		"content": "Jazz[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-love.gif[/img] <br /><br />I'm not to fond of level edditing but it's a nice effort. Hopefully they'll once figure out how to mod the game.-----------------<br />[img]http://jamba.nl/storage/view/335/0/cr/CrazyFrog___Axel_F_Rocket.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 29495,
+		"title": "Re: JCS'94 Jazz Jackrabbit editor",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-03T05:39:24.000Z",
+		"content": "I'd say Szevvy will figure it out before they do; like Spazz said, most of the fans are JJ2 and they don't give a stuff about anything released before 1997.<br /><br />I can already patch quite a few things and edit all the texts; and I can manually edit all the images [tiles, movies and the main menu] if I were better at making programs I could knock up an editor. The music file format is known too, and I almost can figure out the sprite structure.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 29496,
+		"title": "Re: JCS'94 Jazz Jackrabbit editor",
+		"author_id": 1486865,
+		"author_name": "Newspaz",
+		"timestamp": "2005-12-03T12:24:33.000Z",
+		"content": "There are some exceptions in the Jazz2 community to the 97 rule. [url=http://www.jazz2online.com/jcf/showthread.php?p=323700]This[/url] for example is an extremely interesting project. The person who's making this is trying to make an open source engine that can run JJ1. He already has figured out the sprite format so you might want to take a look there.<br /><br />I don't know if Szevvy will figure everything out before us. I don't think so. He's using our code and seems to be pretty busy. And I think we're already quite a bit ahead. I haven't seen the latest version of wombat though."
+	},
+	{
+		"id": 29497,
+		"title": "Doobie doo.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-12-21T09:55:11.000Z",
+		"content": "I'm rewriting the core of Wombat, so don't expect anything from my side any time soon; I suspect the people who are doing JJ mod tools will get much more done before I'd even look at it."
+	}
+]

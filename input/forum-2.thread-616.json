@@ -1,0 +1,402 @@
+[
+	{
+		"id": 273,
+		"title": "CKGI 2.1 Sprite help",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-13T05:23:45.000Z",
+		"content": "Check the last page bruv<br /><br />-------------------------------------------------<br /><br />I DID IT, i got the pole system working like CK4-6. i almost cried when it worked, this has breathed new life into CKGI. in 2.0 it will have classic game mode only where both characters behave similarly to keen4-6. then in 2.1 ill have the new Standard game mode which will have new weapons, vehicles and game modes (such as 2p co-op) i might have to delay the level editor till 2.2 because there will be a bit of work involved and i am going to revamp the engine before so that i dont have to do the level editor 2X. as for online gaming ive looked at some tutorials and there is a POSSIBILITY that i will one day at least have 2p over the net. ill also revamp the website<br /><br />P.s what levels would you want in co-op, i can easily mod the existing levels (apple acres, Bloogfoods inc, perilous pit and Ion ventalating system) to be fit for co-op. <br /><br />P.P.S who would you want for the second player in co-op i had thought a vorticon elite seeming as there good in 4-6. id profer if there was some existing base of sprites eg. im not going to do lidsy becuase she only has 2 sprites"
+	},
+	{
+		"id": 8057,
+		"title": "Re: CKGI 2.0",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-13T06:57:44.000Z",
+		"content": "Ahh, pole climbing - something that's much harder to implement properly than it should be. Good to hear you've got v2 a long way towards completion - did you get the keyboard mapping system working?[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br /><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 8058,
+		"title": "Re: CKGI 2.0",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-13T07:01:24.000Z",
+		"content": "That's good to hear. Version 2.1 sounds promising, especially that vehicle part.<br /><br />Vorticon elite sounds good in co-op. For some reason Keen and Mortimer wouldn't be good combination. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8059,
+		"title": "Re: CKGI 2.0",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-13T07:11:16.000Z",
+		"content": "Apple acres was great in 1v1, but for coop, Bloogfoods, I think.<br /><br />Great to see this project still on the railtrack.------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8060,
+		"title": "key definitions",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-14T04:46:30.000Z",
+		"content": "thanks again for the key definitions Grafix but i need to finish the engine b4 i key map, thanks but. mabye in 2.1 if not 2.0<br /><br />--------------------------------------------------------------<br /><br />New wepaons in CKGI 2.1,<br />i had planned a Laser SMG type mod of the voticon ray gun which will be automatic unlike the semi-automatic Nural stunner<br /><br />a laser Rail gun that shoots Throguh walls but ammo is hard to find. <br /><br />A mine (much like keen4s underwater 1) that is placed at the players deisre and will blow up and kill the opposing player if they make contact with it, it can be shot to be detonated aswell<br /><br />2.1 Vehicles <br />i had planed to make a Jetpack, either unlimed or limited fuel (havent decided)<br /><br />I had planned to make the BnB rocket (and mort counterpart) but this might be too large for the maps,<br /><br />i had planned to make a hover bike thing, that can only go to a certain height in each map that sheilds the player from underneth and from the front.<br /><br />i dunno, what do u think. <br /><br />P.S i might need some staff to make some images if i cant cope"
+	},
+	{
+		"id": 8061,
+		"title": "Re: key definitions",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-15T15:50:07.000Z",
+		"content": "I can draw!!<br /><br />btw i think you mean BwB, not BnB.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 8062,
+		"title": "Re: key definitions",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-15T18:47:31.000Z",
+		"content": "I have an idea for weaponry - something called a Disruptor. Ammo is very limited, but once fired, the disruptor bullet, which is green and roundish, is deadly. When it hits an obstacle, or any object that comes in its path, it starts a chain-reaction and will destroy everything in a large radius.<br /><br />About jetpack - how about making it so that when you turn it on, the jetpack uses a certain amount of \"fuel\" (percentage decrease). When thrust is used (to go \"up\") the percentage drops at a fast pace. However, when Keen stands on ground, the jetpack \"regenerates\", regains the percentages.<br /><br />These are only ideas, however...<br /><br />Edit: About images: Perhaps I can do something. I'm not good at drawing, I'm better at 3D stuff (well not that much there either)------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8063,
+		"title": "Re: key definitions",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-15T21:11:54.000Z",
+		"content": "Gargs! Both players can release gargs that will hunt the other player but not hurt the one that released them. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br /><br />Let's see.. That something hover bike thing sounds good.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8064,
+		"title": "weapons",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-16T04:29:35.000Z",
+		"content": "as for, the  jetpack. your idea is good much like SW Bounty Hunter. the problem with giving an unlimited jetpack is, it might give TO much of an unfair advantage, it might generate an annoyance to one player which will lead him\\her away from the Standard game play, i will (once finished and relesed 2.0) have a fiddle with the jetpack<br /><br />\"which is green and roundish, is deadly. When it hits an obstacle, or any object that comes in its path, it starts a chain-reaction and will destroy everything in a large radius.\" do you mean that it destroys the actuall map? or just has a HUGE blast radius?<br /><br />Gargs are a possiblity, a fairly easy posiblity. would you really want them in the game? a caged Garg [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]   <br /><br />oh, and anyone that would like to help, i currently need based off the origional sprite, pole climbing for the vorticon elite, and ledgegrabbing, you will be credited if you do submit anything<br /><br /><br />P.s i did mean BwB, woops [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]    <br /><br />P.P.s here are the quick Moded K2-3 guns, the first should be the rail gun type<br />[img]http://img.photobucket.com/albums/v483/creative_madman/railex.gif[/img]<br />and the SMG style Automatic laser<br />[img]http://img.photobucket.com/albums/v483/creative_madman/SMGex.gif[/img][url=mailto:creative_madman@hotmail.com] creative_madman@hotmail.com[/url]"
+	},
+	{
+		"id": 8065,
+		"title": "Re: weapons",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-16T06:58:38.000Z",
+		"content": "Ha, I really like the 'SMG style Automatic laser'. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Edit: And gargs would be nice.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8066,
+		"title": "Re: weapons",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-16T08:25:56.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Nice!<br /><br />And about the weapon, it has a huge blast radius only. But only use with caution as you may kill yourself with it (if you are in the blast radius) - not a short-range weapon.------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8067,
+		"title": "weapon",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-16T10:39:22.000Z",
+		"content": "how big are we talking big [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortvort.gif[/img]  or BIG[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]  <br /><br />seriously, like in pixels 160X160 thats 5x keens sprite? i want your input after alll its your idea,<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] \"ah crap theres Mort with that gun again\""
+	},
+	{
+		"id": 8068,
+		"title": "Re: weapon",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-17T16:05:15.000Z",
+		"content": "larger. BIG. Ok, let's see if I can put it in some understandable form...<br /><br />Sort of - a diameter of 30-40 Keen Sprites (roughly). Enough to cover at least 3/4 of the screen graphically - but the most outer areas of the explosion sphere are weak enough for keen or the others to survive it.<br /><br /><b>Let's say</b> 3/4 of the screen = 600 pixels. Than the explosion has a radius of 300 pixels (diameter 600). Keen is killed when he is within 500 pixels of the epicenter.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img]  I guess you might want to read that again or draw it down. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  I think the 2nd paragraph is more like some data for you.<br /><br />One thing - don't overwhelm the level with ammunation of this kind unless the players will tend to rely on this. Each dropsite (under dropsite I mean the collectible gun item) should perhaps only give you 1 bullet. And depending on map size, I don't advise more than 3 dropsites. Respawn time of the dropsite (re-appearance (waits to be collected again)) should be rather huge. The goal is to keep the player from collecting more and more of this deadly item in a short time.<br /><br />And depending on the abilities of Game Maker, some transparency effect of the explosion would be cool, but this is not so important. \"From one medium size green bullet to a chain-reaction like light-green explosion covering half the map[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] \"------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8069,
+		"title": "thats one hell of blast",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-18T04:30:05.000Z",
+		"content": "i get what your saying now, ur thinking along the lines of a nuke, woah good idea. i will do my best to impliment this [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]  <br /><br />i understand what u mean by the 100pixel safe zone, which will be acheivable by a separate object[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-bloody.gif[/img] <br /><br />scary ramifications mabye?, a no-safe zone of 100pixels in the centre? that cant be seen? <br /><br />ehhhhh now the simple harshness of this weapon can truly be expanded?"
+	},
+	{
+		"id": 8070,
+		"title": "Re: thats one hell of blast",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-18T07:56:53.000Z",
+		"content": "It isn't good to make it a mainline weapon that can be gained in every corner[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  But it's green[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  and expands fast so that should make anyone turn and run------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8071,
+		"title": "Re: thats one hell of blast",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-18T08:15:41.000Z",
+		"content": "yes, i would have like one per level thtat will only regen every 10 minuetes or something [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img]"
+	},
+	{
+		"id": 8072,
+		"title": "Re: thats one hell of blast",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T13:22:40.000Z",
+		"content": "So lemme get this right... The levels are gonna have places to pick up weapons, which'll restore every once in a while. Right?<br />Why not have the weapon that comes out be random? Then you can just have really low chances of powerful weapons like that appearing.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 8073,
+		"title": "THAT is a good idea",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-19T06:08:45.000Z",
+		"content": "Now that my freind is an EXCELLENT idea, [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] . of corse this way though a player could get LUCKY and have two ammo, or mayhap i would simpley limit him/her to one?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]"
+	},
+	{
+		"id": 8074,
+		"title": "Re: THAT is a good idea",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-19T10:43:52.000Z",
+		"content": "naah don't limit. Give a small percentage chance to strong weapons - that's really all. Being lucky isn't everything and won't win you a 6-set game.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8075,
+		"title": "<sigh>",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-19T10:52:22.000Z",
+		"content": "i wish to begin work on these weapons right away, but i am going to wait until ive finished COMPLETLY the pole and Ledgeing systems working for all 3 characters<br /><br />P.s i need someone to make me vorticon pole and ledging sprites (with due credit)"
+	},
+	{
+		"id": 8076,
+		"title": "Re: <sigh>",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-07-20T19:02:06.000Z",
+		"content": "Good luck! I'm not experienced with game maker, but I'd be glad to help in anything...------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8077,
+		"title": "Re: CKGI 2.1 Vehicles and Weapons",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-07-25T10:19:08.000Z",
+		"content": "Heres a sniper. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]         <br />[img]http://img343.imageshack.us/img343/4458/smgex6cb.gif[/img]<br /><br />and a flame thrower<br />[img]http://img340.imageshack.us/img340/1861/flame8hd.gif[/img]<br /><br />lets play, catch the dynamite!<br />[img]http://img306.imageshack.us/img306/6223/dynamite7ir.gif[/img]<br /><br />How about a revolver?<br />[img]http://img312.imageshack.us/img312/5938/revolver0ni.gif[/img]<br /><br />or a dual hand gun/uzi?<br />[img]http://img347.imageshack.us/img347/3458/deuzi8ir.gif[/img]<br /><br />or a spear?<br />[img]http://img157.imageshack.us/img157/6183/harpoon8aj.gif[/img]<br /><br />or a shotgun (chick chick <b>BOOM</b>)<br />[img]http://img297.imageshack.us/img297/4595/shotty1gg.gif[/img]<br /><br />or perhaps you'd like to slice your enemy up, the minigun!<br />[img]http://img330.imageshack.us/img330/1796/minigun2vz.gif[/img]<br /><br /><i>All weapons Copyright Alex87 2005</i>---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 8078,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-25T20:27:31.000Z",
+		"content": "I like the spear/javelin.  I've never been fond of sniper rifles, uzis, or flame throwers... the shotgun's okay, but definitely not fitting of Keen (that's Dangerous Dave's thing)... and a big ol' minigun would completely overwhelm a 9 year old.  Cute sprites, though!"
+	},
+	{
+		"id": 8079,
+		"title": "Re: hehe",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-07-25T21:26:46.000Z",
+		"content": "I agree.<br />Keen as I (and I assume Tom Hall) envision him wouldn't exactly run around with a chainsaw or minigun ripping enemies to bloody pieces.<br /><br />Keen would use a frisbee to throw at enemies for instance.<br />(Oh, right after I say that I realise I probably thought of that because I've been playing Zelda: Windwaker where Link throws a mean boomerang... fun game so far.)Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 8080,
+		"title": "Re: hehe",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-25T22:00:32.000Z",
+		"content": "Windwaker rules!!! w00t!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Anyway, i think keen should stick to stunners and rayguns. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img] -Genius314"
+	},
+	{
+		"id": 8081,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-25T22:05:08.000Z",
+		"content": "Ret8: I loved WindWaker, especially the art style--I hope you have fun with it.<br /><br />Creative Madman: As much as I hate it, I think \"Security Center\" from Keen5 would make a good multiplayer level--the beginning areas have a few different routes to get around in, and there's lots of room to dodge.  Levels with wide open spaces, I'd avoid--like Crystalus or Perilous Pit.  Maybe try and use Energy Flow Systems?  Not sure."
+	},
+	{
+		"id": 8082,
+		"title": "Re: hmm",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-25T22:11:13.000Z",
+		"content": "Xky: I like the WW art style. Its the best!! I also hate Security Center. I almost always forget the Keycard!! <br /><br />Ret8: Now to ruin the ending it's..... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  like i'd really tell you. <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />CM: I think the last level of KEen 6 would make a cool level for multi player. With all the confusing doors, and all.-Genius314"
+	},
+	{
+		"id": 8083,
+		"title": "Re: hmm",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-07-26T06:19:53.000Z",
+		"content": "Im not really good with fantasy art, but i tried making some improvements... and a frisbee...<br /><br />[img]http://img267.imageshack.us/img267/5660/improvements0kg.jpg[/img]<br />[img]http://img329.imageshack.us/img329/7451/frisbee5of.jpg[/img]<br /><br /><i>Improvements &amp; Frisbee Copyright Alex87 2005</i><br /><br />---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 8084,
+		"title": "Re: hmm",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-26T10:54:44.000Z",
+		"content": "Hehe, frisbee would be definitely fun. Maybe dynamite could be replace with good ol' flower power?<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8085,
+		"title": "Game Maker",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2005-07-27T00:28:17.000Z",
+		"content": "Hey, Creative Madman, you're using Game Maker right? Game Maker by Mark Overmars?<br />I have version 6 of this program and am experienced in using it (except the code) and I'd like to help if I can. I already have a work in progress where Keen can run, jump, shoot, and climb ledges with all the correct sprites (pogoing and pole climbing soon to come I hope), but this is pretty much my only experience in Mods of any kind. The sprites were ripped but other than that I pretty much did everything.<br />So just letting u know that I really look forward to your game, and in the meantime, is there anywhere I can go to get a earlier version of it? (the downloads on your site dont work, but you proly knew that)<br /><br />PS, I'm totally new to forums on the net - if I make an error on something or do something stupid, let me know so I don't do it again - thanx [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] The Universe is Toast..."
+	},
+	{
+		"id": 8086,
+		"title": "Re: Game Maker",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-27T00:30:26.000Z",
+		"content": "Welcome to the Public Commander Keen Forum![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 8087,
+		"title": "JESUS",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-27T07:45:46.000Z",
+		"content": "i take a break from the forum for like 2 days and find my topic flooded. <br /><br />its all good in the hood<br /><br />anyway b4 i get distracted and go off my head with weird sayings an weird stuff. thank you all for writing, Alex87 good sprites but way outta place bruv, i dont like the idea of keen mini-gunning Mort. all of these levels you people suggested, will be added to 2.0 multiplayer. a frisbee guys? common i mean its a good idea but that wont kill nobody, mabye to destroy the mines? but it aint killing nobody hahahhahah<br /><br />thanks to the new bloke who talked of GM, i think im cool with it but ill come to u with any help, for example, how would i make a block of ground not solid from the bottom but solid on the top like in Keen4-6. i hope you know what i mean<br /><br />Harry<br /><br />P.s Alex87 your weapons are good, but u havent moved the hands around, you know, so they look a bit [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-bloody.gif[/img]"
+	},
+	{
+		"id": 8088,
+		"title": "Re: JESUS",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-07-27T11:23:49.000Z",
+		"content": "lol, its ok [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  i just thought you might find some use for them thats all, but i have to agree with most of the people here about how CK should use ck-like-weapons.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 8089,
+		"title": "block solid on top only",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2005-07-27T20:35:20.000Z",
+		"content": "Yup, I know exactaly what you mean - the ledges in K4-6 where if you press down and CTRL at the same time, you drop down. I haven't even attempted that yet, and I don't think I'm gonna have it in my game because I'm not going to have a strong platform element in it (basically, you fly around in your ship to go to places, and at those places you walk around like in K4-6, minus advanced moves, unless it's an enemy place like Koreth III Base for example.)<br />Anyway, what might really help is someone who knows whatever language Keen4-6 was programmed in( is it C?), and could get the source code and explain the way that that particular action is written.<br />And if I may humbly make a sugestion about CKGI...can you change Mortimer's sprites to make him in all black? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]  (I know what my name says, and I didnt get it just to put momentum behind this request - I just couldnt think of a better name at the time). It just seems to me that Mortimer should be in all black because he's the grand villian and all and it just seems very fitting.<br />It's up to you - shouldnt be that difficult since the objects will run just the same as long as the sprite is the same size and shape.The Universe is Toast..."
+	},
+	{
+		"id": 8090,
+		"title": "Re:",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-27T21:58:54.000Z",
+		"content": "Well, Keens 4-6 are probably written in C with some assembler, but no one's going to be able to get the source. None of the actions in Keen is really unique (besides the pogo), so you can probably find someone to tell you how to accomplish them. You don't need the Keen source for that."
+	},
+	{
+		"id": 8091,
+		"title": "mayhap",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-28T07:11:18.000Z",
+		"content": "yeah i might change Mort to all black, seeming as the only ID reference to Morts clothes are in the sacrilegious GBC version and he was wearing all black. i just think he looks cool in blue and black, atm Mort and Keen are identical down to their clothing patterns, the only difference is the colour pallette between the two players. so i might change his helmet if i do that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img]    (the MM on the side)<br /><br />as for the ground, illl work it out meh i got the poles to work after all &lt;begins to cry with joy&gt; <br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img]"
+	},
+	{
+		"id": 8092,
+		"title": "Re: mayhap",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-07-31T06:17:19.000Z",
+		"content": "Calling drawers. Genius314  you can draw!<br /><br />i need the Vorticon Sprites for pole and ledging based highly off the origionals<br />i need BBalazs' green Disruptor gun (do u wanna draw this BBlazs)<br />and i need a jetpack and some vehicles (watever u think is keenish)<br /><br />i will of course Give due credit to drawers<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img] <br /><br />P.s fixed some major bugs, like how the poles suspended keen and mort even when they wernt climbing them ( i know TLZ stuff)"
+	},
+	{
+		"id": 8093,
+		"title": "Ok",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-31T16:57:40.000Z",
+		"content": "i'll draw, but i need to know what color vorticon you're using (red, blue or yellow)-Genius314"
+	},
+	{
+		"id": 8094,
+		"title": "Re: Ok",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2005-08-01T04:34:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]\"oh, and anyone that would like to help, i currently need based off the origional sprite, pole climbing for the vorticon elite, and ledgegrabbing, you will be credited if you do submit anything\" -Creative Madman[hr][/quote]<br />That's from the first page of this post. I guess it's the Vorticon Elite. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  The Universe is Toast..."
+	},
+	{
+		"id": 8095,
+		"title": "Elitie",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-08-01T10:23:17.000Z",
+		"content": "right u are my freind, yes The Vorticon Elite, (the standard vorticons wouldent be able to keep up with keen,)<br />----------------------------------------------------------------<br />oh and heres the new look new look for Mort MiB, what do u think? <br />[img]http://img.photobucket.com/albums/v483/creative_madman/newlookmort.gif[/img]"
+	},
+	{
+		"id": 8096,
+		"title": "Re: Elitie",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-01T11:47:25.000Z",
+		"content": "He looks cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 8097,
+		"title": "Re: Elitie",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2005-08-01T15:56:43.000Z",
+		"content": "Oh yes - That's the Mortimer we all know![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] - .... .   ..- -. .. ...- . .-. ... .   .. ...   - --- .- ... -"
+	},
+	{
+		"id": 8098,
+		"title": "Re: Elitie",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-08-02T10:35:38.000Z",
+		"content": "Ah yes, the master of darkness, Mooortimer McMiiireeee!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />About the disruptor, I'll draw it for you but consider a sketch and you may modify it if you like[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  It's just that I didn't have much time for anything yet... Too much work...------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8099,
+		"title": "Re: Elitie",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-08-02T12:32:49.000Z",
+		"content": "BBlazs i was just checking to see if u wanted to make it, after all it is ur Gun, and the way u invisioned it will be different from the way i will draw it, so u draw up a sketch and ill add her as i see fit [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 8100,
+		"title": "Re: Elitie",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2005-08-02T18:02:31.000Z",
+		"content": "Just some more time... today or tomorrow I'll post the pic here.<br /><br />Edit: Okay, it's here. It took some time to polish up an old sketch of mine I found[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br />The bullet<br />[img]http://img.photobucket.com/albums/v173/BBalazs/disruptor1.jpg[/img]<br />The explosion, which gradually becomes larger and larger<br />[img]http://img.photobucket.com/albums/v173/BBalazs/disruptor2.jpg[/img]------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 8101,
+		"title": "Re: Elitie",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-02T21:55:27.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />Woah thats awesome!-Genius314"
+	},
+	{
+		"id": 8102,
+		"title": "Disruptor",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-08-03T07:29:43.000Z",
+		"content": "take ur time bruv, im only addin this too v2.1 not v2.0 so take ur time and ill add it when ur done [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   , oh and if uve got em send em to me as BMP files so i can add the transperacy easier, unfortunatly GM does not allow for partial Transparacies, so when u email them to me have the sections you want transparant, in a colour that stands out eg if the bullet is green have a blue colour rep-ing the transparant bits. also if u have a larger version of ur bullet send that through to me, so when i make the animation of small to big, it doesent look all pixelated when it gets large. <br /><br />cheers for your work<br />sorry if u cant really understand my writein i never can be screwed to edit it, or check if its right.<br /><br />oh and btw, ur drawing the gun itself as well right? try and make it to scale with keens nural stunner and BMP it to me.<br /><br />[url=mailto:creative_madman@hotmail.com] creative_madman@hotmail.com[/url]"
+	},
+	{
+		"id": 8103,
+		"title": "Re: Disruptor",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-03T08:46:51.000Z",
+		"content": "The Mortimer sprite is very good. As well, I like that explosion by BBalazs.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8104,
+		"title": "how much longer?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2005-08-06T01:43:35.000Z",
+		"content": "Just a little anxious to DL this game, and I havnt seen any posts for that past several days. Can you give us an estimated date when 2.0 is ready, CM? I can still help ya' with anything.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 8105,
+		"title": "Re: how much longer?",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2005-08-06T02:33:18.000Z",
+		"content": "how much longer? <br /><br />bah i dunno could be 1-2 2-3 weeks. i have school assignments comming out of my ears. its a bitch and a half. and it takes me alot to get inspired about doing some of the work, i just wanna work on the 2.1 addons but i first must finish the engine [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt;  <br /><br />thanks for ur enthusiasim, i hope your not going to get let down<br />Harry (me not you &lt;personal joke&gt;)<br />-----------------------------------------------------------------------<br />where to start, ive just discoverd a damn bug farm when i ran CKGI, theres a hell of a lot of work involved, this might postpone the release a bit. <br />i just hope i can salvage her<br />Harry"
+	}
+]

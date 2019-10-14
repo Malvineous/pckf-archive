@@ -1,0 +1,114 @@
+[
+	{
+		"id": 282,
+		"title": "Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-15T09:17:03.000Z",
+		"content": "i started this mod but coulsn't edit the levels with the editor so i started experimenting with altering ck1 files with notepad(one now thats storytxt.ck1) and now i'm altering the story text with notepad.<br />i need a few files before i can actually release it as a beta.<br />and those files are a level editor that is 486 compatible and a sprite editor thats also 486 compatible.This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8182,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1485994,
+		"author_name": "Ultimo Spaz",
+		"timestamp": "2005-05-15T10:17:41.000Z",
+		"content": "nice man o by the way merder do you have msn mine is thaspaz@gmail.com please add me (sorry for the offtopic thing) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img]"
+	},
+	{
+		"id": 8183,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-15T13:32:35.000Z",
+		"content": "i can tell you my msn but i doesn't have any use becouse my own computer does'nt work and only on my computer i use msn and next time use pm(check yours now) for qeustions like that ok. but lets get back on topic.<br /><br />i have now edited all the *txt.ck1 files with notepad but there not finished yet does anyone know if those blocks that don't show sprites when tested with commander keen can be deleted safely?This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8184,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-15T19:33:05.000Z",
+		"content": "I suggest using hex editor, that way you can get better control of the files. Good luck with the mod. As well, if you're going to make levels with notepad (if I understood correctly), I really recommend hex editor on that.<br /><br />\"does anyone know if those blocks that don't show sprites when tested with commander keen can be deleted safely?\"<br />I didn't understand.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8185,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-16T14:17:33.000Z",
+		"content": "no i'm just altering helptext.ck1 endtext.ck1 and storytxt.ck1 with notepad i tried editing the other files but they ar chcokfull of those \"blocks\" to see them open a random file in notepad i saw them at the end of the files after the text. i dont know what version of ck1 i have but it has more files then just the level, save and highscore files. any hints on wich sprite and level editor i can use the best also they must fit on a floppy and work on a 486 couse the 486 i need to use at the moment has no working cd drive.<br />i use a 486 dx4 100 and was my stephfather first real computer.This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8186,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-16T19:01:01.000Z",
+		"content": "Hmmm. Have you tried adurdin's famous (KeenWright/KeenEdit) editor yet?<br />[url=http://andy.durdin.net/keen/keenedit.zip]andy.durdin.net/keen/keenedit.zip[/url]<br /><br />Anyways, I have no idea of good DOS graphic editors, sorry.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8187,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-18T10:36:12.000Z",
+		"content": "yes i have tried it but for some reason it couldn't even open a single file. and the sprite editor or level editor doesn't have to be dos version but they can not be windows 98 or higher the 486 uses windows 95.This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8188,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-22T08:46:37.000Z",
+		"content": "i tried finding an editor besides keenedit. but couldn't find any. (but i did find about 900 sites with keenedit(more then 2 third where double though)). also i couldn't find an sprite editor at all. the search engine i used is metacrawler (uses at least about 5 or 6 search engines at once including some well know ones like google.) but in the 100's of results not a single sprite editor [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] .  so any suggestion on where to find an sprite editor.This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8189,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-05-22T13:34:04.000Z",
+		"content": "Try [url=http://andy.durdin.net/keen/modding/viewforum.php?f=16]iKeen[/url]. It's a good Windows Keen 1-3 editor. It has some bugs, though - not enough to significantly disrupt your project, but make sure to back up your mod regularly.<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 8190,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-22T14:30:07.000Z",
+		"content": "iKeen can work a _bit_ too slow, if at all, in 486.. (And to note, it has no sprite editor.)<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 8191,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-23T07:19:41.000Z",
+		"content": "if it works i have atleast a start so i don't mind it not having a sprite editor. slow well if it works at all at a 486 i think it wont be slow on mine (the 486 i use now is very fast for a  regular 486 it takes about 2 minutes to boot into windows 95).This is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8192,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-05-23T15:23:27.000Z",
+		"content": "That's not fast. :P"
+	},
+	{
+		"id": 8193,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-25T15:39:14.000Z",
+		"content": "that seems not fast but thats with password and all the programs that start right after windows 95 bootsThis is not real.<br />You did not see this.<br />You werent here."
+	},
+	{
+		"id": 8194,
+		"title": "Re: Bazooka Bear and the 4 legendary lamps.(a keen mod)",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2005-05-28T06:59:05.000Z",
+		"content": "i've downloaded modkeen and started editing the keen logo and if i finish it i'l post the pic here. some of the pic looks good but some looks like crap(i don't mind saying that).<br />some enemies i already know how they are going to look.<br />here is one already.<br />the vortican is going to be an farao [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br />This is not real.<br />You did not see this.<br />You werent here."
+	}
+]

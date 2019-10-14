@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1463,
+		"title": "Boppin' decompression?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-04-16T08:15:15.000Z",
+		"content": "Well, after rediscovering Boppin', I thought I'd have a go at writing an extractor for it.  I've got one working, and I can pull data out of the main .RES file, but some of it is compressed.  Does anyone have any ideas about what sort of compression they use?  I've found a decompressed version of one of the files, so here are both versions:<br /><br />[url=http://www.shikadi.net/games/boppin/boppin1.lvl]boppin1.lvl[/url] (uncompressed)<br />[url=http://www.shikadi.net/games/boppin/boppin1.lvl.compressed]boppin1.lvl[/url] (compressed)<br /><br />It looks tantalisingly simple, but not being a compression expert I really have no idea..."
+	},
+	{
+		"id": 30388,
+		"title": "Re: Boppin' decompression?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-04-18T13:51:24.000Z",
+		"content": "Well, there's only a few options, only a few methods were employed back then - <br /><br />1. LZW.  The compression used is definitely not LZW, as the title wouldn't be readably at all as an extra bit is used in every character.<br /><br />2. Huffman - Maybe, I'm not too familiar with this one - although if you found a huffman table in the exe you'd have it in the bag.  <br /><br />3. RLE - Doesn't look it, although...I don't know, there are sections that are correct RLE...although that could be part of number 4:<br /><br />4. Crazy custom - i.e. Dune 2.  These bastards are very tricky, but I don't think it's being used here.<br /><br />What I'd do?  The first 4 bytes of the compressed file is the compressed size, the next 4 bytes after that are uncompressed size.  Now, in the compressed file you have, at data start (8 bytes from start)[pre] FDFF EEF1[/pre]whereas uncompressed is[pre] FFFF FFFF FF[/pre]Read up about Huffman compression (as, like I said, I know little about it, but it's one of the only choices), and work out if the above is in any way possible with Huffman - if so, there might just be a Huffman table somewhere, most likely in the exe (you'll recognise it if you see it, once you've seen enough of the bloody things) - perhaps it might be possible to generate a table using compressed and uncompressed files?  I don't know.  If it's definitely not Huffman, your best bet is either:<br /><br />Put some compressed and uncompressed values, in both hex and binary form onto paper, sit down with spare paper and pen, or<br /><br />Disassemble and debug boppin.exe, tracing the CPU calls and reverse-engineering the decompression that way.  Hopefully, you won't have to do either of those two.<br /><br />I so couldn't work out the format of boppin.res when I tried [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img] ----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30389,
+		"title": "Re: Boppin' decompression?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2005-04-18T14:30:51.000Z",
+		"content": "szevvy why didn't you mail me ?[img]http://img.photobucket.com/albums/v177/memsys/goodorevilp.png[/img]"
+	},
+	{
+		"id": 30390,
+		"title": "Re: Boppin' decompression?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-04-18T23:57:51.000Z",
+		"content": "Yeah, Hotmail put you and Malvenious into junk mail, and I didn't notice them in there; I've replied to both you guys, my apologies.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30391,
+		"title": "Re: Boppin' decompression?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-04-19T11:58:05.000Z",
+		"content": "Thanks for the info!  Yes, I thought about Huffman and did some reading, but there's that dictionary/table thing, and I have an irrational fear of those... ;-)  I'll take another look.<br /><br />I know what you mean about recognising files though, for many years I've been able to recognise PCM and Adlib audio in a hex editor (and the Adlib was mostly due to staring at IMF files for hours on end wondering how on earth to play the little buggers [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] )"
+	},
+	{
+		"id": 30392,
+		"title": "hmm",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-04-20T01:15:49.000Z",
+		"content": "Now that I look at it, it doesn't look like Huffman...I've sent an email off to the programmer, we'll see how that goes.<br /><br />edit: Wow, got a reply already..."
+	},
+	{
+		"id": 30393,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-04-20T21:28:51.000Z",
+		"content": "That sounds promising!  What did they say?"
+	},
+	{
+		"id": 30394,
+		"title": "gllo",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-04-25T04:56:42.000Z",
+		"content": "Well, he asked if I was interested in the levels or graphics, I replied graphics as Boppin has level editor, and I haven't heard back since."
+	},
+	{
+		"id": 30395,
+		"title": "Re: gllo",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-17T08:55:14.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br />Michael,<br /><br />My apologies for not responding sooner.<br /><br />Please find attached a zip file containing the source for the tools I used to build the original Boppin' resource files.  This includes the compression source as well.  This is pretty old source and it definitely won't build unchanged (the original directory structure was lost during a hard drive crash years ago and I never got around to updating this source).<br /><br />This code was designed to be build with the Watcom compiler.<br /><br />Each tool, such as makesnd, makepic, and maketile, read in a configuration file that ends in .lst (in the root directory).  These configuration files point to the image files to use as well as define the order in which the tiles are ripped from each image (all images are assumed to be in Deluxe Paint 2e LBM files.  ProMotion also reads and writes these files).<br /><br />Please be aware that the original Boppin' code assumes that all the images available in the original resource files is all there is; the program cannot handle additional resources without recompiling.  So if you replace the existing images, you might be able to get away with providing less, but you definitely cannot provide more.  Boppin' was originally written on the Amiga and optimized a whole lot on that system before I moved it to the PC.  On the PC, I kept the source pretty much intact, including the optimizations that led to the pre-sized buffers and image counts.<br /><br />Hopefully, you can make enough sense of what I've given you here to support modifications to Boppin's resource files.<br /><br />Again, I apologize for not responding earlier.<br />[hr][/quote]<br /><br />edit: Woha, there's a lot of stuff in here...<br /><br />edit2: OK, the compression is LZSS - and decompression source is included.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30396,
+		"title": "Re: gllo",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-05-18T07:30:16.000Z",
+		"content": "Wow, that's pretty good - I've sent you an e-mail in the hope of getting a copy of it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 30397,
+		"title": "Re: gllo",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-18T11:28:25.000Z",
+		"content": "Why on earth would I not send it to you?  I send anyone anything they need... Boppin stuff is in your inbox. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30398,
+		"title": "Re: gllo",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-05-19T09:15:12.000Z",
+		"content": "I was afraid you might have obtained it along the lines of \"I'll send you the code szevvy, on condition you don't distribute it\" which seems to happen all too often when dealing with source code for things [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />I have received it safe and sound though - thanks!"
+	},
+	{
+		"id": 30399,
+		"title": "Re: gllo",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-20T02:00:01.000Z",
+		"content": "There was nothing of the sort - although, I could always say we're working on it together [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30400,
+		"title": "Hooray",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-05-20T13:04:44.000Z",
+		"content": "Well I've finally had a chance to look at the code and it seems to work really well:<br /><br />[url=http://www.shikadi.net/gamemusic/bopmus.zip]bopmus.zip[/url]<br /><br />Yay!"
+	},
+	{
+		"id": 30401,
+		"title": "Re: Hooray",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-05-22T03:25:27.000Z",
+		"content": "Huzzah!----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	}
+]

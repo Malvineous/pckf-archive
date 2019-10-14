@@ -1,0 +1,10 @@
+[
+	{
+		"id": 1356,
+		"title": "CKPatch extended for other games: Released!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T16:34:41.000Z",
+		"content": "Yep, right. Now you can use it for Bio Menace, Dangerous Dave 2 &amp; 3 and Shadow Knights.<br /><br />[url=http://www.keenmodding.org/viewtopic.php?p=10904]Announcement at Keen: Modding[/url]<br /><br />Binaries (108 KB): <br />These are the MS-DOS based executables which you most likely want:<br />[url=http://jimsoft.spatang.com/keen/community/util/ckpatch-0.9.0-ext-bin-upx.zip]shadowm.rewound.net/src/ckpatch-0.9.0-ext-bin.zip[/url]<br /><br />Source code (Pascal - DOS, 55 KB): <br />It's the original source code, plus minor hacks and new .pas files based on ck1patch.pas; it also includes an updated makefile for the new patchers.<br />[url=http://shadowm.rewound.net/src/ckpatch-0.9.0-ext-src.tar.bz2]shadowm.rewound.net/src/ckpatch-0.9.0-ext-src.tar.bz2[/url]<br /><br />Now all we need is to develop patches for the new game targets of CKPatch. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />(And yes, I know I should LZEXE or UPX the binaries, but I'm just too lazy to do it right now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]    ).------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

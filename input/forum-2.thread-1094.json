@@ -1,0 +1,66 @@
+[
+	{
+		"id": 204,
+		"title": "Commander Keen Doom question...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-04T22:06:16.000Z",
+		"content": "What would make a better Commander Keen Doom mod?<br /><br />A) A recreation of Commander Keen 4, 5 and/or 6<br />B) A recreation of Commander Keen 1-3<br />C) A new story<br />D) A &amp; B<br />E) All of the above<br />F) None of the above<br /><br />For option A... it is not unreasonable to incorporate all of the levels in Commander Keen 4-6 in a Doom environment. There may be differences in constructing a level in a 3D environment that is supposed to be based in a 2D environment.<br /><br />I've been leaning toward Option C for the most part.<br /><br /><br />And for those of you who do not have Doom 2 - when the time comes, I will test this wad with FreeDoom, which is an IWAD based on Doom 2 that uses completely new textures, monsters, weapons, everything, but also allows people to play Doom 2 wads. <br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4867,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-10-04T22:25:55.000Z",
+		"content": "I'd say A or C, although C will probably lead to a much less Keen-ish game (especially since its a Doom mod).-Genius314"
+	},
+	{
+		"id": 4868,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-05T00:20:25.000Z",
+		"content": "I like A and C, possibly a combination. Keen 1-3 were good too, just not my favourite ones. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4869,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-10-05T01:07:01.000Z",
+		"content": "I think you should focus on 1 game or have a compilation of one set of games (Keen 4-6 or Keen 1-3)."
+	},
+	{
+		"id": 4870,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-05T05:45:00.000Z",
+		"content": "What I currently have going with my mod is basically a new story using some species and characters from the original games.  Doing a remake would be cool, too.  I personally don't really like doing those myself, but if you did it right then it would be pretty neat.<br /><br />Editing 4-6 would be better in that it would give you more options in terms of enemies, but 1-3 would probably make for an interesting challenge.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4871,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-05T09:55:44.000Z",
+		"content": "C, I'd say. Or A or B, if you really want to try to convert the originals into Doom format -- which certainly would be interesting to see.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4872,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-07T21:06:34.000Z",
+		"content": "I'll go with A.<br /><br />Depending on how this goes, I might also do a B and a C...<br /><br /><br />While A gives me less freedom of creativity, it also provides more of a structure that I can use to work with. Furthermore, I won't have to really make any more enemies, just alter the existing ones so that they are able to move in 4 or 8 directions instead of 2. <br /><br />I might even be able to provide a way to leave a cliff-hanger at the end of the game (after playing through a Doom-ized version of Keen 4, 5 and 6) to leave room for a sequel in either the form of another Keen Doom, or a MMF game. <br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4873,
+		"title": "Re: Commander Keen Doom question...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-07T21:47:40.000Z",
+		"content": "It should be no problem constructing all of the levels that appear in Keen 4 - 6...<br /><br />Keen 4 would have 18 levels - 17 playable levels including the secret level, and the 18th level would be a 3D main map. <br /><br />Keen 5 would have 15 levels - 14 playable + secret and the 3D main map. I am really looking forward to recreating this episode.<br /><br />Keen 6 would have 17 levels. This makes for a total of 50 levels.<br /><br />Doom may be limited to 32 levels, but GZDoom isn't. There are two ways I can include 50 separate levels.<br /><br />One is keep the total of actual maps to 32, but have some levels paired with another - mainly levels that might have the same theme music. GZDoom allows the possibility for the player to enter a level, exit it, and reenter it as if it never changed. In fact, I can construct each entire episode to act like one gigantic level - and the only thing that will notify you that you are entering a level or leaving a level is probably some text that appears on the screen. A line defined as an exit can be set to take you to and from a main map, as well as make it act more like a silent teleporter. The problem with this is that crossing that line is noticeable, since an entire level still has to load. I don't intend on creating massively complex levels, so it should only take a split second to load for most computers.<br /><br />The other possibility is to add a Map 33-50... This will also make it easier to use a map-warp, say by typing idclev45 for level 45 since if I were to have Map 15 use two levels, for example, it'd be really hard to warp to one level or the other.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	}
+]

@@ -1,0 +1,402 @@
+[
+	{
+		"id": 653,
+		"title": "Keen4 mod (long-term): \"Shards of Time\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-02-20T17:45:22.000Z",
+		"content": "Commander Keen in The Return of The Shikadi<br />Episode IV: Shards of Time<br /><br />OK, I have no better name yet, one might come outta my head someday, so I prefer to refer to this project as \"SHIKADI4\".<br /><br />Storyline with no spoilers: in Shikadi3 (which is the undone sequel to the undone Shikadi2, which is sequel to the almost finished Shikadi1) after beating the Shikadi Overlord and his guards, Keen finds out that one of Shadow Master's minions took the two 5th Element crystals (the other 4 element crystals are collected by Keen in Shikadi1) to the Earth's future, in which it has been converted into a wasteland, a dry planet with all its former natural resources consumed by the evil Shikadi. Keen enters the time machine and travels to this future. That's where Shikadi3 ends and Shikadi4 starts.<br /><br />BTW, I have lots of concept art about it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Most of the sprite replacements are ready to be drawn when I get to my computer.<br /><br />Keen has to travel to the Moon, which is a Shikadi base in the future, to find the final 2 crystals and return to the \"present\" (past). But first he'll have to survive the perils of a dry devastated land filled up with strange machines, biomechanic creatures and the nasty Shikadi guards. Will he save the future? Will he be able to return in one piece to our present and stop the Shadow Master before his Shadow Army takes over the Milky Way? Stay tuned for the shocking finale!<br /><br />-------<br /><br />OK, what do I need? Keen4 v1.4 by Apogee, CK456Tli, ModKeen 2.0.1, TED5 n stuff, and the GIMP. I have all of that.<br /><br />Nononono. I wouldn't ask you if I wasn't going to make a big modiffication. The main goal of this mod is to modify other parts of the Keen engine that remained intact in Ceilick's Keen 4 mod. These are:<br /><br />- In-game status screen<br />- In-game status bar (top-left corner of screen)<br />- Demo bar at the top of screen<br />- *Text mode please-wait screen: text, colouring and some miscellaenous arrangement.<br />- Main menu background, text, perhaps some behaviours, and paddle war sprites<br />- Miscellaneous text windows<br />- Overall appearance<br />- Title screen<br />- *Starwars text screen (background &amp; text)<br />- *IMF Music data<br />- *Level-music table<br />- *Adlib/Soundblaster sounds<br />- *PC Speaker sounds<br />- Completely new appearance for the Help screen<br /><br />My main worries are about the points marked with an asterisk (*). I have almost figured out how to do other stuff. So, let's start with the music.<br /><br />Is it possible to replace the existing IMF music, Adlib/SB sounds and PC Speaker sounds in Keen4? The sounds are not very essential, but the music IS essential. I mean, if it isn't possible to replace it with my own tunes, tell me and I'll ask for a patch to DISABLE music support in Keen4. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />If that is possible, I want to compose my own tunes, but have them in IMF format. Is that possible?<br /><br />BTW, this mod may take 20 years for production, but it doesn't matter since it's always been my dream to make a full Keen game with the Keen4-6ish look and feel.<br /><br />EDIT: oh, for some unknown reason, I feel that a Keen4-6 mod isn't complete without a modified text mode please-wait screen. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16750,
+		"title": "!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-02-20T18:09:53.000Z",
+		"content": "Let's have a look at your list:<br /><br />- In-game status screen<br />   I'm not sure about this one... I'm sure it's possible, though.<br /><br />- In-game status bar (top-left corner of screen)<br />   This one's easier--4SPR0129.bmp <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />  <br />- Demo bar at the top of screen<br />   4SPR0005.bmp<br /><br />- *Text mode please-wait screen: text, colouring and some miscellaenous arrangement.<br />[quote]<b><i>Quote:</i></b>[hr]From the ModKeen.txt file:<br />  xMSCnnnn.BIN<br />    Episodes 4, 5, and 6 only: These are binary files needed for correct operation of Keen.<br />    Two of them are the initial \"Initializing...\" and the final \"Thanks for Playing\" color<br />    text screens, which you can edit with an ANSI editor. The other .BIN files should not<br />    be modified.[hr][/quote]<br />- Main menu background, text, perhaps some behaviours, and paddle war sprites<br />   4BMP0097.bmp is your background, 4FON0001.bmp should be your menu text, and the paddle war sprites (I think) are 4BMP0000-0004.bmp.<br /><br />- Miscellaneous text windows<br />  Borders (and digits) are in 4TIL0002.bmp<br /><br />- Overall appearance<br />  That's what the modding is for <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />- Title screen<br />  4BMP0103.bmp, and there was work at K:M about being able to change the COMMANDER and KEEN words that scroll across at the beginning.<br /><br />- *Starwars text screen (background &amp; text)<br />  The font is 4FON0002.bmp, and the story text itself begins at $1EE40 with \"Episode Four\" and \"Secret of the Oracle.\"  The story itself begins at $1EE64, and can be a total of 471 characters long (including carridge returns, etc) and must end at $1F03B to avoid overflowing into other parts of the code.  Keep in mind that each line must be no more than 24 characters long, including the carridge return, so you can have maximum 23 viewable letters/numbers/spaces per line.<br /><br />- *IMF Music data<br />  This is possible, by using WDC (a Wolfenstein 3d editor) to import IMF into the game... I played with it briefly, about a yaer ago.  You can convert MIDI data into IMF data by using a piece of software called \"IMF Converter.\"  I don't remember where I got it, but I think Malv might know.<br /><br />- *Level-music table<br />  So far as I know, this is changable with WDC as well.<br /><br />- *Adlib/Soundblaster sounds<br />- *PC Speaker sounds<br />  I know nothing about these <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/><br /><br />- Completely new appearance for the Help screen<br />  That's the very first thing that's extracted--4BMP0000.bmp through 4BMP0042.bmp are all for the Help screen, and I can help you find text patches along the way.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16751,
+		"title": "Re: !",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-02-20T18:16:17.000Z",
+		"content": "I forgot to add another one: the point values that popup when you get a point item (100, 200...). AFAIK they're sprites, so they can be edited as all of the other sprites. The only doubt about this one if which style should they use. I was thinking about the Isis II style for them (in EGA color of course).<br /><br />I have the IMF2MID converter, and probably the MID2IMF in the same folder too, I've gotta take a look there again. Where can I get that Wolfenstein editor?<br /><br />EDIT: ANSI editor???------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16752,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-02-20T18:47:46.000Z",
+		"content": "I think ANSI is just a character set--you should be able to edit it with Notepad or some other editor.  Just be sure to back up your stuff, in case it breaks <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />The point items are sprites, yes, but we can also patch the values in-game to change how many points they're worth.<br /><br />Edit: Well, editing that ANSI stuff with Notepad is certainly -possible,- but it'll give you a headache.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16753,
+		"title": "Re: ...",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-02-21T01:06:58.000Z",
+		"content": "Wish I could help with this stuff, but theres a reason I didn't change a lot of it in my own mod; I don't know how [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br /><br />Cool story though, looking forward to it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 16754,
+		"title": "Re: ...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-21T04:07:25.000Z",
+		"content": "What are you talking about? ANSI-notepad editing is as easy as typing; first type what you want it to say (The ANSI character set can be easily found) then use the -&gt; and insert command to fill in the colors etc. <br /><br />I can do an ANSI screen in less than quarter of an hour if I know what I want it to look like.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16755,
+		"title": "ANSI",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-02-21T04:36:21.000Z",
+		"content": "What?  Really?  How?  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Make a tutorial, please!"
+	},
+	{
+		"id": 16756,
+		"title": "Re: ANSI",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-22T00:43:32.000Z",
+		"content": "You're kidding right?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16757,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-02-22T01:58:19.000Z",
+		"content": "No, I'm not.  There's a .BIN file in the directory, I double-click it, it says \"What do you want to open this with?\" I choose Notepad, say Ok, and I'm presented with a jumble of stuff that is POTENTIALLY decypherable, but not immediately accessible.  After some scanning, I can see something that looks like:<br />NCNoNmNmNaNnNdNeNrN NKNeNeNn<br />which I can recognize as \"Commander Keen,\" but I'm not sure what the N's do.  Based on your post, I realize they must be color information.  But what color?  How can I change this, if I want something different?<br />What do all these weird triangles at the top mean?  Are those the lines creating the border around the screen?  How would I change them?  What letters do I have to put in in order to make, say, a right angle that caps the upper right corner?<br />I tried Googling for \"ANSI Editor,\" and downloaded a few different DOS-based shareware editors... not one opened the BIN file in an accessible format--lots of flashing colors, garbled characters, and nothing recognizable.  <br /><br />I'd like a tutorial, or at least a little help in figuring this out.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16758,
+		"title": "Re: ...",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-02-22T11:04:23.000Z",
+		"content": "You could try [url=http://www.download.com/3000-2192-10141644.html]ACiDDraw[/url], which is a free ANSI editor."
+	},
+	{
+		"id": 16759,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-02-22T16:49:45.000Z",
+		"content": "That was the first one I tried--it doesn't interpret the BIN files correctly.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16760,
+		"title": "Re: hehe",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-22T22:25:17.000Z",
+		"content": "I've got an old program called TextPaint which I think can import/export these raw files.  Also that's one of the few working features in my game editor at the moment [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />The funny characters in the .bin files are colours, but you'll need an ASCII table (or a hex editor) to figure out which characters correspond to which colour.  The simplest way is probably to convert the character into a hex code - e.g. a number four is hex code 0x34, which means background colour #3, foreground colour #4 (or it might be the other way 'round, I can never remember.)  Colour 3 is dark cyan, colour 4 is dark red.  So if you change the second character (the \"attribute byte\") to a \"4\", you'll have red text on a cyan background.<br /><br />Needless to say it's pretty painful doing it that way, an editor is definitely the way to go.  I'll have to see if I can dig out TextPaint, it was a really good program.<br /><br />As to the music, IMF files are raw Adlib sounds.  This means if you can play something in DOSBox and use the OPL capture, DOSBox will save the Adlib data to a .dro file.  It will be a simple matter of rearranging the data to convert .dro into .imf, so any Adlib music you can play in DOSBox can be converted into .imf.<br /><br />If you have the source code for a music player (e.g. musplay, which plays the Doom music) it would be even easier to modify that to produce an .imf file instead of actually playing the music.  Adplug/Adplay would be another good candidate for this."
+	},
+	{
+		"id": 16761,
+		"title": "ASCII me anything",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-23T05:28:02.000Z",
+		"content": "There are 16 colors; the characters used are simply ASCII values saying a.) background color and b.) text color.<br /><br />*****************<br />*Levellass writes this* <br />*****************<br /><br />Total time, 15 seconds.<br /><br />Now let's try a zany color scheme!<br /><br />!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*<br />!*@L@e@v@e@l@l@a@s@s@ @w@r@i@t@e@s@ @t@h@i@s!* <br />!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*<br /><br />Fill in time, maybe 30s more.<br /><br />I really don't quite see what the problem is, most of the undecipherable stuff is characters for boxes and lines; if you send me a picture of what you want it to say i can make it quick sharp!"
+	},
+	{
+		"id": 16762,
+		"title": "Re: ASCII me anything",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-23T11:56:08.000Z",
+		"content": "Ah why not:<br /><br />[img]http://www.shikadi.net/pckf/dosgfx8bit.png[/img]<br /><br />[img]http://www.shikadi.net/pckf/dosbox-keen4e-mod.png[/img]<br /><br />Total time, also 15 seconds (including loading Keen 4) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] <br /><br />But seriously...<br /><br />LL's method above works, but if you actually want to choose a specific colour, have a look at the [url=http://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter]colour chart on Wikipedia[/url], and take note of which number you want (0-15.)  Pick one number/colour for the foreground and one for the background.<br /><br />Take your background colour and multiply it by 16.  Add the foreground colour.  This is the attribute byte, it will be a value between 0 and 255.  In your program of choice (assuming you're on a Microsoft OS), hold down Alt and type in the attribute number on the numeric keypad.  When you let go of the Alt key, a character will appear - this is the character you should use in between the text to get the colour you want.  The attribute byte specifies the colour of the character *before* it (so \"XY\" means X will appear on-screen, and Y is the colour of the \"X\".)<br /><br />As an example, the random \"A\" above is bright cyan (colour 11) on dark green (colour 2.)  2*16+11=43.  Alt+43 should generate a plus sign.  Put this plus sign after every character you want to appear bright-cyan-on-green.  Most characters will be weirder than a simple plus sign, but that's what copy and paste is for.<br /><br />It'll get tedious quite quickly, but it does work."
+	},
+	{
+		"id": 16763,
+		"title": "Re: ASCII me anything",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-23T21:45:29.000Z",
+		"content": "You mean to tell me you have to look up a color chart? There are only sixteen different colors; it's not hard to remember them. And there's no need to do all that multiplying; in hex the first number is background, the second foreground like say $A3 I really don't see what's so hard about this.<br /><br />Flashing text, that's more difficult.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16764,
+		"title": "Re: ASCII me anything",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-24T02:32:22.000Z",
+		"content": "I personally don't have to look up a colour chart, but not everyone would've used EGA colours enough to have memorised them.  Also the multiplying is just an easy way to convert the hex code into decimal - knowing the colour code is A3 is all well and good, but if you're using Notepad as you recommended, there's no easy way to type in whatever character A3 represents.  You still have to convert it into decimal or use a hex editor.<br /><br />Also flashing text isn't difficult - background colours 0-7 are \"normal\", background colours 8-15 are identical to the first lot except they're flashing.  For example background colour 1 is dark blue, background colour 9 is the same blue but with flashing text (in other words you can pick your background colour from 0-7 and add eight to enable flashing.)<br /><br />There's actually a display register that you can switch to change between two modes - one mode has flashing text, the other mode disables flashing and gives you a high-intensity background colour instead (so background colour 9 stops being dark-blue-with-flashing and becomes a bright-blue background colour with no more flashing.)  You can see in my screenshot above that this \"blink bit\" has been switched off giving high-intensity background colours (that's what the \"blink\" checkbox is for.)"
+	},
+	{
+		"id": 16765,
+		"title": "% P2wDD",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-24T14:07:44.000Z",
+		"content": "No way to type in A3? And how do I type in it's decimal equivalent? typing '123' doesn't give me that character either you know...<br /><br />People just don't use their keyboards enough, even when typing simple keys like '~' or '' they go look up some stupid windows character menu."
+	},
+	{
+		"id": 16766,
+		"title": "Re: % P2wDD",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-25T02:47:32.000Z",
+		"content": "It does if you type '123' on the keypad while holding down the Alt key.<br /><br />You're right, people don't use their keyboards enough [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]"
+	},
+	{
+		"id": 16767,
+		"title": "Re: % P2wDD",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-26T11:40:11.000Z",
+		"content": "*Gasp!*<br /><br />He knows the secret!<br /><br />(Honestly, my computer was configured to prevent that happening, can you believe that?)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16768,
+		"title": "Re: % P2wDD",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-02-26T12:28:15.000Z",
+		"content": "Seems quite similar to the format used in Keen 1-3. So, Malvineous, what is the program you opened that in? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]   It'd make editing the screen a lot faster, in distant future.<br /><br />Edit: Nevermind, I just read it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16769,
+		"title": "Re: % P2wDD",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-27T07:45:35.000Z",
+		"content": "May we be seeing an editor from you sometime soon?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16770,
+		"title": "Re: % P2wDD",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-27T11:56:06.000Z",
+		"content": "Probably not, unfortunately.  I don't get nearly as much time to spend on it as I'd like, so it's pretty slow going.  Most of the underlying structure is there, now I'm just getting started on the user interface and the underlying file formats.<br /><br />I only just started on the map editor a couple of weeks back (I was putting it off, but OpenGL wasn't as troublesome as I was expecting), so once that's done all I'll need to do is \"describe\" the format of the Keen maps and they'll be editable.  Likewise because the user interface is generic, that same map editor will work with any other game once its map format has been \"described\" (I'm actually using Xargon as the test game at the moment.)<br /><br />Doing it in this \"generic\" way has some good side effects though - in order to implement map editing for a game the graphics format has to be described (for the map tiles) - but as soon as that's done the generic \"tile viewer\" detects the new graphics format and kicks in, allowing you to view/export/import the game graphics without any extra coding, which is nice.<br /><br />Once I've got it editing Keen I'll probably release something.  I'm hoping to have it do *something* that no other Keen editor can do before I release it though, to make it worth the download [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 16793,
+		"title": "The music-level list",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2007-02-27T13:36:05.000Z",
+		"content": "One of my first patces was to change the level-music table in keens 4-6. No-one ever seemed to use it though, probably because it wasn't done very well and involved mucking around with a hex editor.<br /><br />If I can get some time (I'm supposed to be studying for 4 tests tomorrow), I'll improve it."
+	},
+	{
+		"id": 16794,
+		"title": "Re: The music-level list",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-02-27T19:35:41.000Z",
+		"content": "Xargon? Does that mean it could be made to edit Jill of the Jungle levels, since IIRC they use similar formats?------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 16795,
+		"title": "Re: The music-level list",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-02-27T22:18:08.000Z",
+		"content": "AFAIK, Malvineous' editor can be adapted to edit pretty much any game - it uses a file for each game that describes how to read and write the game's data."
+	},
+	{
+		"id": 16796,
+		"title": "Re: The music-level list",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-27T23:15:42.000Z",
+		"content": "Yes, Xargon and Jill are practically identical.<br /><br />Unfortunately it's not going to be as extensible as I'd originally hoped - as Grafix said my original intention was to describe all the game formats in an XML file, so that no coding would be required to add new game formats.  Although I've done this, it has turned out to be quite painful in terms of creating an XML file and it is surprisingly slow.  I'll probably leave that code there for the time being (maybe it will prove to be useful later on) but I'm starting to describe the game formats in C++ code again as it's much easier and a *lot* quicker.<br /><br />But of course once I've implemented the \"map-xargon\" format, you can easily create a game definition file for Jill of the Jungle, and within that mark some of the files as \"map-xargon\" given that the formats are identical.  After the first release I'll probably see if anyone's interested in helping to create some of these game definition files - they're just simple XML files that tell the game editor what each file does in the game directory."
+	},
+	{
+		"id": 16797,
+		"title": "Re: The music-level list",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-02-27T23:30:36.000Z",
+		"content": "Well, it'd definitely be good to have a JotJ level editor that can edit sprites, since the shareware Jilledit doesn't and I'm not sure you can buy the registered version anymore.------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 16798,
+		"title": "Re: The music-level list",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-28T05:38:38.000Z",
+		"content": "Cool work, keep it up!<br /><br />(We'll need it to use with Wombat.)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16771,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-13T16:19:20.000Z",
+		"content": "I composed a MIDI file and tried to convert it to IMF. Well, first I converted it to MUS using MID2MUS, then I tried MUS2IMF, but this is what I got: \"Need GENMIDI.OP2 to run program\". What the heck?<br /><br />Oh, picture:<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/spritesheet.png[/img]------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16772,
+		"title": "Re: Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-13T19:54:54.000Z",
+		"content": "IMF2MUS does the same. That file is nowhere to be found, at least it wasn't months ago. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16773,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-24T17:05:37.000Z",
+		"content": "I found the file. I can provide a link, but I'm not 100% sure if it's legal to redistribute it or not.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16774,
+		"title": "Re: Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-24T23:05:03.000Z",
+		"content": "It'd just be a list of all 127 MIDI instruments and the FM/OPL chip settings used to best reproduce those instruments.  (Sort of like the reverse of those .reg files that IMF2MID uses, to convert FM/OPL chip settings back into MIDI instruments.)<br /><br />I doubt anyone could make any money off it today, so I don't think it would be a problem distributing it.  (I wouldn't be surprised if it was public domain to begin with.)"
+	},
+	{
+		"id": 16775,
+		"title": "Re: Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-25T10:25:27.000Z",
+		"content": "SM, it would be greatly appreciated if you could send me that file. I had been looking for it for ages.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16776,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-25T17:27:26.000Z",
+		"content": "Okey-dokey.<br /><br />Er, you're not connected to AIM when I'm,  dav. I wanted to upload it to my sitesled website but the server is currently down, so I decided to send it to you via e-mail, using the address you provided in your PCKF profile. So, check your e-mail.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16777,
+		"title": "Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-26T08:03:34.000Z",
+		"content": "lol, I was only gone for an hour that day, to eat dinner, and that's exactly the moment that you were online. Thanks for the file, the program I have works now and can make MIDI files into IMF files. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Btw, Sitesled's been online all day for me.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16778,
+		"title": "Re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-04-28T16:35:24.000Z",
+		"content": "Awesome looking sprite art, once again.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16779,
+		"title": "Re:",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-29T23:42:37.000Z",
+		"content": "IMFTOOLS is an awful, out-of-date piece of software that has awful conversion algorithms and an incredibly low amount of customization to it.  Plus, I'm not even sure if it can convert to the format required for Commander Keen 4--it may only convert to the Wolfenstein 3D IMF format.  If you really want to do conversion work, look up Adam Biser's IMFCreator.  It's currently the best out there, and supports Duke Nukem 2 style IMFs, the type that Keen4-6 use.<br /><br />EDIT: But then again, the only thing that can put them into the game currently, WDC, seems to have problems working in unison with ModKeen2; a lot of earlier experimenting with the two being used together caused the game to lock up before the menu even came up.<br /><br />EDIT #2: Thanks for making me feel dumb, Malvineous.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 16780,
+		"title": "Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-30T18:21:01.000Z",
+		"content": "I noticed that using MIDI2MUS &gt; MUS2IMF produces horrible results (in timing). I will look around for IMFCreator, I guess.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16781,
+		"title": "Re:",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-30T20:05:34.000Z",
+		"content": "You can get IMFCreator from [url=http://winwolf3d.dugtrio17.com]Adam Biser's[/url] site."
+	},
+	{
+		"id": 16782,
+		"title": "Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-30T22:14:41.000Z",
+		"content": "ZD: IMF2MIDI works really well, but it certainly doesn't create IMFs, Keen format or otherwise [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Also Duke Nukem II uses a different speed IMF to all other games, so putting a Nukem2 format IMF into Keen will cause the song to be played far too slowly.  At any rate, assuming you can get the tempo correct, the only difference between the Keen format IMFs and Wolf3D is that the first two bytes are set to zero in Keen, and they're set to the length of the song data in Wolf3D, so it's pretty simple to convert between the two formats if you've got a hex editor handy."
+	},
+	{
+		"id": 16783,
+		"title": "Re:",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-05-01T06:57:21.000Z",
+		"content": "The Duke Nukem 2 setting does nothing more than change those bytes.  You can set the number of tics by hand depending on what engine you're importing to."
+	},
+	{
+		"id": 16784,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T17:43:21.000Z",
+		"content": "\"Also Duke Nukem II uses a different speed IMF to all other games, so putting a Nukem2 format IMF into Keen will cause the song to be played far too slowly.\"<br /><br />Don't you mean \"fastly\"? At least that's what happens when I put one of DN II IMFs to play thru Adplay or the holy IMF plugin (a.k.a. \"Adlib XMMS\").------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16785,
+		"title": "Re:",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-04T08:03:37.000Z",
+		"content": "Ahem... 'fastly'? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] [img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16786,
+		"title": "Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-04T11:36:23.000Z",
+		"content": "Oh, I didn't know you could set the speed - the three IMF speeds I'm aware of are .wlf (slow), .imf (faster) and Duke II .imf (really fast - yes, you're right SM, I was thinking backwards there...)<br /><br />If you want to be able to play Duke II .imf files in XMMS/Winamp you need to adjust the delay between each note, which [url=http://www.shikadi.net/pckf/nukem2-imf.zip]I did some time back[/url] if you're interested.<br /><br />(the holy IMF plugin, ha!)"
+	},
+	{
+		"id": 16787,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-04T17:05:38.000Z",
+		"content": "Really interested, thanks. Did you do that with IMFCreator?<br /><br />Ouch, the thing crashes in Wine (error: \"bad file descriptor\") when it tries to save the IMF file to disk. Bad, bad, bad. I guess I'd go through another ugly emulation trick again to avoid directly using Windows.<br /><br />The last time I started Windows on my computer, it took 15 minutes to load. That's why I'm currently avoiding Windows.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16788,
+		"title": "Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-06T00:53:46.000Z",
+		"content": "<i>Did you do that with IMFCreator?</i><br /><br />No, I wrote a program called IMFDelay which would adjust the delay between each note (e.g. you could make the song twice as fast or twice as slow.  IIRC you had to make DukeII something like 1.5 times slower.)<br /><br /><i>The last time I started Windows on my computer, it took 15 minutes to load</i><br /><br />Use the open source emulator QEMU.  You can run Windows under Linux (at near native speed if you use the kernel module) and then save the current machine state to disk, so that it only takes about 10 seconds to \"resume\" Windows the next time you run QEMU."
+	},
+	{
+		"id": 16789,
+		"title": "Re:",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T12:54:27.000Z",
+		"content": "You mean virtual machine. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16790,
+		"title": "Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-07T07:25:18.000Z",
+		"content": "You need emulation software before you can run a virtual machine [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]"
+	},
+	{
+		"id": 16791,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:04:46.000Z",
+		"content": "I've been using QEMU + KQEMU for years. However, there's only one problem in setting up a virtual winxp installation for that:<br /><br />- I need a transparent way of reading AND writing files from this virtual machine and from the real machine.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16792,
+		"title": "Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T11:40:46.000Z",
+		"content": "Add '-nics 1 -user-net -smb /some/dir' to the command line.  Then in the VM you can use the virtual network to map \\\\10.0.0.2\\qemu or whatever it is to a drive letter, and in the VM use drive Z: or something to access /some/dir.  If you save files to that drive in the VM they'll appear in the folder on the host.  If you copy files into that folder on the host they'll appear on that drive in the VM.  Really handy."
+	}
+]

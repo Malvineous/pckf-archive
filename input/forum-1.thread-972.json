@@ -1,0 +1,442 @@
+[
+	{
+		"id": 143,
+		"title": "Commander Keen Video Studio (Download)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-09T02:48:41.000Z",
+		"content": "I'm proud to say that the BETA 1.0a version of CK Video Studio is now available for download! Make sure you read the Read-Me.<br /><br /><i><b>!!!ZIPPING BITMAPS IS SMALLER THAN ZIPPING PNG'S!!!</b></i><br /><br />[url=http://z-one.uw.hu/files/CKVS_BETA_1_0a.zip]CKVS BETA 1.0a[/url]<br />Size: 4mb<br /><br /><br /><br /><b>=================================</b><br /><b>                   Video Links</b><br /><br />Stones - <i>By Alex87 (Included with program)</i><br />[url=http://www.upshack.com/uploaded-files/200510/Keen5%20Level1.rar]Keen5 Lv1[/url] - <i>By Alex87</i><br /><b>=================================</b><br /><b>[url=http://www.upshack.com]Need a Host?[/url]</b><br /><br /><br />---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3672,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-10-09T05:21:37.000Z",
+		"content": "Well, if you can figure this out and get an app developed, I'll definitely make use of it!  :-)"
+	},
+	{
+		"id": 3673,
+		"title": "Re: hehe",
+		"author_id": 1035697,
+		"author_name": "0 UNFLEEXABLE 0",
+		"timestamp": "2005-10-09T05:26:55.000Z",
+		"content": "I can finally transition from 'The Sims 2' machinima to 'Commander Keen' machinima. Well, if anything, I can make machinima only on the GBC version as my GBA emulator can record in-game footage. :-)-- Censorship is F**ked! --"
+	},
+	{
+		"id": 3674,
+		"title": "Re: hehe",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-09T05:50:29.000Z",
+		"content": "ok, ive been messing around a bit, so far i *might* be able to include the following features...<br /><br />[Playing]<br />* Play, Stop, Pause<br />* Mute, Vol control<br />* Previous Video, Next Video<br />* Rewind, Fast Foward<br />* Slow-motion<br /><br />[Editing]<br />* Slow-motion<br />* Zoom in/out<br />* Fade in/out<br />* Title display (from JPG)<br />* Scrolling text<br />* Blur effect<br />* Screen Flash (black/white)<br />* Spot light effect<br /><br /><br />if you have any other ideas, which are possible, please add to the list.<br /><br />i cant guarantee that any of this is possible, but hey, its worth a try [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />im also in need of a few ideas for a GUI for this, so if you have any ideas, feel free to post them---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3675,
+		"title": "Re: hehe",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-09T08:28:26.000Z",
+		"content": "It'd be really awesome! Even the frame-rate could be increased to 20, for example, and the size would still stay relatively small. But 10 is fine, too. Nice.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 3676,
+		"title": "Re: hehe",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-09T09:57:08.000Z",
+		"content": "yeah, i thought seeing how its a dos game, theres no need to extream smothness. Anyway, ive finished the ALPHA version. still no where near final product, but its just for testing purposes.<br /><br />anyway, i hope to make some progress on this, however, i must warn you, this wont be a real video like avi/mpg etc., but a strand of images which are read by the program one after the other.<br /><br />Im using PNG's for this, because PNG's have the lowest size. One frame is between 2kb - 7kb, so yeah. Also, its a good idea, because its much more flexible this way, and easy to edit, while still having crisp quality.<br /><br />only problem is, i cant import PNG at the moment, because what im using only supports bmp/jpg and gif, so im gonna get a DLL or converter so it will work.<br /><br />incase your wondering, the music and sounds are actually stored in the program and then played when asked to be played. This is much more efficient than recording a wav or mp3 to be played with it, as you can imagine.<br /><br />ill have a BETA version of the player ready soon, as for the editor, that could take a tiny bit longer.<br /><br />ill keep you updated until then.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br /><b>EDIT: OK, good news, i got a DLL for converting from PNG, so theres no probs.</b>---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3677,
+		"title": "Re: hehe",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-09T11:35:14.000Z",
+		"content": "i know this sounds dodgy, this whole PNG thingy, but its the basic principal which all videos are made of. Only difference between this and a real video is that a real video stores all the images in one file, and mine dosnt [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img]  <br /><br />Also, heres another crazy update.<br /><br />ok, some of you's are gonna hate me for this, but the movie size will be a bit larger. I said 2 - 5 mb before, and its gonna be about (min 1.5) - (12 mb). This change isnt because of a mis calc, but because im improving the quality. HOWEVER, dont freak out, because 12mb is the absolute maximum. Remember, the size of the video depends on the level. On average, you should get around 5mb/min.<br /><br />The movie will now be a higher resolution (320x200, enlarged to 960x600), and 15 FPS.<br /><br />Also, i will be eliminating some of the features i mentioned in the Playback section. Previous, Next and Slow-mode are not essential, and so i am removing them.<br /><br />Also, i am thinking of adding extra features in the editor, such as rotations, image stretching/skewing etc.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3678,
+		"title": "Re:",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-10-09T12:45:57.000Z",
+		"content": "You can always just record GIFs with Camtasia Studio or something.<br /><br />[img]http://gnosticus.spatang.com/hmcstudios/keenthing2.gif[/img]"
+	},
+	{
+		"id": 3679,
+		"title": "Why didn't we think of this sooner?",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-09T13:33:31.000Z",
+		"content": "Hmm... I've been thinking on it since reading this post this afternoon, and I figure if you keep the resolution at 320x200 and use mp4 or XviD compression after importing all the images into an AVI or somesuch (or even an animated GIF--I believe I stumbled across a utility that can convert those into fmv), then it might be possible to get a rather nice compression ratio.<br /><br />I attempted to test the theory, but the only utility I could find for recording was FRAPS, which lagged out the framerate [on a 3200+, 1Gb RAM, Radeon 9550] and produced a 100Mb AVI from a few seconds of footage.<br /><br />[hr]<b>Alex</b> (10 FPS + High Quality Music/Sound + 250x150 blown up to 1000 X 600 Res)<br />[hr]Where do you get those figures for the resolution from? The in-game resolution of the Keen games is 320x200, and 1000x600 seems a fairly arbitrary size... not to mention the fact you're duplicating pixels and making the filesize needlessly larger. Maybe it'd make things more visible for the end user without programs dodging up the full-screen image with iffy anti-aliasing, but it's not as high a priority as a compact filesize.<br /><br />Also, I'd say 15fps would be better. I don't know exactly what framerate the Keen games are, but I'm sure it's at least a bit higher than 10. Anyone got some definitive info on this?<br /><br />Based on a couple of screens from my mod, I figure each screenshot is an average of ~4kb. That means 40kb/sec. A decent couple of minutes then is about a meg. Fairly decent, but I'm sure we can do better with some fmv compression.<br /><br />I'll look into it and see if I can find how to compress these things into something manageable for dialup users.<br /><br />Just read your later post:<br /><br />[hr]<b>Alex</b> The movie will now be a higher resolution (320x200, enlarged to 960x600), and 15 FPS.<br />[hr]Again, there's no need to enlarge the images, especially if you're planning on playing them back from PNGs using this utility, in which case the program can simply switch to a 320x200  full-screen, or expand the image on the fly to something larger.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3680,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-10T01:46:21.000Z",
+		"content": "ok, sorry if i wasnt descriptive enough, but the actualy resolution of the video is 320x200, when its being played in the media player the images are stretched to 960x600 to make it bigger.<br /><br />Also, im not too familiar with mp4 or fmv, so if you can test it out and get some averages, that would be great, and we have somthing to compare with.<br /><br />heres a basic image of the gui and what it would look like to watch a video. please note, this is a jpg image, so the quality isnt as good as what it normally would be.<br />[img]http://img416.imageshack.us/img416/3743/kenngui8vg.jpg[/img]---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3681,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-10T05:02:22.000Z",
+		"content": "Looks nice! How does it technically take the screenshots?[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 3682,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-10T05:12:26.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Looks nice! How does it technically take the screenshots?[hr][/quote]<br /><br />Ok, basically the program (no name yet) will have the ability to do 3 things.<br /><br />*record<br />*edit &amp; compile<br />*play<br /><br />basically, in order to record, it requires you to be in the game playing keen (must be dosbox), also dosbox must be set-up correctly (instruction will be given).<br /><br />the program will take screenshots and save them as bmp's 15 times per sec. From there one you will specify what frames to use in the editor, and then it will turn them into PNG's and then you will have a tidy folder with the image sequences, audio and video settings. The folder will contain a special file which will be used in order to play the video, which contains the frames to be played etc.<br /><br />Can anyone think of a decent name for this?---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3683,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-10T06:23:04.000Z",
+		"content": "ZOMG ROMFLOL TLA 1337!<br /><br />Eat hot lead 'Keen is dying' thread!<br /><br />*Speechleess*A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3684,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-10T08:37:53.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] ZOMG ROMFLOL TLA 1337![hr][/quote]<br /><br />lol<br /><br />anyway, i just wanna make a few things clear. Firstly, this app is made for <b>Keens 4-6</b>. Because theres no easy way to get sound recognition through keen, sound effects will be simplified (e.g. jump, pogo, shoot, points etc.). Because keens 1-3 are slightly different in the way they are made, it will not be possible to have the same effect.<br /><br />However, saying this, it is still possible to record keens 1-3, only that the sounds you will be hearing will be from 4-6 (and this excludes things like points etc.)<br /><br />Secondly, i will be removing some of the effect features i mentioned might be in the editor. I had a long think about it, and i think its easy to say that alot of the effects we could do without.<br /><br />incase your wondering, the editor will <b>DEFINATELY</b> have a slow-mode effect, speed changer (as well as direction changing, such as foward or backward) and fade transitions.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3685,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-10-10T20:50:36.000Z",
+		"content": "Two questions:<br /><br />1. Is this being made in MMF, VB or something else? I would suggest MMF for the GUI and C/C++ for the backend like Xtra does (even if does mean that your app will be more buggy than a cheap motel)<br />2. How are you capturing the images? I would imagine that it would be possible to get DOSBox to render to a different destination and then capture the result as it uses SDL.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 3686,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-10T21:16:36.000Z",
+		"content": "Commanimator Keen... something. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />Actually I tried for a bit, but I really can't seem to find a good name related to movies, films, or something at least somewhat related.<br />Your best bet would probably putting a Keen enemy/character name in the title and get some alliteration going.<br /><br />I'm curious to see what this project is turning in to, no matter what the name.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 3687,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-11T01:48:55.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Two questions:1. Is this being made in MMF, VB or something else? I would suggest MMF for the GUI and C/C++ for the backend like Xtra does (even if does mean that your app will be more buggy than a cheap motel)[hr][/quote]<br /><br />Its made in GM, and i already tested a beta version which runs on bitmaps and it works perfectly. As for capturing the frames, i got a DLL to do that for me, which will capture and save 15F/sec while your playing the game.<br /><br />Im working as hard as i can to get it done ASAP. im not sure when it will be finished though, because i gotta study for exams [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img] <br /><br />anyway, hopefully when its done ill have a good name and my own video sticky somewhere for everyone to use.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3688,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-11T03:58:54.000Z",
+		"content": "ok, i just finished a beta version of the capture program and tested it on the player, and theres both good news and bad news.<br /><br />Good news, the capture program works, and captures 15FPS without the game lagging.<br /><br />Bad news, playback of the sequences range from 1 - 10 FPS<br /><br />Bad news, The sequence takes up alot of your hard drive space (temporarily, 500 - 1000mb)<br /><br />Luckily, i have a plan B which should hopefully solve this slow down when playing the video.<br /><br />im fairly confident though that i will get past this problem. Ill keep you all informed.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3689,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2005-10-11T05:11:08.000Z",
+		"content": "Question:<br /><br />What computer are you running this on? I have a 850MHZ pentium III laptop with 256 MB ram and it runs Commander Keen in dos box. I doubt that I would be able to use this computer to capture though. Saying \"without lag\" means diddlie-squat if you have pimped out 3.5 GHZ P4 64bit, with 3 gigs of ram, a 1gig video card and RAID drives. You could run Doom 3, Half Life 2 and Serious Sam 2 all at the same time without lag.<br /><br />So with all that said, what do you think the requirements will be for this?<br /><br />And by the way, if you want to test the program for minimum system requirements you can send it to me. We have a lot of computers ranging to 2.0 ghz - 90 mhz.-----------------------<br />\"The Adventures of Commander Keen\" issue #1: [img]http://img170.imageshack.us/img170/5541/newteaserdarker1xh.png[/img]<br />\"Fat people buy lots\""
+	},
+	{
+		"id": 3690,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-11T05:42:18.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Question:What computer are you running this on?[hr][/quote]<br /><br />My computer is a:<br /><br />1.6GHZ<br />512 DDR Ram<br />128mb GFX<br /><br />I honestly dont know how this will run on your computer, but i have <b>GOOD NEWS</b>. I have solved the annoying lag problem when playing the video and <b>WE *MIGHT* ALL BE ABLE TO TEST VERSION 1.0 TODAY </b>[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-deadkeenvort.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  ogo<br /><br />Unfortunately, theres no extream editor for it, but it will allow you to capture, and watch.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]  <br /><br />I dont think youll have too much trouble running the program though you should be fine. It might start lagging when its been playing for a certain time, but im not sure.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3691,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-11T07:21:44.000Z",
+		"content": "If it only works for Keen 4-6, wouldn't it just be easier to record a demo and share those files around?  They're only a few KB for a whole level...plus you get all the sounds, full framerate, etc.<br /><br />Interesting idea though all the same - but it would be nicer if you could generate a proper movie file at the end so you don't need special programs to play it back."
+	},
+	{
+		"id": 3692,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-12T06:19:49.000Z",
+		"content": "Version 1.0a is now available for download on the first page. If you downloaded yesterdays version, then i suggest you replace it as yesterdays version had a bug which dosnt let you convert PNG's to BMP's.<br /><br />Also, if your going to share videos using this, i suggest that you zip the BMP's, and do not use the PNG functions. Compressed BMP's <b>ARE</b> smaller than compressed PNG's, so keep that in mind.<br /><br />Make sure if you do upload the BMP's that you also have the .ckv file included.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3693,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-12T11:22:37.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Compressed BMP's ARE smaller than compressed PNG's (...)[hr][/quote]<br /><br />That can't be right... well-compressed PNGs should be smaller than BMPs.<br />If I remember correctly you can tell the .png file only to have entries for used colours, which should severely limit filesize for Keen screenshots.<br />I looked on [url=http://advsys.net/ken/utils.htm]Ken Silverman's site[/url], but despite of what I thought, he does not offer the source code (or I missed it there), so you can't implement that.<br /><br />I haven't had a chance to try your programme yet, but I'm hoping to later.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 3694,
+		"title": "Re: Why didn't we think of this sooner?",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-12T12:09:32.000Z",
+		"content": "I couldn't make the app to work as I don't have dosbox yet, but there's a test \"video\" in the zip file, and every picture is in png format. I was lazy to convert all those files to bmp and they'd have been very big that way too. I used irfanview's slideshow instead with a delay of 0.05 sec for every picture and it worked fine [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   It had an old movie feeling as the images flickerd, but it just made it better.<br /><br />*edit* if you're lazy to go back [url=http://z-one.uw.hu/files/CKVS_BETA_1_0a.zip]download the app from here[/url]."
+	},
+	{
+		"id": 3695,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-12T12:32:24.000Z",
+		"content": "alrite, thankx for that z-one, i updated the link---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3696,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-13T10:58:29.000Z",
+		"content": "well im glad to see everyone replying about what they thought about the program...---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3697,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-10-14T01:38:48.000Z",
+		"content": "Me too.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 3698,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-14T02:22:12.000Z",
+		"content": "Big.<br /><br />Very big.<br /><br />Uberhuge in fact.<br /><br /><br />Can't you make the game only use the parts of the bitmap that change between animations [like most animated gif do]? That alone would eigth the size.<br /><br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3699,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-14T03:18:12.000Z",
+		"content": "good idea, im not sure how to make it, so ill put you in charge. Why would you want it any smaller anyway? most people could download a movie on cable in less than a minute anyway.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3700,
+		"title": "Dialup?",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-14T03:33:59.000Z",
+		"content": "[hr]<b>alex</b> most people could download a movie on cable in less than a minute anyway.<br />[hr]Problem is, most people don't <i>have</i> cable. Keen video capturing will not catch on very easily unless we can find a way of catering to lower-bandwidth users. And I won't be comfortable with it until there's a low-resource DOS-based version.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3701,
+		"title": "Re: Dialup?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-14T04:09:28.000Z",
+		"content": "man, i cant belive you people are complaining, im not a professor in the science of compression. The fact is, this works and it compresses videos enough even for dial-up users to not have to wait long. Heres a video of me playing level 1 in Keen 5. <i>Notice its only 1.8mb.</i><br /><br />[url=http://www.upshack.com/uploaded-files/200510/Keen5%20Level1.rar]Keen5 Lv1[/url]<br /><br />Im still waiting for other people to start sending in their videos, so take your time...---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3702,
+		"title": "Compression Session",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-14T06:47:30.000Z",
+		"content": "Here we go. Two mp4s, less than 1Mb each. Kinda dithery, but very decent considering their size. You'll need a media player capable of playing mp4 files, though. [url=http://www.videolan.org/vlc/]VLC[/url] is an excellent freeware one. A 6Mb download, but that's well made up for.<br /><br /><i>Edit:</i> Fixed links...<br />[url=http://jimsoft.spatang.com/keen/video/mp4/Stones1.mp4]Alex Juggles Mimrocks[/url]<br />[url=http://jimsoft.spatang.com/keen/video/mp4/AlexK5L1.mp4]Alex - Keen5 Level1[/url]<br /><br />It's a fairly long-winded process to convert them, though. Here's how I went about it:<br /><br />1. Used (cracked) Advanced Batch Converter 3.9 to convert the BMPs into GIF format<br />2. Dragged the GIFs into UnFREEz 2.1 and saved the resulting animated GIF<br />3. Opened the animated GIF in Microsoft GIF Animator, Selected All and changed frame duration to .04sec (I would have used it for 2. as well, but it kept importing the files in reverse order)<br />4. Imported this GIF into AVIEdit with Full Frames (Uncompressed) setting, and saved an uncompressed AVI<br />5. Used Nero Recode 2, adjusted bitrate to around 333 (after some tweaking to work out the most ideal setting)<br /><br />And voila, relatively instant low-bandwidth alternative to zipped BMPs.<br /><br />Well, we've got the basics under control. Perhaps those of us with higher bandwidth (which shall include me in a short time when I finally get broadband setup) can download the full-sized versions, go through the above process (or hopefully a dramatically simplified and one, preferably using freeware tools--I'll keep working on it) and upload the corresponding mp4s.<br /><br />Some extra statistics:<br /><b>Stones</b><br />Raw BMP: 98.7MB<br />Zipped BMP: 4.61MB<br />PNG: 3.55MB<br />Animated GIF: 3.79MB<br />Zipped Animated GIF: 2.39MB<br />~333Kbps MP4: 674KB<br />Zipped ~333Kbps MP4: 649KB<br /><br /><b>K5L1</b><br />Raw BMP: 60.8MB<br />Zipped BMP: 2.53MB<br />PNG: N/A<br />Animated GIF: 2.86MB<br />Zipped Animated GIF: 2.48MB<br />~333Kbps(?) MP4: 958KB (Must've been a higher bitrate than I thought?)<br />Zipped ~333Kbps(?) MP4: 873KB<br /><br />I'll start making some movies with this thing later.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3703,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-14T09:06:12.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Can't you make the game only use the parts of the bitmap that change between animations [like most animated gif do]? That alone would eigth the size.[hr][/quote]<br /><br />That would be a bit hard, and the final (actual) video file's compression should take care of that.<br />It just means the video's creator should have a bunch of harddisk space when recording, before the videofying.<br /><br />The results I just downloaded have an FPS that's a teeny bit low, or so it seems, but it really doesn't detract from its usefulness.<br />I really hope I remember to try it this weekend.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 3704,
+		"title": "Ahhh!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-14T11:24:42.000Z",
+		"content": "Help; When I record... my images are all black!!!<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3705,
+		"title": "Re: Ahhh!!!",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-15T01:59:32.000Z",
+		"content": "are you using dosbox? This program dosnt work in pure Dos. Make sure you read the read-me---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3706,
+		"title": "Hehehe;",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-15T04:49:10.000Z",
+		"content": "Okay... fixed<br /><br />TY - Awesome program!!!<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3707,
+		"title": "Re: Hehehe;",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-15T05:58:05.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  thanks, its great hearing that from someone [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 3708,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2005-10-16T01:25:22.000Z",
+		"content": "oh cool, now i can finally start a topic about<br /><br />Commander Keen Time Trials<br /><br />I think I still have the fastest records in Keen4 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 3709,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-16T01:47:51.000Z",
+		"content": "not if i can help it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img]  <br /><br />EDIT: Actually.... now that i think of it, thats a brilliant idea, i can have a time clock thingy so people can see how long it takes you.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3710,
+		"title": "Issues.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-16T10:05:39.000Z",
+		"content": "Note: 'scaler' option in the DOSBox config needs to be set to 'none'.<br /><br />Finally got around to trying it out. It captures fine, but saves the images with weirdified colours:<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/keenlike/illustration/CKVSColoursA.png[/img] [img]http://img.photobucket.com/albums/v192/Jimage/keenlike/illustration/CKVSColoursB.png[/img]<br /><br />Edit: Looks like this is related to DOSBox somehow. If I just let it record my desktop, it'll capture the top-left corner of my screen just fine.<br /><br />Hmm... that's strange. The image offsets relative to the black padding are different--the map is at the very top, whereas the levels show up as normal widescreen does.<br /><br />I suggest you release the EXE on its own, as it's about 1Mb zipped, as opposed to 4Mb inclusive of the video.<br /><br />Edit: A minor problem: after recording, the window seems to shrink and all the text distorts.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3711,
+		"title": "Recording lenght:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-17T00:50:31.000Z",
+		"content": "It doesn't record long enough; I want it to record a whole level!!! How can you prove how fast you are, If people only see the  beggining of you lvl?<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3712,
+		"title": "Re: Recording lenght:",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-17T05:32:22.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It doesn't record long enough; I want it to record a whole level!!! How can you prove how fast you are, If people only see the beggining of you lvl?[hr][/quote]<br /><br />what are you talking about? It records for as long as you want it to record. Remember, if you press [Esc] it will stop.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3713,
+		"title": "Re: Recording lenght:",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-10-17T08:53:18.000Z",
+		"content": "Maybe your hard drive is full?Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 3714,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-17T13:37:22.000Z",
+		"content": "Really interesting project.<br /><br />But how can I set the resolution in DOSBox so it works right?<br /><br />And wouldn't it be possible to use the 16-colours-bmp format of the images created with ModKeen and Fin2Bmp? I pasted one of the movie pictures into a bmp created with Fin2Bmp and saved it. It has only some more than 10% of KB of the original file![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />- We want  \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 3715,
+		"title": "Hmm...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-18T00:29:44.000Z",
+		"content": "I will try it again then...<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3716,
+		"title": "Re: Hmm...",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-18T10:49:09.000Z",
+		"content": "I would also like to try it out, but then I must know how to get the right resolution in DOSBox.<br /><br />BTW: I'm at school now, but we have a short Internet free time.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] <br /><br />And what about 16-colour-bmps?<br />- We want \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 3717,
+		"title": "YES!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-18T11:01:24.000Z",
+		"content": "Ahh... he struck the nail on the head!!!<br /><br />But wait; you must consider the possibilities this program has; you use keen 16 colors, and duke nukem looks weird, visa versa. mebey 256 colors.<br /><br />Better yet!!! Have 5 options;<br /><br />- Record Keen<br /><br />- Record Standard 16 colors (Some games may not look quite right, but this is a smaller, more compact format)<br /><br />- Record 256 color (Keen and Duke; have not fear of being recorded togather)<br /><br />- Record in 16 bit color (More space; higher resolution; use for recording desktop activities)<br /><br />- Record 24 bit (Perfect color; use for recording photographic demanding movies)<br /><br />Huh??? Like it???<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 3718,
+		"title": "Re: YES!!!",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-18T19:06:16.000Z",
+		"content": "Good ideas, najawa. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  But for Keen 16 colours would be enough. Then sending and sharing the files would be easier a lot, and of course the needed storage on hard drive is much smaller then. Very  nice idea to use the programme for other games (and to use another colour format for that).<br /><br />But now I want to know how to get the right resolution in DOSBox, I want to record![img]http://dosclassics.com/keen/images/ck3/creatures/vorticonphotographers.gif[/img]<br /><br />- We want  \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 3719,
+		"title": "Re: YES!!!",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-19T00:12:03.000Z",
+		"content": "This program records whats happening on the screen at the resolution set (320x240) there are NO restrictions to what colors being displayed. I have sucessfully recorded Metal Gear Solid, Donkey Kong and Sonic with it. However, you shouldnt use this program for recording games with more than 16 colors because the size will be too large.<br /><br />To set the resolution in dosbox, go to c:\\program files\\DosBox (or where ever you put it) and open the 'dosbox.conf' file in notepad and edit the folowing lines:<br /><br />[pre] &lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;fullscreen=true&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;fulldouble=falsefullfixed=true&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;fullresolution=320x240&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;output=ddrawhwscale=1.00autolock=truesensitivity=100waitonerror=truepriority=higher,normalmapperfile=mapper.txt[/pre]<br /><br />[pre]  [render]frameskip=0aspect=false&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;scaler=none&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;[/pre]<br /><br />What i highlighted in bold are the most important things to be changed, however if it still dosnt record you could change the other settings. If it still dosn't work you could try using a newer version of DosBox, im using 0.63.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3720,
+		"title": "Re: Commander Keen Video Studio (Download)",
+		"author_id": 1486295,
+		"author_name": "Grandy02",
+		"timestamp": "2005-10-19T11:08:12.000Z",
+		"content": "Thank you, it works now! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />But couldn't you add a function to convert the big Bitmaps to small 16-colours-Bitmaps? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  Who want a Bitmap-set with a total size of over 200 MB (my recorded video)? It would be so useful to use Bitmaps with 16 colours.<br /><br />- We want \"The Universe is Toast\" ! - [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]"
+	},
+	{
+		"id": 3721,
+		"title": "Arg.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-19T11:27:48.000Z",
+		"content": "I'd say he plans to implement direct PNG recording eventually, which would be even better.<br /><br />I still haven't got it working with proper colours. I'll give it a shot on another machine.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3722,
+		"title": "keen 5 video capture",
+		"author_id": 1486749,
+		"author_name": "yodablob",
+		"timestamp": "2005-10-20T23:01:27.000Z",
+		"content": "[url=http://media.putfile.com/Commander-keen-5]media.putfile.com/Commander-keen-5[/url]<br />I took the bmp's from your fisrt post and made them into a 15 fps .wmv<br />it looked really good before I compressed it, but it still looks alright."
+	},
+	{
+		"id": 3723,
+		"title": "Re: keen 5 video capture",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-10-23T03:40:24.000Z",
+		"content": "what was the point of that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] ---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 3724,
+		"title": "Re: keen 5 video capture",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-23T11:04:14.000Z",
+		"content": "To show off his 1337 compression 5k1ll5.<br /><br />He knows you're perving at his tiny, tiny filesize.A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3725,
+		"title": "Re: keen 5 video capture",
+		"author_id": 1486749,
+		"author_name": "yodablob",
+		"timestamp": "2005-10-23T16:42:43.000Z",
+		"content": "so people can see what your video thing is capable of before they download it as the example you made was just a whole bunch of still pictures.  If you don't like me doing that I could take the link off if you want."
+	}
+]

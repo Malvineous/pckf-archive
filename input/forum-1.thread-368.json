@@ -1,0 +1,1218 @@
+[
+	{
+		"id": 25,
+		"title": "Keen Speedrunning: Records, Videos, Discussion",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-03T04:07:24.000Z",
+		"content": "[center]<b> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]        The Official Commander Keen Games' Speedrunning World Records.</b> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]        [/center]<br /><br /><br />To get on this list, just post your time together with a video of it here on this thread. To capture videos, use the newest DOSBox software.<br />To download a video, click on the time.<br />To watch most of these videos you need [url=http://files.filefront.com/ZMBV_Codecrar/;5117423;;/fileinfo.html]ZMBV Codec[/url]. To install it, unpack it and right click the codec file and click Install.<br /><br />*** How to capture videos: ***<br />Use Google to get all neccessary software. Download and install DOSBox 0.65. Go to its directory and open dosbox.conf with Notepad or anything similiar. Change frameskip=0 value to 1. This will make videos capture in 35FPS, not 70FPS, reducing video size significantly. Now you're ready to capture your videos. To do that, load Keen into your DOSBox (by typing \"mount c c:\\keen1directory\", \"c:\" and \"keen1\"). Then just press Ctrl+Alt+F5 to start or stop recording. You should start recording at the main menu and end it after the ending movie. After you have finished recording your movie, you have to compress the audio. To do that, open your video in VirtualDub (or download and install it first). Then choose to have full compression for audio. Choose Lame MP3 codec for compressing (or download and install it first). Choose 64kbps bitrate. Now test if the movie runs well and then just compress it with WinRAR and upload it to a permanent upload site (like Filefront.com). Congratulations.<br /><br /><b>Commander Keen 1: Marooned on Mars</b><br />1) 4:07 by Captainkeen. -needs re-uploading<br />2) 4:13 by Sanitars. -[url=http://files.filefront.com/CommanderKeen1_SS_413/;5240607;;/fileinfo.html]Download[/url]  -[url=http://www.youtube.com/watch?v=ZkYSAAt576U]<b>Stream</b>[/url]<br />3) 4:31 by KeenRush. -[url=http://www.keengrid.net/ckfiles/videos/keenrush-k1-434.rar]Download[/url]<br />4) 5:00 by Zorath. -[url=http://personal.inet.fi/koti/meklund/zorath-ck1sr2.zip]Download[/url]<br /><br /><b>Commander Keen 2: The Earth Explodes</b><br />1) 7:12 by Captainkeen. -needs re-uploading<br />2) Your record here<br />3) Your record here<br /><br /><b>Commander Keen 3: Keen Must Die!</b><br />1) 2:11 by Captainkeen. -needs re-uploading<br />2) 2:17 by Sanitars. -[url=http://files.filefront.com/CommanderKeen3_SS_0217/;5117339;;/fileinfo.html]Download[/url] -[url=http://www.youtube.com/watch?v=WB0nUmBifz0]<b>Stream</b>[/url] -[url=http://speeddemosarchive.com/yabb/YaBB.pl?board=pcgames;action=display;num=1149530143]Thread[/url]<br />3) Your record here<br /><br /><b>Commander Keen 4: Secret of the Oracle</b><br />1) 13:02, Easy by Sanitars. -[url=http://files.filefront.com/CommanderKeen4_SS_1302/;5103147;;/fileinfo.html]Download[/url] -[url=http://speeddemosarchive.com/yabb/YaBB.pl?board=pcgames;action=display;num=1149198960]Thread[/url]<br />2) 13:33, Easy by KeenRush. -[url=http://www.keengrid.net/ckfiles/videos/keenrush-k4-1333.rar]Download[/url]<br />3) Your record here<br /><br /><b>Commander Keen 5: Goodbye Galaxy!</b><br />1) 18:02, Easy by FractalFusion. -[url=http://files.filefront.com/keen5_FractalFusion_1802avi/;6523530;;/fileinfo.html]Download[/url]<br />2) Your record here<br />3) Your record here<br /><br /><b>Commander Keen 6: Aliens Ate My Babysitter!</b><br />1) 4:52, Easy by FractalFusion. -[url=http://files.filefront.com/keen6+FractalFusion+452avi/;8065472;;/fileinfo.html]Download[/url] <br />2) 6:38, Easy by Sanitars. -[url=http://files.filefront.com/CommanderKeen6_ZMBV_638509/;5141232;;/fileinfo.html]Download[/url] -[url=http://www.youtube.com/watch?v=0OFfL3GvXyw]<b>Stream</b>[/url] -[url=http://speeddemosarchive.com/yabb/YaBB.pl?board=pcgames;action=display;num=1150118673;start=]Thread[/url]<br />3) Your record here<br /><br /><b>Keen Dreams</b><br />1) 5:08, Hard by Sanitars. -[url=http://files.filefront.com/KeenDreams+SS+508+SanitVrar/;8060212;;/fileinfo.html]Download[/url] -[url=http://www.youtube.com/watch?v=ZkYSAAt576U]<b>Stream</b>[/url]<br />2) 5:42, Easy by FractalFusion. -[url=http://files.filefront.com/keen_dreams_FractalFusion2avi/;6748800;;/fileinfo.html]Download[/url] -[url=http://speeddemosarchive.com/yabb/YaBB.pl?board=pcgames;action=display;num=1171619200]Thread.[/url]<br />3) Your record here<br /><br />ALL videos are welcome. Keen deserves a wide videography! Enjoy the videos! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]"
+	},
+	{
+		"id": 1588,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-04-03T05:01:35.000Z",
+		"content": "I've always wanted to try this, but never did. Your times sound insane, though.<br /><br />Oh, and welcome to the forums."
+	},
+	{
+		"id": 1589,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-03T06:50:44.000Z",
+		"content": "Intriugeing, I want to haer your walkthrough for Keen 1.<br /><br />I remember we did this before sometime; I know i takes me about 15 mins to do Keen 1.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1590,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-04-03T07:06:47.000Z",
+		"content": "The latest version of DOSbox can record movies. Maybe we could make Keen speedrun films. I don't think I'd be very good at it though.<br /><br />EDIT: I think my best time is around seven minutes.<br /><br />EDIT: My new best time is just under six minutes. Looking at the footage, I think I could take off another minute with some work.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 1591,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-03T11:58:48.000Z",
+		"content": "I just completed Keen 2 in 12 minutes and 26 seconds. I'm recording all my attempts and I'll show one to you all after I'll be satisfied with one. And I'm not satisfied yet [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Going for under 10 minutes!<br /><br />I'm also looking for people expierenced in all Keen games to discuss the routes and tricks with. Tell me your MSN, IRC location, ICQ or at least e-mail so I can contact you if you're interested [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]"
+	},
+	{
+		"id": 1592,
+		"title": "MSN",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-04-03T12:38:45.000Z",
+		"content": "There are about 20 Keeners on MSN. I have 28 on my list, but a couple of people have two addresses and some aren't on very often. Add jimage AT gmail D0t COMma and I'll invite ye into some Keen convos.<br /><br />Also, W00t! DOSBox 0.65! I wonder if it's regained compatibility with ckxpatch.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 1593,
+		"title": "Re: MSN",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-03T19:21:48.000Z",
+		"content": "Wow, I love the new video recording feature in dosbox! I have always wanted the ability to record clips from classic video games.<br /><br />I recorded my attempts at a Keen 1 speedrun. My current best time is about 5:25. The run isn't faultless so with a bit of training I think I could trim down the time to under 5 minutes -- not sure if I can reach 4:40 though!<br /><br />Here's the video:<br /><br />[url=http://rapidshare.de/files/17127574/zorath-ck1sr1.zip.html]rapidshare.de/files/17127...1.zip.html[/url] (scroll down and click the 'free' button, then wait for the timer to reach zero)<br /><br />Now I want to see other people's attempts!"
+	},
+	{
+		"id": 1594,
+		"title": "April 3?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-04-03T20:55:38.000Z",
+		"content": "Is that an April 3 kind of thing, or is the file just fubar?<br />Depending on the media player I use, I get swirly lines, screwy visualiser style, as well as a message saying a necesary codec couldn't be loaded in some cases.<br />I recently downloaded that XP codec pack, which solved some problems I've been having, so I should be up to date...<br />I haven't tried DOSBox's recording feature yet myself... should do that sometime, to show everyone my ereet (lack of) skills!!!Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 1595,
+		"title": "Re: April 3?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-04-03T20:59:10.000Z",
+		"content": "GAAAAARG!! How do i play AVI files? I have never gotten them to work in any player!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1596,
+		"title": "oh wow",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-04-03T22:36:14.000Z",
+		"content": "Oh, hey, if the new DOSBox has video recording ability... I can't wait to show you guys how much I really suck at playing Keen.  I'll load up Episode Smile and make a video of me losing all my lives.  :-)  <br /><br />Seriously, I wanna see how KeenRush plays.  The guy's got to be all sorts of insane."
+	},
+	{
+		"id": 1597,
+		"title": "Re: oh wow",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-04-04T00:21:56.000Z",
+		"content": "DOSbox is using the ZMBV codec. In the DOSbox section of the Start Menu there's an option to install it. You'll then be able to play the movies in Windows Media player, and maybe some other players.<br /><br />I'd like to know if anyone knows of an easy way to change the movies I record to a more compact format. My six-minute run is 66 megabytes! When I compressed it it came down to around 3, but I can't very well post an archive on any of the video hosting sites that have popped up.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 1598,
+		"title": "Re: oh wow",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-04-04T00:41:55.000Z",
+		"content": "i completed all the keen series in 0.0001 milliseconds, beat that."
+	},
+	{
+		"id": 1599,
+		"title": "Re: oh wow",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-04-04T02:19:55.000Z",
+		"content": "Keen 1: About 10 minutes? I have no idea. It isn't hard.<br /><br />Keen 2: I... I... I ca-<br />I can't beat Commander Keen 2.<br />*hangs head in shame*<br /><br />Keen 3: I was only able...<br />To beat it with cheats on... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img] <br /><br />Keen 4: I... well I USED to be able to beat it...<br />in like half an hour...<br />But now I can't get past 3 oracle members. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <br /><br />Keen 5: [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />Keen 6: *Flees PCKF in shame*<br /><br />OK SEE! I can't play Commander Keen anymore. I SUCK! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br />It's true. I can only beat the first game. Really really. Never even completed Dreams.<br />I AM TOO A KEENER!-----------------------<br />[url=http://Galaxie.Spatang.com][img]http://img360.imageshack.us/img360/548/blegdandsmeegnewbanner2wf.png[/img][/url]"
+	},
+	{
+		"id": 1600,
+		"title": "Re: oh wow",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-04T07:08:38.000Z",
+		"content": "Dood, your stupid site aint giving me a file!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1601,
+		"title": "Re: oh wow",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-04-04T07:45:21.000Z",
+		"content": "it doesnt work Zorath. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <br /><br />i just watched a speed run tonight of Super Mario 64.... someone beat the whole game in 20 minutes.  it was crazy.[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 1602,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-04T09:10:51.000Z",
+		"content": "Levellord, try this: [url=http://personal.inet.fi/koti/meklund/zorath-ck1sr1.zip]personal.inet.fi/koti/mek...ck1sr1.zip[/url]<br /><br />As lemur said, the codec that you need to play the video is included with the new version of DOSbox, so download it first."
+	},
+	{
+		"id": 1603,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-04T13:03:18.000Z",
+		"content": "About that stupid codec that DOSBox uses, it sucks totally [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br />When I compress the avi file that was like 88MB (14 minutes) with WinRAR, I got it down to 13MB! A quality compressed avi file doesn't get smaller by using some kind of file compressor. When I tried compressing the avi file with VirtualDub using XviD for video and LameMP3 for sound, the video and sound was desynched greatly [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  Got tips?<br /><br />Also, could someone point out the quickest route for completing Keen 3? I heard you only need to do 3 or so levels!"
+	},
+	{
+		"id": 1604,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-04T14:01:23.000Z",
+		"content": "Apparently the files can be compressed much more if you record without sound: I recorded a Keen 4 demo with sound and music, it was about 15 minutes and 108mb, and when I compressed it it was still 77mb which is way too much! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  But when I tried recording with the game's sound turned off the resulting video file could be compressed much more, down to about 10mb."
+	},
+	{
+		"id": 1605,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-04T14:28:35.000Z",
+		"content": "I like the sound... Any Keen 3 tips?"
+	},
+	{
+		"id": 1606,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-04T16:48:33.000Z",
+		"content": "Here's a demo that shows how you only need to play 3 levels to complete Keen 3: [url=http://rapidshare.de/files/17193406/keen3_021.zip.html]rapidshare.de/files/17193...1.zip.html[/url] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 1607,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-04T17:40:25.000Z",
+		"content": "Keen 1, 5:00, 3.1mb<br /><br />[url=http://rapidshare.de/files/17199597/zorath-ck1sr2.zip.html]rapidshare.de/files/17199...2.zip.html[/url]<br />[url=http://personal.inet.fi/koti/meklund/zorath-ck1sr2.zip]personal.inet.fi/koti/mek...ck1sr2.zip[/url]"
+	},
+	{
+		"id": 1608,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-04T20:28:58.000Z",
+		"content": "Very interesting, I'm downloading it now. I'll perform an under 5 minute run and upload as soon as possible. Also, how did you achieve such a small file size?"
+	},
+	{
+		"id": 1609,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-04T20:44:25.000Z",
+		"content": "OK watched them both. The Keen 3 video helped just as I needed. The Keen 1 video was decent, but quite \"safe\". Taking risk pays back. I'll get my videos For first 3 Keen games up at the same time and as soon as possible. Keen 2 really is the toughest."
+	},
+	{
+		"id": 1610,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-05T06:48:34.000Z",
+		"content": "Right, neither Firefox nor IE can download any of the files here, it gets partway through them,then seems to think they're done, even when they're not.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1611,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-04-05T16:28:49.000Z",
+		"content": "No problems with the downloads here.<br />It's probably the host, I think I have some similar problems with it earlier, with different files.<br />Just try again the next day and see if it works.<br /><br />As for the video codec thing, thanks lemur, that was easily fixable.<br />I didn't really look into the help feature, just noticed the recording feature and thought I should try it out, one day.<br /><br />I'd say Zorath's record can be broken easily enough by someone, by taking some more risks, like already mentioned.<br />The nice thing about records like that is you can just try and retry and retry again until you get it right, ignoring all failed attempts in the parts with the actual rikxsxs, as Keen 1 is still relatively easy for the most part.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 1612,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-05T21:01:05.000Z",
+		"content": "Finished Keen 3 in 3 minutes and 48 seconds (from appearance on world map to the moment my bullet hit the heart). I made mistakes everywhere and spent an awfully long time beating the boss. Time could easily go under 3 minutes."
+	},
+	{
+		"id": 1613,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-04-05T21:46:46.000Z",
+		"content": "HOLY CRAP, THE NEW DOSBOX PLAYS KEEN MODS.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 1614,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-04-05T21:59:13.000Z",
+		"content": "Now that I think about it, this is opening up a whole new fun thing to do with Commander Keen games. We could have like an Episode Dash contest or something and all kinds of other crap. Also, I'd like to see KeenRush make a speedrun for Episode Smile.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 1615,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-05T22:08:04.000Z",
+		"content": "Yeah, mod speedrunning contests would be great. But of course, being the fastest in official games is ultimate."
+	},
+	{
+		"id": 1616,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-04-05T22:14:08.000Z",
+		"content": "I'm not sure how advanced modding is these days, but if someone could add in a timer feature to the series, that would be amazing. <br /><br />Or more realistically, a program that runs on the side and automatically records total game time, as well as times for individual levels as you play them. That shouldn't be too hard to make, right? It'd be one of the best things to happen to the community in ages."
+	},
+	{
+		"id": 1617,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-04-05T22:42:52.000Z",
+		"content": "XkyKeen3 had a countdown timer for each level that killed you when it ran out, but I'm not sure if you could mod a timer to count total game time. If you really want, you can buy a stopwatch, or use the clock on your computer.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 1618,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-04-06T01:23:22.000Z",
+		"content": "That tends to be inconvienient and inaccurate, and you can't take a screenshot. I'm talking precise hundredths of a second here."
+	},
+	{
+		"id": 1619,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-06T05:38:02.000Z",
+		"content": "Well, I suppose it *might* be possible to reroute the Extra Keen Score' to record the number of gameticks that have passed, although this may soon exceed the scoreboards display capability.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1620,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-04-06T11:05:19.000Z",
+		"content": "If DOSBox records video, couldn't you just trim the video to a set spot (e.g. the first frame when the screen 'fades up' at the start of the game/level) and then check the running time of the video?  That should give you a pretty accurate indication of time."
+	},
+	{
+		"id": 1621,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-06T13:10:32.000Z",
+		"content": "I time my runs from the first frame that keen appears on map after \"Keens left\" message disappears and until the frame of final blow to the boss in Keen 3, or the moment that Keen has entered the exit door (the frame he is no longer visible in the level) for the final level in Keen 1 and 2. That's pretty it."
+	},
+	{
+		"id": 1622,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-07T19:34:49.000Z",
+		"content": "Today I ran Keen 5 for the first time. There aren't many notable shortcuts, nor any levels to skip, just need some accuracy when jumping and have to know where exactly to go. Comparing to Keen 2, it's a lot easier since there's a lot less randomness in enemies' behavior here but the game is a lot longer. Only threat can be the Big Red guys in 2 or so levels and unexpected pink robots sliding down the poles... And one diagonally sliding crystal near end of one of the levels. Gotta be especially precise in last 2 levels, there are quite a lot places with dangerous jumps. I'm measuring a time of around 25 minutes. I'll get onto it tomorrow perhaps."
+	},
+	{
+		"id": 1623,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1486713,
+		"author_name": "Eazyjay",
+		"timestamp": "2006-04-08T15:27:18.000Z",
+		"content": "My records:<br /><br />Keen3 2:42 <br />Keen1 5:13<br /><br />Sanitar how do you complete keen1 so fast? Can you send me a video on msn? my adres is e@zyjay.cjb.net[img]http://img.villagephotos.com/p/2004-8/801878/Ezlogo2.jpg[/img]"
+	},
+	{
+		"id": 1624,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-08T17:24:40.000Z",
+		"content": "For your watching pleasure I just recorded a Keen 1 run.<br /><br />Final time: 4:37<br /><br />Download (*.rar, 3MB) - [url=http://s54.yousendit.com/d.aspx?id=347SZWW122GQ53EI4YO2AJUUN7]s54.yousendit.com/d.aspx?...4YO2AJUUN7[/url]<br /><br />I totally ruined the run in the last level where I missed an easy jump and fell all the way down losing around 11 seconds. It's a decent run nevertheless but I'll try to polish it someday. Enjoy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]"
+	},
+	{
+		"id": 1625,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-09T09:34:37.000Z",
+		"content": "Whoaly garg, this sounds too good to be true! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]    I'm just downloading the new DosBox and those videos.. Woah.. And no, won't try speedrunning Episode Smile, that'd be a total slowrun. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img]  <br /><br />Edit much later: This version of DosBox is excellent! The recording feature is so cool and it's awesome that it can run mods as well!<br />My current record is about 4:33. It's annoying that I always make some stupid mistakes (like accidentally jump too early or late). It's also annoying that this old keyboard of mine doesn't always toggle alt when I hit it. It would also improve my time if I examined which level routes are the fastest and so on.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1626,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-09T19:08:41.000Z",
+		"content": "That's a nice time you have there [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I could start a thread with World Records for Keen games and mods [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I'll get onto beating your time asap [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 1627,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-09T20:11:02.000Z",
+		"content": "Yeah, that time should be 'easy' to beat since I hadn't any major accident such as the one you had that lost you 11 seconds. I just really haven't got used to speedrunning since I almost never do that, thus can't concentrate well on pushing the exact button at the exact time. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   That, and not time-efficient routes.<br />Anyways, here's a video for time 4:34. (Not my record however.)<br />[url=http://www.keengrid.net/ckfiles/videos/keenrush-k1-434.rar]www.keengrid.net/ckfiles/...k1-434.rar[/url]<br /><br />Edit: But those times for Keen 3!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  I couldn't pass Mangling Machine in such time!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1628,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-10T00:35:51.000Z",
+		"content": "Wow, there were some new jumps for me in that video. And by the way, it is 4:31 (from Keen's appearance on map to his dissapearance in the last door). I'll get onto beating this time asap [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  And people, upload a video fo your run when you tell times [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 1629,
+		"title": "haha",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-04-10T04:47:29.000Z",
+		"content": "I was going to upload a tiny video asking \"Why didn't you pogo up that shortcut to the right of the blue keycard in the last level?\" but KeenRush's movie takes care of that.  <br /><br />That said, here's a movie file of me completely failing at Level01 in Episode Smile, just for KeenRush.  :-) Laugh it up, you jokers.<br />http://www.angelfire.com/falcon/xkyrauh/XkySmile.rar<br />That's about how well I did on every level in the game.  [img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 1630,
+		"title": "Re: haha",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-10T08:11:17.000Z",
+		"content": "4:31? Cool! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Nice to hear that there were some new jumps. I'm happy how the big jump in that one level turned out -- the way I jumped all the way down and almost hit the garg but didn't.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <br /><br />And yeah, when posting times people should post the video.<br /><br />I think I can interpret you Xky -- you want more challenge? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1631,
+		"title": "Hmm.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-04-11T02:31:47.000Z",
+		"content": "Anyone having problems playing these videos should take a look at the [url=http://fileforum.betanews.com/detail/KLite_Codec_Pack_Full/1094057842/3]K-Lite Codec Pack[/url]. Winamp and VLC refused to play the ZMBV AVI codec that DOSBox encodes to, but this worked beautifully.<br /><br />Anybody know a good (freeware) utility for recoding video formats? I'm sure we should be able to get the size of these videos down further.<br /><br />Also, we're gonna need some reliable hosting space. This yousendit stuff is annoying and keeps cutting out on me. Any takers? Maybe dosclassics... IIRK it's possible to upload our own files there, but we'll probably need a new category.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 1632,
+		"title": "speed",
+		"author_id": 1486838,
+		"author_name": "Captainkeen",
+		"timestamp": "2006-04-11T09:23:47.000Z",
+		"content": "Keen 1 4:30<br />keen 2 8:58<br />keen 3 2:38<br /><br />download the videos here:<br /><br />Keen1:  [url=http://www.savefile.com/files.php?fid=8143836]www.savefile.com/files.php?fid=8143836[/url]<br />Keen2:  [url=http://www.savefile.com/files.php?fid=4958505]www.savefile.com/files.php?fid=4958505[/url]<br />Keen3:  [url=http://www.savefile.com/files.php?fid=7507093]www.savefile.com/files.php?fid=7507093[/url]<br /><br />not bad heh?"
+	},
+	{
+		"id": 1633,
+		"title": "Re: speed",
+		"author_id": 1486713,
+		"author_name": "Eazyjay",
+		"timestamp": "2006-04-11T12:00:42.000Z",
+		"content": "hehe I knew you would come and beat all of us Kars<br /><br />Edit: The fastest time for keen1 and keen3 is a mather of few seconds now.. Keen2 maybe 30 secs<br /><br />Time to show of our moves.. <br /><br />xkykeen2: <br />[url=http://www.savefile.com/files/2257225]www.savefile.com/files/2257225[/url]<br /><br />[img]http://img.villagephotos.com/p/2004-8/801878/Ezlogo2.jpg[/img]"
+	},
+	{
+		"id": 1634,
+		"title": "Re: speed",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-11T17:09:41.000Z",
+		"content": "Woa, nice videos. Those are a good target, like the Keen 2 without deaths. I laughed my ass off watching that run, like when you took the blue key in top level [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Keen 1 I just run 1 second slower than you did. And my run totally sucked testicles. Keen 3, damn if I had that kind of luck [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Anyway, two thumbs up! I hope someone starts running Keens 4,5,6 and Dreams soon so I can have some targets [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  This competition is fun!"
+	},
+	{
+		"id": 1635,
+		"title": "Re: speed",
+		"author_id": 1486838,
+		"author_name": "Captainkeen",
+		"timestamp": "2006-04-11T17:27:05.000Z",
+		"content": "ow shit I didnt even need to get the blue card[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  I always get the key and never asked myself why[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />and what are you saying about keen 1? you'r saying im slow hm? Don't worry Ill beat that keen 1 record.<br /><br />and what are you talking about luck!?!?!? it didnt have any special luck in keen3. maybe you confuse timing with luck?<br /><br />anyway im waiting for you or someone else to beat those records."
+	},
+	{
+		"id": 1636,
+		"title": "Re: speed",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-11T18:47:59.000Z",
+		"content": "Whoaly garg, some awesome videos there! Excellent playing on Keen 2!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1637,
+		"title": "Re: speed",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-04-11T19:06:42.000Z",
+		"content": "Those 3 demos were amazing.<br /><br />I'm currently working on a Keen 4 easy run, but I haven't yet managed to make it through the game flawlessly."
+	},
+	{
+		"id": 1638,
+		"title": "Re: speed",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-11T20:16:43.000Z",
+		"content": "I have Keen 4 run on easy that is about 13:33. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  I'm trying to get it shorter.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1639,
+		"title": "grrr",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-04-12T00:16:30.000Z",
+		"content": "Note to self: Make some time on Thursday to play KeenMods and watch these videos!  (I can't access them at school)"
+	},
+	{
+		"id": 1640,
+		"title": "Re: grrr",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-12T08:16:54.000Z",
+		"content": "Note to self: Crush those times today."
+	},
+	{
+		"id": 1641,
+		"title": "Re: grrr",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-12T11:22:48.000Z",
+		"content": "Part 1 accomplished:<br /><br />Keen 1 4:13<br /><br />[url=http://s52.yousendit.com/d.aspx?id=1WPN0XPF72AO72WQJSU7D80NKF]s52.yousendit.com/d.aspx?...JSU7D80NKF[/url]<br />[url=http://up.k10x.net/hihrxygn/zmbv_codec.rar]up.k10x.net/hihrxygn/zmbv_codec.rar[/url] if someone doesn't have codec yet.<br /><br /><br />Up to Keen 2 now -&gt;"
+	},
+	{
+		"id": 1642,
+		"title": "Re: grrr",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2006-04-12T17:37:25.000Z",
+		"content": "Keen 1, first level only: 0:30 (or so)<br /><br />[url=http://s46.yousendit.com/d.aspx?id=3M1R3V7HFFC513OR2XXSRDP2EY]Yousendit video link[/url]<br /><br />I tried to do a speed run of Keen 0 (my own mod) but I died. And then my computer broke. (temporarily)------------------<br />Nothing in particular"
+	},
+	{
+		"id": 1643,
+		"title": "Re: grrr",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-12T18:36:56.000Z",
+		"content": "Well, that video wasn't very impressive. Download mine [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 1644,
+		"title": "Re: grrr",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2006-04-12T19:01:16.000Z",
+		"content": "I know it isn't impressive, I just wanted to have <i>something</i> to show for the time I spent trying to make a speed run video. Maybe I'll try and make a better one some other time...------------------<br />Nothing in particular"
+	},
+	{
+		"id": 1645,
+		"title": "speed",
+		"author_id": 1486838,
+		"author_name": "Captainkeen",
+		"timestamp": "2006-04-12T21:34:47.000Z",
+		"content": "not bad Sanitars but here's my new record for keen1:<br /><br />4:07 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img] <br /><br />[url=http://www.savefile.com/files/9988422]www.savefile.com/files/9988422[/url]<br /><br />and how are you doing with keen2?"
+	},
+	{
+		"id": 1646,
+		"title": "Re: speed",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-13T03:25:05.000Z",
+		"content": "Really impressive performance. I saw only a couple of small mistakes. You obviously took some of my moves/routes and even improved them. Good job. I'll try and make the run as clean as possible."
+	},
+	{
+		"id": 1647,
+		"title": "hahah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-04-13T04:39:03.000Z",
+		"content": "EazyJay!  You found my XkyKeen2 shortcut!  :-D  Haha, awesome.  (I thought the video was going to be a speedrun of the whole episode, but still... cool!)<br /><br />The other Keenruns shown so far are incredible.  Even with the multiple misses in the Mangling Machine, I don't think I could ever do it that fast.  :-) I was worried you were going to run out of ammo!"
+	},
+	{
+		"id": 1648,
+		"title": "Re: hahah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-13T09:23:42.000Z",
+		"content": "Ha, I've found that XkyKeen2 shortcut as well. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br />\"You obviously took some of my moves/routes and even improved them.\"<br />Nobody owns these routes, besides, you used in your later try a move/jump I represented the first in this topic. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Edit: Whoaly garg, excellent time! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  I gather running seems to be faster way to move around than constant pogoing. I have to try again, but probably can't beat this time.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1649,
+		"title": "Re: hahah",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-13T09:31:12.000Z",
+		"content": "Yeah I took quite some jumps from your run [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />And some Captain's moves were obviously seen and copied from my video [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I'll beat this record.. someday."
+	},
+	{
+		"id": 1650,
+		"title": "Re: hahah",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-29T11:52:00.000Z",
+		"content": "Okay, I completed Keen 4 on Easy in about 15:25 (from start to touching the last council member). I don't understand how Keenrush claims to have ran in about 13:30 when I didn't have any important deroutes or mistakes. Maybe I'll put the video up but it's kin of big."
+	},
+	{
+		"id": 1651,
+		"title": "Re: hahah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-30T14:36:49.000Z",
+		"content": "Haha, should've uploaded it.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]   Try again, it is possible, and most probably even a slow time.<br />Edit: Naturally I play only the required levels, but I guess you do so as well.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1652,
+		"title": "Re: hahah",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-04-30T15:35:28.000Z",
+		"content": "It would help a lot if you pulled a video together..<br />I found a shortcut but I don't think it saves more than a minute.."
+	},
+	{
+		"id": 1653,
+		"title": "Re: hahah",
+		"author_id": 1486838,
+		"author_name": "Captainkeen",
+		"timestamp": "2006-04-30T21:37:55.000Z",
+		"content": "What about keen 1-3? Have you given up already?<br />I win? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]"
+	},
+	{
+		"id": 1654,
+		"title": "Re: hahah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-01T06:13:32.000Z",
+		"content": "I do have a video but I'm unable to upload it right now.. Can't tell why, though.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1655,
+		"title": "Re: hahah",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-05-01T17:55:07.000Z",
+		"content": "We should get a reliable Keen Speed Demo upload space where everyone could upload their runs... Otherwise it's quite messy. And no, I haven't given up yet :P"
+	},
+	{
+		"id": 1656,
+		"title": "Re: hahah",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-05-21T17:36:37.000Z",
+		"content": "Sorry about this, but I need to know how to install this Dosbox codec. I installed it, but when I play any video, it just comes up with sound. (BTW I'm using Windows Media Player) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1657,
+		"title": "Re: hahah",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-05-21T23:20:38.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]We should get a reliable Keen Speed Demo upload space where everyone could upload their runs... Otherwise it's quite messy.[hr][/quote]<br /><br />Cool, Sanitars is setting up a Commander Keen speedrun website to show everybody's ranking for each level.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 1658,
+		"title": "Re: 1333",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-24T09:05:07.000Z",
+		"content": "Ok, here's the Keen 4 in 13:33 (on easy mode) video. Prepare to download about 25 megs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br />[url=http://www.keengrid.net/ckfiles/videos/keenrush-k4-1333.rar]www.keengrid.net/ckfiles/...4-1333.rar[/url]<br /><br />There are many stupid 'misjumps' and such things that slowed me, and I accidentally entered the Isle of Tar -- two times -- so it slowed me annoyingly.. First I started playing the level, then realized very soon that I shouldn't be in that level, killed myself, and accidentally selected restart instead of exit to Shadowlands, killed myself again, and finally swam away.. The whole trip to Isle of Tar cost me about 23-25 seconds I think. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1659,
+		"title": "wow",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-05-24T18:12:48.000Z",
+		"content": "Nice job, KR!  That was an entertaining video to watch. <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  If anyone wants to improve on that, pogoing up the steeper hills, not shooting while standing still, and being lucky enough to not wait for Slug slime would help a lot.  <br /><br />That was still pretty darn quick, though.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/>  Nice work!  How long did it take you to practice?"
+	},
+	{
+		"id": 1660,
+		"title": "Re: wow",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-24T18:54:12.000Z",
+		"content": "Thanks Xky! Yeah, I had some bad random/luck there.. Slugs seemed to leave slime just before I arrived, and I had to wait.. Sometimes I just couldn't help myself shooting something. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Now if I only could remember the exact places of mad mushrooms in Cave of the Descendents so I wouldn't always need to move there so carefully..<br /><br />Actually I didn't practice on that film at all (as you probably noticed as I accidentally went in the Isle of Tar), I knew those routes quite well and had ran through them before. I should try to get it shorter, which should be peace of cake. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1661,
+		"title": "Re: wow",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-05-28T14:57:22.000Z",
+		"content": "nice, downloading now ;]"
+	},
+	{
+		"id": 1662,
+		"title": "Re: wow",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-05-28T16:57:30.000Z",
+		"content": "Ok so I have been working on a Commander Keen 6 speedrun. I am doing pretty good except for when I try Bloogfoods. <br /><br />In the second part of the level where the switches are I just can't figure out which switches turn on what elevators, or in short, which ones need to be flipped and which don't.<br /><br />[url=http://dosclassics.com/keen/map.php?a=6&l=8]The map.[/url]<br /><br />If someone could tell me that would be great!<br /><br />Thanks.<br /><br />(By the way. Have we agreed on a difficulty setting? I have just been using \"normal\" for my speedruns.)-----------------------<br />[url=http://Galaxie.Spatang.com][img]http://i34.photobucket.com/albums/d134/Galaxieretter/New-blegd-smeeg-banner-60.png[/img][/url]"
+	},
+	{
+		"id": 1663,
+		"title": "Ok",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-05-28T18:22:21.000Z",
+		"content": "The switches across the bottom right of Bloogfoods, from Left to Right, are the following:<br /><br />Higher bridge (with \"OK\" blocks)<br />Lower bridge (fudgcicles)<br />Highest platform (left to right)<br />Lower bridge (fudgcicles)<br />Lowest platform (used to get up to conveyor belt)<br />Second platform (used to get up to switch + blooguard)<br /><br />The switch on the platform with that blooguard operates the 3rd platform (which takes you up to the top)<br /><br />The switch up at the top turns on a platform that lets you get all those rootbeer floats at the top of the level in the section directly to the left.<br /><br />:-)  Hope that helps.<br /><br />Edit: Ironically enough, the switches you absolutely NEED to flip are the furthest away.  You need to get 6, 5, and 3 to reach the sandwich, unless you're really creative with the pogo.  [img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 1664,
+		"title": "Re: Ok",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-05-28T18:47:02.000Z",
+		"content": "Thanks Xky. I never figured that out. Whenever I would play that level I would spend about 5 minutes randomly flipping switches until I get the right combination.<br /><br />This should help me.<br /><br />Edit: Actually I found a way where I don't even need to flip any of those switches to complete the level. But thanks once again. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] -----------------------<br />[url=http://Galaxie.Spatang.com][img]http://i34.photobucket.com/albums/d134/Galaxieretter/New-blegd-smeeg-banner-60.png[/img][/url]"
+	},
+	{
+		"id": 1665,
+		"title": "Commander Keen 4 - New Record - 13:02 :)",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-06-01T21:56:07.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]  <br /><br />After some practice I finally pulled together a decent attempt and a video.<br /><br />Hope you like it.<br /><br />It definately can be improved, by about 10 seconds altogether but it's not quite good, except one elevator I missed and a missed jump elsewhere.<br /><br />The codec is included in the download, in case you need it (right click and Install).<br />I guess that will be enough of Keen 4 for me at least until someone decides to annoy me and beat the time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br /><br /><b>[url=http://files.filefront.com/CommanderKeen4_SS_1302/;5103147;;/fileinfo.html]DOWNLOAD FROM FILEFRONT, 60.8 MB[/url]</b>"
+	},
+	{
+		"id": 1666,
+		"title": "Re: Commander Keen 4 - New Record - 13:02 :)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-01T22:46:20.000Z",
+		"content": "This is one excellent run. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Really fast movement.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1667,
+		"title": "Commander Keen 3 :)",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-06-05T17:55:46.000Z",
+		"content": "Just completed it in 2 minutes and 17.15 seconds.<br />Thats more than 20 seconds better than the previous record.<br /><br />Hope you like it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />[url=http://files.filefront.com/Sanitars_CommanderKeen3_SS_021715rar/;5117339;;/fileinfo.html]DOWNLOAD FROM FILEFRONT, 2.12MB[/url]<br />The codec's included, in case anyone needs it."
+	},
+	{
+		"id": 1668,
+		"title": "Re: Commander Keen 3 :)",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-06T03:27:45.000Z",
+		"content": "Filefont say no can find...A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1669,
+		"title": "Re: Commander Keen 3 :)",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-06-06T05:49:31.000Z",
+		"content": "Worked for everyon else. But try [url=http://files.filefront.com/Sanitars_CommanderKeen3_SS_021715rar/;5117339;;/fileinfo.html]THIS[/url] link then."
+	},
+	{
+		"id": 1670,
+		"title": "Re: Commander Keen 3 :)",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-08T02:00:04.000Z",
+		"content": "Well, I have to admit; thats a pretty smooth run; except for a few enemy holdups thats pretty much a slick record.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1671,
+		"title": "Re: Commander Keen 3 :)",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-06-12T05:48:56.000Z",
+		"content": "Am I the only one still running Keen now? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br />Come on, you can still take the non-existing record in Keen Dreams. There's a thread in [url=http://speeddemosarchive.com/yabb/YaBB.pl?board=pcgames;action=display;num=1124412320;start=0#0]Speed Demos Archive[/url] that could be of some use. Good luck, anyone who decides to run the bastard child of the series [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img] <br /><br />Also, the Keen 2 run is just waiting there to be crushed with a minute better time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] <br /><br />I myself am working on a Keen 6 run at the moment. I can already tell you that it will be SUPER AWESOME and the BEST KEEN RUN EVER!!! Just you wait! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]"
+	},
+	{
+		"id": 1672,
+		"title": "NOW HERE'S A JAWDROPPER!",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-06-12T13:26:34.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  <b>Commander Keen 6 - Aliens Ate My Babysitter</b> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] <br /><br />After tons of testing, practicing, glitch finding, some help from others... I have pulled a video together.<br /><br />The exact time is 6 minutes and 38,519 seconds from the frame Keen appears on map to the frame Keen touches the babysitter.<br /><br />Be prepared to see extreme glitch and clipping error exploiting. Also, this is the only Keen game that features the so-called Impossible Bullet trick, which is done by jumping and shooting a bullet under you and if done correctly you stay in the air and when you shoot up you fly in the sky with the bullet. There is also a number of strange clipping errors. I guess it's all because this game wasn't made by the original developers and wasn't tested exactly good.<br /><br />I guess this run can be improved by anyone with some luck and good timing. You could not take the extra ammo in Guard Post 1 if you were sure you would do every Impossible Bullet on the first try :P<br /><br />Anyway, the video is up. This time I compressed the audio more and made an XviD version too, although it has worse quality and bigger filesize than the ZMBV version, which is weird.<br /><br />[url=http://files.filefront.com/CommanderKeen6_ZMBV_638509/;5141232;;/fileinfo.html]DOWNLOAD ZMBV - 11.41MB[/url]<br />[url=http://files.filefront.com/CommanderKeen6_XviD_638509/;5141319;;/fileinfo.html]DOWNLOAD XviD - 24.54MB[/url]"
+	},
+	{
+		"id": 1673,
+		"title": "Re: NOW HERE'S A JAWDROPPER!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-06-12T14:28:22.000Z",
+		"content": "Whoa, VERY cool. Gooj job on managing to do that all at once. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 1674,
+		"title": "Re: NOW HERE'S A JAWDROPPER!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-12T22:37:57.000Z",
+		"content": "Woah, that is pretty awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]   Has some stuff I've never seen!<br />Can't believe how well you can handle the impossible bullet! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1675,
+		"title": "Re: NOW HERE'S A JAWDROPPER!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-13T09:41:01.000Z",
+		"content": "Yeaps, thats some classic gaming that is, it shows a real mastery of the game. That wasn't completion, that was owning. It must've taken a good lot of practice to get the impossible bullet done that well, there is only a two frame window to shoot where you'll get it to work.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1676,
+		"title": "Re: NOW HERE'S A JAWDROPPER!",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-06-17T03:03:26.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  woah. I would never have belived anyone couldv'e completes keen6 so fast before now... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />wow.<br /><br />[hr]<br /><br />The yorpshalt inherit the mars"
+	},
+	{
+		"id": 1677,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1486212,
+		"author_name": "Dopefisher 90",
+		"timestamp": "2006-06-26T07:43:37.000Z",
+		"content": "keen 3 is so fast. only like 3 levels [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-moon.gif[/img]"
+	},
+	{
+		"id": 1678,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-27T02:06:59.000Z",
+		"content": "This thread is silly. How can anybody prove their time without a demo recorded?"
+	},
+	{
+		"id": 1679,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-27T14:12:32.000Z",
+		"content": "Exactly WHY we post demoes.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1680,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-06-27T16:51:10.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>alex87</b> This thread is silly. How can anybody prove their time without a demo recorded?[hr][/quote][url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=45&stop=45]Someone[/url]  [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=71&stop=71]didn't[/url] [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=78&stop=78]read[/url] [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=80&stop=80]the[/url] [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=85&stop=85]thread[/url], [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=46&stop=46]did[/url] [url=http://p072.ezboard.com/fpubliccommanderkeenforumtheoriginalcommanderkeenga.showMessageRange?topicID=935.topic&start=54&stop=54]they?[/url] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 1681,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485577,
+		"author_name": "Shepherd",
+		"timestamp": "2006-06-28T03:09:32.000Z",
+		"content": "I can beat the first keen in about 6 and a half minutes, don't have dosbox though i run em all on the old windows 95 in my room."
+	},
+	{
+		"id": 1682,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-28T04:32:11.000Z",
+		"content": "oh whoops i only read the first few lines lol.  <br /><br /><br />[quote]<b><i>Quote:</i></b>[hr]The exact time is 6 minutes and 38,519 seconds[hr][/quote]<br /><br />So it took you 6 + 641 = 647 minutes. :/<br />anyway, because you cheated im afraid your going to have to do it all over again [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]     Short cuts should be allowed for official time trials but glitching is perhaps too easy. Im sure it wouldnt take that much longer without it.<br /><br />By the way sanitars, since this is your thread, perhaps you could edit the first post so that its got a full list of all the videos, name of player, and time. Somting like this.<br /><br /><br /><b>Keen 1</b><br />[url=http://www.google.com]Alex87[/url] - 2:30<br />[url=http://www.yahoo.com]Xtraverse[/url] - 6:30<br /><br /><b>Keen 2</b><br />etc.<br /><br />Anyway i think its really cool to have people recording themselves. I hope to see more!"
+	},
+	{
+		"id": 1683,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485577,
+		"author_name": "Shepherd",
+		"timestamp": "2006-06-28T23:06:01.000Z",
+		"content": "Well Speed Running Keens 4 and 5 would be pretty hard.  They don't have any exploitable glitches that i know of and they are much more linear.  In Keen 3 you could beat 3 levels and then be done with, in keen six you needed the rope and grapple, sandwich and basa key to win aside from joes diner.  I'm assuming when you guys say you beat the game in 6 minutes it was using cheat codes?  I can't see any way it'd be possible without the use of free items in six minutes."
+	},
+	{
+		"id": 1684,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-06-29T01:26:04.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]you beat the game in 6 minutes it was using cheat codes? I can't see any way it'd be possible without the use of free items in six minutes.[hr][/quote]<br /><br />He used a fly and go through walls glitch.<br /><br />BTW i saw your Keen 5 vid. Definately the funniest thing i've ever seen. More like a 'Speed Stand' then a 'Speed Run'. What were you waiting for half the time when there was nothing there? Having a cup of tea?<br /><br />Oh by the way, you died 6 times in your run, not 5 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   <br /><br />How the heck did you die that many times in easy? Theres nothing to kill...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]"
+	},
+	{
+		"id": 1685,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-07-11T00:56:09.000Z",
+		"content": "Nice to see there's still interest [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I may get over to the Keen 5 run sometime soon, be patient [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />And I never cheated. Only in Keen 6 I exploited the game glitches that programmers left there, I don't see anything bad in that when speaking of completing a game as fast as possible.<br /><br />And I'll edit the first post."
+	},
+	{
+		"id": 1686,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-11T10:43:56.000Z",
+		"content": "Due to a request I've made this topic sticky. Not a bad idea, I think..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1687,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-16T00:35:09.000Z",
+		"content": "I can't download the Keen 2 record; the file aborts about halfway through. This happens with both IE and FirefoxA proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1688,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-07-16T03:01:08.000Z",
+		"content": "Added a video capturing &amp; compressing tutorial to the first post."
+	},
+	{
+		"id": 1689,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-07-30T08:16:48.000Z",
+		"content": "You can see highlights of my speed run on hard in my 'Commander Keen 5 Video Clip' thread. I won't be posting the speed run though because its too large for me to upload on this slow connection. If you want a total time for it though i can get it for you."
+	},
+	{
+		"id": 1690,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-09-06T22:59:53.000Z",
+		"content": "I just beat Keen 5 in about 9:44. I know it sounds impossible, but its true. Unfortunately I didn't actually record it, or do it all at once (I saved in between levels and added up the times.)<br /><br />It is possible, but I'm not gonna say how. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1691,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-07T06:54:05.000Z",
+		"content": "Strange, I just beat it in 9:25, but again I'm not saying how... Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1692,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-09-12T12:21:24.000Z",
+		"content": "awsome, post some vids of it so i can watch [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 1693,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-14T05:21:11.000Z",
+		"content": "The videoes are *huge!*Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 1694,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-09-22T07:45:34.000Z",
+		"content": "Without videos it's just bullshit"
+	},
+	{
+		"id": 1695,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-10-01T00:00:10.000Z",
+		"content": "Hello? I mean it."
+	},
+	{
+		"id": 1696,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-10-26T23:05:59.000Z",
+		"content": "This is actually possible. I can't record on this lousy computer, so I can't really prove it, but it can be done. It involved a pretty commonly known bug, but it only works in certain versions. If you do it correctly, you can skip 6.5 levels.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1697,
+		"title": "Re: Keen SPEEDRUNNING! How fast can you complete them?",
+		"author_id": 1485928,
+		"author_name": "Feldegryph",
+		"timestamp": "2006-11-04T17:55:21.000Z",
+		"content": "Wow. I'm a noob to this community still, but a lot of other people play around with the same silly ideas as me. I don't think my record times even come close to yours, though. <center><b>crymorenub</b></center><br />"
+	},
+	{
+		"id": 1698,
+		"title": "Captainkeen's movies",
+		"author_id": 1485838,
+		"author_name": "Bag of Magic Food",
+		"timestamp": "2006-11-21T21:14:25.000Z",
+		"content": "I can't get Captainkeen's movies' links to work.  Does Savefile delete their stuff every so often or something?  Are there any other links to those movies?"
+	},
+	{
+		"id": 1699,
+		"title": "woah!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-22T00:46:21.000Z",
+		"content": "Holy cow, it's BoMF, from TasVideos.org!  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/>  Cool to see you, dude.<br /><br />I didn't think Keen speedrunning would catch the eye of the TAS community at all... but I suppose the \"Impossible Bullet\" stuff is right up their alley.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 1700,
+		"title": "Re: woah!",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-22T03:40:22.000Z",
+		"content": "I haven't been able to get most (all?) of the videos in this thread either, which explains why I've mostly ignored it.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 1701,
+		"title": "Re: woah!",
+		"author_id": 1485838,
+		"author_name": "Bag of Magic Food",
+		"timestamp": "2006-11-24T22:37:44.000Z",
+		"content": "Well, I've played games 1 through 4, and now I want to see the record videos for 1 and 2!  But I can't!  Because the links are just error pages!  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 1702,
+		"title": "Re: Captainkeen's movies",
+		"author_id": 1486838,
+		"author_name": "Captainkeen",
+		"timestamp": "2006-11-26T15:46:26.000Z",
+		"content": "hi guys<br /><br />nice to see that your are interested in my achievements [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] <br /><br />I uploaded my speedruns again, I also improved my keen2 and keen3 speedruns.<br /><br />hehe, I didn't want to upload my newest keen 2 record at first because it stil had some little mistakes (shooting when doing a pogo jump) And it looks so unprofessional[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img] <br /><br />I think the alt button was stuck a few times.(but didn't give anymore serieus trouble)<br /><br />but here is it anyway.<br /><br />keen1 4:07 [url=http://www.badongo.com/file/1775743]www.badongo.com/file/1775743[/url]<br />keen2 7:12 [url=http://www.badongo.com/file/1775824]www.badongo.com/file/1775824[/url]<br />keen3 2:11 [url=http://www.badongo.com/file/1775757]www.badongo.com/file/1775757[/url]<br /><br />have fun"
+	},
+	{
+		"id": 1703,
+		"title": "Re: Captainkeen's movies",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-28T14:28:44.000Z",
+		"content": "Good work again, it's pretty difficult to get it much better than that!<br /><br />Haven't watched the new Keen 3 run yet, but just watched the Keen 2 one.. Neato! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1704,
+		"title": "haeh",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2006-12-20T16:40:17.000Z",
+		"content": "Hi guys.<br /><br />Good job, Captain.<br /><br />Also I just found this Keen 6 run by FractalFusion of TasVideos.org - [url=http://files.filefront.com/keen6_FractalFusion_511avi/;6371472;;/fileinfo.html]files.filefront.com/keen6...einfo.html[/url]<br /><br />It beats my run by a minute, so check it out [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I'll edit first post later."
+	},
+	{
+		"id": 1705,
+		"title": "Re: haeh",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-01-27T11:08:02.000Z",
+		"content": "Captain, your videos have been deleted due to inactiveness.<br />Mind to upload somewhere permanent, like Filefront?<br /><br />By the way, another run has been posted to SpeedDemosArchive.com forums: Keen 5 in 18:02!! [url=http://files.filefront.com/keen5_FractalFusion_1802avi/;6523530;;/fileinfo.html]files.filefront.com/keen5...einfo.html[/url]<br /><br />Also, a Keen Dreams run of under 6 minutes is coming soon. Awesome.<br /><br />Actually... WOW. I feel proud to have introduced Keen players to speedrunning [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I used to have records in all of them but now I must bow to the holders of new records. I guess I still hold Keen 4 record but I don't think it should be hard to beat.<br /><br />Comment and Keen on!"
+	},
+	{
+		"id": 1706,
+		"title": "Re: haeh",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-01-27T14:54:26.000Z",
+		"content": "You should put your times in the KeenWiki somewhere.  I don't know whether it's worth doing it per-level or per-episode, but it would be a good place to put the current record.<br /><br />You could even edit the episode template and create a \"speedrunning\" category for each episode, with the top five best times or something."
+	},
+	{
+		"id": 1707,
+		"title": "Re: haeh",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-27T16:01:20.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]By the way, another run has been posted to SpeedDemosArchive.com forums: Keen 5 in 18:02!![hr][/quote]<br /><br />*Sigh...*<br />[url=http://www.shikadi.net/keenwiki/Keen5_Bugs]www.shikadi.net/keenwiki/Keen5_Bugs[/url]<br />You can beat the game in under 9 minutes...<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1708,
+		"title": "account",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-01-28T23:39:20.000Z",
+		"content": "This must be taken into account, someone needs to speedrun this!"
+	},
+	{
+		"id": 1709,
+		"title": "Re: account",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-02-18T16:31:49.000Z",
+		"content": "Finally, a Keen Dreams run!<br />5:42 by FractalFusion<br />[url=http://files.filefront.com/keen_dreams_FractalFusion2avi/;6748800;;/fileinfo.html]files.filefront.com/keen_...einfo.html[/url]"
+	},
+	{
+		"id": 1710,
+		"title": "Re: account",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-19T00:23:16.000Z",
+		"content": "Finally! I've been waiting for this!<br /><br />(I was even making my own run, which I can now abandon.)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 1711,
+		"title": "Re: account",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-02-19T05:36:27.000Z",
+		"content": "The site wont let me download the file...<br /><br />---Freeyorp"
+	},
+	{
+		"id": 1712,
+		"title": "Re: account",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-20T02:59:15.000Z",
+		"content": "Yeah, me neither...<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 1713,
+		"title": "Re: CKFS",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-02-20T19:10:30.000Z",
+		"content": "Since most of these videos have been uploaded on sites like RapidShare and Filefront, which impose annoying limits on those downloading them (often with expiry dates, which are bad), those of you posting speedrun videos might be interested in my new [url=http://p072.ezboard.com/fpubliccommanderkeenforumother.showMessage?topicID=2474.topic]CKFS file hosting[/url] service."
+	},
+	{
+		"id": 1714,
+		"title": "Huzzah!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-21T01:18:50.000Z",
+		"content": "Excellent!<br /><br />See? We need things like this, Keeners helping Keeners"
+	},
+	{
+		"id": 1715,
+		"title": "Re: Huzzah!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-03T21:59:58.000Z",
+		"content": "Cool, nice video. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  (It let me download it.)3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1716,
+		"title": "Re: Huzzah!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-04T01:10:23.000Z",
+		"content": "Oh, before I forget, I'm doing a Keen 5 speedrun using that shelley/door bug. Once I can finish the last level, it should be somewhere around 9 minutes... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1717,
+		"title": "Re: Huzzah!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-04T11:51:26.000Z",
+		"content": "Sneak, sneak, sneak; is there a cheatproof game?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 1718,
+		"title": "Re: Huzzah!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-04T12:06:40.000Z",
+		"content": "Probably not.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 1719,
+		"title": "hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-04-15T09:42:41.000Z",
+		"content": "Hey guys, good news!<br />Bisqwit has modified DOSBox and made a version which allows savestates, frame-by-frame advancing and re-recording for movies!<br /><br />That's why I'm going to do optimal (and possibly humanly impossible due to limits of reflexes and luck) movies of Keen game completion in the same fashion of all the movies in [url=http://tasvideos.org/]tasvideos.org/[/url]<br /><br />If anyone else is interested to check this cool tool out, read this: [url=http://tasvideos.org/forum/viewtopic.php?t=5285&start=0]tasvideos.org/forum/viewt...85&amp;start=0[/url]"
+	},
+	{
+		"id": 1720,
+		"title": "Re: hey",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-16T03:45:59.000Z",
+		"content": "I do not understand just what this now does.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 1721,
+		"title": "Re: hey",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-08T17:40:41.000Z",
+		"content": "Well, I'll be interested in seeing those videos, but naturally don't give them as much value as I give to the runs that are done 'pure'. Good luck.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1722,
+		"title": "Re: hey",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2007-05-08T19:02:45.000Z",
+		"content": "Levelass, the site explains the concept.<br />At least, I visited the front page and noticed a few links which seem like they do some explaining. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Without having read those, but I think I am correct anyway, basically you can play the game normally and save the state (basically everything exactly as it is on the screen at that moment) until you die because of hitting an enemy.<br />When that happens, you load the saved state, and try again.<br />If there are 2 enemies next to eachother that you can theoretically fit in between of, but practically can't because it's impossible to be precise enough... now you can anyway because you can just keep on trying until you do it right.<br />Also there are probably ways of doing slow motion stuff.<br /><br />(This makes me think of Prince of Persia: The Sands of Time, which rocks by the way.)Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 1723,
+		"title": "Re: hey",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-09T11:51:18.000Z",
+		"content": "That's amazing! (And can be summed up without all that technical jargon thankyou!)<br /><br />That may possibly be the most useful thing since frameskipping![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 1724,
+		"title": "Re: hey",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-09T19:31:07.000Z",
+		"content": "They need it in the standard version of DOSbox, though.<br />I mean, practically every other emulator does it.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 1725,
+		"title": "Re: hey",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-10T14:40:35.000Z",
+		"content": "IMHO, such kind of feature is just lame, and is only useful for screwing up your files.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 1726,
+		"title": "Re: hey",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-05-10T20:39:33.000Z",
+		"content": "Good point about the files. Console emulators don't have to deal with access to real disks.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 1727,
+		"title": "Re: hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-14T13:39:49.000Z",
+		"content": "[url=http://youtube.com/results?search_query=commander+keen+speedrun&search=]youtube.com/results?searc...un&amp;search=[/url]<br /><br />You can find some speedruns that aren't listed here [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />Some are pretty interesting, like the Keen 3 one with a route different to ours.<br /><br />By the way, we should upload all our vids to youtube too, right?"
+	},
+	{
+		"id": 1728,
+		"title": "Re: hey",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-14T14:23:26.000Z",
+		"content": "If you want it to be stored pretty much permanently and make it easy to view and comment on, yes.<br /><br />While you do, add a link to PCKF.com. Who knows who might be watching and get interested. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 1729,
+		"title": "Re: hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-14T14:37:55.000Z",
+		"content": "Well, I'm uploading some of my vids on my channel - [url=http://www.youtube.com/Sanitars]www.youtube.com/Sanitars[/url]<br />And also leaving a link to this thread [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Actually I might try and improve some of my runs, now that I've got some free time."
+	},
+	{
+		"id": 1730,
+		"title": "Re: hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-14T22:13:28.000Z",
+		"content": "First one that I'm going to improve now will be Keen Dreams [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I haven't recorded anything yet but other than small optimizations I can see 2 major improvements - one is grabbing just the key in Melon Mines to save getting one in the Castle - might save a few seconds, not 100% sure yet. The other one is abusing death in Spud City after getting the set of Bombs in the sky - I go the the right border of the level and die, finishing the level - that's about 5-10 seconds faster than walking to the left side, although very dangerous - the success of a run attempt will pretty much depend on how the melee and projectile throwing enemies are positioned - I need 1 of them, preferably the Frenchy positioned as close to the right border as possible while the others are easily disposable. Though it's not very likely.<br /><br />I'd expect a time of about 5:30"
+	},
+	{
+		"id": 1731,
+		"title": "Re: hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-15T14:32:20.000Z",
+		"content": "Haha I just did Keen Dreams in 5:35... BUT I messed Apple Acres up twice for no reason which cost me 15 seconds :S<br />So yeah, under 5:20 is pretty possible.<br /><br />EDIT: Did 5:23 but didn't make it in time to the tongue platforms in Castle :/ So 5:15 will be my aim."
+	},
+	{
+		"id": 1732,
+		"title": "Re: hey",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-15T15:51:12.000Z",
+		"content": "OMG I DID IT.<br />Keen Dreams done in 5:08!!!<br />It was almost flawless so I'm damn satisfied.<br /><br />Youtube: [url=http://www.youtube.com/watch?v=ZkYSAAt576U]www.youtube.com/watch?v=ZkYSAAt576U[/url]<br />Download: [url=http://files.filefront.com/KeenDreams+SS+508+SanitVrar/;8060212;;/fileinfo.html]files.filefront.com/KeenD...einfo.html[/url]<br /><br />Also, edited first post a fair bit.<br />Come on guys, join the fun!"
+	},
+	{
+		"id": 1733,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-15T18:17:03.000Z",
+		"content": "With savestates and precision, we could make Episode Smile look easy... <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 1734,
+		"title": "Re: hehe",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-16T22:48:51.000Z",
+		"content": "FractalFusion ran [url=http://files.filefront.com/keen6+FractalFusion+452avi/;8065472;;/fileinfo.html]Keen 6 in 4:52[/url] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 1735,
+		"title": "Re: hehe",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-18T17:51:30.000Z",
+		"content": "I'd do something, but my videos are huge and I hate uploading big files.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 1736,
+		"title": "Re: hehe",
+		"author_id": 1485560,
+		"author_name": "Sanitars",
+		"timestamp": "2007-07-21T18:32:11.000Z",
+		"content": "Check out this video on youtube [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />It's Keen 3 in 1:59!<br />[url=http://www.youtube.com/watch?v=X_PiBOJgLM4]www.youtube.com/watch?v=X_PiBOJgLM4[/url]"
+	},
+	{
+		"id": 1737,
+		"title": "Re: hehe",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-09T11:24:36.000Z",
+		"content": "Woah, pretty much best handling of MM I've ever seen. Very accurate. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 1738,
+		"title": "foaijdso",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-08-16T00:35:00.000Z",
+		"content": "i think fractal's keen5 needs reuploading"
+	}
+]

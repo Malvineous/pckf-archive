@@ -1,0 +1,98 @@
+[
+	{
+		"id": 38,
+		"title": "Help? Keen 4 and Dreams",
+		"author_id": 1485607,
+		"author_name": "Tardigrade",
+		"timestamp": "2007-06-24T09:34:29.000Z",
+		"content": "I recently downloaded Commander Keen again and plan on finding some of the others soon, but I'm having a problem. I run on Windows XP with DOSBox and the games run great, but when I try to use the debug keys command (A+2+Enter, right?) it does nothing. I like to play around with god mode and stuff sometimes to just blow off frustration, so if anyone has ideas on what's wrong, I'd greatly appreciate it. (Also, with Keen 1 the God and Item cheats work just fine)<br /><br />Thanks in advance."
+	},
+	{
+		"id": 2019,
+		"title": "Possible solution...",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-24T10:16:17.000Z",
+		"content": "Which episode are you playing? You might try running the EXE from the command prompt with the 'nowait' parameter:<br />[pre] c:\\games\\keen4&gt;keen4e nowait[/pre]This removes the need for the debug key combination so once you're in the game the F10+* cheats work straight off the BAT."
+	},
+	{
+		"id": 2020,
+		"title": "Re: Possible solution...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-24T14:29:30.000Z",
+		"content": "Har har.<br /><br />I did not know that; I guess this was used in debugging. (No duh?) this presents a small problem to me I shall have to see to.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 2021,
+		"title": "Re:",
+		"author_id": 1485607,
+		"author_name": "Tardigrade",
+		"timestamp": "2007-06-24T18:22:12.000Z",
+		"content": "Thanks, the nowait fixed it. I only have episodes one, four, and dreams at the moment and it fixed the second two (first wasn't having problems)"
+	},
+	{
+		"id": 2022,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:26:36.000Z",
+		"content": "Guys (and lady), you don't know what I know.<br />The A+2+INTRO cheat only works with the INTRO key of the Numpad, not the ENTER key at the middle of your keyboards.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2023,
+		"title": "Hmm...",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-25T13:44:56.000Z",
+		"content": "It's always worked for me with the left Enter key... perhaps it's a BIOS thing?"
+	},
+	{
+		"id": 2024,
+		"title": "Re: Hmm...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:57:13.000Z",
+		"content": "A DOSBox thing then...<br />(correction, DOSBox and my BIOSes, I have tried in two computers...)<br />EDIT: strange, it works here...------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2025,
+		"title": "Re: Hmm...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-25T21:40:13.000Z",
+		"content": "If you're using a non-US keyboard then it's possible some keys are generating different scancodes.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 2026,
+		"title": "Re: Hmm...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-26T12:56:08.000Z",
+		"content": "Indeed. It just doesn't work in Latinamerican layouts, but it does in Spanish layouts. That might explain too why in most keyboard I have had, the Keen 1-3 cheat combo G-O-D doesn't work unless I press G, O, and D repeatedly and randomly.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2027,
+		"title": "GOD DOG OGD GARG",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-26T13:35:46.000Z",
+		"content": "[hr]<b>Shadow Master</b> That might explain too why in most keyboard I have had, the Keen 1-3 cheat combo G-O-D doesn't work unless I press G, O, and D repeatedly and randomly.<br />[hr]My 386 used to have that problem. It bugged me that my friend's 486 worked perfectly. I don't remember if a different keyboard solved the problem, though. A new computer certainly did."
+	},
+	{
+		"id": 2028,
+		"title": "Re: GOD DOG OGD GARG",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-26T13:43:07.000Z",
+		"content": "Two keyboards of the same layout (latinamerican) but different manufacturer do the difference here too.<br /><br />IIRC, in some Linux howtos it was mentioned some keyboard manufacturer produce broken chips that ignore certain keys when pressed 3 or 4 at the same time, and some BIOSes do the same too in the computer side.<br /><br />Another game that causes me problem with this behaviour is Crystal Caves, since it uses 4-keys combos (ZEUS and NEXT).<br /><br />Anyway, game designers can take this to their advantage to hide keyboard-driven easter-eggs.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2029,
+		"title": "Re: GOD DOG OGD GARG",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-27T22:03:46.000Z",
+		"content": "Like most games of the era, Keen bypasses the BIOS and goes straight to the keyboard controller, so it would only depend on the keyboard manufacturer.  Cheaper keyboards tend to only work with one or two keys held down at the same time, because they connect too many keys to each conducting track on the keyboard underlay.  More expensive keyboards (especially gamer keyboards) have more tracks, and less keys per track, so they're far more reliable when it comes to multikey combinations.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	}
+]

@@ -1,0 +1,90 @@
+[
+	{
+		"id": 613,
+		"title": "What do you use for running Keen with sound?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-10-27T15:03:05.000Z",
+		"content": "I'd like to know what program you use for running Keen Dreams, 4, 5 and 6 with support for those nice sounds and music. In my case, I use DOSBox for two reasons: it gives me the good old DOS feel and my monitor has problems with 720x400 resolution and CK1-6. It also has the ability to record the DOS sound output. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 16102,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-27T15:10:33.000Z",
+		"content": "DOSBox on my higher end puters, and straight DOS or Win98 (primarily, and preferably, the former) for older hardware, depending what I've got setup on the machine.<br /><br />I'll vote pure DOS with sound. I'll throw a gamepad in there for good measure, too (even though my thumb-control skills are yet to be honed)."
+	},
+	{
+		"id": 16103,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-10-27T20:22:13.000Z",
+		"content": "DOSbox (on Linux) here. I'd really like to put together a DOS computer though, since I've got an Adlib Soundblaster (16?) sitting around. If only I could get DOSbox to play through it instead of emulating, I'd just do that.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 16104,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-27T23:59:41.000Z",
+		"content": "Your monitor has problems with 720x400?  The Keen graphics mode is identical as far as a monitor is concerned to DOS text mode.  Do you have troubles with DOS text mode too?  Maybe it's your video card - you could download SciTech Display Doctor (a small part of which was once distributed as UniVBE), it used to add support for more graphics modes and generally made your video card more compatible with things.<br /><br />Back to the question though, I often use DOSBox/Linux because it's easier, but I also have a network bootserver set up so I can boot any PC to DOS and run games on it over the network (even if the PC itself doesn't have a hard drive, floppy or CD.)  It's great for getting \"skip PCs\" to do something useful (PCs you pull out of a skip.)"
+	},
+	{
+		"id": 16105,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-28T13:53:52.000Z",
+		"content": "I use/have used all of these options. I'm mostly with DOSbox for my XP computers and pure DOS for my Win 98 computer now though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16106,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-28T20:42:56.000Z",
+		"content": "These days I use Windows XP and DosBox. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I wish I had pure old school setup, though..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16107,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-10T16:14:40.000Z",
+		"content": "It seems that DOSBox is very popular these days.<br /><br />I have a computer with an Aztech Sound III soundcard. When I was a child, I played Keen6 with sounds through the soundcard in MS-DOS (the Windows 95 version of DOS). I don't remember if I could hear music, but when I played Keen6 again two years ago, the background music was somewhat familiar to me. Maybe the sound card didn't play music properly. I like that sound card because it's the only one I have had with proper DOS drivers.<br /><br /><br />[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 16108,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-11T05:56:48.000Z",
+		"content": "You should get hold of a proper Creative Labs SB16, you don't need *any* drivers for those [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />They're cheap nowadays too - I picked up a couple on eBay for $1 a while back.  They work really well for building old DOS gaming machines."
+	},
+	{
+		"id": 16109,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-11-11T18:39:39.000Z",
+		"content": "i have 4 keen o matic's 1x ibm-xt (286) 1x ibm aptiva (486sx2) 1x dell somthing (486sx) and 1x packardd bell (p1) <br /><br />and i want a Creative Labs SB16 for the ibm aptiva [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 16110,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-27T00:39:28.000Z",
+		"content": "Oops... I use DOSbox, I put down DOS.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 16111,
+		"title": "Re: What do you use for running Keen with sound?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-06-30T08:43:59.000Z",
+		"content": "I keep around an old Win95 laptop just for playing old games like Commander Keen.  It has no internet access, so any mods I download I have to transfer over to it."
+	}
+]

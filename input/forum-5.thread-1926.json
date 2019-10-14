@@ -1,0 +1,114 @@
+[
+	{
+		"id": 620,
+		"title": "Two-button firing or Space?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-26T01:40:14.000Z",
+		"content": "Please answer which one you always use and are comfortable with. If you use and are comfortable with both, then there's no need to vote.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 16179,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-10-26T03:20:03.000Z",
+		"content": "I prefer space to two button firing; in two button firing mode it becomes very difficult to use the impossible pogo trick first bounce.<br /><br />How hard would it be to add an option for 2 button firing like in keen4 etc?<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 16180,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-26T07:45:24.000Z",
+		"content": "There is a patch for space firing in Keen 1 I think, I don't know much about this kind of stuff, but surely it should be easily transferred to Keen 2 and 3?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16181,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-26T21:29:25.000Z",
+		"content": "What about just a setting to switch between space/two-button/both? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16182,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-10-26T21:43:51.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]How hard would it be to add an option for 2 button firing like in keen4 etc?[hr][/quote]<br />Easy. Since Keeners will be using a batch file to start the game anyway, you could just let them choose then. Have two patches; one for two button and one for space.<br /><br />Something like this would do the trick. It would be nice to use only one options file, but environment variables are broken in DOSbox, necessitating a workaround.<br />[pre] @ECHO OFFIF \"%1\"==\"/c\" GOTO :MAKEOPTSIF \"%1\"==\"/C\" GOTO :MAKEOPTSIF EXIST SPACEFIR.DAT GOTO STARTSPCIF EXIST CTALTFIR.DAT GOTO STARTTWO:MAKEOPTSECHO Preparing to start YOUR-MOD....ECHO Would you like to fire with (C)ontrol and Alt or (S)pace?CHOICE /C:CS /N (\"CKSELECT /C\" to choose again)IF ERRORLEVEL == 2 GOTO STARTSPCIF ERRORLEVEL == 1 GOTO STARTTWO:STARTSPCECHO Starting MOD-NAME using space to fire....ECHO TRUE &gt; SPACEFIR.DATIF EXIST CTALTFIR.DAT DEL CTALTFIR.DATCK1PATCH MODSPACE.PATGOTO END:STARTTWOECHO Starting MOD-NAME with two-button firing....ECHO TRUE &gt; CTALTFIR.DATIF EXIST SPACEFIR.DAT DEL SPACEFIR.DATCK1PATCH MODCTALT.PATGOTO END:END[/pre]________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 16183,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-27T03:47:01.000Z",
+		"content": "lol i already made my game with two-button firing in the first place and havent put in space firing yet. It wasn't hard. Space isn't hard at all either, but the lame coding part is having the player choose one and work the right way. I'm surprised most like space, even though IPT is harder. After all, Keen1-3 had two-button only, so i reasoned everyone would be used to it.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 16184,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-10-27T14:52:27.000Z",
+		"content": "I use Space because with 2-button firing I end wasting my ammo when I try to use the pogo. I also use reversed jump buttons (ALT for jump and CTRL for pogo) because it's easier to do the pogo trick with the keys in that order with CK4-6. I don't have any problems with two-button firing and the default keys in CK1-3, though.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 16185,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-28T20:45:38.000Z",
+		"content": "I like more the old two-button way, but in the newer Keens I automatically use space and can't even control them with the two-button even if it's available from the options.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  So, two-button.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16186,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-29T18:01:10.000Z",
+		"content": "I have to say, this is suprising. Two-button is advantageous because your fingers are always there, ready to push w/e you need. Sure, the IPT is harder, but you can just do that standing still and I don't remember it being impossibly hard.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 16187,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-29T18:39:08.000Z",
+		"content": "The way I hold the keyboard, I always have my fingers available on all THREE keys (ctrl, alt, space). And pressing two buttons at once can lead to mistakes, so space as firing ouwl be easier for me.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16188,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-28T10:16:55.000Z",
+		"content": "I've always been a fan of the biggest key.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16189,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-28T17:20:33.000Z",
+		"content": "I still like pressing space, but I recently began using my controller (joypad) for Keen games and I can't use any of the buttons 3-12. So I'm stuck with 2-button firing when playing with the controller.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16190,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2007-05-06T16:13:02.000Z",
+		"content": "DaVince21, doesn't your controller software/driver support binding keyboard buttons?<br />You can use both joystick buttons and keyboard buttons while playing.<br />Google \"JoyToKey\" (official site has been down for ages) and try that; it's a general thing that should work for all joysticks/controllers.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 16191,
+		"title": "Re: Two-button firing or Space?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T16:49:36.000Z",
+		"content": "I know about JoyToKey, but it seems like overkill for one game. Besides, I'm fine with joypad 2-button firing.<br /><br />The driver is for calibration, not binding what key will respond to what 'input number'.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	}
+]

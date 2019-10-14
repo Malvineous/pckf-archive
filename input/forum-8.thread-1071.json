@@ -1,0 +1,738 @@
+[
+	{
+		"id": 728,
+		"title": "Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-26T18:03:55.000Z",
+		"content": "Just wondering. The title says everything. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br />My answer: NO. I'm happy enough with Mandriva 2007, no need for propietary CPU-resource-eaters. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />But, if you bought Windows Vista, please tell me in which ways it is superior to Windows XP. And tell me if you got DOSBox running on it too (or if you could compile DOSBox on it, although I think nobody who uses Windows would want/know how to compile a program...). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19061,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-26T20:42:10.000Z",
+		"content": "Eh, I just went from ME to Linux to XP. I really DON'T want to set up another operating system.<br />I liked Linux for a while, but none of my programs worked on it. So I got XP. The end.<br /><br />And Vista is just stupid, anyway. There's probably a lot of new bugs, and its interface is supposedly just a cheap imitation of OSX.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19062,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-26T20:44:07.000Z",
+		"content": "What's Mandriva 2007? And there's no way I can be arsed to buy Windows Vista, let alone install it...------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19063,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-26T21:02:27.000Z",
+		"content": "\"although I think nobody who uses Windows would want/know how to compile a program...\"<br />Hah, I'm pretty sure people do, the biggest money in software business is made with Windows programs, I'm sure. And anyways, I can't understand why people should use Linux or such for programming.. Sure, Windows is not perfect (no OS is), but I like it a lot more than any Linux distro I've ever seen/tried. But anyways, no, I'm not going to buy it to this computer, but the next computer I'll get will probably have it installed. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19064,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-26T22:32:10.000Z",
+		"content": "Well I like Linux primarily because if something goes wrong with the OS, given enough time, you can trace the problem back to a line in the kernel source and fix it yourself.  I did this a while back when the driver for my network card would lock up the computer.  It took me a couple of hours to find the problem, I added a \"break;\" statement in the right place, recompiled, and bingo - no more lockups.<br /><br />If you get a problem like that with Windows, you're at the mercy of the hardware vendor to release an updated driver.  I don't like losing control of my PC like that...it's like the worst-case trusted computing scenario, where you have to wait for some company to decide whether your computer should work or not [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I saw a PC running Vista the other day and it certainly looks much spiffier - all the windows fade on and off the screen and there's generally a lot more eye candy, and of course it *really* slows down your PC, but from the user's point of view it's not really that much better."
+	},
+	{
+		"id": 19065,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-26T23:19:34.000Z",
+		"content": "Another thing... I probably wouldn't use the new interface, anyway. Even on XP, I like using the classic windows style a lot better. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19066,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-03-26T23:25:04.000Z",
+		"content": "Vista looks like a nice OS, but it would take a lot to dislodge me from a *nix environment. Until an x86 LispOS comes along, I think I'll be a Linux user.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19067,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-27T00:05:17.000Z",
+		"content": "Too resource-intensive for an OS, and there are some weird statements in the license agreement, like that it's a one user license (use on 1 pc only) and MS can actually decide whether software on your pc is malicious and delete it (!).<br /><br />Linux: open, free, stable, customizable. Difficult too, but that's been changing over the last few months/years. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]I liked Linux for a while, but none of my programs worked on it. So I got XP. The end.[hr][/quote]<br />Duh. Because Windows has been around for so long, a lot of people don't know that there are actually OS'es that work differently and thus do not have \"EXEs\". Since the core of an OS is different from that of another OS, they will both have to translate to their own version of machine code that gets passed onto the kernel/processor.<br /><br />Sorry if that was unclear. No exes, but a special \"executable\" attribute to a file if it contains code that the OS can understand as a program.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19068,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-03-27T00:41:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Since the core of an OS is different from that of another OS, they will both have to translate to their own version of machine code that gets passed onto the kernel/processor.[hr][/quote]Actually, all OSes that run on Intel, AMD and other x86 chips use the same x86 machine code - it's just the way data and executable headers are stored, and the functions called, that change. (This is why Wine works - it loads Windows executables and then provides them with all the functions they need to run)<br /><br />Back on topic: I got a free copy of Vista Ultimate from Microsoft as part of some developer promotion, but it'll probably end up on eBay within a week or so. I'm now running a mixture of OS X, Ubuntu Linux and WinXP (not necessarily in that order), and I imagine it'll stay that way for some time.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 19069,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-27T01:05:34.000Z",
+		"content": "Btw, when I installed XP, Ubuntu no longer came up as a choice for dual booting (it just goes straight to Windows). There's still a bunch of files still on that hard drive that I'd like to get back. How exactly do I get them (or were they lost when I installed XP?)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19070,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-03-27T03:13:54.000Z",
+		"content": "You can get ext2/3 drivers for windows (Google), or you can reinstall your bootloader if you would like to dual boot. I don't think the Windows bootloader can be made to start Linux.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19071,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-03-27T04:17:04.000Z",
+		"content": "No; I use XP and FreeBSD as my operating systems. Vista looks nice but runs slowly and I am not guarunteed compatibility with some of the programs I run now.<br /><br />Maybe sometime in the future we'll get vista, but at the moment XP/FreeBSD run fine.<br /><br />---Freeyorp"
+	},
+	{
+		"id": 19072,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-27T10:04:43.000Z",
+		"content": "I'd rather have a colonoscopy with caustic soda.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19073,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-27T11:16:30.000Z",
+		"content": "The Windows bootloader can load Linux, but you have to set it up by hand (you install a Linux bootloader into the partition with Linux on it, then tell the XP bootloader to boot that partition.)  Of course it's much simpler just to install a proper boot loader in the MBR, which can load anything directly (then you can also get it to load memdisk with a 2.88MB floppy image stored as a file on a Linux partition, in case you ever need to boot to DOS or anything and don't want a DOS partition on your hard disk...)"
+	},
+	{
+		"id": 19074,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-27T17:06:24.000Z",
+		"content": "[url=http://www.mandriva.com]Did anyone ask for this?[/url]<br />Yeah, vista is a cheap imitation of the MacOS X user interface. I wonder why Apple hasn't sued Microsoft for that yet (like they once did because of MS Win3.11, I read about that somewhere).<br /><br />In Linux you can run many Windows apps using Wine. For example, I'm using Mandriva 2007 99% of the time (yes). I run these apps on Linux natively:<br /><br />- GIMP (a bitmap graphics editor - not suitable for most people)<br />- DOSBox (guess...)<br />- Nvu (a WYSIWYG web page editor)<br />- OpenOffice<br />- Eclipse (I'm using it for writing the homework because I'm taking a Java programming class at the university)<br />- Battle for Wesnoth (game)<br />- LBreakout (game)<br />- ModKeen 2.0.1 (MY personal port of it to GNU/Linux)<br />- Fin2BMP (the same as above)<br />- etc. (I don't remember all of'em [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] )<br /><br />And I run these under Wine:<br />- KeenWright<br />- Ck456Tli<br />- Resource Hacker<br /><br />And under DOSBox:<br />- Duke Nukem 3D Atomic<br />- Rise of the Triad<br />- CK 1-3, 4-6, Dreams<br /><br />And under DOSEmu:<br />- Turbo Pascal, Turbo C++<br /><br />I don't need more than that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19075,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-27T19:34:54.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I wonder why Apple hasn't sued Microsoft for that yet (like they once did because of MS Win3.11, I read about that somewhere)[hr][/quote]<br /><br />Yeah, I once did a report for school on Bill Gates, so I read about that.<br />It was that Windows used some features that were originally by Apple (All of the things that people seem to associate with Windows... I think the taskbar was one of them, but I've never really used any Mac.) They got sued when the first Windows came out, but they won the case (unfortunately), and got rights to use them.<br />When Windows 3 came out, Apple sued them again, because the license to use those features was only for Windows 1.0. (IDK what happened to version 2, though) So, they won again, and got rights to use them on all versions.<br /><br />So, Windows has been \"stealing\" from Macs for almost 20 years. And not doing as well with it.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19076,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-27T22:39:11.000Z",
+		"content": "Don't forget Firefox and XMMS - and GKrellM if you like that sort of thing (which I do, hence the five copies of GKrellM I have running...)<br /><br />And Eclipse is great - that's one of those Java programs that's supposed to get a huge speed improvement if you compile it to native machine code with the GNU Java compiler, which is something I really want to try.  I nearly wrote my game editor as a set of Eclipse plugins..."
+	},
+	{
+		"id": 19077,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-28T10:07:11.000Z",
+		"content": "Yay, someone else likes to play LBreakout2. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Bah, my Linux distro is half broken after a Kernel update, and I can't revert because my laptop's DVD-ROM player is broken. And my internet connection in Linux does not work. Else I'd probably almost always use Linux, but I'm stuck with Windows for now.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19078,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-28T11:32:18.000Z",
+		"content": "You didn't save your old kernel?  I never delete my old kernel after upgrading for that very reason...<br /><br />And I've always found network config easier in Linux, it takes me ages to find my way through all those dialog boxes under Windows - give me \"ifconfig gbe0 192.168.0.1 netmask 255.255.255.0 mtu 9000; route add default gw 192.168.0.10\" any day [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 19079,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-28T11:49:33.000Z",
+		"content": "Huzzah for Apple, let us hope that people continue to see their superior, though sadly neglected software.<br /><br />Gates is a copycat.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19080,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-28T13:38:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You didn't save your old kernel? I never delete my old kernel after upgrading for that very reason...[hr][/quote]<br />Maybe it's saved, I used the SMART package manager to update... So I'm not sure what it does with old package versions.<br /><br />My wireless network worked, btw - until the kernel change. Then the network daemon or whatever became unaccessible.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19081,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-28T17:27:40.000Z",
+		"content": "Take the harddisk to another machine and manually unpack the kernel RPM (if you use RPM, of course) where the kernel image should be (it's always been /boot for me).<br /><br />I don't use XMMS because the distro doesn't include proper development and runtime files for GTK+ 1, and it's been a hell of a search for Pango and Cairo libraries RPMs. Instead, I use AmaroK, which is KDE based, and KDE rocks. :P<br /><br />Firefox? Why firefox? I don't have any internet connection for that computer (desktop comp) at home. I'm using the computers room of my university for physicists (the computers here run Fedora Core 4). I'm using Firefox 1.5 here anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />In my country, there's been a lot of publicity about Windows Vista on newspapers and such. However, I don't know any person who bought it. Most people here still use WinXP or older. Some even have Macs. I'm not gonna buy WinVista because if I really wanted eye candy, I'd have bought a Mac before when I had the opportunity.<br /><br />EDIT: forgot to say, there's an Eclipse plugin called CDT (C development tools or something). I'm using that to manage LModKeen II source code. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19082,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-28T21:00:47.000Z",
+		"content": "There's been almost no Vista publicity over here. Yay.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Take the harddisk to another machine and manually unpack the kernel RPM (if you use RPM, of course) where the kernel image should be (it's always been /boot for me).[hr][/quote]<br /><br />It's a laptop, so taking out the harddisk won't be easy. However, Linux still works somewhat when using a different window manager, like Gnome, so I can try it that way instead.<br /><br />Anyway, it's all not worth the trouble. I'm backing up my entire harddisk through the local network and then I'll call my insurance about a replacement for the laptop.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19083,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-28T22:43:06.000Z",
+		"content": "Is the network card on-board?  If so just boot a working kernel over the network - that's what I have to do for my desktop PC, because my main hard drive is on its way out and I can't boot off it any more.  So I load the kernel over the network and then continue as normal off the hard disk.<br /><br />And I can't stand those package management tools, you never know what they do with stuff.  I always build a new kernel by hand so that I know where I put things [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Oh, and you should try Gentoo - that's one \"package management\" system that is a delight to use.  It automatically downloads all the necessary source files (GTK+ 1 or whatever you might need) and compiles them, optimised for the CPU in your particular machine.  No generic binaries that are compatible down to a 386, thanks...<br /><br />So what do you think of Eclipse then SM?  I've been using CDT for a few years and so far it combined with Eclipse is the best IDE I've found for Linux, if it is a little slow.<br /><br />And fair enough not using Firefox if you don't have a 'net connection.  I'd still have it around for offline web development though.  Combined with Apache and the PHP plugin for Eclipse, it's great for offline testing of PHP websites!"
+	},
+	{
+		"id": 19084,
+		"title": "Hell No",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-03-29T01:42:23.000Z",
+		"content": "Vistafication is definitely not in my plans. It's far too bulky and is compatible so far with less than XP. Hell, I'm only running XP instead of 98 for the sake of a few main features and hardware compatiblity.<br /><br />I spent nearly two years on and off, up until a couple of months ago, trying to get Linux setup as my primary OS, but I happen to play a lot of games, a lot of programs I use in Windows wouldn't work well enough under Wine, and alternative office software like OO.o and Scribus are lacking in only a few, but important, key features that MS junk is capable of (like a decent colour palette). I decided it was more suitable to just have everything <i>just work</i> when I want it to.<br /><br />Gentoo is to be my next experiment, once I have a decent secondary machine setup."
+	},
+	{
+		"id": 19085,
+		"title": "oh common.",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-03-29T04:28:32.000Z",
+		"content": "Saying Microsoft copied OS X is just a bunch of crap. Apple screwed Xerox, microsoft screwed apple, apple took launch bar from OS/2 warp. The list goes on people. Dont give me the windows is the most evil of the two, when they both have done their share of ripping off the market.<br /><br />With technology advancing so much these days, what design is left to implement? These are generic ideas that should be applied to ALL  end user operating systems. The patenting and name calling just stalls any technological advancement. <br /><br />Windows, mac, linux haters, it's time to get your head out of the box and realize there is more to operating system then fanboying it.<br /><br />Im really glad there are some users here that see an operating system as a tool, and not as a status symbol.<br /><br />and for the record, im an intensive os x and gentoo linux user. Someone had to defend microsoft here, so i guess i might as well."
+	},
+	{
+		"id": 19086,
+		"title": "Re: oh common.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-29T07:19:00.000Z",
+		"content": "Only bashing I saw is towards the visual themes... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Spleen: do you dualboot? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19087,
+		"title": "Re: oh common.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-03-29T07:44:41.000Z",
+		"content": "Nope. I find dual-booting annoying and inefficient."
+	},
+	{
+		"id": 19088,
+		"title": "Re: oh common.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-29T09:34:34.000Z",
+		"content": "Well said, Blue. (And I defended it a bit, too! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ) Anyways, the idea of someone seeing OS as a status symbol is interesting -- I've never even thought of that. But I guess it's possible, yet not that common _yet_.<br /><br />Edit: Anyone want to start a new company, LuxuryOS? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  We'd sell status symbol operating systems for big money for those who want to show that their OS is stylish and cost a pretty penny.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19089,
+		"title": "Re: oh common.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-29T11:22:43.000Z",
+		"content": "What do you think of Knoppix?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19090,
+		"title": "Re: oh common.",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-29T14:14:53.000Z",
+		"content": "Since I think someone mentioned Windows Vista graphics etc. at some point, I might as well go on record as saying I don't think I've seen Windows Vista, but in general I don't see the need for fancy graphics in an operating system. It seems like it would just use up processor resources needlessly.<br /><br />I don't know if Vista has fancy graphics, I'm just saying this in general.------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19091,
+		"title": "Re: oh common.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-29T14:46:56.000Z",
+		"content": "Vista has fancy graphics as XP's ones if you have a low-resource machine.<br /><br />If you install it on a high-resource machine, they are even fancier and three-dimensional (holy crap!).<br /><br />Yes, Eclipse rocks. Thanks to whoever decided that we should learn Java using the Eclipse IDE. I now can program in C/C++ and Java using the same tool. It is possibly slow because it compiles a source file as soon as you save it on disk, and then links it immediately with other compiled object files.<br /><br />I'm obviously going to use a better distro if I get a connection at home where I can run commands that automatically download a source package, compile it, and install it. Oh, and forgot to say, I like to compile kernels myself. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  But I don't do that unless I'm very bored and I decide to speed up the whole thing. Binary kernels from RPMs are usually slower than manually compiled ones because they use generic optimizations for, say, Intel 386, instead of using specific optimizations for your own machine.<br /><br />Ah, and I like Knoppix as a rescue system, not more.<br /><br />Back on topic, there was here in Chile, a month ago, a TV telephonic contest where you could win a special edition Windows Vista (DVD??) with Gates' autograph. Isn't that weird? Anyways, I suppose Europeans don't have to see such publicity because they live in Europe, not in Microsoft's domain (America).<br /><br />I also read some years ago that Linux is more used in Europe than in America.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19092,
+		"title": "Re: oh common.",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-29T14:51:51.000Z",
+		"content": "3D graphics in an operating system? Now that's just completely pointless. Unless you can move around the OS in 3D somehow. But it sounds kind of dumb. Wouldn't rendering them constantly eat up CPU resources?------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19093,
+		"title": "Re: oh common.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-29T14:59:15.000Z",
+		"content": "Tell that to Microsoft.<br /><br />The 3D interface is called \"Aero\", btw.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19094,
+		"title": "Re: oh common.",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-29T15:06:35.000Z",
+		"content": "I might tell it to Microsoft if I thought they'd give a crap. I can complain all I want but it isn't going to get rid of the extraneous fancy graphics. I guess all I can do is just not buy Vista. Which I wasn't planning to do anyway, so... I guess I'll just either complain some more or shut up.<br /><br />Although I suppose if I'm so bothered about fancy graphics in operating systems I should just use DOS...------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19095,
+		"title": "Re: oh common.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-29T15:12:01.000Z",
+		"content": "That's why I use KDE (for Linux). It is elegant, but not annoying, and you can disable some visual effects if you want. You can use any visual style (and you can write new ones too if you can program with KDE and C++). The Crystal SVG icon set is the best, and you can customize the colors of any visual style (something that you can't do in WinXP unless you use the Win2000-ish visual style).<br /><br />And the best, you can use full-screen text terminals if you want to relax for a while and forget about windows and graphics.<br /><br />GNOME is also OK, but it's UI layout is too Mac-ish.<br /><br />Definitively, Windows is for children.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19096,
+		"title": "Re: oh common.",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-29T15:16:23.000Z",
+		"content": "I'd like to try using some sort of Linux, but I'm not sure how to go about partitioning the hard drive and all that. Although I'm sure it tells you somewhere. Maybe I'm just too lazy. Probably the only reason I got Windows XP is that the computer came with it, although there are some programs that don't work with other operating systems...------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 19097,
+		"title": "Re: oh common.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-29T21:22:52.000Z",
+		"content": "Actually I think \"3D\" graphics in a GUI is an excellent idea.  Most people have a 3D accelerated video card, which sits idle for the most part unless they're playing games.  When windows are drawn on the screen the application has to keep rendering its window content as its windows are moved around and uncovered.<br /><br />It makes a lot of sense to use that idle 3D processor, and instead of drawing a big flat 2D image over the whole screen, draw each window into a texture, and then layer each texture using the 3D engine to give the appearance of overlapping windows.  This would speed up rendering, and make things *very* smooth when moving windows around.<br /><br />Of course as soon as this idea surfaces someones goes \"hey, if the windows are 3D textures we could do cool things like fading windows on and off the screen with hardly any performance hit\" and the eyecandy GUI is born [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 19098,
+		"title": "Re: oh common.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-03-29T22:38:24.000Z",
+		"content": "Don't forget effects like [url=http://en.wikipedia.org/wiki/Expos%C3%A9_%28Mac_OS_X%29]Expos[/url]. That's one is actually useful. And also you can pop up window previews when you mouse over your taskbar, fade background windows when alt+tabbing, and basically anything you can imagine. All with very low CPU usage. Speaking from experience, 3d acceleration in UIs is the best thing to happen since SVGA (on the desktop -- hardware acceleration itself was pretty significant). It doesn't suck up the CPU nearly as much as you might imagine, since the CPU doesn't have to render it.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19099,
+		"title": "un common",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-03-30T00:18:29.000Z",
+		"content": "[hr]<b>Shadow Master</b> Definitively, Windows is for children.<br />[hr]Oh, hell no. I wouldn't curse my kids with that sort of handicap. I'm glad I grew up in DOS (and regret that I didn't have the opportunity to learn a programming language other than BASIC at the time).<br /><br />[hr]<b>Shadow Master</b> I'm obviously going to use a better distro if I get a connection at home where I can run commands that automatically download a source package, compile it, and install it<br />[hr]Heh, that's one of the major things that would keep me from recommending Linux to others even if I could use it for my primary OS--ADSL is still somewhat rare in this area, so having to download things, even just updating a virus scanner in Windows, can take forever. I'm yet to come across a distro that really doesn't need a lot of downloading.<br /><br />But then, I really couldn't get by without ADSL at all any more. It's so useful and fun.<br /><br />[hr]<b>Shadow Master</b> And the best, you can use full-screen text terminals if you want to relax for a while and forget about windows and graphics.<br />[hr]Indeed. Gotta love the terminal...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-love.gif[/img]  Everything else feels like a toy after using Linux in text mode."
+	},
+	{
+		"id": 19100,
+		"title": "Re: un common",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-30T07:02:20.000Z",
+		"content": "Well Slackware doesn't need an Internet connection, and if you do a full install you get pretty much everything you need.  I believe Gentoo can also \"download\" its files off the CD too, if you don't mind them being a bit out of date.<br /><br />And yes, Linux is great in text mode - the best thing about graphics mode is that you can fit more text on the screen [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Mind you, with MPlayer and an nVidia video card, you can even watch videos in text mode (and no, not in 'ascii art' mode, full colour full graphic video!  But you'll probably only appreciate that if you're familiar with the limitations of text mode...)"
+	},
+	{
+		"id": 19101,
+		"title": "Re: un common",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-30T17:13:43.000Z",
+		"content": "Well, I once setup a computer with an Intel 810 integrated graphics device to enable colour framebuffer consoles using the i810fb module (well, integrated into the kernel because the dumb thing didn't want to load with modprobe). I even got it to watch videos in framebuffer consoles using Mplayer. Too bad I had to use the vgafb X11 driver to run X, because the Intel 810 driver for X conflicted with the framebuffer driver causing screen corruption.<br /><br />Oh, btw, I grew up with MS-DOS and Win3.11, and Windows 95. After many years, I got a new computer with WinXP and it was a pain in the *** to make old apps work there, etc., etc., etc.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19102,
+		"title": "Re: un common",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-03-30T23:53:04.000Z",
+		"content": "Well with nVidia cards MPlayer can activate the video overlay in normal 80x25 text mode (i.e. without a framebuffer console), so for example the black background colour behind the text becomes the video.  The only problem is that it's a pain to hide the text-mode cursor, because you don't want that blinking away while you're watching a movie...that and text mode is only 720x480 which isn't so great.<br /><br />And yes, the nVidia driver doesn't seem too compatible with the framebuffer console either, but it's no big deal - you either use X11 or the framebuffer, there isn't any real reason to use both."
+	},
+	{
+		"id": 19103,
+		"title": "Re: un common",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-04T12:23:27.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]3D graphics in an operating system? Now that's just completely pointless. Unless you can move around the OS in 3D somehow. But it sounds kind of dumb. Wouldn't rendering them constantly eat up CPU resources?[hr][/quote]<br /><br />Naa. There's the XGL rendering thingee to make desktops 3D in Linux, and damn it works fast, as well as it doesn't eat a whole lot of resources because everything's handled by the video card. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Windows was ok to work with. They messed up after introducing Vista though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19104,
+		"title": "Re: un common",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-04-05T02:17:00.000Z",
+		"content": "With each new release Windows becomes nicer with graphics, and much worse with performance. <br /><br />This seems to be the mantra for most commercial software.<br /><br />---Freeyorp"
+	},
+	{
+		"id": 19105,
+		"title": "Re: un common",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-05T06:19:46.000Z",
+		"content": "Looks matter; models are anorexic and so are software.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19106,
+		"title": "Re: un common",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-05T06:21:35.000Z",
+		"content": "Vista could be called many things, but I'm fairly sure \"anorexic\" isn't one of them [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 19107,
+		"title": "Re: un common",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-04-05T08:34:09.000Z",
+		"content": "Agree, it doesn't fit with current feature-packed software or heavy OSes. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Anyways, if Vista didn't have such outfit people'd complain it's too old-fashioned, \"look at Mac, why doesn't Windows look new?! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] \"..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19108,
+		"title": "Re: un common",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-05T11:10:38.000Z",
+		"content": "[pre] Looks matter; models are anorexic and so are software.[/pre]<br />Nah, Windows is actually enormously fat, but just LOOKS anorexic. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19109,
+		"title": "Re: un common",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-06T07:06:55.000Z",
+		"content": "Yest models cost a large amount of money to upkeep, the have bazillions of optional extras, especially when their salaries start to increas, yet behind all that pomp and frills is a thin, weak and dying figure, very much like Vista I would say.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19110,
+		"title": "Time for a new subject heading.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-04-06T08:07:18.000Z",
+		"content": "You know... I think you're onto something with this analogy. I'm just not sure what.<br /><br />I'd say Windows is more bulemic than anorexic."
+	},
+	{
+		"id": 19111,
+		"title": "Re: Time for a new subject heading.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-04-06T08:58:15.000Z",
+		"content": "Well, everything dies, but I think Microsoft Corporation has many years left, perhaps decades.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19112,
+		"title": "Re: Time for a new subject heading.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-07T03:31:27.000Z",
+		"content": "Bulimic... yes.... better I think.<br /><br />Microsoft survived through sheer luck; it never made anything better than its rivals, its rivals made terrible mistakes and died. All it will take is one little stumble to make the gatred giant fall.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19113,
+		"title": "Re: Time for a new subject heading.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-08T14:47:48.000Z",
+		"content": "Whilst I think that's a somewhat short-sighted assessment of Microsoft's success, I definitely agree that it would have failed had it relied solely on the quality of its products to survive. The main reason that there's a copy of Windows on at least 90% of computers around the world is due to the highly agressive business tactics Microsoft used to stop their competitors from being able to compete. The mistake that most of Microsoft's dead rivals made was trying to out-compete Microsoft and failing badly. As for the stumble - IBM was in a similar position to Microsoft today, and even though it's no longer a giant it is still a very successful company. Microsoft isn't just going to go away.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 19114,
+		"title": "Re: Time for a new subject heading.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-09T13:31:39.000Z",
+		"content": "Are you mad? Have you seen what Microsoft's competitors did? Taking three years out to rewrite a word processing program? Sheer insanity! Releasing two nearly identical products at once? Madness! Negative gearing/ Surely they didn't, but they did!<br /><br />Microsoft got where it is by sheer luck; they had to be bullied into making DOS, almost ruined themselves with their 'two horses, both thouroughbreds' campaign, and then there's that antitrust lawsuit. Microsoft may have had some smart points, but usually their competitors have been resoundingly stupid, usually because they took 1980s rules and assumed that they'd hold in the 1990s.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19121,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1486271,
+		"author_name": "RoboRed",
+		"timestamp": "2007-04-12T03:14:24.000Z",
+		"content": "I got and installed Windows Vista Ultimate. I haven't really had any major problems with it. Here's my pros and cons for it.<br /><br />Pros:<br />*Nice looking<br />*easy to search for stuff and organize stuff<br />*definitely more secure (I used it to get rid of a nasty virus *on one of my XP hard drives)<br />*Keeps itself up to date<br /><br />Cons:<br />*resouce-hungry: I have a Athlon 64 2.0Ghz CPU, an NVidia 7300 GS 256MB graphics card, and 1.5 Gigs of RAM, and still it uses a fairly good-sized chunk of the stuff. As for those fancy graphics, yeah...they do eat a bit, but you can tone it down by turning off the transparency, turning off Aero in general, or change it to look like classic windows.<br />*if you're a gamer, it doesn't run certain games, and if it does, they may be a little laggy (then again, this points to resource-hungry, and I could have a better graphics card or more memory...). However, it runs DOSbox perfectly fine. I play Wolfenstein 3D, Scorched Earth, and Bio Menace on it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img]     <br />*will take a little getting used to, oh, and the occasional \"requset for this process to continue\" popup is minorly annoying. (I know it's very important though, so I guess it doesn't really bug me as much as it does other people)<br />*iTunes and Vista do not seem to get along very well...<br />*as part of the security features, it locks out a bunch of places if you with to transfer or edit stuff in an XP account through Vista...pretty annoying...<br /><br />So yeah. In the grand scheme of things, I think it's worth it. But there's no pressing need to upgrade if you don't want to. Some people don't want to get it until the first Service pack comes out.<br /><br />If you use a form of Linux, and you WANT the Aero graphics, there's this handy thing called \"[url=http://www.beryl-project.org/]Beryl[/url]\". It's kind of like Windowblinds/StyleXP, but it also changes the ways you can search through stuff, and how the windows act. There are many Beryl themes, but there's one that looks like Windows Vista's Aero. I use it for another one of my hard drives which has SuSe Linux installed.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img]  <br />[url=http://www.youtube.com/watch?v=xC5uEe5OzNQ]Comparison vid of Aero and Beryl on YouTube[/url]<br /><br />So yeah, there's my two cents. On another note, I think I gave more hands-on info about Vista in one post then the lot of you did while bantering about OS comparisons between Windows, Macintosh, and Linux...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  I thought the original purpose of this topic was questioning about who's gettinging/got Vista and how it works..."
+	},
+	{
+		"id": 19122,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-04-12T13:27:53.000Z",
+		"content": "Oh, another thing that I thought looked pretty cool... If you aren't an admin, you don't have to log out and log in again to do admin stuff. You just need to enter the admin's password when the window comes up.<br />That always bugged me in XP, not being able to install things without logging out, but I guess it doesn't matter anymore, anyway, since I'm an admin on this computer...<br /><br />[quote]<b><i>Quote:</i></b>[hr]*iTunes and Vista do not seem to get along very well...[hr][/quote]<br /><br />Ha ha... I knew it. They're really THAT upset that the Zune isn't as popular as the iPod? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19123,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-12T17:26:24.000Z",
+		"content": "I'm not a gamer, fortunately. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />*Nice looking = Aero<br />*easy to search for stuff and organize stuff = wow!<br />*definitely more secure (I used it to get rid of a nasty virus *on one of my XP hard drives) = When the author of the virus learns about Vista's internals...<br />*Keeps itself up to date\" = Possible since Windows 2000 (am I right?) with Windows Update. I wonder what's the difference.<br /><br />So it can run DOSBox... hmmm... perhaps I could try it. I'm planning to get a new laptop, probably a cheap one with Windows Vista basic. It'll end with Mandriva 2007 installed in the same hard disk two months later anyway [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  But I think that if you can run DOSBox, you should be able to run most other free software.<br /><br />The possibility of having Aero-like graphics on Linux is so tempting... but I don't think it'll work on my system. While the *integrated* (cough) graphics device supports DRI/3D rendering under WinXP with the propietary VIA driver, the OpenChrome driver it's using on Linux doesn't have DRI/3D support (at least not yet)------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19124,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-13T15:09:34.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Oh, another thing that I thought looked pretty cool... If you aren't an admin, you don't have to log out and log in again to do admin stuff. You just need to enter the admin's password when the window comes up.[hr][/quote]<br />...Ahahahah only now? That's been in Linux for ages!<br /><br />Not trying to start an OS war, but... That's just hilarious, really. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19125,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-13T17:00:10.000Z",
+		"content": "What's the most popular OS in Europe, btw?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19126,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-13T20:55:54.000Z",
+		"content": "Very much Windows, as with the rest of the world [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  (pretty much the same in every country I've been to, although the less affluent countries tend to run older versions)"
+	},
+	{
+		"id": 19127,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-14T00:04:40.000Z",
+		"content": "Unless you look at servers though, when Windows is pretty much even with UNIX/Linux - which leads to [url=http://www.microsoft.com/getthefacts]funny marketing campaigns[/url], proving that Microsoft really is worried about Linux."
+	},
+	{
+		"id": 19128,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2007-04-14T03:24:44.000Z",
+		"content": "As a high-end gamer (I'm really not happy with that description of myself, but I can't be bothered to think of a better one) I pretty much have to get Vista.<br />I've had my current computer since 2002, and since I not many new games came out that made me feel like upgrading, I never did, but with some cool things on the horizon I'll have to soon enough.<br />New games will often be using DX10, which requires Vista.<br />A new computer will mean a fast computer which, I really hope, will run Vista without too much effort, even if it uses more resources.<br />Since I'll have to buy a new Windows license anyway, Vista plainly makes more sense than XP, for me anyway.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Most people have a 3D accelerated video card, which sits idle for the most part unless they're playing games.[hr][/quote]<br /><br />On one hand I agree, but on the other hand I also actually wish computers wouldn't use as much energy unless actually necessary.<br />If you have a cool new system with SLI graphics cards in it I understand you'll be draining a lot of energy.<br />Maybe things will run slower (cheaper) when not needed, but I haven't heard much about stuff like that.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 19129,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-14T06:31:42.000Z",
+		"content": "I wonder if DXBox will be released to allw windows users to play new games?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19130,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-14T11:17:00.000Z",
+		"content": "You can bet someone will figure out how to get DX10 installed under XP.  Knowing Microsoft, it'll be something lame like commenting out a line in an .inf file that says \"LonghornOnly=yes\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img]"
+	},
+	{
+		"id": 19131,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1486271,
+		"author_name": "RoboRed",
+		"timestamp": "2007-04-14T21:50:00.000Z",
+		"content": "I beileve I read somewhere that Microsoft is planning to release a small update for DX9 for XP users that'll make it work somewhere in-between the power of DX9c and DX10...I don't know though...I just think I read...<br /><br />Okay..I think I should have been clearer about the update part...updates include the usual stuff, as well as database updates for Windows Defender anti-malware, and there's also \"Ultimate Extras\" (for those who have Vista Ultimate). The update system is also changed. You have more regulation over when you want Vista to check for updates. But also, you don't need to go to an online webpage to learn more about the updates. There's a button you can click right there to view all available updates, it lists them as \"optional\", \"recommended\", and \"important\", and there's another button you can click to view a history of the updates you've downloaded.<br /><br />I just realized, I forgot to list the Windows Sidebar under the \"pros\" list. This thing is VERY helpful. It contains a useful assortment of gadgets at the start, but you can download even more online, and they tell you how you can make your own, too. There's stuff like searchbars...calanders...a currentcy converter...a calculator...a set of Outlook gadgets that lists your schedule, appointments, contacts and other stuff...a meter that shows how much % of CPU and RAM is currently being used...a weather tool...a shortcut bar...and also fun stuff like google translator, youtube search, eBay search, and little games like sudoku and pong.<br /><br />For those of you Mac users: yeah yeah...I know they kind of ripped sidebar and gadgets off of OSX's dashboard and widgets...But unlike dashboard, this can be running and you can click on whatever you were last using at the same time!"
+	},
+	{
+		"id": 19132,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-16T17:04:00.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I just realized, I forgot to list the Windows Sidebar under the \"pros\" list. This thing is VERY helpful. It contains a useful assortment of gadgets at the start, but you can download even more online, and they tell you how you can make your own, too. There's stuff like searchbars...calanders...a currentcy converter...a calculator...a set of Outlook gadgets that lists your schedule, appointments, contacts and other stuff...a meter that shows how much % of CPU and RAM is currently being used...a weather tool...a shortcut bar...and also fun stuff like google translator, youtube search, eBay search, and little games like sudoku and pong.[hr][/quote]<br /><br />Pay attention, Linux and other UNIXes users here. If you have KDE, you can do the same with Superkaramba. If you have GNOME, use gDesklets.<br /><br />And for shadows and such, get a powerful machine.<br /><br />[url=http://img57.imageshack.us/my.php?image=screenshot7be9.png][img]http://=http://img57.imageshack.us/img57/7492/screenshot7be9.th[/img]<br /><br />And tweak some settings.<br />------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19133,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-17T11:33:14.000Z",
+		"content": "Poor, poor Microsoft; they race and race, but all they're doing is covering Linux's track.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 19134,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-17T16:53:59.000Z",
+		"content": "Mmm... did you know that you don't need third-party software to change your icon theme, visual style (including colors and such) with KDE or GNOME? :P<br /><br />If you click in the link I provided above, you'll see a screenshot of my desktop. Tidy, clean but beautiful enough.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19135,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-17T22:35:24.000Z",
+		"content": "Don't you find Konqueror slow though?  I find it fiddly enough that I just stick to the command line.  And speaking of which, I also don't like that \"pseudo transparency\" that Konsole and other terminals use - I think it looks silly when you can see right through the window to the desktop, even though there are other windows that should be blocking the view (like the Konqueror window in your screenshot.)<br /><br />I found rxvt much faster than Konsole anyway, and since I regularly access about five different PCs I can set a custom backdrop for each PC's terminal window, which has stopped me from accidentally doing stuff on one PC thinking it was another one [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />That, combined with the indispensable command line utility \"screen\", is enough to keep me happy [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 19136,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-18T17:09:49.000Z",
+		"content": "I don't use Screen. I use Midnight Commander.<br /><br />And I only use Konqueror to keep my Music folder open so that I can double click a music file and immediately play it in XMMS (yeah, I finally installed it).<br /><br />Adplug-XMMS plugin is rather slow in reactiveness terms. It sometimes doesn't change the playing file until the current one reaches the end, and note that this doesn't happen with Ogg, mp3 or modules.<br /><br />For the rest of file management, I use the terminal (I keep at least one terminal open 96% of the time).<br /><br />Anyways, Konqueror isn't thatslow on my system (at least in comparison to Windows explorer... 4 seconds to open a folder containing 1 file...)------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19137,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-18T22:32:58.000Z",
+		"content": "You can use Midnight Commander *and* Screen - I always have Screen running as it's much nicer than having multiple terminals open to the same PC (especially over the network - pressing Ctrl+A,C is much easier than opening yet another terminal window and SSH'ing across.)  Because I use them so much I have one desktop dedicated to all the terminal windows - when they're running full screen with no window decorations it looks quite nice.<br /><br />That's an odd AdPlug problem though, I've never noticed it do that for me...although maybe now that you mention it I've seen it happen for some really short files.  I don't know, most of my Adlib music is in IMF and I've got my own plugin for that (the one that does the nice stereo effect - and which only seems to have one bug needing fixing before I can release it.)"
+	},
+	{
+		"id": 19138,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-19T14:09:12.000Z",
+		"content": "I can't wait for that plugin!<br /><br />EDIT: could you lend me it anyways? I won't upload it anywhere, I promise------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19139,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-19T22:21:00.000Z",
+		"content": "Sure, drop me an e-mail/let me know your address and I'll send it over.  I'm not sure yet whether it will work (I can't remember how to compile a \"static library\") so it might take a few goes to get it working - but it would be helpful for me to know what's required for it to work once I do get around to releasing it.<br /><br />The only problem left is that the algorithm that transposes the notes doesn't work properly 100% of the time, so now and again you get a really weird sounding note out of one speaker.  That and it's not optimised so it needs quite a bit of CPU power..."
+	},
+	{
+		"id": 19140,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-20T16:57:29.000Z",
+		"content": "No problem. shadowm2006 xATx gmail xDOTx com<br />------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19141,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-04-20T18:48:18.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You can use Midnight Commander *and* Screen - I always have Screen running as it's much nicer than having multiple terminals open to the same PC (especially over the network - pressing Ctrl+A,C is much easier than opening yet another terminal window and SSH'ing across.)[hr][/quote]<br />Yikes, how can you use ^A as your prefix? I was always switching windows when I wanted to go to the beginning of the line. ^] for me (plus the oh-so-easy-to-type ^] ^[ puts me in copy mode so I can scroll back).________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19142,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-20T23:48:55.000Z",
+		"content": "Nah, I grew up on DOS with QuickBASIC, so I got used to using the Home key for going to the start of the line (which is why I still instinctively use Shift+Ins instead of Ctrl+V for paste.)  ^A,[ isn't isn't that difficult for me to get into copy/scrollback mode (but yes, that's another good thing Screen has going for it.)<br /><br />SM: I'll see if I can figure out how to compile the plugin so it doesn't need too many custom libraries and then send it over to you."
+	},
+	{
+		"id": 19143,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-04-21T23:38:10.000Z",
+		"content": "I guess I've been using Emacs too much. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] ________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19144,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-23T17:18:38.000Z",
+		"content": "Are you talking of the scary GNU Emacs that starred in an adult-only-rated movie about the end of world?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19145,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-04-24T01:28:47.000Z",
+		"content": "I'm not using some sissy XEmacs; that's for sure!________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 19146,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-24T20:18:08.000Z",
+		"content": "Wow, there are a lot of people in this college who have bought Vista. I wonder *why* they are so freaking obseesssed with Windows updates. I've been using WinXP SP2 for years and I'll continue using... Mandriva Linux 2007 for years.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19147,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-24T20:36:37.000Z",
+		"content": "No you won't. Updates are always just around the corner with Linux.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19148,
+		"title": "Re: Anyone bought/plans to buy Windows Vista?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-24T22:38:48.000Z",
+		"content": "I was just kidding. :P I know that, I already have the experience.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19149,
+		"title": "Insight.",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-04-25T20:17:52.000Z",
+		"content": "<i>\"The last STABLE version was 2000, thats when aliens didn't own Windows\"</i><br /><br />                             - <i>Anonymous</i>"
+	},
+	{
+		"id": 19150,
+		"title": "Re: Insight.",
+		"author_id": 1486620,
+		"author_name": "pacdan729",
+		"timestamp": "2007-05-13T21:03:58.000Z",
+		"content": "I agree, I still use Windows 2000 and don't have any problems with it, other than that it doesn't support Photoshop CS3[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] . I'm going to need a laptop for college though so I expect to probably get one with Vista Ultimate and then set it up to dualboot something else, maybe 2000 or XP, or even Linux. I used to have my current computer dualboot Windows 98 and Red Hat but I eventually got rid of Red Hat to save space, as I only had a 30GB drive at the time.---------<br />www.eternalwanderer.com"
+	},
+	{
+		"id": 19151,
+		"title": "Re: Insight.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-14T17:45:55.000Z",
+		"content": "I guess I'll have to get a laptop for college too. Probably one with Vista Basic (this is Chile, right?), but I'll install Ubuntu Linux (because I kinda like Ubuntu in laptops) in it anyway.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 19115,
+		"title": "Windows? Linux?",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2007-05-31T17:44:00.000Z",
+		"content": "I just installed FreeDOS on my PC... who needs more?"
+	},
+	{
+		"id": 19116,
+		"title": "Re: Windows? Linux?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-06-01T09:27:09.000Z",
+		"content": "Does it run Keen perfectly? (Probably it does.)3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 19117,
+		"title": "Re: Windows? Linux?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-01T17:12:26.000Z",
+		"content": "It does inside DOSEmu, at least. (DOSEmu != DOSBox) translation: \"DOSEmu isn't DOSBox\"------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 19118,
+		"title": "Re: Windows? Linux?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-01T17:13:35.000Z",
+		"content": "It does in DOSEmu (dosemu isn't DOSBox) at least, but I've had lots of problems trying to setup SB/Adlib sound in there. No sound yet for me.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 19119,
+		"title": "PiXAL",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-02T01:55:09.000Z",
+		"content": "On that topic, has anyone managed to get Keen running under DOSemu with smooth scrolling? Or even QEMU or similar under Windows, for that matter? Every time I've tried Keen on a VM, the (only horizontal, IIRK) pixel-based scrolling doesn't work and the screen jolts along by one tile every 16 pixels instead."
+	},
+	{
+		"id": 19120,
+		"title": "Re: PiXAL",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-04T14:21:23.000Z",
+		"content": "That happens to me even if I run Keen \"natively\" in Windows XP without DOSBox. It's my monitor's fault, in my case.<br /><br />I would not recommend anyone to run DOS games in QEMU, they use too much virtual CPU time and cause horrible lags in the emulator.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	}
+]

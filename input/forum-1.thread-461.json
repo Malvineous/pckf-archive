@@ -1,0 +1,122 @@
+[
+	{
+		"id": 118,
+		"title": "Keen 5 Help Screen Music",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-02-13T05:53:42.000Z",
+		"content": "Anyone have an accurate midi for the Keen 5 help screen music?  (because i'm pretty sure my winamp's rendition of the imf distorted it more than a little bit)  I'm not sure how many others liked it, but it turned out to be one of my favorite songs, and I've been searching for it for a few painstaking hours now, to no avail, hehe [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 3316,
+		"title": "Re: Keen 5 Help Screen Music",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-02-13T12:45:35.000Z",
+		"content": "I'm not sure if anyone's produced a MIDI of the Keen 5 Help menu music from scratch. I looked in all the usual places for the MIDI you're after but came up with nothing.<br /><br />I vaguely recall someone converting all the Keen IMFs to MIDI years ago, but the collection doesn't seem to be at Dosclassics or CC314 - Although it's possible that I'm just imagining the whole thing.<br /><br />If all else fails, you could convert the IMF to MIDI yourself and have a go at cleaning it up from there...--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 3317,
+		"title": "Grrrm...",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-02-13T13:34:06.000Z",
+		"content": "Isn't there a way to play a Keen IMF at the correct tempo using a specialised program rather than a Winamp plugin?<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3318,
+		"title": "Re: Grrrm...",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-02-13T16:37:56.000Z",
+		"content": "I (or rather, my parents) got it on tape in the old days and playing the Help Screen and recording it on the external player (which also doubled as a cd/tape player/recorder).  I think it's also possible to use an internal recorder (or something that records the sound you send to you speakers), like TotalRecorder, to grab it.  I would do that myself, but the sound doesn't work for Commander Keen, for some reason.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 3319,
+		"title": "or",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-14T01:34:45.000Z",
+		"content": "If anyone has the ol' MIDI rip .zip file out there, I'll see if I can patch the thing up to sound a little better... I tweaked a few tunes a couple years ago, and most people enjoyed those."
+	},
+	{
+		"id": 3320,
+		"title": "AdPlug 1.6",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-02-14T22:04:41.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Isn't there a way to play a Keen IMF at the correct tempo using a specialised program rather than a Winamp plugin?[hr][/quote]You can try version 1.6 of AdPlug (when it's released, or the CVS version in the meantime) as the author has included some patches of mine that cause AdPlug to play music at the correct speed - or rather, if the filename ends in \".imf\" if plays it slower, and if it ends with \".wlf\" it plays faster.  So if the files play at the wrong speed you can just rename them to get them to play at the correct tempo.<br /><br />Also, if you want to actually record the sound, DOSBox has a built in IMF-style OPL grabber (which creates .dro files, similar in function to .imf) as well as a .wav grabber, so if you run Keen through that you can capture the music to a .wav file."
+	},
+	{
+		"id": 3321,
+		"title": "Re: AdPlug 1.6",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-02-19T06:53:23.000Z",
+		"content": "The [url=http://www.angelfire.com/musicals/slightlyoddguy/ckmusicpack.zip]Keen music pack[/url] I put together a while back has it, Xky (along with pretty much everything else). Knock yourself out."
+	},
+	{
+		"id": 3322,
+		"title": "Re: AdPlug 1.6",
+		"author_id": 1486271,
+		"author_name": "RoboRed",
+		"timestamp": "2006-02-19T23:33:09.000Z",
+		"content": "When I click on the link, it takes me to a page saying that Angelfire does not support direct linking.<br /><br />BTW, does the music pack contain the song from the Keen 4 level: The Perilous Pit?[img]http://img.photobucket.com/albums/v426/RoboRed/RoboredSig2.jpg[/img]"
+	},
+	{
+		"id": 3323,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-20T01:22:35.000Z",
+		"content": "RoboRed, Angelfire doesn't like \"direct linking,\" when another site links directly to the file... but it doesn't seem to mind users manually typing in the URL to the file.  So cut-copy-and-paste the URL into your address bar, and press Enter... should work.  :-)  And yes, the Perilous Pit's music is in there--it's the same music as \"Slug Village.\"<br /><br />Anyway, here's a cleaner MIDI of the K5 Help theme:<br />http://www.angelfire.com/falcon/xkyrauh/XkyK5Help.zip<br />Remember to cut-paste."
+	},
+	{
+		"id": 3324,
+		"title": "Re: ...",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-02-20T03:14:03.000Z",
+		"content": "You music freaks rock. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   Thank you.<br /><br />And Xky always has a unique style to him [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] <br /><br />Once, a few weeks ago, I recalled how I liked this song so much, and hummed the tune I that I remember to someone.  After a while of searching for and listening to it, though, I wondered if my memory had gone insane - it was nothing <i>at all</i> like the tune I'd hummed.  Eventually, I managed to find some different versions of it of various quality, and found many of them vaguely resembled, never completely, what I remembered.  Some had the same tune but different tone, others the same tone but way different tune.<br /><br />I think Scizor's and Xky's are probably the closest to what I remember, though it's hard to be certain.  The exact tone of it (at least at the beginning) sounded closer to Sci's when played on my old computer, but Xky's is one of the few whose last third has the same [in his case, the whistling] tune I remember (I swear, that's where I went completely insane with most of the midis, because the third seriously resembled Nothing that I knew).<br /><br />I do really like the way Xky's sounds like one of those small pianos is playing chords to it, though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 3325,
+		"title": "Re: ...",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-02-22T03:25:32.000Z",
+		"content": "Bleh. First it was hotlinking pictures, and now you can't even hotlink files? I need to find a new host.<br /><br />http://www.angelfire.com/musicals/slightlyoddguy/ckmusicpack.zip<br /><br />Anyway, your midis continue to rock, Xky. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 3326,
+		"title": "Damn hyper Winamp.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-02-22T08:46:20.000Z",
+		"content": "[hr]<b>Malvineous</b> You can try version 1.6 of AdPlug (when it's released, or the CVS version in the meantime) as the author has included some patches of mine that cause AdPlug to play music at the correct speed[hr]I just downloaded AdPlug 1.6, and it still seems to be playing them too fast. Have the patches been implemented yet?<br /><br /><b>EDIT</b><br />Woooaah![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  But pure LDS from Tyrian works beautifully![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3327,
+		"title": "Re: Damn hyper Winamp.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-02-23T21:54:47.000Z",
+		"content": "<i>I just downloaded AdPlug 1.6, and it still seems to be playing them too fast. Have the patches been implemented yet?</i><br /><br />They have, but they're implemented in the core library (which is still v1.5.1) - until v1.6 of this is released (and then probably a new version of the Winamp plugin) you'll have to use CVS (which probably means Linux only support for the time being.)  I'll post a new topic in the Classics forum when v1.6 is released."
+	},
+	{
+		"id": 3328,
+		"title": "Re: Damn hyper Winamp.",
+		"author_id": 1486271,
+		"author_name": "RoboRed",
+		"timestamp": "2006-02-24T02:19:58.000Z",
+		"content": "Thanks for the pack, Scizor! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://img.photobucket.com/albums/v426/RoboRed/RoboredSig2.jpg[/img]"
+	},
+	{
+		"id": 3329,
+		"title": "Re: Grrrm...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-02-24T12:13:05.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Isn't there a way to play a Keen IMF at the correct tempo using a specialised program rather than a Winamp plugin?[hr][/quote]<br /><br />Well, I made a very simple IMF player in MMF... If you are still looking for an IMF player I could send that to you.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	}
+]

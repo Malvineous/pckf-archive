@@ -1,0 +1,34 @@
+[
+	{
+		"id": 97,
+		"title": "Commander Keen version differences?",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-06-13T16:24:45.000Z",
+		"content": "We all know that there are a lot of patches out there to update the different Commander Keen games to more recent versions. But what is the idea, or more exactly, what all do these patches change? I've managed to find close to nothing on this from the web, so I started checking things out on my own.<br /><br /><b>Commander Keen 1 - Marooned on Mars</b><br /><br />Version 1.1<br />- Initial release? (What's up with v1.0?)<br /><br />Version 1.3<br />- Scrolling speed in text fixed<br />- Pressing F8 no longer corrupts the game<br /><br />Version 1.31<br />- Note added about graphics decompression at start-up<br />- Unknown BIOS key note added to startup<br /><br /><b>Commander Keen 2 - Marooned on Mars</b><br />Version 1.0<br />- Initial release<br /><br />Version 1.31<br />- Scrolling speed in text fixed<br />- Unknown BIOS key note added to startup<br />- Pressing F8 no longer corrupts the game<br /><br /><b>Commander Keen 3 - Keen Must Die!</b><br />Version 1.0<br />- Initial release<br /><br />Version 1.31<br />- Scrolling speed in text fixed<br />- Unknown BIOS key note added to startup<br />- Added Copyright by ID Software into title screen<br />- Fixed the secret level (level 10) making access to the school possible without cheats<br />- Fixed the platform in the water (beneath the waterfall) in level 13 so that you can actually get the yellow key.<br />- Pressing F8 no longer corrupts the game<br /><br /><b>Commander Keen 4 - Secret of the Oracle</b><br />Version 1.0<br />- Initial release<br /><br />Version 1.1<br />- Gems now get properly saved<br /><br />Version 1.2 (Is this an official version??)<br />- Textbox background color changed into red (EGA)<br />- Border added into help screen<br />- Additional information added into \"order info\" section<br /><br />Version 1.4<br />- Added \"Fix Jerky Motion\" option to fix jerky motion on certain cards<br />- Better soundcard detection<br />- Added Gamepad support<br /><br /><b>Commander Keen 5 - The Armageddon Machine</b><br />Version 1.0<br />- Initial release<br /><br />Version 1.4<br />- Added \"Fix Jerky Motion\"<br />- No more crashing in the secret level<br />- Better soundcard detection<br /><br /><b>Commander Keen 6 - Aliens ate my Babysitter (is there a space?)</b><br />Version 1.0<br />- Initial release<br /><br />Version 1.4<br />- Changed ending textbox color from grey to red<br />- Added \"Fix Jerky Motion\" option to fix jerky motion on certain cards<br />- Pressing A+2+Enter is now required to enter debug mode<br />- Pressing a key at the intro will bring up the title screen, not the menu<br />(- Better soundcard detection?)<br /><br />Version 1.5<br />- Fixed Molly \"Dancing\" bug<br />- Fixed arrow color bug in ending<br /><br /><b>Commander Keen 3.5 - Keen Dreams</b><br />Version 1.01 Shareware<br />- Initial release<br /><br />Version 1.13 Shareware<br />- Unknown<br /><br />Version 1.92 REV 0 Shareware<br />- Different title screen<br />- The starting is completely different<br />- Doesn't require you to run the game via START.EXE anymore<br /><br />Version 1.93 REV 1 Shareware<br />- Added tips, hints &amp; tecnical support to the start<br /><br />Registered Version (based on version ?.??)<br />- Different start screen (no adverstisements)<br />- Game can be run straight from main executable, no start.exe needed<br />- The graphics, maps ans sounds are stored in standard Commander Keen files<br />- Different title screen<br />- Additional text in help, credits, story and ending<br />- The unused levels have been removed from the files<br /><br />That's my list on the changes. It's kind of poor on all the Keen games except 4-6, but I'll try checking out the other Keen games a bit more. I'm sure someone here knows something about the first keens (1-3) and what's different between the versions!<br /><br />Another question is, do the versions distributed by Goodtimes Software have anything different from the normal versions? I've heard something about somekind of additional gamepad support, but that's in the normal 1.4 as well right?<br /><br />Contributors:<br />Litude<br />Malvineous (How to check KD version)<br />LevelLord00 (Keen Dreams registered version stuff)"
+	},
+	{
+		"id": 2987,
+		"title": "Re: Commander Keen version differences?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-06-13T21:30:47.000Z",
+		"content": "For Keen Dreams, you can run \"kdreams /ver\" to find out the proper version numbers - the ones posted on this forum recently are 1.92rev0 and 1.93rev1.  The shareware version I have didn't work with \"/ver\" but the version (1.01) was listed on one of the pages in the Softdisk help at the start.<br /><br />The only difference I've noticed is that the 1.9x versions have a copyright message at the bottom of the title screen, the 1.01 shareware version I originally had doesn't have this message."
+	},
+	{
+		"id": 2988,
+		"title": "Re: Commander Keen version differences?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-14T06:41:54.000Z",
+		"content": "<b>Commander Keen 3.5 - Keen Dreams</b><br /><br />'Demo'<br />-Initial release<br /><br />Keen 7<br />-Title screen graphics in compressed file<br />-Larger texts in help, credits and story<br />-Start.exe not needed to start game<br />-All graphics etc in standard 'Keen 1-4' type files<br />-No advertisements<br />-Not shareware<br /><br />Softdisk release<br />-Batfile to run game<br />-textfiles for help, game solutions etc; seperate from those in game<br />-Need to close program to exit<br />-More text in help section etc<br />-New loading screen<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2989,
+		"title": "Re: Commander Keen version differences?",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-06-14T15:06:08.000Z",
+		"content": "Thanks Malvineous, that tip was great! Now I don't need to do made up version names for those too, and it also confirms that the exe was changed and not only the extra stuff added into the game. I wonder if there are <b>even</b> more Keen Dreams versions... That REV thingy, I bet it stands for revision. If 1.92 is rev 0 then it has to be the first version of the \"new gen kd\" and 1.93 is the second version. I wonder if a 1.94 (rev 2) also exsists, better go searching. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />LevelLord, I wasn't going to put those differences on the list, but maybe I should, the registered version is another version anyways."
+	}
+]

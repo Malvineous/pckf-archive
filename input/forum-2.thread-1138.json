@@ -1,0 +1,242 @@
+[
+	{
+		"id": 226,
+		"title": "Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-09T06:13:34.000Z",
+		"content": "Has it been done before?<br /><br />As in, to the point where there seems to be no differences between a MMF Keen game and the originals?<br /><br />What I've been considering as I played Commander Keen 1, 2, 3, 3.5, 4, 5, 6, and 7 (Yes, being that new Keen 4 mod only having music and general monster attributes in similarity with Keen 4, I consider it as an unofficial Keen 7)... is a trilogy or something where Commander Keen discovers a rift in the space-time continuum.<br /><br />You see, if I do go through with making a complete total conversion of Doom II (Technically, FreeDoom though) and have a 3D Keen game released - with the style of gameplay that is exhibited in Doom, it would be a dramatic shift from the platform adventure style of the original 7 games.<br /><br />Even the GBC game has more in common with the originals.<br /><br />Any official keen game in the future may very well be in the style of Mario 128... (Yeah, the Mario 64 sequel for Wii, I think).<br /><br />And even that would be in the style of a general 3D platform game pioneered by Mario 64 and originally supposed to be pioneered by none other than the supposed Commander Keen 7 would still be closer to the original than a first person shooter.<br /><br />So, instead of just scrapping the project, which would be sucky since I'm up to the challenge, instead I'm going to steadily work on the basic technical aspects of the mod as I gain experience with the GZDoom engine. I've finalized my choice with GZDoom because it allows floating (not moving) platforms and would make the gameplay closer to that of the original, although it would still be a first person shooter in the core.<br /><br />And what's nice is that even though 2D sprites will be used for enemies, GZDoom makes it look awesome. <br /><br />However, in deciding on choosing an unfamiliar engine (well, GZdoom is based on ZDoom, but many of the features GZDoom has are unfamiliar to me - including floating platforms)<br /><br />I will need alot of time to learn how to do things, which means basically I'm going to be making sandboxes and making small Doom maps that test various features of GZDoom. I'm also going to try to keep the more advanced features of GZDoom (Possibly even zipping it with a config where everything is set on software for a more classic look) out of this mod. Reflecting floors and dynamic lighting aren't necessary... I plan on having most KeenDoom levels set at a lighting level of 255 until the later levels. Sure, Doom junkies might complain, but I have a good reason for it.<br /><br />In the meantime, I'm going to work on a build up series, each episode reflecting a different period of time in the Commander Keen series, but with completely new graphics.<br /><br />In other words, there will be three parts of this trilogy.<br /><br />The first one will be in the style of Keen 1-3.<br /><br />The second one will be in the style of Keen 4-6.<br /><br />The third will be Keen Doom, which will be worked on while the first and second are being worked on.<br /><br />Each part will have (tentatively) 30 some levels. KeenDoom definitely will have 32 levels. <br /><br />I might have the first one include maybe sixty levels, because after studying the maps of Keen 1-3, the levels are kinda small.<br /><br />The first two will be made with Multimedia Fusion 1.<br /><br />As for the storyline, I have to work on that.<br /><br />However, as the subject of this thread suggests, I posted this as a new thread about a commander keen engine emulation with MMF. I simply explained why the MMF deal, since I want to do a trilogy.<br /><br />And I am talking about Keen 4-6, except for the pogo which applies to Keen 1-3. <br /><br />Any input would be helpful.<br /><br />I'll include mine as well.<br /><br />For basic movement, everything will be defined in the events list. I will not use the basic platform engine that is included with MMF. It is too buggy and it's a pain. With a little work, I can whip up a basic movement plan in just a couple minutes. <br /><br />Instead, I recall a Commander Keen tech demo made with MMF where small invisible rectangles are used to define Commander Keen's top, bottom, and sides, as well as act as a collision box. In the events, they are set to always stay on a certain location of Keen's sprite.<br /><br />Because everything would be worked from scratch, including movement speed, jumping would be included. Gravity would be programmed as well from scratch, and with tweaks here and there it can be made close to the original Keen 4-6 games.<br /><br />Because of this, pogoing is extremely easy to do. All one must do is have a repeating event of jump, and gravity, and when jump is pressed - have jump being a little more powerful. Pogoing might be composed of a different sprite, and as long as hotspots and actionpoints are set at exactly the same spot - a simple press of a button will allow a smooth transition from pogo to fire, or pogo to falling.<br /><br />Hanging on a ledge is tricky, but possible. An active object would be set at various points in a level, invisible of course, and would probably be in a vertical shape about the length of Commander Keen. I'd have time to perfect this, since this doesn't occur until Keen 4-6 and thusly I won't have to worry about until the second part of the trilogy I am thinking about is completed.<br /><br />As for the isometric view that characterized Keen 4-6, that's actually easy yet complicated to do. For the 3D effect, one must use active objects that are placed on a level above Keen so that Keen appears to move \"behind\" them. <br /><br />For inactive objects behind Keen, backdrop objects are used. For those that are in front of keen, active objects are used. For animations in the background, active objects are moved to the back (but will still appear in front of all background objects).<br /><br />Poles have been done since Commander Keen 2000.<br /><br />As for graphics, I've considered several possibilities.<br /><br />A Classic style would have a resolution of 640x480, with every object used being based off of an original object (but altered to a point where it bears no resemblance to the original ripped graphic), and then to add the effect of a 320x200 resolution - everything is doubled in size.<br /><br />A Modern style, which I might just use for the second part (IE the emulation of Keen 4-6), will be just like the classic style, except 16-bit graphics are used, and those that are doubled in size will have measures taken to smoothen the pixellation. I will also add detail to Commander Keen's face, so he looks better after doubling in size.<br /><br />The modern style would be pointless for the first part, since the first one is a direct emulation of Keen 1-3 except with music. If anyone can find any sounds of Keen 1-3, that'd be nice even if they are PC speaker emulations. If not, I'll use Keen4-6 sounds.<br /><br />I think it would be neat to capture the essence of Keen 4-6, yet have a modern touch to it. No OpenGL or DirectX though...Sorry.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5565,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-09T08:46:40.000Z",
+		"content": "I tried making a true Keen engine in MMF, but realized I suck at custom platform movement. Even in other engines. So at least I won't make a platformer anytime soon. But good luck with yours.<br /><br />And you can turn on some DirectX support in MMF... Still, there's no full DX support even in MMF2. But that doesn't matter because click games work on any Windows PC.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5566,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-09T12:41:23.000Z",
+		"content": "Wow, you really like writing in dot points, don't you? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Having bright lights may make \"Doom junkies\" complain, but then again, are you making another Doom game or a Commander Keen game?  There were only a handful of dark areas in Keen.<br /><br />I still maintain that a 3D Keen game would be very difficult to do successfully, given the big difference in playing style.  A lot of the games' atmosphere comes from the platformer style, so it would be difficult to duplicate that.  Even the cartoony 16-colour environment works well, that would be tricky to duplicate in a 256-colour game unless you could turn shading off."
+	},
+	{
+		"id": 5567,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-09T18:31:46.000Z",
+		"content": "i also made an Keen 4-5-6 engine demo in MMF long time ago but it was really unoptimized [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  and isn't very mush likely to become a full game (the engine is a mess).<br /><br />the movements, shooting, the pogo, climbing edges and poles worked flawless though."
+	},
+	{
+		"id": 5568,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-09T19:42:23.000Z",
+		"content": "Kinda offtopic, but I just want to know what \"dot points\" are. Obviously something to do with punctuation, but I couldn't find a description for it on teh webz.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5582,
+		"title": "re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-09T19:49:06.000Z",
+		"content": "In order to turn shading off, lighting must be at level 255.<br /><br />With GZDoom, at least floating platforms are possible (or general over hangs, and stuff like that) Sloping floating platforms might be possible as well, but might be more difficult.<br /><br />And since a score count can be added with scripting, points can be added as well. This sort of thing would heavily borrow from Sonic Doom (I described this in the other thread).<br /><br />So at least it will be a first person shooter with platform aspects. At best, a first person Mario 64 type game.<br /><br />DSL, can you send this engine demo my way? My e-mail is bzdraconian AT comcast D0t net.<br /><br />Or IM me on AIM at Xaqnir, and send it that way if it's too big of a file to send it via e-mail. <br /><br />Or upload it somewhere.<br /><br />I'm going to be working on a storyline over the next couple days, just so that when I get the Keen Doom game off the ground, I can start working on that storyline (which would be the third part of a trilogy)<br /><br />I'll be releasing a tech demo of a Keen 1 emulation, then the first part as a demo (10 levels or so, just like the original Keen 1 was released as shareware), and then when I'm finished, I'll release the full version as a public beta freeware.<br /><br />Same goes with the Keen 4-6 emulation, I'll release a tech demo for input (Public pre-alpha), a ten level demo (Public alpha), and the full version as a public beta.<br /><br />I'll be working on a debug mode as well, and start working on a way to implement a save game feature.<br /><br />At least in this aspect, Keen Doom won't need a complete engine creation. I'll just need to exploit the features of GZDoom."
+	},
+	{
+		"id": 5583,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-09T19:52:46.000Z",
+		"content": "By the way...<br /><br />[url=http://forum.drdteam.org/viewtopic.php?t=231]forum.drdteam.org/viewtopic.php?t=231[/url]<br /><br />That describes the features of GZDoom.<br /><br />www.zdoom.org has a wiki with the features of ZDoom which are included in GZDoom. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5569,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-09T22:48:39.000Z",
+		"content": "@Vince: Dot points are when you write a bunch of individual notes, each one a sentence or two long, usually abbreviated.  They're great for taking notes, but really difficult for others to read because it doesn't flow very easily like when you write in paragraphs."
+	},
+	{
+		"id": 5570,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-09T23:37:23.000Z",
+		"content": "rofl<br /><br />*   I speak in dot points.<br /><br />*   That's funny.<br /><br />*   LOL<br /><br />*   So, how about that engine, DSL?<br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5571,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-12T03:58:32.000Z",
+		"content": "how about?<br />sorry but the engine is pretty useless [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br />i made it a long time ago so i blame my lack of skill i had back then."
+	},
+	{
+		"id": 5572,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-12T04:36:04.000Z",
+		"content": "A 3D Keen game would be incredibly hard at best.<br /><br />If you can do it, go for it.  But as for he MMF CK engine, I've never heard of realise like that.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5573,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-11-12T06:06:39.000Z",
+		"content": "Alpha Manhattan was my decent attempt at a complete CK engine, and worked fairly well.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5574,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-12T06:55:19.000Z",
+		"content": "I remember Alpha<br /><br />That's not made with Multimedia Fusion though, is it?<br /><br />I believe Asino's Uphail was though, not sure.<br /><br />If it was, could I perhaps have a look at the cca file? <br /><br />I've been looking at a number of ways to emulate the Keen engine.<br /><br />For one thing, I've obtained a tileset of a single style (The cyan colored pathways with the black and yellow warning stripes on the sides and on the gamerside walls) as a model for new styles.<br /><br />In order to fully emulate the 3D effect, Right hand walls are a thin active object, so that when Keen interracts with them, it appears that he is \"behind\" the wall, giving it the 3D effect.<br /><br />For hanging ledges, an active object right at the corner of a ledge would trigger an event where Keen hangs off that object, and pulls himself up at the touch of the up button. This event is triggered only if Keen is moving left or right, or in any of the diagonal directions. However, I might experiment with a way to have that event triggered without using an active object. It might cause Keen to do the same with platforms though, which would be too buggy looking. In the original Keen 4-6 games, hanging ledges was probably accomplished with Keen moving in a left or right general direction (Directly up or directly down will not trigger a hanging on a ledge) and is interracting with a collision of a floor. This is figured out by the no clipping cheat, Keen will hang off of a ledge in the middle of a floor if he is moving in a leftwards or rightwards direction.<br /><br />I'm going to try to find a way to have Keen move in such a way that he doesn't get stuck in walls and such, without having to build a seperate invisible active object \"collision box\" for his movements. There is in fact an MMF Extension which allows for less buggy movement, I'll have to experiment with it though.<br /><br />As I said if anyone has an MMF that emulates the Keen 4-6 engine perfectly, it would help.<br /><br />As for the Keen 1-3 engine, I've got that covered. As soon as I find a Keen 1-3 sprite to work with (I might end up using a Keen 4 sprite, although it would look weird. I might even add that front piece of a football helmet that is visible in Keen1-3, but not shown in Keen4-6 and Dreams).<br /><br />I'll be working on a tech demo of a Keen 4-6 emulation (with or without examples to work off of, I have a feeling I'll be able to get something off the ground anyway. I was able to create a 115(!!!) level game using an altered Commander Keen sprite without any advice.) A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5575,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2006-11-12T19:53:09.000Z",
+		"content": "Well, I would still be interested in your MMF engine, DSL. I've downloaded every version you had posted here, but I can not recreate it in any way.<br /><br />Even if it is a great mess, it is a mess that works, and I'm interested in its 'source' ever since I've last seen it on demo. I'm not going to rip it or anything, as I'm not planning on a project of such kind these days. I'd really like to see the way you did it because it has been haunting me ever since. Really. How can I persuade you?------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 5576,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486368,
+		"author_name": "DSL",
+		"timestamp": "2006-11-13T02:12:48.000Z",
+		"content": "well the key was really the [<b>Platform Movement object</b> wich helped me alot compared to the other ways of doing platform characters (the standard platform movement omg).<br />it lets the player object smoothly translate between walking-pogo-climbing ect.<br />and for the music i used ModFX (if i remember the name correctly) wich played adlib .imf files.<br />the rest was just alot of tweaking around bugs (dunno if they are present in MMF2) like objects not sorting correctly in Zdepth.<br />yeah sometimes the active object would not arrange itself infront of stuff so you had to use Active Picture instead.<br /><br />unfortunately i don't have the source anymore i think.<br />maybe on some cd back at my old place dunno.<br /><br />but if you have MMF it's not that hard to make the basic stuff yourself actually. the hard thing is to make the frames (levels) reuse as much stuff as possible. else you have to duplicate all the contents within a frame for each new level you create, something that takes up alot of hd space.<br />i never worked that thing out [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt;"
+	},
+	{
+		"id": 5577,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-13T03:33:05.000Z",
+		"content": "I had a 32 level demo of this old game I was working on many years ago that took up a mere 4 megs of space. I made it with Games Factory...<br /><br />I'll experiment, and tweak until it's difficult to tell the difference between this and the original Keen 4-6.<br /><br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5578,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2006-11-13T14:31:30.000Z",
+		"content": "Creating an 'engine' was always my weak point. I was able to get MMF play imf with ModFX, but attempting to create an engine was a headache for me somehow...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 5579,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-11-20T23:31:50.000Z",
+		"content": "Alpha Manhattan WAS made in MMF1.5.  Is anyone interested in the source?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5580,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2006-11-22T21:20:35.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I believe Asino's Uphail was though, not sure.[hr][/quote]<br /><br />There are two versions of Asino's Uphail: one is made with The Games Factory, and is just about as bad as Commander Keen 2000.<br />The other was made with Multimedia Fusion, and was very well-done.  It has ledge grabbing, but no pogo stick."
+	},
+	{
+		"id": 5581,
+		"title": "Re: Multimedia Fusion Commander Keen Engine emulation...",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-11-28T15:20:55.000Z",
+		"content": "Well, I decided to open-source my third try (made in MMF) of my game, Keen:Return. Use it if you like, or just look through the source or something. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />It's a bit lacking or not so good at certain places though, that's the main reason I abandoned this.<br /><br />[url=http://www.spheredev.org/~dnaproduct/other/KRtry3-OpenSource.zip]www.spheredev.org/~dnapro...Source.zip[/url]____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5584,
+		"title": "re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-28T17:14:20.000Z",
+		"content": "I am interested in the source to Alpha Manhatten, and I'll check out what DaVince has once I return home from school today.<br /><br />If I get a good platform engine done with a few modifications, the game I have in mind will kick [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-moon.gif[/img] <br /><br />I've decided to keep a good portion of the game under wraps except for a tech demo demonstrating the engine - which will include ripped graphics and almost no original graphics (Except that you'll be able to see how the levels are made and such, which will be neat)<br /><br />The tech demo will be for purposes of other people making similar style fan games with MMF... It'll demonstrate the basic Keen engine that I'm developing with some help.<br /><br />Let's just say that what I've finally decided on is a second Keen Dreams as an introduction - and the main story as a second and/or third MMF installment."
+	},
+	{
+		"id": 5585,
+		"title": "Re: re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-29T00:33:06.000Z",
+		"content": "DaVince, your engine is helpful as a matter of fact!<br /><br />I especially like the pogo, and the way you programmed the Bounder is helpful as well.<br /><br /><br />As for Alpha Manhattan, I'd like to have the source. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5586,
+		"title": "Re: re",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-11-29T01:21:21.000Z",
+		"content": "[url=http://spatang.com/files/amsrc.rar]spatang.com/files/amsrc.rar[/url]<br /><br />I'm not sure if this actually is the right source because i don't have MMF 1.5 on this computer so I can't open it.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5587,
+		"title": "Re: re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-29T02:13:52.000Z",
+		"content": "There are some extensions needed.<br /><br />Most are available through the Clickteam website.<br /><br />Two so far are not. Easygrid and flagval both seem to be missing from the entire Internet.<br /><br />If anyone has easygrid.cox or flagval.cox, lemme know.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5588,
+		"title": "Re: re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-29T05:30:22.000Z",
+		"content": "Heh, time to laugh.<br /><br />Alpha Manhattan - the old demo - isn't protected.<br /><br />It required extensions, but all of them were available and I was able to open it. <br /><br />Many of the tricks that I wanted to learn are included - such as a good method of ledge hanging.<br /><br />Save game is pretty much something I've settled my mind on, which will be that the game will be saved from the beginning of each level or the world map coordinates would be saved.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5589,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-12-03T02:55:18.000Z",
+		"content": "I haven't played any recent fan made keen games recently. Alpha Manhattan was probably the best fan made keen game i played. <br /><br />When i made the Asino Uphail remake, I had trouble with the platform movement. So instead of fixing the problems, i went on and designed some levels. Even the current release on the web has a bunch of problems associated with it. Also one bug i think that exists, is that sometimes the game will crash when you fight the last boss :/  Since all i had was mmf 1.0, and mmf 1.5 would have broken the bank at the time, i just made asinos uphail a 3 (or was it 4?) level game.  <br /><br />One thing to consider is dont work on the level design until you get your engine right. I made that mistake and left the engine  a little buggy[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img]    <br /><br />I highly recommend using  xtraverses engine. Last time i remember he nearly incorporated all the elements of keen.  Creating a decent engine from scratch takes time and can make you go crazy sometimes haha."
+	},
+	{
+		"id": 5590,
+		"title": "Re: .",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-12-04T01:33:09.000Z",
+		"content": "I still need flagval.cox to see the Manhattan remake.<br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5591,
+		"title": "Re: .",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-12-10T18:46:19.000Z",
+		"content": "I'll be able to fix it so it doesn't need flagval when I get home around the 21st.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5592,
+		"title": "Re: .",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-01-05T02:46:38.000Z",
+		"content": "How is that coming, Xtraverse?<br /><br /><br />An update on my emulation, and my MMF fan game...<br /><br />I got a simple tileset finished. I might be trimming some unneeded tiles, some of which don't possibly occur...and adding some others so that there aren't so many active objects on the screen at once.<br /><br />It's looking good though. I have the isometric look, along with poles, and a general emulation of the graphical look of Commander Keen 4-6. <br /><br />I don't know when, but I'll be releasing a tech demo to show off some of the things that I can do.<br /><br />I've considered having a display similar to a 2D platform game called Abuse. It has a 3D isometric display, but instead of the right hand wall being hidden, it's visible just like the left hand wall. It would also mean platforms that would be trapezoidal instead of parallelogram like. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 5593,
+		"title": "Re: .",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-01-05T08:43:08.000Z",
+		"content": "That was a hard game.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	}
+]

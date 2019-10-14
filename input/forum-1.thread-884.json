@@ -1,0 +1,210 @@
+[
+	{
+		"id": 99,
+		"title": "Disassembly",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-05-16T08:20:26.000Z",
+		"content": "So, I disassembled some exe's from the game Tyrian, hoping that it'd help someone hack the game a bit more easy or make new editors, stuff like that (see [url=http://p078.ezboard.com/ftyrianfrm2.showMessage?topicID=87.topic]this forum[/url]).<br /><br />Just wondering if I should disassemble the Keen files too, or is this done before? I don't understand the output the assembler gives, but I guess there are SOME people out here who do understand it.<br /><br />So, any need to try and disassemble Keen exe's (and maybe data files)?___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3020,
+		"title": "Re: Disassembly",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-16T08:33:16.000Z",
+		"content": "Keen 1-3; well known<br /><br />Keen 4-6 Dissassembled, labelled n all, not so well known, but useful<br /><br />Keen Dreams: Needs dissassembling, plz do.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3021,
+		"title": "Re: Disassembly",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-05-16T09:04:27.000Z",
+		"content": "[url=http://davince.sitesled.com/stuff/Keen/KeenDisassembled.zip]davince.sitesled.com/stuf...embled.zip[/url]<br /><br />Keen4, Keen5, Keen6, and apparently I have only the SoftDisk version of Keen Dreams on my pc, so I disassembled all three exes that come with it.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3022,
+		"title": "Re: Disassembly",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2006-05-16T16:00:38.000Z",
+		"content": "I wont disappoint u DaVinci, but this files aren't useful... Anyone who wanna like to do something with these files will soon be annoyed because w32dasm (this was ur disassembler, right?) doesnt work fine for multi-segmented dos-exes.... I think Sourcer could give a fine output (however I'm not sure)...<br /><br />And even just the output from Sourcer isnt useful at all... u'll have to find out what methods do what, what memory-locations means what and so on and so on and that's a lot of handwork....<br /><br /><br />MfG"
+	},
+	{
+		"id": 3023,
+		"title": "Re: Disassembly",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-05-17T03:52:51.000Z",
+		"content": "you know iD software released the source to keen a few weeks ago right...<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />just kidding [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]"
+	},
+	{
+		"id": 3024,
+		"title": "re:",
+		"author_id": 1486167,
+		"author_name": "Yowza",
+		"timestamp": "2006-05-22T10:25:02.000Z",
+		"content": "Damnit, you had me excited there for a few seconds :/"
+	},
+	{
+		"id": 3025,
+		"title": "Re: re:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-22T10:42:17.000Z",
+		"content": "We can only dream...A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3026,
+		"title": "Re: re:",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-05-25T04:21:34.000Z",
+		"content": "Seriously guys, stop trying to decompile the exe. If it was possible it would have been done a long long time ago. It would be much faster to just make your own engine from scratch."
+	},
+	{
+		"id": 3027,
+		"title": "Re: re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-25T04:37:19.000Z",
+		"content": "Haha. It's definitely possible, and there already is excellent results. The work is mainly done (I guess) to make patching easier/possible by finding out what part of the source does what. It also helps people building engines that match the original's feeling somewhat. Just because something is possible it doesn't mean it would be done long ago. Modding is possible and it started more than ten years after Keen was released. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3028,
+		"title": "Re: re:",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-05-25T06:07:38.000Z",
+		"content": "so on a scale of 1 to 10 (1 being not started and 10 being finished) how far are in in terms of actually 'seeing' the source code to the keen 4-6 series?"
+	},
+	{
+		"id": 3029,
+		"title": "Re: re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-25T15:00:38.000Z",
+		"content": "I'm not sure, but there are huge chunks of C code constructed from the assembly..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3030,
+		"title": "Re: re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-26T00:03:13.000Z",
+		"content": "<i><b>alex87</b>  Seriously guys, stop trying to decompile the exe...It would be much faster to just make your own engine from scratch.</i><br /><br />But that's assuming the only reason for decompiling is to take the engine out and use it elsewhere - half the fun of decompiling something is to find out how it works, how the developers coded certain elements of the game.  The modding equivalent is extracting and looking at all the graphics - you often find nice surprises like unused images, and it's interesting to discover how masked tiles work.  The same applies for the code, although you usually have to be a programmer to appreciate it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />If you just copy an engine and try to make it look the same, you miss all that - which is fine if you're not interested, but there are plenty of people out there who are!"
+	},
+	{
+		"id": 3031,
+		"title": "Re: re:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-26T06:46:39.000Z",
+		"content": "Well, it'd be *real* helpful if you cold go through the code and label all the areas thusly:<br /><br />$1BCDEE - $ !BDE47: Bounder movement code<br /><br />THAT would be a big help to me especially, once I know the rough location of something, patches follow.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3032,
+		"title": "Re: re:",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-05-27T09:59:35.000Z",
+		"content": "Well... if its that important, can you guys tell me how to help out?<br /><br />What program do i need to see the pre-source code? (or what ever you call it)<br /><br />[quote]<b><i>Quote:</i></b>[hr]$1BCDEE - $ !BDE47: Bounder movement code[hr][/quote]<br />Are they memory locations? Or is '$1BCDEE - $ !BDE47' the actual code of the bounder?<br /><br />I'd really like to help but i don't know much about decompiling DOS games.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  <br /><br />If you got a unix server set up you can extract all the dos code and have it translated into C<br /><br />[url=http://www.itee.uq.edu.au/~cristina/dcc.html]See this site for info..[/url]"
+	},
+	{
+		"id": 3033,
+		"title": "ASM",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-27T14:16:55.000Z",
+		"content": "There are several programs called disassemblers.<br />[url=http://en.wikipedia.org/wiki/Disassembler]en.wikipedia.org/wiki/Disassembler[/url]<br />They translate the machine language into assembly language. They really don't help you at all if you're not familiar with assembly. With them you basically see the easier way where jumps go and which code section is called from another place of the code. That's it mostly. Unless you know assembly they won't help.<br /><br />\"Are they memory locations? Or is '$1BCDEE - $ !BDE47' the actual code of the bounder?\"<br />That marks which bytes in the exe are bounder's code. However, this may just have been an example and those values be thus invalid.<br /><br />Those translating programs don't work that well, and are practically no use. There are no commands, no function or variable name will be the same than used by those who programmed the game. That is because all that data is lost when compiling C to machine code since it is of no use. As well, the structure of the C program built from assembly can be significally different than the original source was. It depends a lot how the compiler that developers used to compile the C program to assembler, optimized, and a lot how intelligent the asm-to-C translator is.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3034,
+		"title": "Re: ASM",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-05-28T02:31:25.000Z",
+		"content": "but if those dos to C programs are useless, how else are we going to get somthing close to the source which we can use in other languages?"
+	},
+	{
+		"id": 3035,
+		"title": "Re: ASM",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-05-28T06:57:17.000Z",
+		"content": "There is no way.<br />If the source code isn't freely available, it's very difficult to obtain from the machine code. Just like in this case.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3036,
+		"title": "Re: ASM",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-28T21:57:52.000Z",
+		"content": "That's the prime reason why everyone is always so keen on getting the source code released for stuff - all the other possibilities like disassembling are too time consuming and you won't end up close enough to the original code anyway.<br /><br />That disassembler you posted looks pretty interesting though - unfortunately it's limited to 30kB input files, but with a bit of work it could prove to be very useful.  Even badly reconstructed C code is easier to read than raw assembly..."
+	},
+	{
+		"id": 3037,
+		"title": "Re: ASM",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-29T10:45:53.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Are they memory locations? Or is '$1BCDEE - $ !BDE47' the actual code of the bounder?[hr][/quote]<br /><br />No, thats an example area. We actually do know where the bounder, berkeloid, mushroom and foot code is located, but little else. I know for example, about where half of the Keen 1 code is.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3038,
+		"title": "Re: ASM",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-06-01T15:42:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]but if those dos to C programs are useless, how else are we going to get somthing close to the source which we can use in other languages?[hr][/quote]<br />By slowly, painfully going through the disassembly whilst debugging in DosBox. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />-------------------------------------Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 3039,
+		"title": "Re: ASM",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-02T04:05:53.000Z",
+		"content": "Hmmmm....A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3040,
+		"title": "Re: ASM",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-06-02T11:42:20.000Z",
+		"content": "A lot of the time, once you learn how to 'read' assembly certain things jump out at you; a compare followed by a forward condition jump is an if-statement, a compare followed by a back-jump is most likely a do/while loop, etc. which you comment in the disassembly.  DosBox is great because you can get a general sense of what's going on - \"OK, so after that method is called the intro shows up...after the next one returns, it goes in the menu...so this one must be in charge of intro\", etc.  It's something you really won't need to do unless you're a real geek.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 3041,
+		"title": "Re: ASM",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-06-02T13:53:00.000Z",
+		"content": "szevvy your site is down[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 3042,
+		"title": "Re: ASM",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-06-03T02:07:26.000Z",
+		"content": "I know, I haven't paid my domain name fees in a while.  I'll bring it back up soon.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	},
+	{
+		"id": 3043,
+		"title": "Re: ASM",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-03T14:03:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It's something you really won't need to do unless you're a real geek.[hr][/quote]<br /><br />I have a good idea what approximately 30% of the Keen 3 code does, simply by staring at the numbers so long that they intuitively make sense. I know even more of the Keen 1 code. Is that better, or worse, geek-wise?A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3044,
+		"title": "Re: ASM",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-06-04T08:45:34.000Z",
+		"content": "Makes you very geeky, thus a good thing.Wombat is my little donation to all the crazy people who do stuff with old games.  [url=http://www.szevvy.com]www.szevvy.com[/url]"
+	}
+]

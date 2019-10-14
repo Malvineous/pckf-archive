@@ -1,0 +1,130 @@
+[
+	{
+		"id": 723,
+		"title": "Counting downloads in PHP?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-07T07:47:40.000Z",
+		"content": "Can anyone suggest a way of implementing a download counter on [url=http://www.jimage.org/?games=bumpermaze]this page[/url] using PHP, without needing to use a redirect page?"
+	},
+	{
+		"id": 18958,
+		"title": "Re: Counting downloads in PHP?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-07T09:05:04.000Z",
+		"content": "If you have a database, you could have it go to a page that adds 1 to the download number in the database, then continue through to the file. This is how it's done on many sites, anyway. Not sure about doing this without a redirect.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 18959,
+		"title": "Re: Counting downloads in PHP?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-07T11:31:17.000Z",
+		"content": "I'd do it like this.  It does use a redirect, but it's a HTTP  redirect so you don't need an extra web page in the middle, and the redirect doesn't show up in the web browser's history (so the back button skips over the redirect like it wasn't there.)<br /><br />Create download.php:[pre] // Location of download files (note no trailing slash)define('DOWNLOAD_PREFIX', 'http://www.example.com/files');$strFilename = $_SERVER['PATH_INFO']; // will be \"/something.zip\", note leading slash// Count the download// INSERT INTO ... WHERE `filename`=$strFilename// use substr() to get rid of the leading slash// Quietly redirect to the real fileheader('HTTP/1.0 302 Redirect');header('Location: ' . DOWNLOAD_PREFIX . $strFilename);[/pre]Then use a link of this form: http://www.example.com/download.php/something.zip<br /><br />You *could* avoid using the redirect by replacing the header() lines with readfile(), but I'd really advise against it because you'll break a lot of nice HTTP features like last modified dates to aid caching, the ability to resume incomplete downloads, etc.  You'll find that this method will catch 99% of downloads, and it *won't* increment the counter when people resume an incomplete download."
+	},
+	{
+		"id": 18960,
+		"title": "Re: Counting downloads in PHP?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-08T12:43:51.000Z",
+		"content": "At last! Someone uses the grammatically correct form 'downwards' instead of 'down'![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 18961,
+		"title": "Eh?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-08T14:34:52.000Z",
+		"content": "*blinks* Where?<br /><br />Perhaps you misread 'downloads'?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]"
+	},
+	{
+		"id": 18962,
+		"title": "Re: Eh?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-08T14:49:43.000Z",
+		"content": "Another grammar/vocabulary topic? Por favor, no. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18963,
+		"title": "Traffic Cones!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-24T08:13:38.000Z",
+		"content": "I just got around to putting this script to use. The redirect works marvelously, though I'm yet to implement the actual counter table. Malvineous saves the day once again!<br /><br />As a bonus, I now understand how to use slashes in URLs for content management, ie.:<br />[pre] article/date/time[/pre] as opposed to [pre] article.php/?d=date&amp;t=time[/pre]which I shall be putting to use ASAP."
+	},
+	{
+		"id": 18964,
+		"title": "Re: Traffic Cones!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-24T10:44:27.000Z",
+		"content": "Glad I could help [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />And yes, supplying parameters as part of the path name is a neat little trick, which works particularly well with redirects since it avoids the problem where you right-click save as, and the browser wants to save it to a file called \"download.php\" instead of the real filename.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18965,
+		"title": "Re: Traffic Cones!",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-06-26T07:36:03.000Z",
+		"content": "One small thing: I would visit the following page on your site:[pre]    www.example.com/download.php/%27%27%0B%20DROP%20DATABASE%20DATABASE%28%29%0B[/pre]and BAM! you have no database.<br /><br /><br /><br />------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18966,
+		"title": "Re: Traffic Cones!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-26T09:29:19.000Z",
+		"content": "Eep. I guess it needs some character filtering then."
+	},
+	{
+		"id": 18967,
+		"title": "Re: Traffic Cones!",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-06-26T09:31:06.000Z",
+		"content": "Yeah, throw out everything expect valid characters.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18968,
+		"title": "Re: Traffic Cones!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-26T11:03:10.000Z",
+		"content": "How would that break a query?  If you escape the parameter with addslashes() then any quotes in the data won't terminate the query early, so any other special characters in the string should be included correctly as part of the parameter data.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18969,
+		"title": "Re: Traffic Cones!",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-06-26T12:47:01.000Z",
+		"content": "*If* you escape the parameter, my friend.  In your example, you did not. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18970,
+		"title": "Re: eXSSive?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-06-26T16:20:23.000Z",
+		"content": "It would also be a good idea to check that the file actually exists before forwarding the user:[pre] &lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// URL prefix of download files (note no trailing slash)&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;define('DOWNLOAD_PREFIX', 'http://www.example.com/files');&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// Folder containing download files&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;define('DOWNLOAD_FOLDER', '/full/path/to/files');&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;$filename = $_SERVER['PATH_INFO']; &lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// will be \"/something.zip\", note leading slash&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;if (file_exists(DOWNLOAD_FOLDER . $filename)) &lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// check the file in question exists&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;{&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// we found the file&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// Count the download&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// INSERT INTO ... WHERE `filename`=$filename&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// use substr() to get rid of the leading slash&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// Quietly redirect to the real file&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;header('HTTP/1.0 302 Redirect');header('Location: ' . DOWNLOAD_PREFIX . $filename);}&lt;!--EZCODE BOLD START--&gt;&lt;strong&gt;else &lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// we couldn't find the file&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;&lt;/strong&gt;&lt;!--EZCODE BOLD END--&gt;{&lt;!--EZCODE FONT START--&gt;&lt;span style=\"color:#060;\"&gt;// Tell the browser we couldn't find the file&lt;/span&gt;&lt;!--EZCODE FONT END--&gt;header('HTTP/1.0 404 Not Found');echo '&lt;h1&gt;404 Not Found&lt;/h1&gt;&lt;p&gt;The specified file does not exist.&lt;/p&gt;';}[/pre][url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 18971,
+		"title": "Re: ...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-26T16:28:01.000Z",
+		"content": "I feel so ignorant when this kind of topics appear...------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18972,
+		"title": "Re: ...",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-26T22:07:16.000Z",
+		"content": "You probably don't have to worry about checking whether the file exists before the redirect, as you'll get a 404 anyway when you're forwarded to a file that doesn't exist.  It will probably be worth checking before running the query though depending on how you've set up your database, so that people playing with the URL don't fill up your DB with counters for nonexistent files.<br /><br />Oh, and in my defense, that wasn't a proper SQL example in my original code, it was something quick to illustrate how the variable might be used.  I assumed it went without saying that you escape everything before putting it in an SQL query [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   (And likewise using htmlspecialchars() before echoing any data onto a web page.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	}
+]

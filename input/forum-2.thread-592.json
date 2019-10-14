@@ -1,0 +1,58 @@
+[
+	{
+		"id": 249,
+		"title": "Programming Help",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2005-11-23T15:08:08.000Z",
+		"content": "Okay.  I have wanted to make a Keen fan game ever since I first played Keen2000 and RKP in the year 2000 (Or so).<br /><br />I however at that time, lacked the skills to program a video game --I still do now.  And I really want my game to be made.  I am sick of putting it on the burner.  I have great ideas for levels; characters; storyline; and a host of others, but now I need have someone who can help me either program my own engine in C++ (Which would be hard) or to simply help me learn how to program in Game Maker.<br /><br />I really would be indebted to anyone who knows GM (I think Najawa knows it fairly well) if they would give me their AIM/YIM address and give me the help I need.<br /><br />Is anyone willing?<br /><br />PS: I should note that graphics and programing cannot start until after my play is completed at school, so I would need the help after December 10th.<br /><br /><br />PPS: Oh yes, I forgot, I can show you some of my scripts for my old-BETA version.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6705,
+		"title": "Re: Programming Help",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-11-24T02:13:51.000Z",
+		"content": "i think the only people here who know gamemaker well are najawa, Creative Madman and me.<br /><br />Im not sure if najawa knows enough to be able to help you though (did he make a game?). CM might be able to help you though, because he's actually made a CK game in GM that i can remember. <br /><br />I on the other hand know just about everything EXCEPT platformers. I mostly use GM to make programs and some other games, but i've never actually attempted to make a platform game. Im currently working on an online 3D game, but if you have some questions i might be able to help. my msn is equip_lex87. But dont ask me too much about platformers, cause like i said, i dont know much. They use alot of gravity type functions and it can get a bit confusing (if youve never done it).<br /><br />I suggest you use GM and try to download some tuts and ask on the GM forums.---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 6706,
+		"title": "Re: Programming Help",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-24T04:27:55.000Z",
+		"content": "I may not be the greatest game maker, but I've made a few games...<br /><br />[quote]<b><i>Quote:</i></b>[hr]Im not sure if najawa knows enough to be able to help you though (did he make a game?). [hr][/quote]<br /><br />It is obvious you have never been to my site before...<br /><br />www.games.najawa.com<br /><br />All made in gamemaker. Some are better then others. They may be buggy, because they are all I had after my memory stick died.<br /><br />I am planning on putting up better versions soon.<br /><br />YIM &amp; AIM - najawa91<br /><br />MSN - najawa At gmail d0t com<br /><br />I would be happy to do my best, although I may not be the greatest, I will do my best. I hope helping you will also help me learn a bit to. Oh... but... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] ... I have never (successfully) compleated a platform game.<br /><br />I recomend you MSN me, and then alex, you, and I could all work togather... then I could finnally finish my darn Sonic Fan-game (A little project I have started... but have not dared come near do to technical problems...)<br /><br />Well, cya online!Tough Guys Can Fix There Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 6707,
+		"title": "Re: Programming Help",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2005-11-24T14:52:54.000Z",
+		"content": "I tried to get MSN before, but it didn't work... meh.<br /><br />I might try again.  At any rate, thanks for the AIMs/YIMs/MSNs.<br /><br /><br />Oh yea, the tutorials only help so much.  I need more in-depth explinations.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6708,
+		"title": "sldfds",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-01-12T17:33:17.000Z",
+		"content": "Hm, if you figure out how to do graphics in C/C++ (i can't figure out how to make something appear.. in any language, for that matter), do tell [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 6709,
+		"title": "re:",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-01-13T03:43:52.000Z",
+		"content": "If you want to do graphics in C++ you'll need a suitable library to do it. A library is some code that's already been written and arranged so that it can be used in other programs. SDL is one, and Allegro is another."
+	},
+	{
+		"id": 6710,
+		"title": "Re: re:",
+		"author_id": 1485918,
+		"author_name": "andrewmarrero",
+		"timestamp": "2006-01-21T05:46:09.000Z",
+		"content": "I'm quite experianced in Game Maker.<br /><br />I have my own projects right now, but I can help you out ever so often when you need it.<br /><br />My AIM is AndrewFMs, or MSN is pnqpnq@hotmail.com"
+	}
+]

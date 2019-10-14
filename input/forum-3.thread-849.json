@@ -1,0 +1,66 @@
+[
+	{
+		"id": 506,
+		"title": "Is this a good idea?(easy way to change Keen color platelet)",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-06T21:40:57.000Z",
+		"content": "Hi there, I was wondering if this were possible: Can someone make an program that makes an easy, user-friendly way to change the color platelet in Commander Keen? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]   [img]http://images.ucomics.com/comics/ga/2005/ga050705.gif[/img]"
+	},
+	{
+		"id": 13833,
+		"title": "Re: Is this a good idea?(easy way to change Keen color plate",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-07-06T21:52:54.000Z",
+		"content": "Hahaha, platelet? I assume you mean palette? What are you exactly having trouble with? Don't you just need the patch and a hex chart?-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 13834,
+		"title": "Re: Is this a good idea?(easy way to change Keen color plate",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-06T21:55:37.000Z",
+		"content": "Hey i was gonna post first!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br /><br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=60]try this[/url][img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13835,
+		"title": "Re: Is this a good idea?(easy way to change Keen color plate",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-06T23:08:18.000Z",
+		"content": "Thanks, that helped a lot! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]    [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]    <br /><br />(By the way, I did mean to say palette.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]   Thanks allstories!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] )[img]http://images.ucomics.com/comics/ga/2005/ga050705.gif[/img]"
+	},
+	{
+		"id": 13836,
+		"title": "Re: Is this a good idea?(easy way to change Keen color plate",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-07T08:07:42.000Z",
+		"content": "Yeah, that should be easy with that patch. And to convert dec to hex you can use for example Window's calculator.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13837,
+		"title": "re:",
+		"author_id": 1486167,
+		"author_name": "Yowza",
+		"timestamp": "2005-07-07T09:10:17.000Z",
+		"content": "I wrote a program to do that once (using that patch). I never released it, because I never <i>completely</i> finished it, but it was usable. Unfortunately, I seem to have misplaced it :/"
+	},
+	{
+		"id": 13838,
+		"title": "Re: re:",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-07T16:20:21.000Z",
+		"content": "I changed the colors of Sentinel (Black= 00 00 00 Blue= 00 00 42 Green= 00 42 00 Red= 42 00 00 Turquoise= 00 21 42 Violet= 42 00 42 Brown= 42 21 00 Gray= 21 21 21 White= 42 42 42 Sky-Blue= 21 21 63 Lime-Green= 21 63 21 Pink= 63 21 21 Cyan= 21 42 63 Magenta= 63 21 63 Yellow= 63 63 21 Bright-White= 63 63 63)  to these colors (Black= 00 00 00 Blue= 00 00 21 Green= 00 42 00 Red= 42 21 00 Turquoise= 10 10 10 Violet= 42 00 21 Brown= 42 42 00 Gray= 21 21 21 White= 42 42 42 Sky-Blue= 00 00 42 Lime-Green= 21 63 21 Pink= 63 42 21 Cyan= 00 00 63 Magenta= 63 21 42 Yellow= 63 63 21 Bright-White= 63 63 63). It looks really cool, so you should try it.[img]http://images.ucomics.com/comics/ga/2005/ga050705.gif[/img]"
+	},
+	{
+		"id": 13839,
+		"title": "Re: re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-07T17:23:44.000Z",
+		"content": "It'd be better to post them in the patched form so people can just copy and paste. Not many will go through the problem of placing those to the offsets. Not me at least. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	}
+]

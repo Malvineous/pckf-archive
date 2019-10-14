@@ -1,0 +1,626 @@
+[
+	{
+		"id": 823,
+		"title": "Mortimer, the devil?",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-03-27T02:51:37.000Z",
+		"content": "I never thought to try this before, but go into an IRC Chatroom and type:<br /><br />/roll 3 1 5"
+	},
+	{
+		"id": 21094,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-03-27T07:07:56.000Z",
+		"content": "Uh... this is silly.  As far as I know, the way a \"/roll\" command works is to roll X number of Y-sided dice, and optionally add Z to each die's result.<br />For example, let's say I wanted to roll 3 6-sided dice, and add 1 to the result of each roll.  I'd type: <b>/roll 3 6 1</b> and the results I'd get would be three numbers, ranging from 2 to 7 (because there are 6 possible rolls on a 6-sided die, and adding 1 to each of those results in 2, 3, 4, 5, 6, or 7.  Duh.)<br /><br />Your command, <b>/roll 3 1 5</b>, is kinda pointless... it's rolling three single-sided dice, and adding five to each outcome.  This will always come back as 6, 6, 6, because the ONLY possible roll on a one-sided die is 1, and adding 5 to 1 always produces 6.  :P"
+	},
+	{
+		"id": 21095,
+		"title": "yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-03-27T08:47:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]This will always come back as 6, 6, 6[hr][/quote]<br /><br />and what does that say about our dear morty, then? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 21096,
+		"title": "Re: yey",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-27T13:41:47.000Z",
+		"content": "Haha. Never heard of that one. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Hey, is an one-sided dice even possible? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21097,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-03-27T21:07:55.000Z",
+		"content": "A marble shaped dice [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21098,
+		"title": "Re: yey",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-27T21:54:10.000Z",
+		"content": "That would be infinity-sided.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 21099,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-29T08:44:09.000Z",
+		"content": "Well, not necessarily, it depends on how you look at it. These days,very few people view a sphere as an infinite  sided polygons Topographically they're one sided, despite having no edges or vertices.<br /><br />You can also construct one and two edged sphereoidal shapes. A one egdged sphere is a two sided die [singular of dice] 3,4, etc sided are also avalible, but it can be hard to make the sides equal.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21100,
+		"title": "Re: yey",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-03-29T22:24:27.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, not necessarily, it depends on how you look at it. These days,very few people view a sphere as an infinite sided polygons Topographically they're one sided, despite having no edges or vertices.<br /><br />You can also construct one and two edged sphereoidal shapes. A one egdged sphere is a two sided die [singular of dice] 3,4, etc sided are also avalible, but it can be hard to make the sides equal.<br /><br />A proud member of the Spleen Extinction society[hr][/quote]<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Holy CRAP! That's... Wow, you...<br /><br />YOU STOLE MY POST AGAIN! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt;  I don't see why Mort lets you use his mind reading device..."
+	},
+	{
+		"id": 21101,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-03-30T05:21:12.000Z",
+		"content": "so which infinity set would the marble shaped die be if it was infinity sided? or... capital omega [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]  hmmm.<br /><br />and is infinity a number?<br /><br />if so:<br /><br />1*infinity= infinity, 3*infinity= infinity, so 1=3 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />hahaha<br /><br />[hr]<br /><br />the yorp shalt inherit the mars"
+	},
+	{
+		"id": 21102,
+		"title": "slfdj",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-03-30T05:28:53.000Z",
+		"content": "i think any 3D polygon (as we understand it) is one sided, but i could be wrong."
+	},
+	{
+		"id": 21103,
+		"title": "Ad infinitum.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-30T10:24:54.000Z",
+		"content": "[hr]<b>freeyorp</b> 1*infinity= infinity, 3*infinity= infinity, so 1=3<br />[hr]Only if 1*0 = 0, 3*0 = 0 also means 1=3. And then you're screwed because 0 = infinity [stupid limited ezCharacterSet].<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21104,
+		"title": "fsdf",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-03-30T10:50:45.000Z",
+		"content": "Well, dividing by zero is different than dividing by infinity.  To be a little serious, though,<br /><br />[url=http://mathforum.org/library/drmath/view/62486.html]mathforum.org/library/drm...62486.html[/url]"
+	},
+	{
+		"id": 21105,
+		"title": "Abstracked.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-30T11:42:20.000Z",
+		"content": "I like that Dr. Math post. I was going to rant something to that effect in my previous post, but couldn't a) be bothered nor b) word it properly anyway. I think what I wrote instead says the same basic thing though: infinity * x = infinity means failed logic.<br /><br />Then again... zero and negative numbers are similarly abstract. You can't show me -5 people, unless it's in relation to another amount of people, and zero is not an amount--it's a statement of lack.<br /><br />Btw, could you elaborate on that Any 3D Polygon = One Sided theory? I don't see how that could be the case, since a polygon is defined by its vectors.<br /><br />Hmm... *thinks* A circle could just as easily be infinite-sided as it could single-sided. Though it would seem a convoluted way of getting from point A to point A if it's single-sided.<br /><br />One thing that frustrates me about this universe is that there's always something out of view... one cannot see all of something at once, there's always another side to it which, once seen, blocks the first side from view. Hmm... although mirrors can be handy for that.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21106,
+		"title": "hmm...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-30T21:41:45.000Z",
+		"content": "Does this mean<br /><br />/roll 3 1 4<br /><br />would equal 555?<br />What is keen, then?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 21107,
+		"title": "555",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-30T23:54:44.000Z",
+		"content": "Christ.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21108,
+		"title": "Re: 555",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-31T08:46:54.000Z",
+		"content": "Hehe. Usually 'the holy number' is 777.<br />Edit: Although I've no idea where they've got that. I've never heard any church mentioning 777, so I guess it's mostly something modern culture thing.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21109,
+		"title": "7 7 Lemon",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-31T21:21:36.000Z",
+		"content": "Slot Machines, perhaps? Its the same as asking why 13 is bad luck. Its a superstition.<br /><br />The two holy numbers are 3 and 40.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 21110,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-01T00:11:49.000Z",
+		"content": "From what I understand, dividing any number by zero (except zero and infinity) equals plus and minus infinity at the same time.<br /><br />I love warped formulas. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]   [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br /><br />EDIT: typo.<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21111,
+		"title": "No, its \"Yay,\" not \"yey.\" Learn to spell",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-04-01T02:37:01.000Z",
+		"content": "Yes, but isn't infinity divided by zero still infinity? I mean, 0 goes into infinity infinity times, right?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 21112,
+		"title": "Re: No, its \"Yay,\" not \"yey.\" Learn to s",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-02T04:32:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]and is infinity a number?[hr][/quote]<br /><br />It depends, there are numerical infinities, they obey the same rules as 'x' in algerbraic expressions.<br /><br />[quote]<b><i>Quote:</i></b>[hr]1*infinity= infinity, 3*infinity= infinity, so 1=3[hr][/quote]<br /><br />No, for algerbraic infinity 3*infinity = 3*infinity, just as 3*x = 3x. This may sound a bit of a cop out, but consider, there are an infinite number of even numbers, so there must be twice as many integers, and four times as many +- integers [forget the name] This is actually very useful in say, physics and math where two infinite quantities need to be compared. If you want to know what 2inf/inf is, you don't want to hear 'Oh, infinity, liek all the other stuff, yeah' you want a nice precise accurate answer.<br /><br />[quote]<b><i>Quote:</i></b>[hr] Well, dividing by zero is different than dividing by infinity. To be a little serious, though,[hr][/quote]<br /><br />Well, dividing by infinity introduces us to the world of infitesmals, reverse of infinity,a lmost zeroes.<br /><br />[quote]<b><i>Quote:</i></b>[hr]A circle could just as easily be infinite-sided as it could single-sided. Though it would seem a convoluted way of getting from point A to point A if it's single-sided.[hr][/quote]<br /><br />Thats the point! It all depends on how you define it, its your choice, and then you start getting all Xeno's paradoxy.<br /><br />[quote]<b><i>Quote:</i></b>[hr]One thing that frustrates me about this universe is that there's always something out of view... one cannot see all of something at once, there's always another side to it which, once seen, blocks the first side from view. Hmm... although mirrors can be handy for that.[hr][/quote]<br /><br />What I like about this universe is that there's always something out of sight, It means I can live my life without being overcome with information, its hard enough to live life only looking at *one* side of an object. See? You've gone all philosophical<br /><br />[quote]<b><i>Quote:</i></b>[hr]Although I've no idea where they've got that. I've never heard any church mentioning 777, so I guess it's mostly something modern culture thing.[hr][/quote]<br /><br />Old catholic myth; 7 days in a week, trinity is holy, so 3 7's is, no, not 21 [catholics can't multiply outside the bedroom] but 777!<br /><br />[quote]<b><i>Quote:</i></b>[hr] Slot Machines, perhaps? Its the same as asking why 13 is bad luck. Its a superstition[hr][/quote]<br /><br />Catholics again, 13 at the last supper, although the myth does appear to go back further, and may be a christianisation of a pagan myth.<br /><br />[quote]<b><i>Quote:</i></b>[hr] From what I understand, dividing any number by zero (except zero and infinity) equals plus and minus infinity at the same time.[hr][/quote]<br /><br />No, just either +or - infinity depending on wether you dividing a + or - nimber<br /><br />[quote]<b><i>Quote:</i></b>[hr] Yes, but isn't infinity divided by zero still infinity? I mean, 0 goes into infinity infinity times, right?[hr][/quote]<br /><br />Infinity divided by zero is a special kind of infinity, it is a nonumerical infinity, meaning its so large that there is no way it can be expressed, it is larger even than infinity multiplied by the power of infinity, infinity times.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21148,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-02T06:26:41.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] No, for algerbraic infinity 3*infinity = 3*infinity, just as 3*x = 3x. This may sound a bit of a cop out, but consider, there are an infinite number of even numbers, so there must be twice as many integers, and four times as many +- integers [forget the name] This is actually very useful in say, physics and math where two infinite quantities need to be compared. If you want to know what 2inf/inf is, you don't want to hear 'Oh, infinity, liek all the other stuff, yeah' you want a nice precise accurate answer.[hr][/quote]<br /><br />there is a special symbol for this, three curved lines to make a y shape and the number for the infinity set down the bottom right corner. <br /><br />suposedly there is infinity set infinity called capital omega, but no-one can say which infinity set is highest (there is infinity infinities)<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21149,
+		"title": "dsflk",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-02T08:48:31.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Infinity divided by zero is a special kind of infinity, it is a nonumerical infinity, meaning its so large that there is no way it can be expressed, it is larger even than infinity multiplied by the power of infinity, infinity times.[hr][/quote]<br /><br />Well, that's something new.  How do you mean \"divide by zero\", in this case?"
+	},
+	{
+		"id": 21150,
+		"title": "haha",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-03T00:57:40.000Z",
+		"content": "^ dividing by fractions is effective to multipling the number.<br />supposedly, dividing by zero can't can't be reversed normally (it would be mulipliong by zero giving zero, which is completely off) so it must be multipling beyond multipling. i can't really explain it - but it is infinitly infinitly multiplied beyond itself.<br /><br />people don't usually comprehend this until the comprehend infinity. many people see numbers as small (a disadvantage of base ten) ie, the number of carbon atoms left behind from a car tyre in one revolotion is more than the number of seconds since the universe began. ah well...<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21151,
+		"title": "Re: haha",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-03T07:14:49.000Z",
+		"content": "Well, most people can't really comprehend numbers larger than even a million.For example, what is a millinth of your bodyweight?<br /><br />[quote]<b><i>Quote:</i></b>[hr]suposedly there is infinity set infinity called capital omega, but no-one can say which infinity set is highest (there is infinity infinities)[hr][/quote]<br /><br />But of course. There's always a bigger infinity.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21160,
+		"title": "Re: ...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-04T04:35:12.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]But of course. There's always a bigger infinity.[hr][/quote]<br /><br />eh. capital omega is just the term for the 'biggest' infinity, (the infinity which expands the fastest.<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21161,
+		"title": "Re: ...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-04T08:30:49.000Z",
+		"content": "So what is omega + 1?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21162,
+		"title": "Re: ...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-06T00:01:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]So what is omega + 1?[hr][/quote]<br /><br />just as infinity plus 1 equals infinity, <i>capital</i> omega plus 1 is capital omega.<br /><br />capital omega is the name for the highest infinity. If there is something bigger than a then capital omega, then that becomes capital omega.<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21163,
+		"title": "Re: ...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-06T06:39:04.000Z",
+		"content": "As, its a nonumerical infinity. The one that I believe fits most peoples definitions.<br /><br />So what is omega - 1?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21164,
+		"title": "Re: ...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-07T06:22:51.000Z",
+		"content": "No infinity is numerical. Remember, infinity is, well infinite. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br /><br /><b>CAPITAL</b> omega (note CAPITAL) minus one is similar to infinity minus one. capital omega minis 1 is capital omega.<br /><br />as it is a nummerical operation to gain capital omega (as is infinity) you could say that any operation afterwards (even +0)  doesn't make it it anymore. It retains its properties, of course, but it makes it open to argument, dependng on the equasion. as there is no equasion (any equasion would no longer make it it) you could say almost anything (but capital omega = 0 is just plain stupid.) For simplicities sake, treat the infinity as infinity and say capital omega-1 = capital omega.<br /><br />ironicly, capital omega has very little practical use.<br /><br />It is still quite interesting though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21165,
+		"title": "Re: ...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-08T11:10:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]No infinity is numerical. Remember, infinity is, well infinite.[hr][/quote]<br /><br />No, they *can* be numerical, pi is infinite too remember. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br /><br />Now go to bed!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21166,
+		"title": "sdfd",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-09T10:18:58.000Z",
+		"content": "pi is not infinite. merely the number of decimals required to represent it is."
+	},
+	{
+		"id": 21167,
+		"title": "Re: sdfd",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-09T10:39:09.000Z",
+		"content": "I take your word because I don't know this stuff, but I can't understand how that can be possible. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  How can representing something finite require infinite amount of symbols?3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21141,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-10T01:15:42.000Z",
+		"content": "^ by decimals. pi is transcendantal, there is no set fraction for it or pattern to follow.<br /><br />[quote]<b><i>Quote:</i></b>[hr]No, they *can* be numerical, pi is infinite too remember. [hr][/quote]<br /><br />IS NOT. just because a number is transcendental does not mean it is infinite. pi is the most famous transcendental number, then e. pi is not infinite, it is little over 3 and e is a little over 2.<br /><br />so there! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21142,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-10T08:34:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] pi is not infinite. merely the number of decimals required to represent it is.[hr][/quote]<br /><br />Maybe, but what is its precise value? Or that of its multiples. I hear you say 'well, we use a symbol to represent it, because we can't represent it numerically\" what do you think we're doing with infinity? Size doesn't matter; just that both can be used in equations, but neither can be represented by a finite or specific set of numrerals.<br /><br />Now I hear the complaint that 'well, we know what pi starts with; we know what its bigger and smaller than' well, what about the square roots of negative numbers? They're used all the time, especially now in physics, surprisingly, so are numerical infinities!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21143,
+		"title": "j;jklj",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-10T11:25:02.000Z",
+		"content": "My complaint is that \"infinite\" means \"limitless\" or \"unbounded\".  Pi is not infinite, because it can be made to have upper and lower bounds.<br /><br />I can write 3.14 &lt; pi &lt; 3.15, for instance.<br /><br />You can't create an upper bound for infinity or a lower bound for -infinity (partially because they are not even numbers; in fact, a lower/upper bound is an abuse of notation, since infinity and real numbers are not even the same thing)."
+	},
+	{
+		"id": 21144,
+		"title": "Re: Olers.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-04-12T03:08:30.000Z",
+		"content": "[img]http://i34.photobucket.com/albums/d134/Galaxieretter/Mortimer-the-Devil.png[/img]"
+	},
+	{
+		"id": 21145,
+		"title": "Re: Olers.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-12T07:33:30.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]My complaint is that \"infinite\" means \"limitless\" or \"unbounded\". Pi is not infinite, because it can be made to have upper and lower bounds.[hr][/quote]<br /><br />1.) Yes, while infinite means limitless, but that does not mean that there are things larger or smaller than it. Thus, we can have a limitless quantity that is twice as large as a certain infinity. Since all infinities are limitless, we can't actually give them any specific value, only say 'this is a certain infinity' and then specify its value next to it.<br /><br />2.) Pi is in its way limitless, in that you can never give me its exact value using only numerals. You can of course [like infinity] give it a symbol, and then write say, 2pi [like infinity] or, you can compare it to other vales [like infinity!] such as:<br /><br />[quote]<b><i>Quote:</i></b>[hr]I can write 3.14 &lt; pi &lt; 3.15, for instance.[hr][/quote]<br /><br />And 1/2infinity &lt; infinity &lt; 2*infinity<br /><br />[quote]<b><i>Quote:</i></b>[hr]You can't create an upper bound for infinity or a lower bound for -infinity (partially because they are not even numbers; in fact, a lower/upper bound is an abuse of notation, since infinity and real numbers are not even the same thing).[hr][/quote]<br /><br />In a case its true, real numbers and infinity are not related, but infinity can be compared with another infinite value, as I've always said; there are an infinite number of integers, but only half as many even integers. Does this mean, since both numbers are limitless, that there are actually as many even as total integers?<br /><br />Of course not! There are half as many.<br /><br />Q.E.D<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21146,
+		"title": "Re: Olers.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-12T08:49:55.000Z",
+		"content": "Haha, cool pic Gal! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21147,
+		"title": "Re: Olers.",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-04-12T22:26:54.000Z",
+		"content": "No, LL, you are quite wrong.  There are indeed different sizes of infinity, but your examples are all the same size.<br /><br />It is easier to demonstrate this using natural numbers and even natural numbers.<br />[pre]  1 2 3 4  5  6  7  8  9 10 ...2 4 6 8 10 12 14 16 18 20 ...[/pre]<br />What do you know, if you put all of the natural numbers in order in one list and all of the even numbers in order in another list, they are the exact same size list.  Give me any natural number and I'll give you the even number that's at the same place in line.  You'll find that integers, rational numbers, and even a select group of irrational numbers that I forget the name of are also the same size.  However, real numbers is a larger infinity.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 21152,
+		"title": "eh",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-13T04:42:57.000Z",
+		"content": "^ my point exactly.<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21153,
+		"title": "sfdlkjl",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-13T04:59:17.000Z",
+		"content": "True, that there can exist things that are \"larger\" or \"smaller\" than one \"limitless\" thing.  The existance of this \"larger\" or \"smaller\" thing for pi, however, does not prove that pi is \"limitless\".  On the contrary, pi is not limitless.  Even though I can never tell you its exact value, neither can you ever tell me, for example, that it is equal to 3.15.  Since it is also not equal to anything greater than 3.15, we can say 3.15 forms an upper bound for it, and thus limits pi's possible values.<br /><br />Similarly, 3.14 forms a lower bound for pi, again limiting its possible values.<br /><br />Infinity and negative infinity, on the other hand, are limitless, because they are each free to enlarge in one direction.  If you claimed infinity was 300 trillion + pi, I'd claim that, since infinity was limitless, infinity should also be representable as 300 trillion + pi + 1.  Not that infinity could ever be any number in the first place, as any number is bounded."
+	},
+	{
+		"id": 21154,
+		"title": "Re: eh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-13T05:29:46.000Z",
+		"content": "The problem being, that if I give you a number x, you cannot pair up all the even and integer numbers. While it seems that both lines are infinitely long [and both can be said to be so] Nonetheless, you will still need twice as many even numbers to match them.<br /><br />For example, if I made a list of all the primes under 100, I could give you any prime, and you could find an integer to match it.<br /><br />Or, somewhat more mathematically:<br /><br />Let us make two sequences; the first being the even integers, the second being all integers:<br /><br />f(1) = 1, 2, 3, 4, 5...<br />f(2) = 2, 4, 6, 8, 10...<br /><br />Now, as you stated, given any term in sequence (2) we can find a matching term in sequence (1) Now we now sum the two sequences. Now we'll say sequence (1) sums to infinity. [Technically, we can argue otherwise, but I'm sure Xtra 'its all infinity' will be happy with this]<br /><br />But what does sequence (2) sum to? At every stage its doubble that of sequence (1), so what happens when both sequences are summed to infinity? [as it were] well obviously;<br /><br />sum(2) = 2*sum(1)<br /><br />Now, Xtra will say of course, that both sums are the same size, that is, infinity. So somehow he's broken the law of multiplication since according to him, 2*x = x <br /><br />Now let us divide the sum of (2) by the sum of (1) at each step.<br /><br />so we get 1/2 =2; 1+2/2+4 =2.. all the way to infinity.<br /><br />Now according to Xtra, at infinity we have infinity/infiniy = 1<br /><br />So now we're disobeying the law of division. Simalar cases can be raised allowing infinity to break addtion and subtraction. This is Xtra's magick infinity, it obeys no laws of mathematics, and you don't have to do any equations.<br /><br />If we want to actually get useful equations however, we have to accept that we can have twice infinity and so on. It all depends on if you're as lazy as Xtra or not.<br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21168,
+		"title": "Re: Mortimer, the devil?",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-13T06:08:19.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The problem being, that if I give you a number x, you cannot pair up all the even and integer numbers.[hr][/quote]<br /><br />You can.  (Although I won't touch your other statements in the meantime, this one is definitely false.)  If you give me any integer, x, in the first list, I will simply give you 2x as its pair in the second list.<br /><br />Thus, every integer, x, in the first list has a pair in the second list, 2x.  It's pretty clear to see that no two integers in the first list, x and x', can have the same pair in the second list, 2x and 2x', unless x = x'.<br /><br />It's also easy to see that any integer in the second list has a unique pair in the first list.  Assume you give me y in the second list.  Since y is even, it is divisible by 2.  Say then, that y/2 is some integer, x.  Since x is an integer, it is in the first list.  Thus, any value you pick from the second list is paired with some value in the second list.  Now, assume we have distinct y and y' paired with the same number in the first list.  Well, that really only works if y/2 = y' / 2, or in other words, y = y'.<br /><br />Therefore, any number in the first list has a unique pair in the second (it is paired to only one, and no other number in the first list is paired to the same one), and vice versa.  Thus, you can pair up all numbers in the first list with all numbers in the second list.<br /><br />--<br /><br />Ok, I lied.  I'll explain what I meant about infinity being \"unbounded\", when you're summing the two sequences.  For both, it's pretty obvious the sums of the sequences do not have an upper bound, i.e. there exists no number x such that the first or second sum is less than x, since I could just keep summing more elements until the sum increases past x.  When you can keep adding element to element forever and have sum increasing in such an unbounded manner, I refer to the sum as \"infinite\"; simply, unbounded.  However, saying that \"the first sequence sums to infinity\" is a misnomer.  The sum of the first sequence simply has no bounded value x, since you can simply keep on exploding it by adding more and more elements.  One can hardly say that it sums to something; it does not, it keeps on going higher and higher ad nauseum.  The same goes for both sequences.  If you claimed the first sequence sums to x, and the second to 2x, I'd say: you can simply add more elements to the sum of the first sequence until you exceed 2x, whatever 2x is.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 21169,
+		"title": "Re: Mortimer, the devil?",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-13T10:50:23.000Z",
+		"content": "Here's two questions, for all you conventional mathematicians out there.<br /><br />Say there exists a bijection/one to one function between two sets (in this case, the natural numbers and the positive evens) such that, in any ordered pair, the y value is always greater than the x value.  Can we say that the sum of all elements in the second set is \"greater\" than the sum of the first?<br /><br />In this case, we in fact have a y-value twice as much as the x-value in each ordered pair.  Since the sums of the sets is simply the sum of each x-value or y-value, respectively, in the function, can we claim that (Sum of evens) / (Sum of integers) = 2?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 21155,
+		"title": "Re: eh",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-04-13T22:26:48.000Z",
+		"content": "I'm not being lazy, I'm simply following the laws of infinity interacting with real numbers.  You are making up your own definition for infinity.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Now, Xtra will say of course, that both sums are the same size, that is, infinity. So somehow he's broken the law of multiplication since according to him, 2*x = x[hr][/quote]<br />Wrong, because variables only represent real numbers.  Infinity is not a real number.  Also, x*infinity always equals infinity according to the convential laws regarding real number/infinity operations.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Now according to Xtra, at infinity we have infinity/infiniy = 1[hr][/quote]<br />Ah but this is not true either, because infinity/infinity is undefined, it cannot be given a value.<br /><br />You might want to look [url=http://en.wikipedia.org/wiki/Infinity#Operations_involving_infinity_and_real_numbers]here[/url][url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 21156,
+		"title": "Re: eh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-14T10:27:58.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You can. (Although I won't touch your other statements in the meantime, this one is definitely false.) If you give me any integer, x, in the first list, I will simply give you 2x as its pair in the second list[hr][/quote]<br /><br />Forgive me, I was very stupid. What I *meant* was, if I give you a number x, you cannot pair up all the integers and even integers less than x.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Ok, I lied. I'll explain what I meant about infinity being \"unbounded\", when you're summing the two sequences. For both, it's pretty obvious the sums of the sequences do not have an upper bound, i.e. there exists no number x such that the first or second sum is less than x, since I could just keep summing more elements until the sum increases past x. When you can keep adding element to element forever and have sum increasing in such an unbounded manner, I refer to the sum as \"infinite\"; simply, unbounded. However, saying that \"the first sequence sums to infinity\" is a misnomer. The sum of the first sequence simply has no bounded value x, since you can simply keep on exploding it by adding more and more elements. One can hardly say that it sums to something; it does not, it keeps on going higher and higher ad nauseum. The same goes for both sequences. If you claimed the first sequence sums to x, and the second to 2x, I'd say: you can simply add more elements to the sum of the first sequence until you exceed 2x, whatever 2x is.[hr][/quote]<br /><br />Counterpoint; what if I set x as the sum of sequence (1)? Not as a number, but as the sum. Like we set pis value to the symbol pi, we don't know the exact value, but we can say for example pi =  d/2r Then what is the second series sum, in terms of the first? What I take issue with is when people claim you cannot do equations with unbounded values. I think its lazy to simply say 'oh yes, all sequences like that sum to the same value' you may not think that way, but its what you're saying!<br /><br />[quote]<b><i>Quote:</i></b>[hr]Can we say that the sum of all elements in the second set is \"greater\" than the sum of the first?[hr][/quote]<br /><br />Yes. quite easily enough. For example, we make a third series, which is the ratio of the sum of the first to the second series. The first term is 1/2 = 2 the second term 1+2/2+4 = 2 and so on. So the term at infinity is?<br /><br />[quote]<b><i>Quote:</i></b>[hr]I'm not being lazy, I'm simply following the laws of infinity interacting with real numbers. You are making up your own definition for infinity.[hr][/quote]<br /><br />And its funny, but mine appears to be used in physics, and *gasp!* it obeys the laws of addition,subtraction, multiplication and division; what makes your definition so great?<br /><br />[quote]<b><i>Quote:</i></b>[hr]Wrong, because variables only represent real numbers. Infinity is not a real number. Also, x*infinity always equals infinity according to the convential laws regarding real number/infinity operations.[hr][/quote]<br /><br />Strange made up laws. I love mathematics! It doesn't have to make sense if it works out!<br /><br />Either way, I ask you Xtra, bo both previously mentioned series sum to the *same* value? And, can you then have a ratio of the sums of those series to infinity?<br /><br /><br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21157,
+		"title": "Re: eh",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-04-14T20:40:28.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Forgive me, I was very stupid. What I *meant* was, if I give you a number x, you cannot pair up all the integers and even integers less than x.[hr][/quote]<br /><br />That doesn't prove anything.  You're telling me that we cannot pair the elements of two particular bounded sets (with a maximum and minimum value).  However, since we are dealing with two unbounded sets (no maximum value) their properties can easily be different.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Counterpoint; what if I set x as the sum of sequence (1)? Not as a number, but as the sum.[hr][/quote]<br /><br />And what is the sum?  It's not a real number, since if you told me that the sum was any real number, I could sum more terms and get a greater sum.  (Unless you're into analytic continuation.)  I hardly think it's imaginary.  Thus, we're left in a hole, wherein we don't know what form this sum is - and thus we don't know if any comparative operators work on it. (So, for example, we cannot figure out whether S1 &gt; S2, unless we define a comparative operator for this new number type.)<br /><br />On the other hand, the instant we establish a maximum and minimum bound for pi (3.14 &lt; pi &lt; 3.15), we know that, if the partial sum of the series defining pi converges (i.e. the sum of the series doesn't jump around within the interval indefinitely; the sum gets closer and closer to only one point within that interval) then the value of pi must be one real number, and only one real number, within that interval.  <br /><br />Not only doesn't your series converge (each partial sum blows up), but its sum is also unbounded.<br /><br />[quote]<b><i>Quote:</i></b>[hr]And its funny, but mine appears to be used in physics[hr][/quote]<br /><br />Show me.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]"
+	},
+	{
+		"id": 21158,
+		"title": "Re: eh",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-04-19T05:59:03.000Z",
+		"content": "Levellord, yuo are attempting to say that transcendental numbers and infinity sets are the same.<br /><br />WRONG.<br /><br />definitions:<br /><br /><b>rational:</b><br /><br />numbers which can be written easily, ie 3, 5.2, 7.131313 reccuring.<br />Where numbers have decimals which cancel out be become x. ... 0000000000000 after a while or a set repeating pattern, like 0.1234123412341234.<br /><br /><b>irrational</b><br /><br />numbers with set values which don't follow a pattern, but can still be simplified. for example, squareroots tend to be irrational numbers. ie the squareroot of 5 is 2.236067977499789696964091736687313... this canstill be simplified, of course, as squaring it makes 5<br /><br /><b>TRANSCENDENTAL:</b><br /><br />numbers which can be followed as having a set value, (3.14&lt;pi&lt;3.15)  but cannot be simplified. the most common transcendental number is pi, followed by e, the the golden ratio.<br />(Incidently e is used most in working out interest, so if transcendental numbers were infinite i'd have $infinite in my bank account. sadly this is not so. *sigh*. also circles would always be infinitely big, as would perfect rectangles. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] )<br /><br /><b>INFINITY SETS:</b><br /><br />numerical operations used to gain numbers so big they can't be expressed.<br /><br />[hr]<br /><br />happy?<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 21159,
+		"title": "Re: eh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-20T01:48:22.000Z",
+		"content": "No, not the same, just simalar in concept. I *do* know basic definitons you now.<br /><br />But whatever, this is going too much like a religion topic for my taste.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21170,
+		"title": "sldfkj",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-06-14T10:46:41.000Z",
+		"content": "Here's a question for LL to ponder:<br /><br />Which has more points: the (closed, or open if you'd prefer) interval on the real number line from 0 to 1, or a section of the plane 1x1 unit^2 in size?  How about comparing the points on the interval to the points on a cube 1x1x1 unit^3?  How about to a hypercube (or whatever it is) 1x1x1x1 unit^4?<br /><br />How about just, very simply, comparing the natural numbers/positive integers to the set of all evens (positive and negative and 0)?  Does one have more \"points\" than the other?"
+	},
+	{
+		"id": 21113,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-06-14T10:55:04.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Hehe. Usually 'the holy number' is 777.<br />Edit: Although I've no idea where they've got that. I've never heard any church mentioning 777, so I guess it's mostly something modern culture thing.[hr][/quote]<br /><br />I've just noticed this while getting someone to read this thread, and thought I'd share Crystal's wisdom, because it's an interesting story.  Apparently, back in the day, 7 was the number of perfection, and reiterating something 3 times was similar to exemplifying it, so saying \"seven, seven, seven\" was to utter something near-prefect.  By a similar token, 6 was the number of imperfection - so close to being perfect, and yet never quite able to reach it.  Reiterating that three times leads to the number of man.<br /><br />216 was ever the more creative number, though.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21114,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-15T13:21:59.000Z",
+		"content": "Oooh, almost forgot about this thread!<br /><br />[quote]<b><i>Quote:</i></b>[hr]Which has more points: the (closed, or open if you'd prefer) interval on the real number line from 0 to 1, or a section of the plane 1x1 unit^2 in size? How about comparing the points on the interval to the points on a cube 1x1x1 unit^3? How about to a hypercube (or whatever it is) 1x1x1x1 unit^4?[hr][/quote]<br /><br />This is interesting. The dimensionality of fractalsis based on this. There are an infinite number of 0D points in a line between 0 and 1 on the number line. the square 0,0 to 1,1 on the plane of real 2D cordinates consits of an infinite number of these 1D lines [each consisting of an infinite number of points] same goes for a cube and hyper cube. The more dimensions, the more space and the more 'points' you can fit in.<br /><br />An interesting example is fractals, which can be described as say, 2.5D How? Well, if you think of a line, it is 1D Now, we make this line complicated, so it curls around in a square pattern  over and over, so it ends up covering a lot of the surface. Still 1D? Mebbeh. Say we make the line so complex it covers every single point on a 2D plane, now that 1D line is 2D! Inbetween is must be some kind of fractional dimesnioness, like 1.33D Don't ask me how, but apprently you can calculate the dimensioness of fractals.<br /><br />[quote]<b><i>Quote:</i></b>[hr]By a similar token, 6 was the number of imperfection[hr][/quote]<br /><br />I don't see why, wouldn't 8 be better? A tiny bit left over, never fitting in? Or 1? Or even 0?<br /><br />Stupid evilness.<br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21115,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-06-15T15:57:08.000Z",
+		"content": "Funny, I thought I'd typed something else.  Stupid hand.  But, to extend on the previous question, instead of comparing the interval from 0 to 1, how about comparing the number of points on the entire real numberline and half the real numberline (-infininty to infinity and 0 to infinity) to the number of points in the 1x1 square, 1x1x1 cube, and 1x1x1 hypercube?<br /><br />And don't forget the second question [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   All natural numbers vs all even integers, who wins?<br /><br />---<br /><br />I can only speculate it has to do with our (and angels') ability to get infinitely close to perfection, yet be unable to actually reach it.  As they'd never learnt about decimal values, and decided to express magnitude with some correlation to amount, the number 6 became this number closest to the perfect 7.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21116,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-21T12:44:43.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Funny, I thought I'd typed something else. Stupid hand. But, to extend on the previous question, instead of comparing the interval from 0 to 1, how about comparing the number of points on the entire real numberline and half the real numberline (-infininty to infinity and 0 to infinity) to the number of points in the 1x1 square, 1x1x1 cube, and 1x1x1 hypercube?[hr][/quote]<br /><br />Now *that* is interesting. We could of course take the easy way out and say well, they're all infinite so whats the problem?<br /><br />Taking a more analytical look, since the line 1-2 has an infinite number of points on it half the real numberline has infinitely more points than that [infinity squared, like the 1x1 square] and the real number line twice that. Then the cube would have infinity cubed, et cetera. What I like about this look is that it says each infitesmal is a pint and that a line of infinite length has as many points on it as a unit square. Its almost poetic really.<br /><br />Of course there are other ways of looking at it, depending on what you decide is your 'base' infinity, but I'm a poet at heart.<br /><br />[quote]<b><i>Quote:</i></b>[hr]And don't forget the second question [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  All natural numbers vs all even integers, who wins?[hr][/quote]<br /><br />Now that is interesting, what do we mean by win? The natural numbers range from -infinity to +infinity, thus can we pair them with even numbers? Well yes:<br /><br />1   2<br />-1  4<br />2   6<br />-2  8...<br /><br />So in theory its a tie. Another way of looking at it would say there are an infinite number of integers, ergo doubble infinity of natural numbers and only half infinity of even integers, thus there are four times as many natural numbers as even integers. I also like this because it naturally makes predictions; that when you look in a random place on the nat vs e.i list, the first term will tend toward a quarter of the second term, or alternately, if we want both terms to tend toward [absolute] equality we must use each e.i four times:<br /><br />1 2 -1 2<br />2 2 -2 2<br />3 4 -3 4<br />4 4 -4 4<br /><br />Sometimes I love math!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21117,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-06-21T23:20:48.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Taking a more analytical look, since the line 1-2 has an infinite number of points on it half the real numberline has infinitely more points than that [infinity squared, like the 1x1 square] and the real number line twice that. Then the cube would have infinity cubed, et cetera. What I like about this look is that it says each infitesmal is a pint and that a line of infinite length has as many points on it as a unit square. Its almost poetic really.[hr][/quote]<br /><br />The obvious next question is: how do you know it is the unit square that has the same number of points as half the number line, and not the unit cube (or hypercube, etc.)?  And, of course, how do you know it's not the entire number line that has the same number of points as the unit square (in which case half the number line would actually have Fewer points than the unit square)?<br /><br />Similarly, what if I took half the number line, and took half the points out (say I took out the points between 1-2, 3-4, 5-6, etc).  Would this new set (let's call it a quarter of the number line, or Q for short) have the as many points as the unit square, or would it have only half the points?  For example, could I make the claim \"Q has as many points as half the unit square 0 &lt; x &lt; 1, 0 &lt; y &lt; 0.5; but it has fewer points than the entire unit square\"?<br /><br />I should also ask if the reverse is true of the whole numberline.  Since half the number line has as many points as the unit square, could I claim the entire numberline has as many points as 2x the unit square, but not as many as the unit square?<br /><br />---<br /><br />[quote]<b><i>Quote:</i></b>[hr]Now that is interesting, what do we mean by win? The natural numbers range from -infinity to +infinity, thus can we pair them with even numbers? Well yes:<br /><br />1 2<br />-1 4<br />2 6<br />-2 8...[hr][/quote]<br /><br />What about 0? (this is a serious question)<br /><br />[quote]<b><i>Quote:</i></b>[hr]So in theory its a tie. Another way of looking at it would say there are an infinite number of integers, ergo doubble infinity of natural numbers and only half infinity of even integers, thus there are four times as many natural numbers as even integers.[hr][/quote]<br /><br />Wouldn't that be a half infinity of natural numbers (since the natural numbers are the positive integers only)?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21118,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-23T12:28:57.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The obvious next question is: how do you know it is the unit square that has the same number of points as half the number line, and not the unit cube (or hypercube, etc.)? And, of course, how do you know it's not the entire number line that has the same number of points as the unit square (in which case half the number line would actually have Fewer points than the unit square)?[hr][/quote]<br /><br />This is the kind of  question maths teachers hate. Well, this depends on both our definitions of infinity and the plane, cube, etc.<br /><br />Now, I use the 'classical' definition of line, plane, etc. A 1D line consists on an infinite number of 0D points, a 2D plane consists of an infinite number of 1D lines, etc. From then its just a matter of math. Of course there are other ways of looking at this [Are there spaces between the lines? What about crossed lines...] But for this analysis its just math that detwrmines the amounts. By the definitions I use, it is simple math that a unit plane has infinitely more points than a unit line.<br /><br />This is simalar to getting the size of atoms. They jiggle around; in compounds they're polarized, what is halfway between two atoms? Etc. The important thing is to agree on some basic rules you can use to solve a problem.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Similarly, what if I took half the number line, and took half the points out (say I took out the points between 1-2, 3-4, 5-6, etc). Would this new set (let's call it a quarter of the number line, or Q for short) have the as many points as the unit square, or would it have only half the points? For example, could I make the claim \"Q has as many points as half the unit square 0 &lt; x &lt; 1, 0 &lt; y &lt; 0.5; but it has fewer points than the entire unit square\"?[hr][/quote]<br /><br />Yes, you could make that claim, so long as we define the squares number of points relative to the numberline [n] or some multiple of it.  Half of infinity is half of infinity, and so on.<br /><br />Things break down if we don't stick to the definitions I specified at the start though. For example, we could take half the numberline and use only 1/100th of the points [remove points 0-99, 100-199...] Now, that still consists of an infinite number of numbers right? each with an infinity of points between them. And a square of any size can be said to have an infinite number of points on it, so there is infinitely *more* points on it than the square.<br /><br />This is the relm of paradox, where you can go into the infinity bank,[where you have an infinite amount of money stored] and withdaw $2 infinitely many times and still have an infinite amount of money left. Verily infinity is hard to pin down.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I should also ask if the reverse is true of the whole numberline. Since half the number line has as many points as the unit square, could I claim the entire numberline has as many points as 2x the unit square, but not as many as the unit square?[hr][/quote]<br /><br />*pants in mid rant* Yes.<br /><br />[quote]<b><i>Quote:</i></b>[hr]What about 0? (this is a serious question)[hr][/quote]<br /><br />The 0 is pedantic, we can still pair the numbers;<br /><br />0   2<br />-1 4<br />1  6<br />....<br /><br />However there are cases where that lil number can be a sod. For instance, what is 4/0? It it ifinity? 4x infinity? bigger than? Smaller than? 4/0 * 0/4; what is it?<br /><br /><br />[quote]<b><i>Quote:</i></b>[hr]Wouldn't that be a half infinity of natural numbers (since the natural numbers are the positive integers only)?[hr][/quote]<br /><br />Ooop, forgive me, long time since grade school. Replace 'natural numbers' with 'positive and negative integers' for that whole argument. The same basic principles still apply.<br /><br />Either way, infinity is a difficult subject, with care we can use it, but it still boggles our minds. [How many 0D points are there in an infinity of infinite universes?]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21119,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-07T00:56:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Now, I use the 'classical' definition of line, plane, etc. A 1D line consists on an infinite number of 0D points, a 2D plane consists of an infinite number of 1D lines, etc. From then its just a matter of math. Of course there are other ways of looking at this [Are there spaces between the lines? What about crossed lines...] But for this analysis its just math that detwrmines the amounts. By the definitions I use, it is simple math that a unit plane has infinitely more points than a unit line.[hr][/quote]<br /><br />That's not what I asked though; what I was asking dealt with infinite or half-infinite lines [rays], not a unit line, and why the half-infinite numberline was equivalent to the unit square, and not the unit cube (which is, after all, just an infinite number of unit squares = infinite number of unit lines^2).  Partially, the question is why there are as many unit lines in half the entire numberline as there are in the square, rather than in the cube, hypercube, etc.  Also, the question was how you knew that some other portion of the numberline, rather than half the entire numberline, was not equivalent to the unit square, cube, etc.  After all, it seems just as feasible that the entire numberline could contain \"as many\" unit lines as the unit square.  Why is it the case that only half the entire numberline contains \"as many\" unit lines; or, how do you know that is the case?<br /><br />[quote]<b><i>Quote:</i></b>[hr]Yes, you could make that claim, so long as we define the squares number of points relative to the numberline [n] or some multiple of it. Half of infinity is half of infinity, and so on.[hr][/quote]<br /><br />Am I interpreting this correctly?  We have to define whether something has as many points as something else?  I mean, how do we know that Q doesn't contain as many points as the unit square, yet again?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21120,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-07T02:57:42.000Z",
+		"content": "I'm really begginning to like you.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I was asking dealt with infinite or half-infinite lines [rays], not a unit line, and why the half-infinite numberline was equivalent to the unit square, and not the unit cube (which is, after all, just an infinite number of unit squares = infinite number of unit lines^2).[hr][/quote]<br /><br />Right. Well, usig *the definitions I was using* they are equivalent. You ask how I know whether it is the square, not the cube, etc that is equivalent. This all depends apon what we define 'point' 'line' 'square' and 'cube' as. You *can* make half the numberline equivalent to a cube, not a square IF you adopt a different set of definitons to mine.<br /><br />Your question is equivalent to 'When I throw something, how do I know its not me moving while it stays still?'<br /><br />[quote]<b><i>Quote:</i></b>[hr]Also, the question was how you knew that some other portion of the numberline, rather than half the entire numberline, was not equivalent to the unit square, cube, etc. After all, it seems just as feasible that the entire numberline could contain \"as many\" unit lines as the unit square.[hr][/quote]<br /><br />Again, definitons. If a segment 'x' of the numberline contains y points, then half of x must contain half y points. Even if y is infinity. So of course you could say 'this piece of the numberline contains infinity points' and be right.<br /><br />You're looking at this newtonianly; thinking that just because it makes snese to me you cannot have a contrasting viewpoint. The important thing is to be able to do osmething useful with infinity, to be able to say 'that is twice as big, that is three times as small' not 'this is infinity, and everyone will use it Q.E.D'<br /><br />Whatever part of the numberline you define to have an infinite number of points, I can esily convert my measurements to, like converting feet to meters, they measure the same thing [Distance or number of points] but use different units.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Am I interpreting this correctly? We have to define whether something has as many points as something else? I mean, how do we know that Q doesn't contain as many points as the unit square, yet again?[hr][/quote]<br /><br />The entire situation can be summed up as follows:<br /><br />You wake up in an utterly bare, infinite room. You can see neither walls nor ceiling, nor any other objects. At your feet there is a cross. Now thats all very nice, but you want to know where you're going, so you can get back to your starting point if you get lost. So you look one way and say 'this is forward, behind is backward, and there is left and right' You don't *know* this, maybe forward was behind you, but you can't do anything until you define a few things. Now you think 'each step I take, that will be one 'step' and you set off, marking the steps on your path, going forward.<br /><br />After a while you see me, I am also moving, straight towards you, also marking off distance on the ground. When we approach you say 'I have been going forward for 400 steps.' And I reply 'But *i* have been going forward also, for 600 steps!' Which one of us is right? And how do we know?<br /><br />I can convert my system into yours, by noting that my forward is your backward and that my 'step' is exactly 2/3 of yours. Thus, on your system I have been moving bacwards for 400 steps.<br /><br />In this, neither of us knows that we are right, neither of us can prove that our definitions and measurements are correct, but by using them we obtain information useful to both ourselves and others.<br /><br />So maybe your square is my cube; so long as both our systems are logical and interconvertable.<br /><br />*whew!* :/end philospohy<br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21121,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-07T20:07:13.000Z",
+		"content": "Don't worry, I'm really begginning to like you too.  Or actually, run away screaming is more like it.<br /><br />[quote]<b><i>Quote:</i></b>[hr]This all depends apon what we define 'point' 'line' 'square' and 'cube' as. You *can* make half the numberline equivalent to a cube, not a square IF you adopt a different set of definitons to mine.[hr][/quote]<br /><br />This gets me confused.  I personally define the unit interval as the set of all real numbers between 0 and 1 (definitions vary depending on whether it's open or closed, but I don't think either of us really care about that), and define the unit square as the set of all ordered pairs such that both real numbers in each pair are between 0 and 1... similarly, the unit cube is the set of all ordered triplets[...], the unit hypercube the set of all ordered quadruplets[...] etc; I think you get the idea.  Likewise, half the numberline I define as the set of all positive real numbers... I think you can deduce the rest of my definitions from there.  I'm not sure how any of these definitions might be changed so that we can suddenly make one set have the same number of points as another where it hadn't before (under another definition).  Can you explain more?<br /><br />Likewise, I'm not that great with some analogies =/.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21122,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-08T06:08:11.000Z",
+		"content": "Right; well now; you certainly have some interesting definitons; based on ordered pairs.<br /><br />My definiton of a point is an 0D isntance, that is, one thing. The number 1 is a point, as is 1.375, and so on. The set of all possible real numbers between 0 and 1 is infinite, and creates the unit 1D line. The unit square is a square of sidees of the unit line. It can be said to contain all the possible multiplications between )x0 and 1x1 or an infinite number of points multiplied by themselves [infinity^2] Same with the cube, this is a lot like your ordered pairs definition.<br /><br />Like you said then, since the real numberline goes from infinity to to -infinity, it contains 2infinity integers There will be an infinite number of points between each of these, and so on. From what I can see your definitions are close, if not nearly identical to mine.<br /><br />If you want you can think of folding the number line up; first fold it in half, then quarters... like a map it'll get thicker each time till its folded up real short and real fat.<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/bdt.png[/img]<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21123,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-09T20:59:08.000Z",
+		"content": "From what I can see, our definitions Are identical.  So, to ask the original question, how does changing them slightly make one set equivalent to another when it wasn't before?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21124,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-10T13:06:20.000Z",
+		"content": "Its like converting between feet and meters; we don't change our origional definitions, we merely use a conversion factor, because two people using the same system is better than using two different systems.<br /><br />You're gonna be in the papers someday, I'll loook out for ya.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21125,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-10T15:27:41.000Z",
+		"content": "Yet equivalence is reflexive.  If I say 1m = 3.2ft, and two objects are both 2m (and thereby supposedly equivalent), then they are still equivalent even if I say both objects are 6.4ft.  Under no metric do they suddenly become unequivalent.  Similarly, if one object's 2m and the other 1.5m, switching to feet, or anything else, should not suddenly make them equivalent.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21126,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-11T12:29:05.000Z",
+		"content": "Thats true, and also implied.<br /><br />When we make our *systems* equivalent  we can see whether or not our *measurements* are equivalent. Any two *systems* can be interconverted, thats simple logic, but if we want to see if your yardstick is as long as my ruler, we'll need to use the same units.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21127,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-11T16:39:12.000Z",
+		"content": "So.. how can changing whatever definition change the equivalence of two sets?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21128,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-12T09:26:41.000Z",
+		"content": "Well; infinity is harder to work with than normal numbers. For example, a square meter is 1m by 1m; while a square of infinite sides, well, it can contain all sorts of stuff depending on how you look at it.<br /><br />So while normally when we change our systems, we're not changing definitions at all. 1m or 1ft; both use the *exact* same definitions, they're just a different magnitude.<br /><br />Whereas with infinity we can do all sorts of odd stuff, and we can actually *change* our definitons. THIS can change equivalences. You've heard the math book examples? If you had a hotel with infinite rooms, all full, and an infinite number of new guests arrived? These things don't often make sense, because they use the definition 'x.infinity = infinity'<br /><br />So don't worry about it, the bottom line is you can do a lot with infinity that doesn't make sense. You, you sound like a nice sensible girl, lets have lunch sometime.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21129,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-12T13:28:26.000Z",
+		"content": "Actually, that example with the hotel only really works if you accept (sorta) that there are as many positive evens as natural numbers.<br /><br />Reason: take every natural number, multiply it by 2, in doing so forming a new set.  This set still has the same size as the natural numbers, as no numbers were added or removed (simply all were multiplied by 2), but alas! This set is the set of all evens.<br /><br />I still can't claim I understand what you mean with changing definitions/systems, but sure, lunch?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21130,
+		"title": "Re: yey",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-15T03:47:10.000Z",
+		"content": "Indeed, either next week, or whenever it is we actually meet.<br /><br />Its a pity I can't expalin it better, but at least you speak a lot more sense then most people online, who would've either abandonded the discussion, resorted to trolling or just stuck to their opinion without even trying to consider the other point of view.<br /><br />There are plenty of people who should read and consider this topic, sadly none of them belong to the Keen community.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21131,
+		"title": "Re: yey",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-18T04:45:35.000Z",
+		"content": "Well, a number of points discussed here are debatable, for example the idea the x*infinity doesn't always equal infinity. <br />i is another interesting point as well, at any rate I find any number which cannot imeediatly be placed anywhere on a line interesting. <br />Concepts of infinity have certainly evolved beyond the simple concept now...<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 21132,
+		"title": "Re: yey",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-18T23:43:23.000Z",
+		"content": "I've stopped getting it a while ago, and I likely should stop caring as well =/  Was next week supposed to be a keeners' meeting or something? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />yorp, infinity is actually a very simple concept.  a set is defined to be infinite if there exists a bijection (one to one function) from that set onto a proper subset of itself (proper = it can't be the same set; it has to actually be \"smaller\").    if you're not familar with any of these terms, there are more detailed and easily understandable explanations are on google.  Somehow this definition is equivalent to the intuitive one.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21133,
+		"title": "Bah",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-19T04:32:21.000Z",
+		"content": "Bah, I'm well aware of the concepts of infinity. But like I said, some are debateable.<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 21134,
+		"title": "Re: Bah",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-21T10:05:30.000Z",
+		"content": "Yes, but logic limits the debateablility of many of these points, after all, how do we *really* know 1 + 1 = 2? You'd think thats obvious; but the equation 2*2 = 4 based on 1 + 1 = 2 is 5 pages long, I should look it up for you.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21135,
+		"title": "Re: Common sense",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-21T23:00:53.000Z",
+		"content": "True, in proofs nothing should realy be said as 'obvious', since a lot of logic proofs DO require a lot more than some advanced ones. Often in proofs you'd want to base it on previous proofs for segments of your new one.<br />Then again, some people do accept inductive reasoning, but nobody should really count on it... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 21136,
+		"title": "Re: Common sense",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-22T03:58:21.000Z",
+		"content": "Cucumbers are green.<br /><br />FreeYorp is green.<br /><br />Ergo FreeYorp is a cucmber.<br /><br />OR:<br /><br />All of the set 'cucumbers' are a subset of the set 'green things'<br /><br />FreeYorp is an item in the set 'green things'<br /><br />Ergo FreeYorp is an item in the set 'cucmbers'A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21137,
+		"title": "Re: Common sense",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-22T05:59:37.000Z",
+		"content": "using your logic, something like this could be said:<br /><br />1 is a number.<br /><br />2 is a number.<br /><br />Ergo 1 is 2. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />[hr]<br /><br />lets see, logic problems.<br /><br />1. everyone is afraid of motimer.<br />2. mortimer is only afraid of keen.<br /><br />thus keen must be mort! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />(don't panic, this deduction is only based on the assumption that all statements are true. I was lying, so keen may or may not be mort. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  )<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 21138,
+		"title": "Re: Common sense",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-07-22T17:19:12.000Z",
+		"content": "You know that's a logical fallacy.  Look up affirming the consequent.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 21139,
+		"title": "Re: Common sense",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2006-07-22T18:27:04.000Z",
+		"content": "Blink, why's everyone intentionally spewing logical fallacies?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img]"
+	},
+	{
+		"id": 21140,
+		"title": "Re: Common sense",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-23T12:30:00.000Z",
+		"content": "Because thats my *favourate* fallacy; its found a lot in court cases 'there is a 1/1'00000 chance that that fingerprint isn't yours' BUT 'there is only a 1 in 4 chance you are guilty given that fingerprint matches yours'<br /><br />People don't realize things like that, indeed, many a scam has benn made on it.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"id": 105,
+		"title": "Keen 4 control problem",
+		"author_id": 1486735,
+		"author_name": "calenae",
+		"timestamp": "2006-05-05T16:18:14.000Z",
+		"content": "I'm having problems with entering the villages.  I know the control key should allow me to enter the village but it's not.  I've tried other keys and haven't found on that works.  I was hoping someone here could help me figure out what is wrong."
+	},
+	{
+		"id": 3130,
+		"title": "Re: Keen 4 control problem",
+		"author_id": 1485755,
+		"author_name": "Scizor CT",
+		"timestamp": "2006-05-05T19:52:36.000Z",
+		"content": "Are you running the game through plain Windows XP or Dosbox?"
+	},
+	{
+		"id": 3131,
+		"title": "hmm.",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-05-05T23:02:48.000Z",
+		"content": "First, double-check your controls in the Options menu.  The copy you downloaded might have had the default controls changed. <br /><br />Second, double-check that you're not holding down any arrow keys while you try and enter--some newer keyboards don't allow more than 2 keys to be pressed at once."
+	},
+	{
+		"id": 3132,
+		"title": "Re: hmm.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-06T02:54:18.000Z",
+		"content": "a+2+Enter<br /><br />Followed by F10+W<br /><br />Followed by 1 [or 2]<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3133,
+		"title": "Re: keen4 control problems",
+		"author_id": 1485744,
+		"author_name": "wattojawa",
+		"timestamp": "2006-05-06T13:56:33.000Z",
+		"content": "the kkey commands for keen 4-6 are as follows<br /><br />arrows: movement<br />control: jump<br />alt: pogo on/off press control while pogoing to jump higher<br />space bar: fire shots and enter levels <br />enter: show status panel<br /><br />note: 2 button firing should be turned off<br /><br />hope this helps"
+	},
+	{
+		"id": 3134,
+		"title": "Re: keen4 control problems",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-07T02:48:58.000Z",
+		"content": "Well, if you can't get into the levels, I repeat my advice above, just cheat and warp into them, then when you finnish the level, it'll be done on the map.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3135,
+		"title": "Re: keen4 control problems",
+		"author_id": 1486735,
+		"author_name": "calenae",
+		"timestamp": "2006-05-07T14:59:08.000Z",
+		"content": "I'm running it through DOSBox.  I had to use the warp to get into a level but then once I got into the level Keen wouldn't do any jumping or firing.  I could only run around."
+	},
+	{
+		"id": 3136,
+		"title": "Re: keen4 control problems",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-05-07T16:20:49.000Z",
+		"content": "Try to delete your CONFIG.CK4 file, as it will reset your controls to the defaults."
+	},
+	{
+		"id": 3137,
+		"title": "Re: keen4 control problems",
+		"author_id": 1486735,
+		"author_name": "calenae",
+		"timestamp": "2006-05-07T20:40:06.000Z",
+		"content": "That did the trick....THANKS!!"
+	},
+	{
+		"id": 3138,
+		"title": "Re: keen4 control problems",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-08T07:19:45.000Z",
+		"content": "Hmmm, maybe your settings got scrambled, that happens to me on Keen 1 sometimes, didn't know it'd happen on K4.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

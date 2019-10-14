@@ -1,0 +1,106 @@
+[
+	{
+		"id": 110,
+		"title": "Keen 4 on XP",
+		"author_id": 1485882,
+		"author_name": "yorphead",
+		"timestamp": "2006-02-05T00:45:16.000Z",
+		"content": "Hi guys I'm new here and I'm sure youve been asked questions about running keen on XP before. Ive tried running ck4 on dos, ive downloaded emulators like DOSBox, and Ive fiddled about with memory and stuff like that on my computer. However, every time I run commander keen 4 and above the screen flickers horribly. I have tried using the screen flicker and VGA thing on the in game options but it still flickers! I really hope someone on this forum can help me out and I hope I can become part of the keen community.<br /><br />Cheers<br /><br />Mike"
+	},
+	{
+		"id": 3185,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-05T00:51:07.000Z",
+		"content": "What version do you have?<br />Try downloading a newer version (i think 1.4 or 1.5 is the highest)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3186,
+		"title": "Progress... but at what cost?",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-02-05T01:13:47.000Z",
+		"content": "It does the same thing on my 'more modern' computers. It's to do with the graphics card rather than XP itself. If you booted to pure DOS I doubt the results would be any better.<br /><br />In fact it tends to happen on some old 2Mb onboard adapters. Just something they don't like about ModeX.<br /><br />Ultimately, either DOSbox or a Keen-O-Matic are the best solutions.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3187,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-02-05T01:14:44.000Z",
+		"content": "1.4 is the latest version of Keen 4, but you said you've already tried the fix jerky motion (which is only in version 1.4, IIRK) so your version probably isn't the problem.<br /><br />I just checked Keen 4 in DOSBox on the XP computer I'm using at the moment, and I have the same problem. Lowering the cpu cycles seems to reduce the amount of jerkiness, though. Try setting it to something like 800.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 3188,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1485882,
+		"author_name": "yorphead",
+		"timestamp": "2006-02-05T16:32:55.000Z",
+		"content": "Thanks for your help guys. What is Keen-O-Matic and where can I get it? Also, how can I lower the cpu cycles on DOSBox?"
+	},
+	{
+		"id": 3189,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-02-05T18:09:41.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]What is Keen-O-Matic and where can I get it?[hr][/quote]<br />\"Keen-o-matic\" is Keen community slang for an ancient PC with a slow processor and an old graphics chipset. You might be able to find one at a yard sale or on eBay for a few dollars.<br />[quote]<b><i>Quote:</i></b>[hr]Also, how can I lower the cpu cycles on DOSBox?[hr][/quote]<br />DOSBox comes with a manual containing instructions on how to do this. AFAIK, you can find it on DOSBox's start menu entry.[url=http://last.fm/users/grafix5000/][img]http://toxicsheep.com/sigs/scrobbler.png[/img][/url]<br />[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 3190,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-02-06T09:08:41.000Z",
+		"content": "Yeah, the menu at the start od DOSBox does briefly explain how to change the cpu cycles and frameskips. <br /><br />Ctrl + F11 is the shortcut used to decrease cpu cycles in DOSBox.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 3191,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1486238,
+		"author_name": "Adim",
+		"timestamp": "2006-03-25T15:33:30.000Z",
+		"content": "Hiya ppl!!<br />First of all I'd like to greet the whole community and state that I found a way to fix screen jerkyness on win xp using dosbox.<br />Aparently on patch 1.4 by goodtimes software (didn't try the others) switching OFF \"fix jerky motion\" and leaving the svga compatibility on seems to do the trick for me [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img] <br />So now I can finally play the game again after 8 years or so [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br />Chers!"
+	},
+	{
+		"id": 3192,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-25T20:11:21.000Z",
+		"content": "Heh, welcome. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Glad you got it working.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3193,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1486238,
+		"author_name": "Adim",
+		"timestamp": "2006-03-26T04:55:04.000Z",
+		"content": "Heheh.. me too :]<br />BTW it work with Keen5 pathed and Keen6 although this one is quite lagy when loading ;]<br />Today I finished the 4'th one :]<br />Memories roxs! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 3194,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-26T07:46:50.000Z",
+		"content": "Huzzah! A new member, and by the sound of iit a productive and involved one!<br /><br />Can I be let off my chain now? I promise I'll be good this time!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3195,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-26T09:06:49.000Z",
+		"content": "I'm probably late with this, but when you open the dosbox.conf file in DOSBox's installed folder, you can change the default graphics driver. I think there's SDL, OpenGL, DirectX and some more video drivers available.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 3196,
+		"title": "Re: Keen 4 on XP",
+		"author_id": 1486238,
+		"author_name": "Adim",
+		"timestamp": "2006-03-26T14:28:26.000Z",
+		"content": "Well I use D-fend frontend for dosbox (nice and easy) and as far as I know this option is ment to make a game \"look better\" (smoother graphics, etc.), not to fix graphic related problems"
+	}
+]

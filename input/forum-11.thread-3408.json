@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1361,
+		"title": "Jill plays NiN",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2007-05-31T17:07:15.000Z",
+		"content": "Dunno why I JUST noticed this a couple days ago, but while I was listening to NiN's song \"Terrible Lie\" I realized it was exactly like the digitized version of one song from Jill of the Jungle, which made me wonder if all the songs from Jill were rip-offs from popular songs...  any thoughts?"
+	},
+	{
+		"id": 29102,
+		"title": "Re: Jill plays NiN",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-31T22:03:38.000Z",
+		"content": "Well one of the songs has a filename of \"zeppelin\"...no idea if it's a ripoff though."
+	},
+	{
+		"id": 29103,
+		"title": "other song names?",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2007-06-02T15:01:27.000Z",
+		"content": "I thought the same actually.  Unfortunately I've never been a big Led Zeppelin fan, so I have no clue which it might be...<br /><br />My computer has been inaccessable for the past week, and will most likely be so for the next month (I'm using a public terminal), could you list the names of the other Jill songs?  I think I could pinpoint which sounds like the NiN song merely from the name..."
+	},
+	{
+		"id": 29104,
+		"title": "Re: other song names?",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2007-06-02T16:07:10.000Z",
+		"content": "Jill 1:<br />DAN.DDT<br />FUNKY.DDT<br />IT.DDT<br />JUPITER.DDT<br />OMINOUS.DDT<br />SEVEN.DDT<br />SPIDERS.DDT<br />STEALTH.DDT<br />ZEPPELIN.DDT<br /><br />Jill 2:<br />ACTION.DDT<br />BONZO.DDT<br />CUBIST.DDT<br />DUNGO.DDT<br /><br />Jill 3:<br />ALIEN.DDT<br />CUBIST.DDT<br />DAN.DDT<br />DEEPEVIL.DDT<br />DESERT.DDT<br />KUNTAMON.DDT<br />NEOCLASS.DDT<br />SEVEN.DDT<br />STEALTH.DDT<br />WILD.DDT<br /><br />I can open them in Winamp and listen to them. But I don't know if that's because I use the AdPlug plugin or that Winamp can play them through the standard plugins.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29105,
+		"title": "Re: other song names?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-02T22:21:19.000Z",
+		"content": "It's because they're CMF files, which the AdPlug plugin supports (also Winamp's built in MIDI plugin used to be able to play them as MIDIs, but I don't know if that's still the case - either way they don't sound so good with MIDI instruments, kinda like IMFs.)<br /><br />They should be renamed to *.CMF but evidently AdPlug isn't so fussy.  You should be able to do the same with the Kiloblaster and Xargon music, which are also CMF files.<br /><br />Unfortunately AdPlug doesn't properly support one of the key features in CMF files, so if you compare FUNKY.DDT with the in-game map music you'll really notice the difference."
+	},
+	{
+		"id": 29106,
+		"title": "Re: other song names?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-03T23:10:08.000Z",
+		"content": "Yeah; it's the same with PSM files.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 29107,
+		"title": "I think",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2007-06-05T16:29:53.000Z",
+		"content": "PSM is actually just module music of which catagory CMF is included,  similar in encoding to MIDI, but with the instrument samples are already in the file which eliminates the need for the hardware or software MIDI interfaces to synthesize the instruments.  CMF on the other hand uses the OPL chip interface to recreate instruments.<br /><br />you ARE talking about Jazz Jackrabbit music, right Levelass?<br /><br />I think it's IT.DDT...  but I could be wrong.  I wish I had my computer running..."
+	},
+	{
+		"id": 29108,
+		"title": "Re: I think",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-05T16:44:53.000Z",
+		"content": "No, it's PSM alright, sometimes also seen as S3M. I don't think the IT file type existed yet when JJ1 came out, anyway.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 29109,
+		"title": "Re: I think",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-05T16:47:04.000Z",
+		"content": "Jill: CMF (disguised as DDT files)<br />Jazz Jackrabbit 1: PSM<br />Jazz Jackrabbit 2: IT, S3M------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	}
+]

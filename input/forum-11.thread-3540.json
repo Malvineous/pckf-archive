@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1427,
+		"title": "Screen Thief Question: DOS movies",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-02T20:13:05.000Z",
+		"content": "How do I take movies of DOS games with Screen Thief?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  <font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 29768,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-02T20:44:29.000Z",
+		"content": "Not sure if you can to do that with ScreenThief. Or if that's possible I'd like to know it too -- or any other program that would let me to record videos of dos screen happenings..<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 29769,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-08-02T21:46:53.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] How do I take movies of DOS games with Screen Thief?[hr][/quote]You assign a certain key to take a screenshot, and then you keep pressing it really quickly in the game... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />There's probably some program that will do it (it's actually something that could always be added to DOSBox) but the easiest would be to get a video card with TV-out, then unplug your monitor and plug the TV in - the PC will then boot on the TV and you can then play Keen on the TV as well, and either record on another PC with a TV capture card, or record it on your VCR - pretty bad quality, but it'd work! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]"
+	},
+	{
+		"id": 29770,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-02T22:12:17.000Z",
+		"content": "Why not get one of those fancy DVD recording DVD players? Better than VHS. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />Other than that, there's no way (i think) to record computer stuff.-Genius314"
+	},
+	{
+		"id": 29771,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-08-03T12:08:16.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Why not get one of those fancy DVD recording DVD players? Better than VHS[hr][/quote]Actually they're not - well, not much better anyway - almost all standalone DVD recorders on the market are analogue units - basically VHS with a disc instead of a tape.  You need to go digital before the quality *really* improves - a proper digital DVD recorder would presumably have a DVI input plug on it, which is the standard for transferring digital TV (almost all digital TVs have a DVI socket on them.)  Which interestingly enough is the same as many PCs now (the DVI connection is often used to connect an LCD monitor to your PC.)  I don't know whether connecting your PC straight to the DVD recorder would work though...but I think it works connecting your digital TV to your computer, so who knows!"
+	},
+	{
+		"id": 29772,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-08-03T16:13:27.000Z",
+		"content": "[img]http://gnosticus.spatang.com/keenthing2.gif[/img]-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 29773,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-08-03T18:06:15.000Z",
+		"content": "Woah thats awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] -Genius314"
+	},
+	{
+		"id": 29774,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-03T18:34:55.000Z",
+		"content": "Cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 29775,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-03T19:30:07.000Z",
+		"content": "Hey, cool! What programs did you use? As well, I'm always wondered what programs can convert videos to gifs..<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 29776,
+		"title": "Re: Screen Thief Question: DOS movies",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-08-03T19:35:01.000Z",
+		"content": "I used the program Camtasia Studio to capture the screen and convert it to a GIF. I think there's a trial download somewhere (try Google). I used Microsoft GIF Animator to trim out all the extra stuff.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	}
+]

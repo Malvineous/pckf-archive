@@ -1,0 +1,786 @@
+[
+	{
+		"id": 560,
+		"title": "Keen Dreams 3D",
+		"author_id": 1486154,
+		"author_name": "thenewmoonsidianX",
+		"timestamp": "2006-03-18T02:41:11.000Z",
+		"content": "Well, the game's in the mail, and it's on its way to Vitamin Zach.  Hope you guys like it once it gets onto the Internet, but I should warn you of a couple of minor problems with the game, resulting from my inexperience in scripting (but these problems are not unavoidable, however):<br />1) There's a glitch with the elevators that if Keen walks off of them while they're still moving, he'll float in mid-air however high the elevator is.  I have no idea how to fix this problem, but some simple ways to avoid this glitch are to always get on the elevators slowly, wait until they come to a complete stop before getting off, and if Keen starts to \"glide\" while they're moving, move him backwards until he's stopped.<br />2) The save system built into the 3D Game Studio engine is faulty in the area of music - that is, the music playing before you load your file will continue to play after you load it, instead of changing to the music of the level that your saved game is on.  Again, I have no idea how to fix this, mainly because I know next to nothing about how this save system works.  The way I got around this problem while playing was that I always saved my game on the map screen, so that the music would change anyway once I entered a level.<br /><br />Other than these two problems, I'm pretty satisfied and happy with the end result (and yes, I have completed the entire game in one sitting several times).  Just hope you guys like it! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br />In the meantime, here are some screenshots of the finished game while you wait...<br />[url=http://imageshack.us][img]http://img480.imageshack.us/img480/4227/kd3dnewshot12ei.gif[/img][/url]<br />[url=http://imageshack.us][img]http://img212.imageshack.us/img212/755/kd3dnewshot23ek.gif[/img][/url]<br />[url=http://imageshack.us][img]http://img142.imageshack.us/img142/448/kd3dnewshot33ko.gif[/img][/url]<br />[url=http://imageshack.us][img]http://img57.imageshack.us/img57/8499/kd3dnewshot40hy.gif[/img][/url]<br />[url=http://imageshack.us][img]http://img57.imageshack.us/img57/3277/kd3dnewshot59my.gif[/img][/url]<br />EDIT: Sorry for the lack of colors...they're GIFs.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]"
+	},
+	{
+		"id": 15085,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-18T03:13:31.000Z",
+		"content": "It appears that the points and sign are too small. I'll have to see in the game though.<br /><br />It's actually nice looking for a fangame. Good work! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />Can't wait.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15086,
+		"title": "Re:",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-18T04:32:38.000Z",
+		"content": "Wasn't this announced about five years ago? Or am I thinking of Shadowlands 3D?"
+	},
+	{
+		"id": 15087,
+		"title": "Re: Re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-18T10:31:21.000Z",
+		"content": "Woah! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  It looks amazing, can't wait to try it! Good job man! The first 3D Keen game is done!<br /><br />And no, this hasn't been announced about five years ago.. Maybe two at most.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15088,
+		"title": "Re: Re:",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-19T06:21:05.000Z",
+		"content": "My experience on the internets dictates that if someone promises a game and can't figure out how to upload it, that translates to \"No matter what I say I'm going to try to do, the game is never coming out. Ever.\"<br /><br />Please break this tradition.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15089,
+		"title": "Re: Re:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-19T07:31:47.000Z",
+		"content": "Well, I think this one is serious; nobody puts thtat much effort into a game just for themselves.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15090,
+		"title": "Re: Re:",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-19T10:35:30.000Z",
+		"content": "It's not that he can't figure out how to upload it - it's that he's on a crappy dialup connection, and doesn't want to have to keep retrying an 80MB upload after the connection times out."
+	},
+	{
+		"id": 15091,
+		"title": "Re: Re:",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-19T14:07:09.000Z",
+		"content": "Wait- is it 80MB before or after its made into a zip?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15092,
+		"title": "Re: Re:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-19T16:59:40.000Z",
+		"content": "Most probably after it's compressed.<br />And besides, a cd has already been sent to Vitamin Zach..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15093,
+		"title": "Re: Re:",
+		"author_id": 1486837,
+		"author_name": "narnia4",
+		"timestamp": "2006-03-19T23:20:38.000Z",
+		"content": "Wow! this looks awesome! especially since there hasn't been a keen fan game made anything like this yet.  I can't wait to play it..."
+	},
+	{
+		"id": 15094,
+		"title": "anticipation...",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-03-20T23:25:16.000Z",
+		"content": "Just got home and found a package in the mail! Woohoo!<br />Haven't installed or anything, need to zip and upload..."
+	},
+	{
+		"id": 15095,
+		"title": "Re: anticipation...",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-03-20T23:35:25.000Z",
+		"content": "File uploaded:<br />[url=http://www.keenx.com/files/kd3d.zip]www.keenx.com/files/kd3d.zip[/url]<br />It compressed quite nicely down to just over 16MB. But it was actually over 85MB decompressed!<br />Time to play..."
+	},
+	{
+		"id": 15096,
+		"title": "More Anticipation...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-20T23:35:27.000Z",
+		"content": "Too bad no teleporters have been invented yet. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Can't... wait...<br />Can't... take... it!!<br /><br />GAHH!! *programs own Keen Dreams 3D. gets done quicker. enjoys.*<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15097,
+		"title": "Anticipation did ya say?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-20T23:37:47.000Z",
+		"content": "Aaargh, can't download the file! It tells me page not found! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15098,
+		"title": "Re: Anticipation did ya say?",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-03-20T23:39:25.000Z",
+		"content": "Sorry! Bad link [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  My fault. Try again!<br />Too excited, fingers are getting jumpy."
+	},
+	{
+		"id": 15099,
+		"title": "Yes, anticipation!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-20T23:59:05.000Z",
+		"content": "Aw, quite your crying, stupid babies!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]   <br /><br />Att leasty mmy ffingerss arrentt jummpey.!!<br /><br />EDIT: Won't work on my PC... Better try another... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15100,
+		"title": "Re: Anticipation did ya say?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-21T00:41:26.000Z",
+		"content": "Ok, downloading now! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]   Cheers..<br /><br />Edit: Congrats, you really did it! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   The first 3D Keen game! Good work..<br /><br />Initially the camera follows Keen. When you die the camera begins to follow Keen sideways. Is there any way to get the view back so that the camera is behind Keen? Otherwise pretty good.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15101,
+		"title": "Re: Anticipation did ya say?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-21T01:44:40.000Z",
+		"content": "Yeah, i had to keep quitting and restarting cause of that.<br /><br />And i kept getting stuck on the elevators. I floated in the air!!<br />Its a little hard to control, too. I'd rather have space or alt as the shoot and ctrl as jump.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15102,
+		"title": "Re: Anticipation did ya say?",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-21T04:34:08.000Z",
+		"content": "This game sucks. The controls are ludicrously unnatural and the gameplay is terrible. Will play more later, though.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15103,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-03-21T04:41:57.000Z",
+		"content": "This does not suck. I just downloaded this and it seems like a pretty well made game. Sure the controlls are clunky but a key mapper would take care of that. Definitely NOT a CK2000.<br /><br />Although there are some MAJOR issues with it. First off is that you can jump on the world map. This lets you completely jump over levels. <br /><br />Also is if you are running and you jump it has the half life thing where you go FASTER for some reason. (At least it seemed that way.)<br /><br />And the third thing I found was \"Wall jumping.\" If you hold down the jump button Commander Keen will continuously jump. Well this isn't that bad but there are some bad parts on the levels (Especially on the invisible walls) where Commander Keen will snag onto a vertex or something and continuously jump, rocketing him into the air. This is especially weird when you fly so high you land on top of an invisible wall and you REALLY fly off into the air.<br /><br />I also got trapped in places where you aren't supposed to be able to go using this bug. Now this isn't TOO BAD of a problem because you can always get back to where you ARE supposed to be.<br /><br />Please note that this was almost all done on the world map and from only 10 minutes or so of testing. I am sure that this would all be solved if you disable jumping on the world map.<br /><br />Anyway. It is still a really awesome effort. Especially from only one person. Seriously I couldn't do something like this even if I would want to try.-----------------------<br />[url=http://Galaxie.Spatang.com][img]http://img360.imageshack.us/img360/548/blegdandsmeegnewbanner2wf.png[/img][/url]"
+	},
+	{
+		"id": 15104,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-21T05:10:54.000Z",
+		"content": "allstories, think you can do better?"
+	},
+	{
+		"id": 15105,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-21T10:00:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]allstories, think you can do better? [hr][/quote]<br />No, not this argument again...<br />'You can't criticise something if you can't do better.<br />*And new ignorance was born*<br />Q90, please shut the fuck up.-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15106,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-21T10:29:37.000Z",
+		"content": "At the first sight the game is well playble, it looks also better than I expected. The controls however are horrible chosen. More later, I could only play it for three minutes.-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15107,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-21T12:43:36.000Z",
+		"content": "Now, now Djas, no need to swear.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15108,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-21T23:17:07.000Z",
+		"content": "Well, I haven't played the game yet, but my experience with games and game testing tell me this game will be... Kinda mediocre.<br />I will see how much of that is tru when I have played. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br /><br />For now I'll just say: good job on giving this project so much effort and devotion! I never expected this to be finished when I saw it on LucasKeen (whatever happened to that site, anyway?).___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 15109,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-22T00:36:54.000Z",
+		"content": "Problems with the game I noticed:<br /><br />-You picked probably the most counter-intuitive controls ever. I mean, having to press the Home key to jump? What on earth were you thinking? It's complicated enough with the fact that Keen's jumps are ridiculously high.<br /><br />-Keen's jumps are ridiculously high. In a platformer game where jumping is important, a flaw such as this can't really just slip under the radar. The jumping makes it just impossible to guess where he's going to land, especially considering the layout of the game.<br /><br />-The layout of the game is horrible. It seems like you sacrificed gameplay merely to stay true to the original. Each level is dreadfully linear for a 3d game. It just makes me wonder 'Why is this even 3D?'. Maybe if at the very least it was from a side-view perspective it would be forgivable, but the behind view makes it impossible to judge where you're going to land. It's all just ridiculous.<br /><br />There's a plethora of glitches. From the camera bug to the platform bug. Plus Keen's walk cycle looks ridiculous, and all of the scenery is incredibly dull. Even if keeping the polygon count is an issue, it's possible to find creative ways of making things look decent. That is not really evident here.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15110,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-22T07:22:39.000Z",
+		"content": "Well, now we know what needs improvement, maybe somebody will one day release v2.0?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15111,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-22T09:00:00.000Z",
+		"content": "I must say, this game wasn't too good. Here's some suggestions.<br /><br />- Keen's walking animation was WAY too fast. His walking speed is ok, but the animation displaying him walking just is too fast.<br /><br />- Collision is not too good. Slopes are hard to walk on and he automatically falls down from it when you're standing on a slope.<br /><br />- Levels could have been made wider, because now it just plays <br />like the 2D thing, because you STILL only can go forward...<br /><br />- Use the original Keen controls. ctrl, alt, space. If alt doesn't work correctly, use the Z key instead or something. Making keys configurable would be nice too (and maybe gamepad support?).<br /><br />- When defeating an enemy, he shrinks and dies. What happened to the enemy turning into a flower, or, as in the later games, being stunned with stars above his head? Ah well.<br /><br />- It's hard to jump on platforms, because of the too-fast jumping speed.<br /><br />- Some moving platforms stop moving after Keen jumps on them for the second+ time.<br /><br />- The intro screen kinda looked bad. Probably because of the bad mix between 2D and 3D. I'm willing to make a new title screen if you want me to (using the 3D modeling program Blender), which has both the waking up Keen picture and some better fitting 3D text...<br /><br />That's it for now.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 15112,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-03-22T09:59:13.000Z",
+		"content": "I give this project an A+ for effort. T'is a great achievement for a single person in their spare time, regardless of what bugs might hamper the gameplay. I am appriciative of the effort that went into creating this.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 15113,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-22T12:01:40.000Z",
+		"content": "I agree entirely with SpikeNexus.<br /><br />\"Each level is dreadfully linear for a 3d game.\"<br />Then you probably haven't played every level.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15114,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-22T12:32:49.000Z",
+		"content": "*Somebody* upload this to a more reliable sever; VZ's one just doesn't let me download it.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15115,
+		"title": "Well Done, Sire.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-22T14:19:05.000Z",
+		"content": "Object tags are not allowed<br /><br />Goddamit, wtf does that even mean!? I wanna moooooove! ezBoard is starting to piss me off. Now I gotta rewrite this stupid post.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15116,
+		"title": "Re: Well Done, Sire.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-22T15:02:13.000Z",
+		"content": "Hey, can I mirror this game? I don't think it's too good, but I like your effort and stuff so I'd be glad to mirror it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Note to the ignorant: mirroring just means I upload the game on my webspace as a second download link.___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 15117,
+		"title": "Re: Well Done, Sire.",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-22T20:20:19.000Z",
+		"content": "The most annoying I have experienced in the game yet is that all enemies act the same and shoot on you. They also almost don't move and if they do they fall of their platform they were walking on.-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15118,
+		"title": "Re: Well Done, Sire.",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-22T21:21:11.000Z",
+		"content": "Just how much skill is required to use 3D Game Studio? Because this game feels a lot like just a shoddy Gamemaker/Klik N' Play/etc game, except in 3d.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15119,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-03-23T05:25:31.000Z",
+		"content": "if i remember correctly, it uses a sort of c -scripting style. it's not like your typical mmf/knp stuff. i havent tried the game out yet, i'll do it soon."
+	},
+	{
+		"id": 15120,
+		"title": "well",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-03-23T06:22:50.000Z",
+		"content": "Well, I have to admit, this has a lot more potential than the other posters give it.  We need a different camera system--something much more 3rd person, on rails, with fixed waypoints, and so on.  We need better animations, and we need changed menu sound effects. <br /><br />I think the biggest thing that deters me from playing this more is the campy animation style.  It just looks undeveloped.  What sort of tools are you using to animate this?  This looks rather fun to develop for, honestly..."
+	},
+	{
+		"id": 15121,
+		"title": "Re: well",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-03-23T07:01:34.000Z",
+		"content": "well i just played the game, and i think the posters that shot you in the face about this game just put themselves on their own high pedistal. Yes the game does need improvement, a lot that is. Maybe you should have posted it as a beta and not a final release. Even though the game is linear, i found it to be quite a nice change from the 2d predicessor. A lot of people have said in the past they would rather keep the keen fan games in the 2d era where it blongs, and i kind of feel the same way for it would be sort of weird to see the massive change.  At least it stayed sort of true to the original. I would say dont make this the final release but just a beta. If you can figure out the bugs in your code, such as movement, camera angles, etc, i think this game will be very fun."
+	},
+	{
+		"id": 15122,
+		"title": "Re: well",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-23T09:24:22.000Z",
+		"content": "SOMEBODY Mirror it!<br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15123,
+		"title": "Re: well",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-23T16:26:49.000Z",
+		"content": "[url=http://www.spheredev.net/~dnaproduct/other/MirroredFiles/kd3d.zip]MIRROR'D![/url]<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   <br />This mirror is preety high-speed, or at least it downloaded 200kbps for me, while the original mirror downloaded with 30-40kbps. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 15124,
+		"title": "Re: well",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-03-23T23:25:52.000Z",
+		"content": "I like the effort, although I agree that the game has problems. The biggest, to me, is the control scheme. There's no possible way I can operate ctrl, home, shift, the arrow keys, comma and period, and possible page up/down and end all at the same time. If we could jump with space and strafe with A and D, then the game would be playable.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 15125,
+		"title": "Re: well",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-24T09:51:46.000Z",
+		"content": "WOW that was excellent!<br /><br />Seriously, you should post this on the game maker forum and say you make it in GM, you'd get like 50 pages of replies. By far the best 3d game iv'e seen anyone make. And best 3d keen too.<br /><br />Dont listen to all those people complaining they obviously don't know what they're talking about. Only thing that needs to be fixed are controlls. I had to use the 'Home' key to jump.<br /><br />Allstories, maybe you could demonstrate how easy it is to make a 'Good' 3d game by making one yourself... <br /><br />Making a 2D game into a 3D game is never going to be easy. If you add too much information to the level it will turn into Spyro and totally change the style of game."
+	},
+	{
+		"id": 15126,
+		"title": "Re: well",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-24T12:01:09.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Allstories, maybe you could demonstrate how easy it is to make a 'Good' 3d game by making one yourself... [hr][/quote]<br /><br />No, not this argument again...<br />'You can't criticise something if you can't do better.<br />*And new ignorance was born*<br />Alex87, please shut the f*** up. <br /><br />(The  f word was removed this time just to please LL.)-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15127,
+		"title": "Children Children",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2006-03-24T15:11:33.000Z",
+		"content": "now now, what happend to the forum i took a break from about a year ago, everyone seemed to get ALONG, christ everyone needs to just CALM DOWN, and remeber THE REASON we do what we do is for FUN, this is not a competition, you dont win anything for insulting or belittleing others (cept for maybe self-pride [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] , but you piss everyone elese off)<br /><br />my problems with the game aside from the engine being mediocre, <br /><br /> - all the enemies are the same, (behaviour) they all shoot, hahaah, since when were those walking potatos able to shoot<br /><br />- you have health, keen has no health, he has one chance,<br /><br /> - platforms suck, i undertand the difficulty behind making poles, but the platforms change the dynamics of getting from one level to the one above<br /><br />Positives<br />- i lvoe the atmosphere it creates, not quite keen, not quite new<br />-LOVE your maps, i dont care what anyone says, ur maps are hectic mad for a game converted from 2.5D<br /> - the fact you are the ONLY (to my knowledge) person that has acheived the task of completing a 3D keen game, KUDOS, <br /><br />if the negatives were fixed, and the camera fixed, the controls fixed, all that crap, then this game would be practically.........ORGASMIC,<br /><br />please people keep it calm, keep it civil,<br /><br />love to the masses"
+	},
+	{
+		"id": 15128,
+		"title": "Re: Children Children",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-03-24T22:50:50.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]you dont win anything for insulting or belittleing others (cept for maybe self-pride [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   , but you piss everyone elese off)[hr][/quote]<br />Oh that... It's just Djaser... it's all cool. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 15129,
+		"title": "Well Done, Sire. Again.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-24T23:42:02.000Z",
+		"content": "Yay, I don't need to rewrite my post. CM pretty much paraphrased it for me.<br /><br />One other complaint: the Carrot Courier cannot climb slopes. It should be running and jumping all over the place.<br /><br />Incredible atmosphere--the scenery is just mindblowing, despite its simplicity. I could easily just wander around exploring the place if there were no hazards. Unfortunately, the physics, limited AI, controls and that whole shooting thing are too offputting.<br /><br />Since I first played the game, however, Xky has pointed out that the number pad is how it's meant to be played, so I'll give it another shot yet with that in mind. I still strongly suggest changing the controls though.<br /><br />If you have time to fix the criticisms we've pointed out and create another release, this game will pwn.<br /><br />Well done on the first ever 3D Keen game.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15130,
+		"title": "CM paraphrased CS",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-25T00:11:00.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]One other complaint: the Carrot Courier cannot climb slopes. It should be running and jumping all over the place.[hr][/quote]<br />Yeah, it scared me the first time. Very slow, and shooting. Wierd.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15132,
+		"title": "thing.",
+		"author_id": 1486832,
+		"author_name": "SpikeNexus",
+		"timestamp": "2006-03-25T00:11:00.000Z",
+		"content": "Allstories, why don't you make your own- oh, wait. I won't say that. Djaser's posted here enough already.<br /><br /><br />I remember the old days of the PCKF when a person would be congratulated for cranking up KMO and simply finishing the task of making a new level for Keen 1.<br /><br />This thread makes me wonder: where the hell have those days gone?<br /><br />If this game were released back then, would we still be complaining about not being able to use the control keys that we would have liked and complaining that the level layouts aren't what we wanted? (I know that some people pointed these things out in their posts as suggestions for improvement - I'm not talking about those people here). <br /><br />Maybe we'd appriciate the game more for what it is - the first 3D Keen game ever. Not what it isn't. <br /><br />Perhaps some of us would be more grateful that a Keen fan has released his years-in-the-making project for us to play, instead of just saying outright that it sucks and even critizing the game (or was it the game's creator?) BEFORE it was even released. I'm talking about you, Allstories.<br /><br /><br />I'm not going to tell Allstories to go make his own game, because like Djaser was possibly trying to say (and if not, I'd hope his 'shut the fuck up' posts actually have <i>some</i> point to them for the language used), you don't need to be able to make your own game to notice improvements that could be made to others' games. (Instead of crying 'ignorants!' he could have explained that in his posts...)<br /><br />Perhaps instead Allstories can go learn what's involved in making a game like this - not so he can make a game of perfection, but so he can understand why some of these so-called bugs and glitches are in the game, and how it's not just a matter of \"Well, Allstories thought 'the layout of the game is horrible'. There. All fixed.\" or \"Allstories thinks the game looks like some shoddy Gamemaker game. I'll just change this and this. There! A commercial quality game!\"<br /><br />That would enable him, instead of just saying it sucks, to explain why it sucks <b>and provide a practical way to improve it</b>.<br /><br />edit: changed a few words around.--------------<br />[url=http://spikenexus.toxicsheep.com/pccw/][img]http://spikenexus.toxicsheep.com/pccw/imgs/links/pccwsml.gif[/img][/url]"
+	},
+	{
+		"id": 15131,
+		"title": "Re: CM paraphrased CS",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-25T00:19:10.000Z",
+		"content": "What the hell is your problem DJaser, if anyone here is ignorant its you. Im clearly defending thenewmoonsidianX. Why dont you say somthing for a change that dosnt result in being rude to everyone.<br /><br />[quote]<b><i>Quote:</i></b>[hr]you don't need to be able to make your own game to notice improvements that could be made to others' games. (Instead of crying 'ignorants!' he could have explained that in his posts...)[hr][/quote]<br /><br />Thats true but im looking at it through thenewmoonsidianX's point of view from what AllStories said. I feel sorry for thenewmoonsidianX, he put so much work into making this game and it really isnt that bad at all, and yet he's got people like allstories constantly putting his game down, and then everytime someone defends for him you got loosers like DJaser calling them ignorants. Its quite clear DJ has no idea what the word 'criticise' means, so he can stfu cause i dont give a sh#% what he has to say."
+	},
+	{
+		"id": 15133,
+		"title": "Re: thing.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-25T00:30:21.000Z",
+		"content": "Indeed. It seems there's a lot of cynicism floating around in response to some Keen projects these days. We've already got too many projects getting cancelled because their perceived as 'worthless' without people intentionally shooting down magnificent accomplishments of this magnitude.<br /><br />In responsse to the 'stfu, ignorant mofo!' comment, let me offer an alternative, more appropriate phrase:<br /><br />You can't <b>judge</b> anything if you can't do better. Two thirds of allstories' posts were raw judgement. One was useful criticism, which is useful (although they were written in a similarly tactless manner).<br /><br />Good to see the majority of people are showing some gratitude. Such is what makes this community work.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15134,
+		"title": "Re: thing.",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-03-25T01:23:15.000Z",
+		"content": "Yeah, alright. I was a little bit harsh with my comments. A new game is always better than nothing, and it's a mildly decent effort at the very least. I don't know. This whole game just seemed to be a big disappointment. Maybe my standards are just too high. In my experience, merely putting effort into something is never good enough on its own. You actually have to make it worthwhile, and this game is just too frustrating for me to enjoy. I'm sorry.[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 15135,
+		"title": "Re: thing.",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-25T01:26:31.000Z",
+		"content": "I sincerely apologize for my comment. I was wrong and stupid."
+	},
+	{
+		"id": 15136,
+		"title": "Re: thing.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-03-25T02:07:21.000Z",
+		"content": "Good point about the atmosphere, Spleen. I think the game frustrated me a little too much and made me forget all about it. I really liked the background elements, but I was mad that I couldn't go check them out up close. What I'd like to see are, first, strafe keys that are somewhere near my control key (my laptop has no right control key), and some new levels that take advantage of their third dimension. Nothing makes me madder than an invisible wall. I don't know if you've got any plans for another version, but if you do, those two things would make me really happy. I guess your internet connection prevents any frequent changes, even if you want to make them.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 15137,
+		"title": "Re: thing.",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-25T03:27:13.000Z",
+		"content": "I don't mind someone having an oppinion and all, but sometimes you gotta have alittle respect for the person who actually went through the trouble of making a 3d game for us, the PCKF community. <br /><br />I think DJaser needs to relax, and secondly i have no idea what he's even arguing about in the first place.<br /><br />I on the other hand am not sorry because i feel that what i said had to be said. I don't think what Allstories said is anything to start an argument over. <br /><br />If djaser wants to tell every one to shut up just because someone is disagreeing with another persons opinion when trying to actually sound nice to the person who went through the trouble of creating this game in the first place, then maybe he shouldnt even be posting on forums. I wonder how many of those 4,500 posts are of any significance.<br /><br />Once again, this is a good game. Sure the controlls are a bit funny, but its a start and im looking foward to the next version."
+	},
+	{
+		"id": 15138,
+		"title": "Re: thing.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-25T09:16:48.000Z",
+		"content": "Well, it looks like everyone's settled their differences. Things are back to normal...<br /><br />GROUP HUG!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 15139,
+		"title": "Re: thing.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-25T10:46:53.000Z",
+		"content": "Yays!<br /><br />*enjoys hug, spitefully hugs just a bit too hard to annoy Djas*<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15140,
+		"title": "Re: thing.",
+		"author_id": 1486837,
+		"author_name": "narnia4",
+		"timestamp": "2006-03-25T15:55:27.000Z",
+		"content": "Way to make up everybody!<br /> The controls are wierd but if you use the numpad for most of the keys you can get used to it.<br />I wouldn't judge this game too harshly.  Inspite of the bugs, I don't think is was made badly. Besides, its easy to judge other people's games like whoever said.<br />Anyway, I like the gameplay alot (its really differnt with the shooting potatoes and stuff) and I'm glad he made this game instead of just another mod like all the others.<br />Its a good game!<br />Hooray for newmoonsidianx!!"
+	},
+	{
+		"id": 15141,
+		"title": "Re: thing.",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-25T17:09:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]What the hell is your problem DJaser, if anyone here is ignorant its you. Im clearly defending thenewmoonsidianX. Why dont you say somthing for a change that dosnt result in being rude to everyone.[hr][/quote]<br />I have a lot problem but in this topic you are. First of all you post an invalid argument just to silence a discussion and now you're calling me a DJ.<br />I'll stop being rude to you when you deserve it.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Its quite clear DJ has no idea what the word 'criticise' means, <b>so he can stfu cause i dont give a sh#% what he has to say.</b> [hr][/quote]<br />Unfortunately your comment clearly shows you do, but you almost got me fooled there.<br /><br />[quote]<b><i>Quote:</i></b>[hr]If djaser wants to tell every one to shut up just because someone is disagreeing with another persons opinion when trying to actually sound nice to the person who went through the trouble of creating this game in the first place, then maybe he shouldnt even be posting on forums. I wonder how many of those 4,500 posts are of any significance.[hr][/quote]<br />Alex please stop crying like a baby and don't take my post so personal, I almost begin to feel sorry for you.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I sincerely apologize for my comment. I was wrong and stupid. [hr][/quote]<br />All right, all right, I'll forgive you.<br /><br />No matter how rude my post was, the message still seems to be clear to everyone.<br />--------------------------------------------------------<br />Now that is settled I want to say that this game certainly does earn a lot of respect. It looks better then I expected, it runs really smooth, the levels are nice.<br />But the bugs make it unplayable and that is such a waste. newmoonsidianx sould consider putting some extra hours in it and release a fixed version.<br /><br />Years ago fangames and all Keen made stuff were all new to use and we thought it was fantastic. Now we look with different eyes on those things and we expect more to be pleased. <br />TMST made a post about that covers up some of our feeling, I'm sure you remembered it Spleen.<br />[quote]<b><i>Quote:</i></b>[hr]It's not that the community is drying up, it's just that the chances are likely that when you joined the PCKF, it was because you saw something great happening here that you liked. (Maybe you saw somebody's Keen cartoon, or heard an MP3 of a Commander Keen remix, or played a customised version of Keen1 with new graphics, and followed a nearby link to this forum so that you could share your thoughts on what you'd just seen/heard with other people.)<br />At the time, you would have thought \"Wow! This place is HAPPENIN'!\", not realising that before you arrived it was never this happenin', and it was just that little burst in productivity that attracted you in the first place. So when things naturally started to wind down to their normal pace, you feel as though it's dying - but it's not. It just means that it's now your turn to make something happen.[hr][/quote]<br /><br />One last thing; what is a mofo?-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15142,
+		"title": "Re: thing.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-25T20:06:59.000Z",
+		"content": "Mofo is a \"motherf*cker\". [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br /><br />Anyways, I'm glad everyone has calmed down now. (I think.) This game is really a new milestone in Keen culture -- it's the first 3D Keen fan game ever made, and I'm hoping to see more. As said by others already, it's more important that the game is made and effort put to it instead of how much it is like a commercial 3D platformer made by group of 100 people..<br /><br />I'll unite to the hooray for newmoonsidianx, and hope that certain quite harsh posts didn't make him leave..3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15143,
+		"title": "Re: thing.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-25T20:38:41.000Z",
+		"content": "I wonder where he is. I would love to give a helping hand on improving this. You know, more community feel &amp; better game. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Yeah ok, so I only joined recently. So what? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 15144,
+		"title": "Re: thing.",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-26T01:17:02.000Z",
+		"content": "- Removed comment to prevent upsetting DJaser any more -"
+	},
+	{
+		"id": 15145,
+		"title": "can we",
+		"author_id": 1486021,
+		"author_name": "Creative madman",
+		"timestamp": "2006-03-26T04:28:43.000Z",
+		"content": "can a mod start deleting this arguing crap, its going nowhere. cease and desist people.<br />----------------------<br /> i just had an idea PERCHANCE, using all of the Forums inhabitants, we could make a very good quality game.....<br /><br />not neccesarily from the ground up in C++ or something, maybe a mod. im a mediocre player model creator, im sure there are 3-4 programmers here arnt there.<br /><br />as for graphics there are a shitload of people, i know there are other modelers and there are definatly texture or sprite creators.<br /><br />what do u think? this mod proves its possible to make a 3D game alone, but what about with numbers?"
+	},
+	{
+		"id": 15146,
+		"title": "Re: can we",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-03-26T05:04:48.000Z",
+		"content": "It's not a good idea to mention commercial and Keen in the same context.  Anyone remember Moonstone?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15147,
+		"title": "Re: can we",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-26T08:13:35.000Z",
+		"content": "Wasn't that the only time ID actually noticed we existed?<br /><br />Didn't they crush our hopes and dreams?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15148,
+		"title": "Garg",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-26T09:16:02.000Z",
+		"content": "One never knows when iD strikes back.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] aranoid3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15149,
+		"title": "Re: Garg",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-26T10:31:58.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It's not a good idea to mention commercial and Keen in the same context. Anyone remember Moonstone?[hr][/quote]<br />please can someone tell me what it is and show me some shots [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 15150,
+		"title": "Re: Garg",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-03-27T03:37:47.000Z",
+		"content": "moonstone was one of those games that basically looked like a commercial game. I dont think we can get screenshots of it, it has been many many years since i heared someone mention that name [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  i wanted to see that game too. Since iD shut them down, i think they took the engine to that game and made their own commercial game."
+	},
+	{
+		"id": 15151,
+		"title": "Re: Garg",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-27T13:38:34.000Z",
+		"content": "\"Since iD shut them down, i think they took the engine to that game and made their own commercial game.\"<br />If you mean iD taking their engine it seems highly unlikely. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Or not. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <br /><br />Yeah, too bad I've never seen any screens either.. It'd be nice to catch a glimpse of it.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 15152,
+		"title": "Re: Garg",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-27T21:37:59.000Z",
+		"content": "As far as I can remember, the team salvaged what they could and made a different game (Myth of the Moon Stone, IIRK)."
+	},
+	{
+		"id": 15153,
+		"title": "Re: Garg",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-03-27T21:38:27.000Z",
+		"content": "They were planning on making a comercial game, but a few months later the creator and their website disappeared completely.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15154,
+		"title": "Re: Garg",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-28T02:02:18.000Z",
+		"content": "well... if there was no beta, no screenshots, how would you know that it was anygood anyway ..."
+	},
+	{
+		"id": 15155,
+		"title": "Re: Garg",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-03-28T06:40:38.000Z",
+		"content": "lol KR, i meant after iD shutdown the moonstone devs took the engine and started to make a commercial game. bad wording on my part. The screen shots of the game looked very promising. But that was many years ago and i cant remember much haha."
+	},
+	{
+		"id": 15156,
+		"title": "Hmm...",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-28T21:11:45.000Z",
+		"content": "Well, isn't it possible that, back then, the quality of a game seemed better than it actually was. I mean, the community was smaller (i guess), and there wasn't that much really good stuff, so you just THOUGHT the game looked really good.<br />(of course, not being around, I wouldn't know much about it. I could have been good, though.)<br /><br />Lol, most of this topic isn't even about Keen Dreams 3d [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 15157,
+		"title": "Re: Hmm...",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-03-29T02:48:41.000Z",
+		"content": "Don't make stupid conclusions.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15158,
+		"title": "Re: Hmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-31T06:24:11.000Z",
+		"content": "It was a bloody great game!<br /><br />Huzzah Xtra!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15159,
+		"title": "Re: Hmm...",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-03-31T11:39:13.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It was a bloody great game![hr][/quote]<br /><br />it wasnt even released! who knows, maybe it was never made in the first place. maybe the guy just said iD told him to take it off because he didnt want to finish it."
+	},
+	{
+		"id": 15160,
+		"title": "Re: Hmm...",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-04-01T17:27:00.000Z",
+		"content": "I'm very tempted to repeat myself.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15161,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2006-04-02T08:45:47.000Z",
+		"content": "say it again once more xtra."
+	},
+	{
+		"id": 15162,
+		"title": "Re: .",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-04-02T23:26:33.000Z",
+		"content": "i mean seriously, no info, no demo/betas going around, and not even any screens. Who made it anyway?"
+	},
+	{
+		"id": 15163,
+		"title": "Re: .",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-04-03T02:04:43.000Z",
+		"content": "Alex, you have absolutely no idea what you're talking about.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15164,
+		"title": "Re: .",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-03T06:59:09.000Z",
+		"content": "Have to agree here Al; it was t3h 1337ness game. Just because you've never seen Christ, doesn't mean he wasn't t3h 1337 roxxorz prophet.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15165,
+		"title": "f",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-04-03T11:53:57.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Alex, you have absolutely no idea what you're talking about. [hr][/quote]<br />I knew it!"
+	},
+	{
+		"id": 15166,
+		"title": "Re: f",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-04-03T21:57:10.000Z",
+		"content": "I have a video of me and Jesus playing pingpong.  The jerk kept cheating though, he had way too many of those lucky \"hitting the very edge of the table\" shots.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 15167,
+		"title": "Re: f",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-04-04T00:48:20.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Alex, you have absolutely no idea what you're talking about.[hr][/quote]<br /><br />I know thats why im asking you!<br /><br />who made it? is there anything out there related to this game."
+	},
+	{
+		"id": 15168,
+		"title": "Re: f",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-04T07:28:56.000Z",
+		"content": "Oh for chrissakes!<br /><br />Christ Hey! Ooh! I win again! Ha!<br /><br />Dood, NO! It was DESTROYED by Id, There is NOTHING left. It was a GOOD game, but now it is GONE!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15169,
+		"title": "Re: f",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-04-04T07:52:44.000Z",
+		"content": "Now, now LL, no need to swear.-----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 15170,
+		"title": "Re: f",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2006-04-04T08:01:52.000Z",
+		"content": "why did iD shut it down?  was it a keen game?[img]http://www.denness.net/rpi/username/mr12000[/img]"
+	},
+	{
+		"id": 15171,
+		"title": "f",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-04-04T10:25:33.000Z",
+		"content": "I'm sure it was, made by a guy called Lyris. Didn't they continue working on it as a non-Keen related game?"
+	},
+	{
+		"id": 15172,
+		"title": "Re: f",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-04-05T04:35:50.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Dood, NO! It was DESTROYED by Id, There is NOTHING left. It was a GOOD game, but now it is GONE![hr][/quote]<br /><br />Why do you keep saying that it was a good game like as if you've played it when it wasnt released. Or was it... Do you have it?"
+	},
+	{
+		"id": 15173,
+		"title": "Re: f",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-05T06:53:46.000Z",
+		"content": "GAH! Will you listen to me you uncomprehending twit! I have seen examples of that game, I have seen wht was involved in its construction and for chrissakes I know its a bloody good game! Stop talking to me as if I was some braindead moron who is just endlessly repeating 'its a good game' because she heard Djaser say it!<br /><br />Do you get the message or do I have to hit you?<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15174,
+		"title": "d",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-04-05T09:56:30.000Z",
+		"content": "Never mind it but I'm giving up on you LL."
+	},
+	{
+		"id": 15175,
+		"title": "Re: d",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-06T06:12:40.000Z",
+		"content": "Yays!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 15176,
+		"title": "Re: d",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-04-06T09:14:06.000Z",
+		"content": "So if you were so involved in the making of it, do you or anyone have anything at all from it apart from memories."
+	},
+	{
+		"id": 15177,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1486881,
+		"author_name": "60skeen",
+		"timestamp": "2006-08-29T14:11:36.000Z",
+		"content": "hey newmoonsidianx can you also send me keendreams 3d on a cd to my house?? my address is:<br /><br />12420 starlite ct.<br />sterling heights,. MI<br />48312-3174<br /><br />I cant download it my computers to slow plus the mirror'd link wont let me ok??<br /><br />please send it asap thanks [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-moon.gif[/img] sidianx<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rasta.gif[/img]  60'skeen"
+	},
+	{
+		"id": 15178,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-29T18:48:58.000Z",
+		"content": "Oh woops! I forgot Spheredev.net became Spheredev.ORG... Lemme fix this!<br /><br />EDIT: you probably mean the original server is slow. I'm still downloading it and will put it up online after that.<br /><br />EDIT: [url=http://www.spheredev.org/~dnaproduct/other/kd3d.zip]www.spheredev.org/~dnapro...r/kd3d.zip[/url] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 15179,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-10-31T04:29:52.000Z",
+		"content": "This is an extremely ambitious project that has come together quite well, in my humble opinion.<br /><br />And I still cannot get beyond the fact that only one person made this.<br /><br />And as with all fangames, everyone looks to find all the negatives about a project.<br /><br />Could you go out and buy 3D game maker and whip up a project such as this all by yourself?<br /><br />I can honestly say, no.<br /><br />I have 3D Game Maker, although probably an older version (3D maps, 2D sprites - very similar to Doom), and I still can't figure out how to work with it!<br /><br />Yeah, it has its bugs, and controls are a bit meh...<br /><br />but is there a way to remap them? If so, it's no problem then.<br /><br />Instead of the arrow keys for movement, since this is a 3D game using the mouse for looking...<br /><br />W for forward, A and D for strafing left and right, and S for moving backwards.<br /><br />E for jump, C for crouch. Mouse button 1 for shoot, Spacebar for use. Shift for run.<br /><br />Heck, one thing I am really happy about is that it actually WORKS. It doesn't crash.<br /><br />Soldier of Fortune crashes my computer.<br /><br />This doesn't.<br /><br />w00tness<br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 15180,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-31T09:40:49.000Z",
+		"content": "Actually... If I took a bit of effort getting to know any 3D game creation system, I could probably whip up a 3D game too.<br /><br />What bothers me about this game is not the graphics and the idea, those look good, but it's the controls and the overall stability of the engine. I mean, the collision detection is pretty bad, things are hard to look at when you jump, platforms work once or else are broken, you can get stuck in places a lot, the level design isn't too good so you have to search around a lot etcetera.<br /><br />A good, bugless engine and map design are needed to make a good game too, and this game is lacking exactly those.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 15181,
+		"title": "Re: Keen Dreams 3D",
+		"author_id": 1485730,
+		"author_name": "dgks legrandfromage",
+		"timestamp": "2006-12-28T13:40:45.000Z",
+		"content": "First thing I did when I loaded the game was go right past a barrier and get locked out.... then I couldn't do anything :-(....<br /><br />Great graphics... great everything......<br /><br />WATER BOMBS!!!!!<br /><br />LoL......."
+	}
+]

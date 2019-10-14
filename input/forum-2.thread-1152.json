@@ -1,0 +1,466 @@
+[
+	{
+		"id": 233,
+		"title": "Alpha stage of Project#10",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-06T03:50:03.000Z",
+		"content": "I guess I should finally announce this project.  I haven't decided on a proper name yet, as I haven't truly fleshed out the story details yet, so I'm just calling it \"Alpha stage of Project10\".  I've been working on it since July 21st, but I won't say what I've done and what I haven't done.  Nor will I give you a story or any story specifics.  I will say that I'm treating the story with utmost dignity.  I will, however, tell you about raw details:<br /><br /><br />Zeroethly, and most importantly, this is <b>not</b> Keen &amp; Norp.  Though heavily influenced by that game idea, this is not the same game.  (IE: You will not play as Norp, and I am using the name \"Spot\" as the more canon form.)  Well, I can't rule out that you won't be playing as Spot, but it will be highly unlikely.<br /><br />Firstly, I intend to do a Newtonian mechanics physics engine.  What does this entail?  Gravity and friction forces, fluidity and bauyancy, and a few other concepts.  <b>This will be nothing seriously game-breaking</b>.  I'm doing this for my good more than your own.<br /><br />Secondly, and possibly most importantly, <i>lightly</i> 3D shaded graphics.  What does this mean?  It means that it will have much more depth to this semi-isometric (Keen 4 style) view.  It will have backdrops, tiles, etc. Also, I should note, all of these graphics will be completely original. <b>THIS DOES NOT MEAN 3D MODELING!</b><br /><br />Thirdly, there will be Advanced AI.  I really hate these stupids AI's that just walk across the screen doing the same actions, ocasionally jumping after a set timer.  My AI will be programmed to respond to Keen.  Expect this.  They might also respond to eachother; this part is still in the air.  Basically: Enemy interaction.<br /><br />Fourthly, as you all might have guessed, all original Keen 4-6, and Dreams sounds will be included in MP3 form.  Also, it will use classic Keen 4-6 music, and possibly Cosmo music if I see fit.<br /><br />Fifthly, the engine will have significant, and yet not so significant, changes in the basic engine we have grown so accustomed to in Keen 4.  This is done because I'm sick of playing the same Keen game with the same faces and same gameplay as the Keen 4 engine.  So what will it be like?  Well, it will have multi-weapons, health, basic score points, <i>no more Life Droplets</i>, and the basic Jump/Pogo/Swim features.  Hanging on edges is still up in the air.  Basically I will just say that it will be largely influenced the '93 and beyond style of games beign created by Apogee.<br /><br /><br />The main question is going to be: \"So is this still going to be Keen?\"<br /><br />The answer is quite simply: \"Yes\"<br /><br />Wait and see, I have good ideas for this game.<br /><br /><br />This is the scoop that I'm giving you guys right now.  Screens, the text story, website, and Demos will all come <i>much</i> later.  I'm treating this like Apogee is Duke Nukem Forever: 'coming: when it's done'.  I could release my story tomarrow or December of 2007.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6010,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-06T04:02:51.000Z",
+		"content": "You're too optimistic, DNF won't be done by 2007.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6011,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2006-08-06T17:39:55.000Z",
+		"content": "Woah! Sounds really promising and ambitious project! I wish you good luck and I really hope you won't abandon it.----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 6012,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-06T22:41:34.000Z",
+		"content": "Sounds cool. I always like it when new fangames crop up, even though they rarely reach completion. I bet implementing all that physics will be fun (although frustrating).________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6013,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-07T01:38:01.000Z",
+		"content": "Well, I won't say I won't abandon it --I'll just cross my fingers.  I've said I'd complete multiple projects and never have, so we'll treat this one like DNF (Only, hopefully, LL, this one will actually get done.)<br /><br />Lemur --the physics isn't going to be a problem for me.  I know all save some of the friction side of what I need to do.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6014,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-07T11:24:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]the physics isn't going to be a problem for me. I know all save some of the friction side of what I need to do.[hr][/quote]<br />The math isn't the problem [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img] ... friction is a pleasant thing to calculate, by the way -- right up there with angles of refraction. Making the computer do the math is the hard part. If you've got that down already, I bow to your expertise. Many are the times I've thought an algorithm was simple, only to have the cruel compiler gods strike me down. Good luck, in any case.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6015,
+		"title": "Re: Alpha stage of Project#10",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-07T15:48:18.000Z",
+		"content": "I honestly don't think it'll be terribly hard.<br /><br />I've already got a great idea for the simple coding aspects.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6016,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-07T22:02:33.000Z",
+		"content": "Just make sure you don't get too bogged down in the photorealism part of the physics.  There has to be a certain element of exaggeration and elasticity to the characters, otherwise it's going to feel too rigid.  <br /><br />That said, quit typing up proto docs and get to work!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  A friend of mine was just recommending the other day that since my attitude toward my <i>own</i> KeenMod was \"it'll be done when it's done, I should rename it \"Commander Keen Forever,\" but you've already stolen that joke/reference from me!  :P"
+	},
+	{
+		"id": 6017,
+		"title": "Re: hehe",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-08-08T04:12:07.000Z",
+		"content": "Out of curiosity, what are you using to program this?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 6018,
+		"title": "Re: hehe",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-08T16:14:08.000Z",
+		"content": "Xky -- lol, but then you have no idea where I'm at on this game, do you?<br /><br />Xtra --GameMaker 6.1 by Mark Overmars.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6019,
+		"title": "Re: hehe",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-08-08T21:29:06.000Z",
+		"content": "So about the 3D-shaded graphics-- Are you designing them in a 3d editor, rendering them, and putting the images into Game Maker, or can GM actually render 3D graphics realtime?[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 6020,
+		"title": "Re: hehe",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-09T16:15:36.000Z",
+		"content": "It can actually do 3D graphics RT, from what I've read --but no, that's not what I'm doing.<br /><br /><br />It's not going to be a 3D game.<br /><br />It has 2D graphics that merely shaded better than most.  (Like Issis II graphics)~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6021,
+		"title": "bah...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-09T20:04:32.000Z",
+		"content": "If you wanna get anal and technical, you should probably avoid saying your game is going to have \"3d Shaded Graphics\" unless you're planning to pre-render, like Donkey Kong Country or Super Mario RPG.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Especially if you're gonna shade 'em by hand... that's not \"3d.\""
+	},
+	{
+		"id": 6022,
+		"title": "Re: bah...",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-08-09T21:43:42.000Z",
+		"content": "Game maker can render 3D Graphics, but you can only work with geometric shapes, or rocks/fireworks effects: Moving cricles around via a variable textbox doesn't sound like my idea of a good time...<br /><br />BTW - Are you using gml, or drag-and-drop?Tough Guys Wear Pink!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 6023,
+		"title": "Go \"bah...\" yourself.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-10T00:41:34.000Z",
+		"content": "Naj -GML<br />Xky --I probably should.  But I won't.  I don't feel like editing the post.<br /><br /><br /><br /><br />PS: I was wrong, I forgot how much programming sucks.<br /><br />EDIT PS:<br /><br />Nope, got it working.  Still slightly glitched though.  Once again, I need a better code from friction, because for whatever reason, it's not working.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6024,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-10T03:57:26.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I was wrong, I forgot how much programming sucks.[hr][/quote]<br />WHAT?<br /><br />Programming is so FUN though. How can you hate it?<br /><br />How can you be making a fan game and hate programming?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6025,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-08-10T04:18:03.000Z",
+		"content": "He's Loglo... that's just who is is<br /><br />He loves making fan games, but hates programming - Why do you think that is?<br /><br />He love meatballs, but is vegitarian - Ibid<br /><br />He loves dogs, but is allergic to fur (thus why he's bald and never goes outside unless wearing an airtight breathing helmet crafted after darth vaders) - Why do you think that is?<br /><br />He hates vegitables, and would rather die then eat them, and yet he is vegitarian -Why do you think that is<br /><br />He... is the living dead - Why do you think that is (Because he never ate? Part of the answer)<br /><br />Because he's Globbox!!! Darth Globbox!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] Tough Guys Wear Pink!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 6026,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-10T05:36:23.000Z",
+		"content": "Naj...<br /><br />Shhh...-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6027,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-10T16:35:34.000Z",
+		"content": "Never mind.  I edited my code.<br /><br /><br />So, I will say now that I have a working half-done Physics Engine.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6028,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-08-10T17:24:08.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Wait and see, I have good ideas for this game.[hr][/quote]<br />I do not doubt that but I you're project sounds very ambitious do I'm sceptical if you'll get it done.-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 6029,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-10T20:39:55.000Z",
+		"content": "And my Physics code dies.<br /><br /><br />DAMNIT!<br /><br /><br />I need Andrew's help badly... And he's not been on today, that f***er.<br /><br /><br />Well, if this keeps up, I'm going to drop the Physics Engine.  It's slowing me down way too much.  It won't accept basic code for reasons beyond me, and it's incredible how I can have Friction working one second, and then failing the next.<br /><br />The main problem is, I don't know how to work some functions, and the functions I'm using are failing completely.<br /><br /><br /><br />If this keeps up (And it will until Andrew gets online), I may just give up on the Physics Engine and go retro.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6030,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-10T21:50:23.000Z",
+		"content": "Hey, rather than be secretive about it and say \"UGH IT'S NOT WORKING I GIVE UP\" why not post what you've got so far, and open-source the bugger?  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  We've got a few people here with coding knowledge; with our combined efforts, I bet we could get something decent made.  <br /><br />After all, a physics engine alone isn't much of an individual accomplishment--you'd still be left to provide the art, levels, characters, and concepts.  <br /><br />But again, I'm gonna stress: Don't let realism slow down your game design.  You're getting really hung up over stuff that is going to be trivially entertaining, at best."
+	},
+	{
+		"id": 6031,
+		"title": "Re: well...",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-11T04:51:43.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Hey, rather than be secretive about it and say \"UGH IT'S NOT WORKING I GIVE UP\" why not post what you've got so far, and open-source the bugger? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  We've got a few people here with coding knowledge; with our combined efforts, I bet we could get something decent made.[hr][/quote]<br />+1<br /><br />Let us lend a hand. I understand if you want it to be your project and not a community effort, but I'd love to offer any insight I can.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6032,
+		"title": "Re: well...",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-11T16:25:47.000Z",
+		"content": "Noted, Xky, but right now I'm not going to go Open Source.<br /><br />Mainly because I finally have the Friction and Forces mainly working.<br /><br />As for progress, sure, I'll say:<br /><br />Sounds:<br />(Any from Keen Dreams, 4, 5, or 6 I like, in Wav format)<br /><br />Music:<br />(Gathered the missing ones, in MP3 format[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />The Hub<br />Security Levels<br />Bloogton Manufacturing<br />Control Center<br />Quantum Explosion Dynamo<br />Slugville<br />Bloogwater Crossings/Bloogville<br />Keen5 Story<br />Keen5 High Scores<br />Keen5 Die<br /><br />(Not saying I'll use all of them, but a good few of them I will)<br /><br /><br />Graphics:<br /><br />Tiles:<br />Purple Ground Tile<br /><br />Backdrops:<br />Mountain Back Drop<br /><br />Keen:<br />KeenFaceL<br />KeenFaceR<br />KeenRunL<br />KeenRunR<br />KeenShootL<br />KeenShootR<br />KeenJumpR<br />KeenFallR<br />KeenJumpL<br />KeenFallL<br />KeenJumpShootL<br />KeenJumpShootR<br />KeenJumpShootU<br />KeenJumpShootD<br />KeenSwimL<br />KeenSwimR<br /><br />Enemies:<br />VorticonFaceR<br />VorticonWalkR<br /><br />Items:<br />ZittoCandyBar<br />DietVortaCola<br />BignBeefyBurger<br />Chocolate Cake<br />VortiNinjaToy<br />VorticonRailGun<br />AnkofTime<br />[HealthItem] (Not saying this one right now)<br />KeyCardBlue<br />KeyCardRed<br />KeyCardGreen<br />KeyCardYellow<br /><br />Get Items (The picture):<br />Get_ZittoCandyBar<br />Get_DietVortaCola<br />Get_BignBeefyBurger<br />Get_Chocolate Cake<br />Get_VortiNinjaToy<br />Get_VorticonRailGun<br />Get_AnkofTime<br />Get_[HealthItem]<br />Get_KeyCard<br /><br />Programming:<br />(Working) Acceleration Function<br />(Working) Running Force (Stops after certina horizontal speed)<br />(Mostly-working) Friction Force<br />(Working) YNormal Force<br />(Not working) Jump Force<br />(Working) Coefficient of Friction --varies on surface Object's standing on.<br /><br /><br /><br />Does this count as progress?   --;~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6033,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-08-11T16:50:05.000Z",
+		"content": "Speaking from experience, the more time I spent compiling lists and statistics of what I HAD done on my Keen4 mod, the less inspired I was to actually WORK on it.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  I'm standing by my emphasis on buckling down to -work-, rather than speculating about what you have and don't have.  You can do it!"
+	},
+	{
+		"id": 6034,
+		"title": "Re: hehe",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-12T19:28:22.000Z",
+		"content": "LOL, Xky -- you just told me to tell you guys where I'm at.<br /><br />I didn't write all that shit to make myself feel better. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] ~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6035,
+		"title": "Re: well...",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-12T20:23:02.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>XKY:</b>We've got a few people here with coding knowledge; with our combined efforts, I bet we could get something decent made. [hr][/quote]<br />By your powers combined, I am Captain KEEN!<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br />Sorry when I read that quote this came to mind.<br /><br />[quote]<b><i>Quote:</i></b>[hr]<b>GloweyBox: </b>LOL, Xky -- you just told me to tell you guys where I'm at.[hr][/quote]<br />No, actually he told you (in nicer words) to get to work.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6036,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-08-13T15:19:51.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Najawa</b> Game maker can render 3D Graphics, but you can only work with geometric shapes, or rocks/fireworks effects[hr][/quote]<br />There are plenty of games on the GM forums that have real 3D with textured models - you do get access to full 3D in the registered version."
+	},
+	{
+		"id": 6037,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-15T12:50:39.000Z",
+		"content": "Well, I'm working on a new angle for my physics engine.  Wish me luck!  ; )<br /><br /><br />I have a few new graphics, too.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6038,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-15T17:20:48.000Z",
+		"content": "good luck [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 6039,
+		"title": "Re: Go \"bah...\" yourself.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-15T21:58:54.000Z",
+		"content": "Well, my idea worked... ish.<br /><br />Now gravity doesn't work.<br /><br />On a brighter note:<br /><br />Running force, friction, and normal forces are all working within set parametets.<br /><br /><i>EDIT:</i>Well, now Gravity works, but now I cling to walls.  *sigh*~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6040,
+		"title": "Programming 101",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-16T00:46:57.000Z",
+		"content": "How are you organizing this physics engine?<br /><br />I don't see how by adding new things... you make other things not work.<br /><br />Unless you are doing it very... sloppy...<br /><br />But even still. How does Game Maker work? Does it support classes and OOP? If so, are you using them?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6041,
+		"title": "Re: Programming 101",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-16T09:03:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]EDIT:Well, now Gravity works, but now I cling to walls. *sigh*[hr][/quote]<br />Spider-Keen?________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6042,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-17T02:17:34.000Z",
+		"content": "Gal --Sorry, dunno what OOP is an acronym for.<br /><br />Secondly, it is a object-oriented system.  The reason other things happen when I edit the code should be obvious.  It's programming, changing one thing will change another.<br /><br /><br />Lemur- LOL!  Pretty much.  I'll work on it tomarrow.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6043,
+		"title": "Re: Programming 101",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-17T04:09:00.000Z",
+		"content": "I think OOP is Object Oriented Programming<br /><br />Or it may be the sound you make when Keen clings to walls...A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6044,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-17T13:09:31.000Z",
+		"content": "lol, yeah, it's object-oriented programming.<br /><br />You have several file libraries:<br /><br /><br />Sprites<br />Sounds<br />Backgrounds<br />Paths<br />Scripts<br />Fonts<br />Timelines<br />Objects<br />Rooms<br /><br /><br />Basically, the programming is then subdivided into Events for Objects:<br /><br />Creation, Pressing keys, releasing keys, each Step events (When they are re-drawn), Collision, Alarm, Destroy, and other \"events\".<br /><br />Then you put your code into those Events.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6045,
+		"title": "Re: Programming 101",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-17T16:30:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]The reason other things happen when I edit the code should be obvious. It's programming, changing one thing will change another.[hr][/quote]<br />OBVIOUSLY... I should of known. How foolish of me.<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br /><br />That's interesting. So for example, in the \"pressing keys\" subsection all you have is a mass of functions?<br />Or is it just a lot of conditional (if else) statements in one function?<br /><br />If you are willing to make this open source like Xky said, I am sure we all could help you immensely.<br /><br />Do you have any screens or any demo?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6046,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-18T02:25:07.000Z",
+		"content": "I could, maybe tomarrrow, release a temporary Physics Demo in 7z format.<br /><br /><br />At any rate, yes, it's a whole host of If-then statements, mostly, plus a few other variable modifiers.<br /><br />Well, in GML, there are various Events, and then you put in your code into the Events of the Object.<br /><br /><br />I don't quite need help just yet.  I still think I can overcome my two main obstacles.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6047,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-18T18:36:51.000Z",
+		"content": "Okay, I have a 7z file ready, if anyone wants to host, it'll be up then.<br /><br />It's not exactly a lot, but it is something.<br /><br /><br /><br /><br />(I don't have a fangame site up, otherwise I'd host.)~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6048,
+		"title": "Re: Programming 101",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-08-18T18:39:06.000Z",
+		"content": "What is 7Z and what will I need to play it?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 6049,
+		"title": "Re: Programming 101",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-08-18T20:48:13.000Z",
+		"content": "7z is a compression format - get the decompression thing at [url=http://www.7-zip.org]www.7-zip.org[/url]."
+	},
+	{
+		"id": 6050,
+		"title": "Re: Programming 101",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-19T08:52:11.000Z",
+		"content": "You get cool points for using 7z. I hope it gets more popular.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6051,
+		"title": "Re: Programming 101",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-19T13:43:18.000Z",
+		"content": "You lose cool points for not using a file that everyone can use. I might not want to download 7zip *again*...____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 6052,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-19T19:07:36.000Z",
+		"content": "Well, at the end of it all you'd have a choice of a 10MB file, or a 3MB file.  I choose to put up a 3MB file.<br /><br /><br />(10MB is my currently projected final file size.)<br /><br /><br />So, I'll run this by anyone again:  Do you want to play-test my physics engine?  If yes, then someone host it.  If not, then you'll have to wait until I release a demo.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6053,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-19T20:25:07.000Z",
+		"content": "GREAT NEWS!<br /><br /><br />I finished programming my Newtonian mechanics section.  (Only projectile motion, as I need not the others)<br /><br />And it works completely works! <i>EDIT: Wait, there still is one glitch that GM just doesn't want to ****ing change...</i><br /><br /><br /><br /><br /><br />(Now, I don't have the Pogo function, but I'm not doing that with physics.  I don't deem it necessary to use the F = k*x equation or force to do somethign as simple as Pogo.)<br /><br /><br /><br />Now, I have to do a bit of Fluid Mechanics (Nothing more than some boyount force, swimming forceX, swimming force Y, and whatever friction/viscosity counter force I choose to use. (I'll probably just make up my own equation, LOL)~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6054,
+		"title": "Re: Programming 101",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-19T21:53:10.000Z",
+		"content": "No! Bernouli slaved so that we could understand liquids, do not deny the usefulness of his equation!<br /><br />[Pogo, a spring is too *simple* for a basic motion equation? Whateverhappened to F = kd^2?]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6055,
+		"title": "Re: Programming 101",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-20T01:37:47.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr](Now, I don't have the Pogo function, but I'm not doing that with physics. I don't deem it necessary to use the F = k*x equation or force to do somethign as simple as Pogo.)[hr][/quote]<br />I don't get it. Isn't it just a matter of adding a constant to Keen's vertical velocity each time he needs to leave the ground?________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6056,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-20T15:51:48.000Z",
+		"content": "Lemur --yeah, that's what I'm going to do.<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />[Pogo, a spring is too *simple* for a basic motion equation? Whateverhappened to F = kd^2?] <br />[hr][/quote]<br /><br />Umm.. No, that's wrong:<br /><br />F = k*x<br />E = 1/2*k*x^2<br /><br /><br />k = spring constant, gauged in Newtons/Meter.  How could you sqaure the distance (Meters^2) and then multiply it by Newtons/Meter and not get Joules?  The second equation is for the potential energy of a Spring.<br /><br /><br />Also, Bernouli didn't make the aerodynamics equations that do viscosity of fluids.  Navier and Stokes did.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6057,
+		"title": "Re: Programming 101",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-20T21:09:28.000Z",
+		"content": "Ohh, springs. I forgot pogo sticks used those, so I couldn't figure out why implementing it would be complex.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 6058,
+		"title": "Re: Programming 101",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-20T21:18:37.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]k = spring constant, gauged in Newtons/Meter. How could you sqaure the distance (Meters^2) and then multiply it by Newtons/Meter and not get Joules? The second equation is for the potential energy of a Spring.[hr][/quote]<br /><br />*slaps* Damn! Thats right! Forgot!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6059,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-08-21T12:59:09.000Z",
+		"content": "=P<br /><br />Well, I have more graphics... And I'm still trying to overcome my final glitch, but I'm also programming my fluid mechanics because that glitch I described does not want to give in, and I don't know how to fix it. (Leastways, GM is acting all fucled up when I do the only counter glitch tactic for such a problem.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6060,
+		"title": "Re: Programming 101",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-05T00:39:21.000Z",
+		"content": "I hope this topic isn't dead.<br />Hey dude, do you have the poles worked into the game mechanics? I noticed u didnt have Keen pole sprites on that list.<br /><br />Just if you want my help, i know GM very well, and ive made a Keen engine before, with poles and everything. (It was because I wanted to make a game like Creative Madman's CK vs GI). It has one or two glitches that i never figured out, but I made it with drag-and drop if u can believe that, and i'm just gonna start from scratch and put it into real code.<br /><br />However, i have a question for you. What keys do you use to fire a shot in your game?<br />You see, for some reason, when I hold down the up, left, and alt keys, it doesnt register and makes a beep noise after a second. This was interfering with my game, and i never figured out why jumping, moving right, and firing up would work when doing the same but moving left would not. lol. It must be some hardware thing, whihc means im screwed.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 6061,
+		"title": "Re: Programming 101",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-09-05T17:49:00.000Z",
+		"content": "It's a keyboard/BIOS thing. You just can't press more than 4 keys at once on a keyboard, or it will start to beep. Too much input!____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 6062,
+		"title": "Re: Programming 101",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-09-05T21:54:11.000Z",
+		"content": "<i>You just can't press more than 4 keys at once on a keyboard, or it will start to beep.</i><br /><br />Actually it depends on the keyboard - I've used really cheap ones that won't let you press more than two keys at once, which makes gaming impossible.  I've even used one keyboard where a common key sequence (something like strafing to the left while firing) made the keyboard send the 'escape' keycode, so every time I tried that move the main menu would pop up...really annoying."
+	},
+	{
+		"id": 6063,
+		"title": "Re: Programming 101",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-09-05T22:04:30.000Z",
+		"content": "Wow, that must be an old one.<br />But DaVince, I only press up, left, and alt and get a beep. that's thre keys, and it doesnt beep on any combination of three.<br />F, T, and D beep, so do F, T, and A, but F, T, and C dont.- .... . &lt;&gt; ..- -. .. ...- . .-. ... . &lt;&gt; .. ... &lt;&gt; - --- .- ... -"
+	},
+	{
+		"id": 6064,
+		"title": "Re: Programming 101",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-09-06T20:03:48.000Z",
+		"content": "From what I know about keyboards, keys are grouped somehow (perhaps the groups are wired to one central cable going to the main output cable of the keyboard), and you can't press more than three or four keys in one group. For example, Q, A and Z are all in the same group so the keyboard gives a beep. I guess it has something to do with the cables inside the keyboard, not overpowering what they can handle.<br /><br />If a certain combination won't work, try using different action keys for your game. Or make it gamepad compatible. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 6065,
+		"title": "Re: Programming 101",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-09-06T20:16:52.000Z",
+		"content": "*This topic is officially dead*~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 6066,
+		"title": "Re: Programming 101",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-07T07:46:46.000Z",
+		"content": "You're a bastard Glo, you really are.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

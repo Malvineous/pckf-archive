@@ -1,0 +1,66 @@
+[
+	{
+		"id": 793,
+		"title": "Good Web Hosting?",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-12T05:54:58.000Z",
+		"content": "Anyone have any good recommendations for free web hosting that allows any kind of file, plus hotlinking?- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 20456,
+		"title": "Re: Good Web Hosting?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-12T05:56:40.000Z",
+		"content": "Try this. Its decent.<br />[url=http://system.freepgs.com/plans.php]link[/url]"
+	},
+	{
+		"id": 20457,
+		"title": "Re: Good Web Hosting?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-12T06:08:18.000Z",
+		"content": "btw mort, can u send that beta over to my email since i, like many others, dont use aol messenger.<br /><br />equip<i><b>UNDERSCORE</b></i>lex<b><i>EIGHTYSEVEN</i></b> at hotmail dot com<br /><br />replace underscore with '_' and eightyseven with '87' (excluding quotes)"
+	},
+	{
+		"id": 20458,
+		"title": "Re: Good Web Hosting?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-10-12T08:52:12.000Z",
+		"content": "Or [url=http://www.sitesled.com/]Sitesled[/url]. Recently upgraded to 250 MB webspace.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 20459,
+		"title": "YO",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T02:01:26.000Z",
+		"content": "YO, FreePgs looks awsome at 3GB/day and one time pay! Are you sure there's no catch? Cuz get this, one time I saw a site hoster advertise that they had unlimited bandwith.....and then when i finally found a terms of service or policy thing, they said something like \"excessive bandwith usage will be terminated\" GARG!<br /><br />For FreePgs:<br />3. e)        Making available copyrighted software which has been \"cracked\" (e.g., copyright protection for the software has been removed)<br />This is a little hard for a host not to use this policy. Um, does that apply to Keen files? (graphics, sounds, music)<br /><br />4. We do not allow any type of applications, programs, software, or MP3 files on our server unless you are the full owner and/or have rights to redistribute the application/file.<br />But can I hotlink to other places or at least give a link to them? this brings up another important question.<br /><br />If I hotlink files, I know the server that has the file will use its bandwith to send it, but what about the server with the actual hotlink? Does that server use bandwith too? I sure hope not.<br /><br />{EDIT:} I just noticed the SiteSled policy has very similar terms.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 20460,
+		"title": "Re: YO",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-10-13T10:13:50.000Z",
+		"content": "I'm with freepgs. <br /><br />3e. No.<br /><br />4.they dont care about your keen games.<br /><br />and i cant understand what u just said"
+	},
+	{
+		"id": 20461,
+		"title": "Re: YO",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2006-10-13T19:16:09.000Z",
+		"content": "what hotlinks? like image shack, u link to another site/file that sends the pic; in other words, the file is not on the server your site is, such as freepgs, but somewhere else and you just hotlink the pic/file to your page.<br />The reason I ask is that some free hosting opportunities don't allow it; i know, lame. And does hotlinking use your own server's bandwith?; i pray not.<br /><br />If u don't mind alex, gimme a link to your site; oh and check my game post for info on beta testing.- .... . / ..-  -. .. ...- . .-. ... . / .. ... / - --- .- ... - / .-."
+	},
+	{
+		"id": 20462,
+		"title": "Re: YO",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-14T02:03:30.000Z",
+		"content": "As far as I am aware a hotlink will contact the server with the file relatively directly; the server with the hotlink only loads the link text and location.<br /><br />Although I do believe there are certain sites that will store a file either from a home computer or a website for a short period of time for you.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	}
+]

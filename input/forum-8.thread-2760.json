@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1037,
+		"title": "How to turn images into links",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-08-30T11:41:58.000Z",
+		"content": "[ link=[url=http://www.whatever.xxx/]www.whatever.xxx/[/url]][ img noborder][url=http://www.whatever.xxx/someimage.yyy[/]www.whatever.xxx/someimage.yyy[/[/url] img][/ link] (just remember to remove the excess spaces) (also, replace the xxx with either net, com, org, gov, etc., and replace the yyy with bmp, gif, etc..)<br /><br />Example:[ link=[url=http://pub128.ezboard.com/bpubliccommanderkeenforum]pub128.ezboard.com/bpubli...rkeenforum[/url]][ img noborder][url=http://www.classicgaming.com/cc314/msgboard/pckf_banner.jpg[/]www.classicgaming.com/cc3...nner.jpg[/[/url] img][/ link]=[url=http://pub128.ezboard.com/bpubliccommanderkeenforum][img]http://www.classicgaming.com/cc314/msgboard/pckf_banner.jpg[/img][/url] (edit: fixed a web address mistake)<font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 24445,
+		"title": "Re: How to turn images into links",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-08-30T12:49:48.000Z",
+		"content": "And your point is?-----------------<br />[img]http://jamba.nl/storage/view/335/0/cr/CrazyFrog___Axel_F_Rocket.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 24446,
+		"title": "Re: How to turn images into links",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-08-30T15:11:05.000Z",
+		"content": "The point is that Harvey seems Shockshundish. Locked.[url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 24447,
+		"title": "Re: How to turn images into links",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-08-30T17:55:39.000Z",
+		"content": "Harvey, it's time to watch [url=http://albinoblacksheep.com/flash/posting.php]albinoblacksheep.com/flash/posting.php[/url][url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	}
+]

@@ -1,0 +1,386 @@
+[
+	{
+		"id": 542,
+		"title": "Open-source Invasion of the Vorticons clone",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-10-18T21:35:30.000Z",
+		"content": "An open-source clone of Commander Keen: Invasion of the Vorticons (1-3) has been released on SourceForge which runs on win32/SDL with Linux and Mac ports in the works. From the README:<br /><br />[quote]<b><i>Quote:</i></b>[hr]CloneKeen is an almost almost complete open-source clone of the old classic DOS game, Commander Keen: Invasion of the Vorticons by ID Software. CloneKeen requires the original game data files to work. You can play all three episodes of the game.<br /><br />CloneKeen currently runs under win32, using SDL. My hope is for CloneKeen to be ported to many other platforms.<br /><br />CloneKeen tries mostly to replicate the original game, however there are also a number of improvements, including smoother scrolling, better graphic effects in some parts of the game, and 2-player support.<br /><br />To my knowledge this is the only released attempt at writing a homebrew third-party Keen game that has reached this stage of completedness.<br /><br />The CloneKeen source may be freely distributed and modified as per the GPL, just please remember to give credit to the original author Caitlin Shaw.<br /><br />CloneKeen comes with one new level for episode 1 (shareware), and 2 new levels for episode 2. These levels are released under the same license as the rest of the program.<br /><br />CloneKeen also includes the Tile Attribute Editor used while making the game which allows modification of the level tile properties.<br />[hr][/quote]<br /><br />Check it out: [url=http://clonekeen.sourceforge.net/]clonekeen.sourceforge.net[/url]"
+	},
+	{
+		"id": 14642,
+		"title": "Interesting:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-18T21:54:07.000Z",
+		"content": "It was very interesting.<br /><br />It bugs me, though, that the 2 player doesn't use split screen. Oh well. It just doesn't have that keen feel yet; but is muuuuuuuuuuuuuuuuuch better that other immitations I've tried.<br /><br />I hate though:<br /><br />- No scorebox on space<br />- weird cheets<br />- more to come<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 14643,
+		"title": "Re: Interesting:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-18T22:13:35.000Z",
+		"content": "Woah, that's some awesome work! For a few minutes I didn't even remember that Keen source is not released, it took me while to realize you've coded this from scratch and not ported the code. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />Very good, the two player mode looks awesome, I wish I had someone to play with..<br /><br />Oh, and to future version somekind of status window would be good for lives, ammo etc.. Otherwise, great!<br />As well, seems some tile properties aren't correct; in the very first level Keen should go behind those blue pillars.<br />In third level (IIRK) the yorp didn't fall out of the level when it fell to the flames. In original Keens they fall off the screen. You may have wrongly set tiles there or some different way of coding. But it's very small detail that doesn't matter.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14644,
+		"title": "Re: Interesting:",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-10-18T22:16:08.000Z",
+		"content": "The 2 player mode is actually a prototype of the 2 player networked mode which is being developed, and not a lot of work has been done on it, it's just a prototype...so more to come on that. The scorebox not popping up on space is a bug which was introduced last night while I was trying to see if I could play it with my feet [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  which I ended up messing up the keyboard layout and somehow got included into the release, so a patch for that is being uploaded to SourceForge now."
+	},
+	{
+		"id": 14645,
+		"title": "Re: Interesting:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-18T22:21:27.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Ok, good to hear that. Playing Keen with feet only is hard, at least from my experiences.<br /><br />The networked 2 player mode sounds awesome, good luck with that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14646,
+		"title": "Wha... What?!?",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-10-19T03:46:31.000Z",
+		"content": "You mean... you made it!!! The score board!!! I mean... I can post... and you'll listen??? WOW!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />*Pulls out sheet of paper*<br />*Lets around 100 sheets fall from behind it*<br />Ehem... now let's get started:<br /><br />1) We want the TAB cheat back.<br />2) Can you make god mode so that it can be toggled on and off, and not where you have to hold down F1 when you want it?<br />3) Can you make the 2 two-player options; networked, and single CPU? I mean; can you have one split-screen, and another networked?<br />4) Can you make it so that you can change what key does what?<br />5) Can you make it so that you can have multiple keys do one thing? (e.g. in K1 - K3, if you wanted, you could make everything controled by the up arrow!!!)<br /><br />Wow... good work so far; can you speen up the jump frames a bit, and slow down the flying? He takes too long to get into the air, but flies 2 fast!!!<br /><br />TY<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 14647,
+		"title": "Re: Wha... What?!?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-19T09:39:57.000Z",
+		"content": "Here's some small bugs that should be changed:<br />1. If Keen is jumping with pogo he can get back to opposite direction fairly easily. In the official ones it isn't that easy, and requires a long fall/jump to work.<br />2. The guard robots shoot too high. The ammo they shoot should spawn lower, as in the official games.<br />3. When Keen is frozen by an ice cannon, and if he hits and obstacle (solid tile) in air, he should drop down, and not continue the sliding again on the ground. In this game he continues sliding even if he hits something while being in the air. (I'm probably unclear, if can't see what I'm saying compare the behaviour with the official game.)<br /><br />The addition to skip parts of ending texts or such by hitting space is excellent in my opinion. However, I got something strange error in the ending that ended the game. It may be something wrong with my hardware or something, but here's the message anyways;<br /><br />abnormal program termination, error code 1/-16/-16<br />explanation: getmaptileat(): OOB reading from mapdata.<br />numplayers: 1<br /># of player instances with isPlaying set: 1<br />A fatal error has occurred; game is shutting down.<br /><br /><br />Anyways, good luck.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14648,
+		"title": "Re: Wha... What?!?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-19T10:00:54.000Z",
+		"content": "Teh ZOMG! ROMLOLZ! 1337!<br /><br />WTF??<br /><br />A windoze port! Yays! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 14649,
+		"title": "OMFG!!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-19T14:54:53.000Z",
+		"content": "Ooooooooooooooooooooooooooom!!!<br /><br />Dudez0rz!!<br /><br />I'll suspend my drool for a moment to offer some constructive criticism.<br /><br />The movement needs fine tuning, as has been mentioned. For starters:<br />- Map movement should be a constant velocity. At the moment, Keen seems to accelerate gradually and roam around like a default racecar object in Klik &amp; Play.<br />- Currently, the in level Keen starts and stops suddenly, whereas there should be a slight deceleration when the player stops moving.<br />- Jumping is abrupt and doesn't have the right level of control. I can't quite put my finger on what's causing the problem, though.<br /><br />I haven't tested the pogo yet.<br /><br />Also, some vsync would be nice--I've noticed some slight tearing at times. It's only a minor problem though.<br /><br />This has the potential to run existing K1-3 mods--already it's easy enough to import graphics and levels. Obviously, patches for the original games are not going to be effective, but a good start would be to enable importing of tile properties. Then we can at least play XkyKeen1 on it.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />With this engine as it is, you've already achieved something that so many have failed previously. Get the LANability, modability, and general atmospheric details working fully, and you're right up there with adurdinesque deity status.<br /><br />Congratulations. I'll let you know of any other problems I find.<br /><br />Now... where was I?<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 14650,
+		"title": "Re: OMFG!!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-10-19T20:47:44.000Z",
+		"content": "I won't drool as the others, but it's true that your attempt at cloning K1-3 seems to go well.<br />I haven't tried it much, but I played through the first two levels (three if you count that dark one with no enemies).<br />*Others have said it too, that Keen can turn too fast when he is jumping or when he is hitting a tile and starts moving after that tile is not blocking him anymore.<br />*Keen cannot walk through yorps when they are moving the other way. This can make some levels unplayable or harder at least.<br />*There's the third level where at the start of the level yorps are falling out at the bottom. They don't do it here, just stay on the spikes there.<br /><br />Maybe this is not the right kind of question in a Keen forum (please don't hate me) but you're making the same game as the originals. What's the point? Is it the multiplayer, or do you want to make some other game, but needed to start somewhere? I could understand both, just asking."
+	},
+	{
+		"id": 14651,
+		"title": "Re: OMFG!!",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-10-19T23:09:17.000Z",
+		"content": "Beta 8.2 incremental release is up, which fixes a few of the problems y'all were reporting...more to come later when I get around to working on the bigger stuff.<br />[quote]<b><i>Quote:</i></b>[hr]8.2 Changelog<br />Incremental update--more to come<br /><br />* monsters can now fall off bottom of screen in ep1<br />* fixed die sequence when keen falls off bottom of screen in ep3<br />* remapped the following cheat codes:<br />     changed god mode to toggleable via F1<br />     changed noclip &amp; revive to TAB<br />     changed All Items to C+T+SPACE<br />* decreased PJUMP_PREPARE_ANIM_TIME from 15 to 11 (speeds up jump animation)<br />* fixed \"Quit to DOS or Title\" box not appearing due to deprecated LOCALE #defines<br />* tweaky on the player friction/inertia constants and some fixes to the pogo physics<br />* fixed \"OOB\" crash after showing end sequence in ep1<br />* fixed the height that tank robots fire from<br />* fixed ice cannon inertia problem<br />* included tileattr.exe in binary archive<br />[hr][/quote]<br />I released that the binary release of 8.1 did not include the Tile Attribute Editor, so this release has it in both the source and binary zips.<br /><br />After checking back with the original game I agree that a lot of the movement doesn't have the nice \"floaty\" feeling that the real game did...it's just so hard to figure out exactly what's wrong though, so this will take some tweaking to get right. I did make a few changes to the physics which fixes most of the other physics errors. This should be fixed for real in 8.3.<br /><br />Cheat codes were made more \"normal\". Oh yeah, and there are more cheats under the Options menu, if y'all didn't notice, like Increase Difficulty.<br /><br /><i><b>CommanderSpeen:</b><br />I'm not familiar with Klik &amp; Play, but #2 is fixed. #3 will be later.<br />You can change tile properties with tileattr.exe.<br />You can change ALL of the in-game text though strings.dat.<br />And yes it does run xkykeen1, although there a few glitches here and there due to it using the engine in ways the original did not, and CloneKeen not emulating it properly.<br /><br /><b>z hyphen one:</b><br />The reasons for CloneKeen are twofold:<br /><br />* Portability. The original game is DOS only. CloneKeen can be compiled to run on Linux, OS X, potentially even portable systems like Pocket PC. That gives those of us that don't use DOS &amp; Windows access to a great classic game, which supports both Commander Keen and these alternative platforms.<br /><br />* Modability. I've seen a few pretty cool mods, but all mods made so far are in truth limited in what is possible. A mod designed around CloneKeen wouldn't be limited by the constraints of previous mods, since all the attribute and data files are right out there in the open, editors are supplied, and the source code is available--it could be taken as far as an entirely new fangame &amp; episode, only with all the work of implementing the Keen engine already done for the designer.</i><br /><br />Thanks everyone...see ya later... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 14652,
+		"title": "Re: Open-source Invasion of the Vorticons clone",
+		"author_id": 1485567,
+		"author_name": "GMixer",
+		"timestamp": "2005-10-23T01:58:29.000Z",
+		"content": "Sounds cool!  I'm looking forward to the Linux port.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b><i>If the universe were toast, what jelly would you put on it?</i></b>"
+	},
+	{
+		"id": 14653,
+		"title": "Re: Open-source Invasion of the Vorticons clone",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-23T11:55:01.000Z",
+		"content": "Even using the fulscreen extension, it doesn't go fullscreen for me! Any ideas? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 14654,
+		"title": "Re: Open-source Invasion of the Vorticons clone",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-23T13:28:38.000Z",
+		"content": "Are you sure you select 'accept' instead of 'cancel'? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img]  Works for me..<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14655,
+		"title": "f001 m4h 5kr33n!!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-10-23T14:35:30.000Z",
+		"content": "Fullscreen works fine for me, but it'd be nice if it remembered the setting when starting the game next. A keyboard shortcut wouldn't go astray, either.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 14656,
+		"title": "yeah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-10-24T01:24:58.000Z",
+		"content": "Yeah, maybe a little message in the corner on start-up... while the stars are saying \"Presenting...\" there could be a note in the corner, \"Press F10 for fullscreen!\"  :-)<br /><br />This is a good start--just gotta make the jump physics a bit tighter.  Right now you can still do the Mario Bros. thing where you face left, but move right in the air.  I like the fact that you avoided the Monster Bash-style \"Hey, I can hit the jump button in mid-air mid-jump to go higher!\" thing.<br /><br />The fall speed on the pogo is too slow."
+	},
+	{
+		"id": 14657,
+		"title": "Re: yeah",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-10-24T09:15:57.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Are you sure you select 'accept' instead of 'cancel'?  Works for me..[hr][/quote] <br /><br />What accept and cancel? I don't get any message like that. How do you get that to opo up?A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Mod2.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 14658,
+		"title": "Re: yeah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-24T11:45:02.000Z",
+		"content": "\"What accept and cancel? I don't get any message like that. How do you get that to opo up?\"<br /><br />1. Start the exe.<br />2. In the main menu, select \"Options\".<br />3. There go to \"SDL Fullscreen Mode\" and hit enter (the 'OFF' changes to 'ON', however, the screen doesn't (yet)).<br />4. Select \"Accept\".<br />5. Now it should have changed your screen full screen.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14659,
+		"title": "Re: yeah",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-05T01:19:46.000Z",
+		"content": "It took me some time to notice what is new in the first post, but finally I see the address to the new webpage.<br /><br />Quote from web page:<br />\"TODO<br />...<br />Game crash after restarting via option menu\"<br /><br />Don't make it crash, please [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />How were those screenshots made? Does the game support a stretched screen mode?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 14660,
+		"title": "Re: yeah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-05T10:58:41.000Z",
+		"content": "I'm sure that error will be fixed. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Oh, and dunno if it supports stretched screen mode (whatever it is), but you can use full screen.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14661,
+		"title": "Re: yeah",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-05T13:26:17.000Z",
+		"content": "Even when I select fullscreen option and accept, the screen is still small!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/lind.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 14662,
+		"title": "Re: yeah",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-05T13:39:26.000Z",
+		"content": "This is sooooo cool![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />*drowns*<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />\"I always try to consume interesting animals.\"-LevelLord</font>"
+	},
+	{
+		"id": 14663,
+		"title": "Re: yeah",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-11-05T14:20:35.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]dunno if it supports stretched screen mode (whatever it is)[hr][/quote]Just look at the screenshots. They are stretched somehow compared to 320x200, but it looks like they were taken from the game without modification. Maybe it's what was mentioned at the top of the page as \"Implemented screen zooming using scale2x\"?<br /><br />*EDIT* Who is Katy?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 14664,
+		"title": "Re: yeah",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-11-05T23:38:00.000Z",
+		"content": "Hey all I've been gone a while I know, been working on my eBay business etc maybe I can get back on this project soon.<br />In response to those who mentioned the lack of stretched screen, check the changelog, the scale2x support is a part of 8.3, but isn't released yet, I want to do some more work in other areas before the next release.<br />\"Katy\" is my real name."
+	},
+	{
+		"id": 14665,
+		"title": "Re: yeah",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-11-06T06:19:30.000Z",
+		"content": "Which insect made an open source Keen for windoze?<br /><br />Katydid. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/lind.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 14666,
+		"title": "Pick Me! Me! Pick Me! Oh, please! :D",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2005-11-08T10:06:32.000Z",
+		"content": "INSANELY GROOVY!!!!!!!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] <br /><br />Me and a friend started work on a keen clone, never got any far, but we have some 32bit 32*32 replacement, hi-res graphics.<br /><br />I've also spent heaps of time dissassembling the keen source. <br /><br />Nothing would honour me more than to be a part of this historic project. (That means I'd like to join the project, in case you are like 90% of the people at my school who don't understand a thing I say [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  )<br /><br />*bows down and lays keyboard at your feet*"
+	},
+	{
+		"id": 14667,
+		"title": "Re: Pick Me! Me! Pick Me! Oh, please! :D",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2005-11-08T14:33:16.000Z",
+		"content": "Awesome work, Katy!"
+	},
+	{
+		"id": 14668,
+		"title": "Re: Pick Me! Me! Pick Me! Oh, please! :D",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-11-08T19:51:35.000Z",
+		"content": "MultiMania: Hmm...Hi-res graphics could be interesting. I'd love to see them. My contact address is on the site."
+	},
+	{
+		"id": 14669,
+		"title": "Re: Pick Me! Me! Pick Me! Oh, please! :D",
+		"author_id": 1486601,
+		"author_name": "Dr Kylstien",
+		"timestamp": "2005-11-16T03:48:58.000Z",
+		"content": "The most annoying problems I've found are, as others have reported, that Keen needs to move at a constant speed on the map and the maneuvering in midair needs fixing. I would like to add that Keen should not be able to exit the level on pogo. In the original he'd just bounce past, but in CloneKeen, he walks out the door on thin air. The game also seems to move a little too fast, but this probably isn't exactly a bug.[url=http://www.mmechanica.spatang.com]Maniacal Mechanica[/url]<br />\"Your god? Your god. Don't talk to me about your god, Picard, because if He should happen to show his face, we're going to have words.\" -Q, I,Q"
+	},
+	{
+		"id": 14670,
+		"title": "New Release",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-11-19T03:09:00.000Z",
+		"content": "[url=http://clonekeen.sourceforge.net]Beta 8.3[/url] is out.<br /><br />[quote]<b><i>Quote:</i></b>[hr]<b>Beta 8.3</b><br />Keen will no longer walk out exit while pogo is out<br />A Linux port is now working!!!<br />Implemented \"Press F10 for Fullscreen\"<br />Re-did GOD cheat to G+O+D, and no longer requires -cheat<br />Tweaked desired fps from 120 to 112<br />Fixed -showfps function from always reading 000<br />Implemented screen zooming using scale2x<br />Fixed crash when changing episode, fullscreen, or zoom under options menu.<br />Fixed walking sound still playing if LEFT or RIGHT is pushed while FIRE is held down<br />[hr][/quote]"
+	},
+	{
+		"id": 14671,
+		"title": "Re: New Release",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-19T05:42:24.000Z",
+		"content": "Wow, here is my critisisms:<br /><br />Butler bots move a bit fast, You can't push past yorps (They are like walls - In the Keen games, you can push at them, and they eventually give, some sooner than others), You keep keycards after leaving lvl.<br /><br />I like how you make the graphics less pixelish; easier on the eyes. I also like how the vorticans die!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />BTW - The status screen just appears, instead of sliding down.<br /><br />Nicely done!!!<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudos to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 14672,
+		"title": "Re: New Release",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-19T07:06:24.000Z",
+		"content": "A couple snags here:<br />There must have been some \".o\" files living in your zip, because I had to \"make clean\" before \"make\"ing to fix an error about one of them.<br /><br />I don't seem to have the \"data\" directory, so I can't run the game.<br /><br />I'm running Linux, by the way. It's great that you've got a working version.<br /><br />EDIT: I see now that I need some files from the Windows zip. I'll just get those now.<br /><br />EDIT AGAIN: The program starts and opens a window, but then it segfaults right after \"Starting timer driver...\". It buzzes as it does so.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 14673,
+		"title": "Re: New Release",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-11-19T11:48:37.000Z",
+		"content": "Did you copy all the necessary files from your copy of Keen 1/2/3 as well?"
+	},
+	{
+		"id": 14674,
+		"title": "Re: New Release",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-19T17:21:51.000Z",
+		"content": "That would help<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudos to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 14675,
+		"title": "Re: New Release",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-19T19:56:40.000Z",
+		"content": "Cool!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 14676,
+		"title": "Re: New Release",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-19T20:01:48.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Did you copy all the necessary files from your copy of Keen 1/2/3 as well?[hr][/quote]<br />From Keen 1, yes. I'm not getting any errors about missing files now. Just a mysterious crash.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 14677,
+		"title": "Re: New Release",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-19T20:04:10.000Z",
+		"content": "Funny.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  It runs on my computer.<font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 14678,
+		"title": "Re: New Release",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-19T21:26:22.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Funny. It runs on my computer. [hr][/quote]<br /><br />But your not running Linux, are you?Proud Leader of the \"Tough Guys Wear Pink\" Society<br />--------------------------------------------------<br />Tough Guys Don't Follow Fads; the set them!!!<br />Kudos to Trensetters!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 14679,
+		"title": "Re: New Release",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-11-19T21:33:33.000Z",
+		"content": "No.<br /><br />I don't think I've ever seen a Linux.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-foot.gif[/img] <font color=\"BLUE\">Signed, Harvey Smith<br />A proud member of the beta testing society<br />\"I help entertain!\" -Harvey<br />Tough guys have no table manners![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]</font>"
+	},
+	{
+		"id": 14680,
+		"title": "Re: New Release",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-19T21:45:33.000Z",
+		"content": "It's getting better and better.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Great work once again!<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 14681,
+		"title": "Re: New Release",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-11-20T00:56:21.000Z",
+		"content": "The 8.3 source release does accidently include .o files from the scale2x library. If anybody is going to compile the source, please remember to make clean.<br /><br />[quote]<b><i>Quote:</i></b>[hr]EDIT AGAIN: The program starts and opens a window, but then it segfaults right after \"Starting timer driver...\". It buzzes as it does so.[hr][/quote]<br />It BUZZES? That's weird. I'm sorry but I don't know. It works on my Debian/x86 installation. If you figure it out please let me know.<br /><br />What command line arguments are you using? -fs, -dbl, etc?<br /><br />The first function called after TimeDrv_Start() is initgamefirsttime()...the first thing it does is load ep?attr.dat...<br /><br />EDIT: If it's buzzing, maybe that's indicative of a problem with the sound driver. If you open up sdl/snddrv.c, and comment out the line that says <i>if ( SDL_OpenAudio(&amp;AudioSpec, NULL) &lt; 0 )</i>, it should disable the sound."
+	},
+	{
+		"id": 14682,
+		"title": "Re: New Release",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-20T14:21:09.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It BUZZES? That's weird. I'm sorry but I don't know. It works on my Debian/x86 installation. If you figure it out please let me know.<br /><br />What command line arguments are you using? -fs, -dbl, etc?<br /><br />The first function called after TimeDrv_Start() is initgamefirsttime()...the first thing it does is load ep?attr.dat...<br /><br />EDIT: If it's buzzing, maybe that's indicative of a problem with the sound driver. If you open up sdl/snddrv.c, and comment out the line that says if ( SDL_OpenAudio(&amp;AudioSpec, NULL) &lt; 0 ), it should disable the sound.[hr][/quote]<br />Yep, it buzzes. It's very strange; a loud alarm clock type buzz rather than a gentle one. I'm using -ep1 and -dbl (although I don't know what it means -- I just copied it from the readme and assumed it was useful to have).<br /><br />New Info!<br />I just tried running it again but forgot to supply any arguments and it ran fine. It still buzzed constantly though.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 14683,
+		"title": "Re: New Release",
+		"author_id": 1485799,
+		"author_name": "rogueeve",
+		"timestamp": "2005-11-20T19:37:35.000Z",
+		"content": "-dbl = enable scale2x filter (double window size)<br />-fs = full screen mode (via SDL_FULLSCREEN)<br />-epX = run episode X<br />There is something wrong with scale2x mode under Linux. On most computers, it runs abnormally slow.<br />What's your distro and configuration?"
+	},
+	{
+		"id": 14684,
+		"title": "Re: New Release",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-11-21T00:27:11.000Z",
+		"content": "I just ran with only -dbl and it ran for me, although a little slow, like you said. It still buzzed though. I'm running Ubuntu Breezy. I don't really know what to say about my configuration, since there's a lot to my configuration. Harware or software? Can you give me a more specific question?________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 14685,
+		"title": "Re: New Release",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-06-26T23:57:16.000Z",
+		"content": "Has anyone shown interest in a PS2 port? I could PROBABLY do it, I already made a Memory Card icon. Of course, you'd need the Independence Exploit or a modchip to run it..."
+	},
+	{
+		"id": 14686,
+		"title": "Re: New Release",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-06-27T00:09:15.000Z",
+		"content": "Its 7 months later...<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 14687,
+		"title": "Re:",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-06-27T04:37:31.000Z",
+		"content": "I'm just a little late on things. Actually, more than just a little, I'm half a year late."
+	},
+	{
+		"id": 14688,
+		"title": "Clone Keen",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2007-10-31T20:51:12.000Z",
+		"content": "Here are a bunch of annoying areas in which Clone Keen varies from the original, which I don't think anyone else has mentioned.<br /><br /><br /><br />Episode 1:<br /><br />The Gargs will chase you even if (a) there is a barrier between you and he, or (b) you are a block or so above him.  In the original, they only chased you if they were level with you and nothing was between you and him.<br /><br />Keen's bedroom light doesn't switch on and off in the end sequence.<br /><br />The butler robots always push you away, whereas in the original, if you were going the same direction as a robot, it would \"pull\" you until you were in front of it, and then proceed to push you (so basically, you could walk past it if you were going the same direction as it).<br /><br /><br /><br />Episode 3:<br /><br />Touching a Vorticon mother is lethal.  In the original, her shots would kill you but you could touch her without harm.  Also, her shots move slower than they did in the original.<br /><br />If you press the fire key the instant a baby vorticon touches you, he doesn't knock you down.  This applies even if the baby vorticon doesn't die.<br /><br />In the underground area of the Vortiville level, vorticons can walk through the crates, whereas they couldn't in the original.<br /><br />The limbs of the mangling machine kill on contact, unlike in the original.<br /><br />Keen stands in front of the clouds instead of behind them.<br /><br />After the end sequence is shown the game doesn't go to the high score table, at least not in my version.<br /><br /><br /><br />All Episodes:<br /><br />The pause key won't work.  It did work in the original.<br /><br />I learned a handy method of doing a quick jump-then-shoot in the original Keens, but it won't work in Clone Keen.  It was to press and hold CTRL, then, when you were at the right height, press ALT and release both keys.  In Clone Keen, this only works if you release CTRL first, which can sometimes be a bit tricky.<br /><br /><br /><br />Those aside, this is a great clone.  It isn't quite the first, for there have been others, such as Flash Keen, but none that I've seen have come even remotely close to this level of duplication of the original."
+	}
+]

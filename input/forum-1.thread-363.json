@@ -1,0 +1,50 @@
+[
+	{
+		"id": 20,
+		"title": "Keen 5 Patches Do Not Work... Why?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-25T00:06:58.000Z",
+		"content": "I have version 1.1<br /><br />I want to patch it to 1.4<br /><br />NO patches work. It keeps saying \"Cannot patch Keen5e.exe, unknown version\"A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 1494,
+		"title": "Re: Keen 5 Patches Do Not Work... Why?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-25T01:32:41.000Z",
+		"content": "I was able to get it work...<br /><br />but I had to download a Commander Keen torrent - which is kinda useless in that I already have all the Commander Keen games.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 1495,
+		"title": "Re: Keen 5 Patches Do Not Work... Why?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-10-25T14:28:15.000Z",
+		"content": "I've come across a couple of versions that don't work with the patches. Haven't noticed any particular pattern yet, and I make sure they're the right version for the given patch. Maybe they're releases that were compiled slightly differently. If I find one again, I'll see how I go at making a patch for it.<br /><br />Do the patches need the EXE unlexed? I don't seem to recall."
+	},
+	{
+		"id": 1496,
+		"title": "Re: Keen 5 Patches Do Not Work... Why?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-10-25T15:09:49.000Z",
+		"content": "Perhaps the distribution is mismatched. You know, there is Keen 5 as distributed by GT Software, and Keen 5 as distributed by Apogee. GT's distribution has no Ordering Info in the help screen, and Apogee's has it. Additionally, GT's has a \"brought to you by goodtimes software\" in the DOS text-mode initialization screen.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 1497,
+		"title": "lzexe",
+		"author_id": 1486642,
+		"author_name": "CK Guy",
+		"timestamp": "2007-10-25T16:02:40.000Z",
+		"content": "@CS - no, they need to be the orig lzexe'd files.<br /><br />As for mix-n-matched collections of different versions, that sounds like a reasonable explanation."
+	},
+	{
+		"id": 1498,
+		"title": "Re: lzexe",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2007-10-27T16:46:25.000Z",
+		"content": "Hey Joe, did you say <b>version 1.1</b>??? Are you completely sure? Could you please if possible post a screenshot of the initializing screen? A version 1.1 of Keen 5 has not as of yet been seen, so this might be a first!"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1097,
+		"title": "IPX DOS LAN - And How!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-09-15T10:54:24.000Z",
+		"content": "Can anyone inform me how to go about setting up a basic peer-to-peer LAN using pure DOS (connecting at the moment to Windows 98, ME and XP at once)? What software do I use, how do I install the necessary drivers, etc, etc?<br /><br />I downloaded Novell NetWare DOS Client, but I'm in way over my head trying to work out how to set it up properly. And I don't even know if it's the program I'm meant to be using.<br /><br />Basically, all I need to do is network games over IPX. Anything more than that, such as filesharing and such, is a bonus.<br /><br />Hah, excelent--[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  eg is gone.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"[T]here's far too little sharing in this world and it's a sad place because of it. Too many people sitting on the blessings that the Good Lord intended for everyone, raking in a fortune selling what isn't theirs to people who have a right to it. Take what you need out of life and no more. Leave the rest for those who need it too.\"<br />- Mary Pound (quoted in Reaching for the Other Side by Dawn Hill)<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/SPASM.gif[/img]<br /><br />JimSoft Lair<br />http://jimsoftlair.tripod.com/"
+	},
+	{
+		"id": 25143,
+		"title": "Re: IPX DOS LAN - How?",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2004-09-15T13:27:51.000Z",
+		"content": "I don't know the answer, sorry.<br /><br />But wait!!!!!!! I haven't got IPX installed on my LAN and I don't know how... TCP/IP would be better...<br /><br />------------------------------------------------------<br />Keep in mind, I'm not an artist."
+	},
+	{
+		"id": 25144,
+		"title": "Re: IPX DOS LAN - How?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-09-15T14:46:55.000Z",
+		"content": "I don't have anything like that, but it could be nice..<b>EXIT</b>"
+	},
+	{
+		"id": 25145,
+		"title": "Re: IPX DOS LAN - How?",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2004-09-15T16:44:08.000Z",
+		"content": "dont even try to use tcp/ip under dos - u wont find anything, but first of all u should find dos-drivers for ur network-card [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 25146,
+		"title": "Technical Difficulties Persist",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-09-15T17:09:46.000Z",
+		"content": "[hr]<b>OP</b> first of all u should find dos-drivers for ur network-card <br />[hr]All sorted. The card I'm using is a brand spanking new 10/100 I just opened ($8 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] ).<br /><br />I found a few tutorials on Microsoft Network Client 3.0 ([url=http://fhctech.org/fhc/networking/dosclient.htm]This[/url] was the main one I used) and set that up, but it hasn't done me any good so far--I run NET and the machine can't even connect to itself, so something fundamental's not working, even though the whole boot sequence seems to work fine and I'm asked to enter a username/password.<br /><br />I tried setting it to not use DHCP and manually set the subnet mask and IP address, but to no avail.<br /><br />I might try out a couple of [url=http://www.jacco2.dds.nl/samba/dos.html]other programs[/url] I've stumbled across later today. For now, I'm going to bed.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; <br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"[T]here's far too little sharing in this world and it's a sad place because of it. Too many people sitting on the blessings that the Good Lord intended for everyone, raking in a fortune selling what isn't theirs to people who have a right to it. Take what you need out of life and no more. Leave the rest for those who need it too.\"<br />- Mary Pound (quoted in Reaching for the Other Side by Dawn Hill)<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/SPASM.gif[/img]<br /><br />JimSoft Lair<br />http://jimsoftlair.tripod.com/"
+	},
+	{
+		"id": 25147,
+		"title": "Re: Ooooooh!! Inching closer!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-09-19T16:47:55.000Z",
+		"content": "Aahhh... my long search is finally starting to bear fruit. After running around in circles all over the Internet in search of more and more information, and trying out several other programs (such as NeOS-10 and Artisoft LANTastic), I came across a couple of references to MS Client 3, which told me to type:<br /><br />net use &lt;map drive&gt; \\\\&lt;target computer&gt;\\&lt;network path&gt;<br /><br />So, I went along and installed it and voila! Instant access to Win98 and XP (but not Me... it's a whore... but that's a completely different episode altogether [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] ).<br /><br />Then I went and loaded up Duke3d on the Win98 computer and started a network game for two players. I did the same on the DOS machine, but it crashed after initialising IPX and starting the search loop. However, when I looked back at the Win98 machine, it had come up with a message informing me a second player had indeed successfully joined.<br /><br />Woo!<br /><br />I'm still unable to access the DOS computer from Win98/XP, and I'm still running blind, but I'm getting there.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <br /><br />Useful stuff:<br />[url=http://fhctech.org/fhc/networking/dosclient.htm]DOS Client Configuration[/url]<br />[url=http://computing.net/dos/wwwboard/forum/9321.html]Computing.Net - DOS 6.22 networking with windows[/url]<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"[T]here's far too little sharing in this world and it's a sad place because of it. Too many people sitting on the blessings that the Good Lord intended for everyone, raking in a fortune selling what isn't theirs to people who have a right to it. Take what you need out of life and no more. Leave the rest for those who need it too.\"<br />- Mary Pound (quoted in Reaching for the Other Side by Dawn Hill)<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/SPASM.gif[/img]<br /><br />JimSoft Lair<br />http://jimsoftlair.tripod.com/"
+	},
+	{
+		"id": 25148,
+		"title": "DOS LAN at my place next week! WOOOOOO!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-09-24T06:55:21.000Z",
+		"content": "OMG this rocks! I finally worked it all out!<br /><br />Running TCP/IP <b>only</b> with MS Client 3 has filesharing running flawlessly. In order to access DOSHIPPY from other machines, one needs to run 'net share &lt;sharename (ie. C-DRIVE)&gt; = &lt;path (ie. C:\\)&gt;'.<br /><br />That still left the problem of not being able to run IPX multiplayer games. Then I found [url=http://members.ozemail.com.au/~nkingham/ipxdos.html]this[/url]. Basically, all I need to do now is run LSL.COM (I'm running the 2.16 version from that site), then the NetWare ODI DOS driver (in my case, EP320R.COM) and finally IPXODI.COM. Then everything's set up to run games via IPX! And it works alongside MS Client 3 with TCP/IP filesharing.<br /><br />Yeehaw!! Duke3d and Death Rally work beautifully! Woooo!<br /><br />Next phase: finding monitors that aren't on the verge of death, so I can actually see what I'm doing in Duke3d.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"[T]here's far too little sharing in this world and it's a sad place because of it. Too many people sitting on the blessings that the Good Lord intended for everyone, raking in a fortune selling what isn't theirs to people who have a right to it. Take what you need out of life and no more. Leave the rest for those who need it too.\"<br />- Mary Pound (quoted in Reaching for the Other Side by Dawn Hill)<br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair<br />http://jimsoftlair.tripod.com/"
+	}
+]

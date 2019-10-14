@@ -1,0 +1,106 @@
+[
+	{
+		"id": 84,
+		"title": "Graphics, Music, Sounds",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-05-11T18:40:59.000Z",
+		"content": "A couple questions.<br />1. CKU. Some time ago there was a package with what looked like all of the official game graphics among some other fan-created pictures. I think it was called \"CKU\" or something similar. Does anyone know where this is?<br /><br />2. Music and Sounds. Last I knew, there wasn't an \"easy\" way to get the audio (music and sound effects) from the official games. Has anyone figured this out?<br />Or does anyone have the audio extracted?"
+	},
+	{
+		"id": 2854,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-05-11T20:55:39.000Z",
+		"content": "If you want the sounds or music from the official games, it would be pretty simple to record them into a .wav file in DOSbox and clip out the parts you want. That would probably be much easier than trying to extract it.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 2855,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-11T22:17:22.000Z",
+		"content": "The extracted music has been floating around this forum for a while now, and some people have gone to the trouble of converting it from its original IMF format into MIDI.  I can post a link for you if you're interested (and nobody else beats me to it.)<br /><br />As to the sounds I'm not entirely sure.  Andrew Durdin came up with some code that would convert the sound effects into digital audio, which many years ago I merged into my \"FileView\" shell extension, which meant that once you [url=http://www.shikadi.net/old/fileview/]installed FileView[/url], you could double-click on the audio files in Windows Explorer and it would open up as if it was a folder full of IMF and .WAV files, and to extract the sounds you could just drag the .wav files out into another folder.  Unfortunately the version at the other end of that link only lists Keen 1-3 as a formats, so I've got no idea whether it supports Keen4-6 or not.  I remember coding it, so I'm not sure why it hasn't made it into that file...but maybe it has and I just didn't update the docs [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 2856,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-12T05:14:52.000Z",
+		"content": "Sounds good to me.<br /><br />CKU is out there somewhere, at C314 I think, but its *huge* and contains all the levels too. Much better to have the graphics files with modkeen less than a tenth the size. Also, modkeen shows a much more ordered than CKU.<br /><br />I really must upload a more complex grahics package sometime.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2857,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-05-12T19:34:28.000Z",
+		"content": "Another problem with CKU is that all the graphics are stored as JPEGs, and they have a great deal of noticable compression artifacts. It'd be a much better idea to extract the graphics with ModKeen, and use Malvineous' FileView to get the sounds.<br /><br />EDIT:<br />[quote]<b><i>Quote:</i></b>[hr]<b>Malvineous</b> Unfortunately the version [of FileView] at the other end of that link only lists Keen 1-3 as a formats <i>[sic]</i>[hr][/quote][quote]<b><i>Quote:</i></b>[hr]<i>[from FileView page]</i><br />Commander Keen 4-6 audio: .CK4 .CK5 .CK6<br /><br />    * Extracts .IMF music.<br />    * Adlib sound effects converted to IMF files.<br />    * PC speaker sound effects converted to wave format (.WAV)<br />[hr][/quote][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]"
+	},
+	{
+		"id": 2858,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-05-13T13:18:42.000Z",
+		"content": "Yeah, you can right click and open the .CK1 files and listen to the sounds and IMF tre music.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2859,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-05-14T22:08:53.000Z",
+		"content": "Ah, I knew it supported Keen 4-6, but I didn't bother looking at the web page, just one of the .txt files in the .zip.  So I was right then, I didn't update the docs [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 2860,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-21T15:40:05.000Z",
+		"content": "I realize this never got answered.<br /><br /><br />I would be willing you to give you every damned graphic in CK universe, including the CKU.zip and a better version of the CKM.zip file (I'll add about 4 that weren't on there before.)<br /><br />I can also give you the sounds that <i>I personally collected via microphone + sound recorder</i>... Which includes K5 key card, K6 gun sound, etc...<br /><br /><br />Either way, which MSN, AIM, or YIM account do you have?  (If any)<br /><br /><br />The files will be huge.  CKU is like 6MB (a lot for my dail-up), the music packs and sound packs won't be big.<br /><br /><br />If you are looking for strips and not GIFs, gimme a holler too, because I've got plenty (Well, actually all) of those.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2861,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-21T21:40:22.000Z",
+		"content": "I would be looking for Keen4-5-6 graphics only, all in tiled form. Anyone know if this exists and where I can find it?<br /><br />And hey, if this doesn't exist, I'll <b>make</b> tiled versions, since I need them anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2862,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-21T21:58:45.000Z",
+		"content": "Give me a holler on MSN... I should be able to giev you any tile you need from CKU.<br /><br />MSN: PitchBlack44<br /><br />If you don't do MSN, just post back and give me your other IM.  If you don't IM, you don't exist to me.  =P~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 2863,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-22T03:21:25.000Z",
+		"content": "Oooh, I'll see *you* later....A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2864,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-07-23T13:48:16.000Z",
+		"content": "@LordOfGlobox: I use Trillian now, so I'm able to use MSN + Yahoo Messenger + AIM. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />The PitchBlack44... Is that @hotmail.com? I'll just test it, heh.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2865,
+		"title": "Re: Graphics, Music, Sounds",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-07-23T17:08:21.000Z",
+		"content": "Sorry, pitchblack44 is my AIM, goldphoenix99@hotmail.com is my MSN, and globox88 is my YIM.<br /><br />Any of those will do, but I rarely go on YIM anymore.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	}
+]

@@ -1,0 +1,250 @@
+[
+	{
+		"id": 654,
+		"title": "What program do you use to for editing Keen graphics?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-07T01:27:30.000Z",
+		"content": "I've just had a play around with ModKeen, and when you extract the graphics it splits off the extra planes for transparency and hitmapping, and displays them as separate images next to the main one, like this:<br /><br />[img]http://www.shikadi.net/pckf/modkeen_export.png[/img]<br /><br />However for my own editor, I was thinking whether this is the most helpful way of exporting the images, or whether there's another way that would be easier for modding?  For example, I've already combined the transparency bit into the main image, so if your image editor supports transparency (as most of them do) when you load the image some pixels will be transparent:<br /><br />[img]http://www.shikadi.net/pckf/gameedit/tile000.png[/img]<br /><br />You probably can't tell here because of the white background, but load that image up in your preferred editor and see what you think.  I'm expecting that it would be easier to edit this image, as you can set the transparent pixels right on the main image, you don't have to adjust them off at the side.<br /><br />So I have two questions - is this easier for people to edit, and if so, what program do you use for editing?  The reason being that doing this with transparency is one thing, but doing it for hitmapping is trickier.  I would like to export an image with two layers - the main image and the hitmapping layer, so you could switch the hitmapping layer on and off while you're editing.  But of course doing this requires that people use an editor that supports layers.<br /><br />So - does yours?"
+	},
+	{
+		"id": 16799,
+		"title": "PAINT",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-07T01:43:31.000Z",
+		"content": "That could be a nice feature. You get used to drawing the transparency map along with the sprite, but it might simplify things to combine them.<br /><br />However, I use Paint, as other utilities are simply too excessive and cumbersome, and obviously it does not support layers. When I was last running Slackware, I was using one of the KDE-based utilities that comes with it--exactly the same concept as Paint with some extra features and... SHORTCUT KEYS!!!<br /><br />I'll be creating an imaging utility designed specifically for oldschool game art/Keen modding soon, and I believe I'll implement layers the way you're talking about here."
+	},
+	{
+		"id": 16800,
+		"title": "Re: PAINT",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-07T06:14:15.000Z",
+		"content": "I'm continually surprised at how many people here use Paint - I always found it way too tedious, but then again I'm no artist so maybe that's why [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Anyway, here's a more visual representation of what I'm thinking of (and TIFF of all things, turned out to be the most reliable multi-layer image format...)<br /><br />[img]http://www.shikadi.net/pckf/layers.png[/img]"
+	},
+	{
+		"id": 16801,
+		"title": "!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-10-07T20:21:32.000Z",
+		"content": "I've always been a big supporter of MSPaint--I've been using it since 2002 for my KeenModding needs.  <br /><br />But damn if your teaser pics don't look drool-worthy.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/> What've you got!?"
+	},
+	{
+		"id": 16802,
+		"title": "Re: !",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-07T23:34:26.000Z",
+		"content": "That was a screenshot of GIMP, which is free and I believe runs under Windows too, and once you've figured out its slightly odd user interface is at least as workable as MSPaint (you can use/edit indexed palettes, do pixel by pixel editing, etc.)  The handling of transparency is nice too, I never remember Paint being able to do transparency.<br /><br />It does take a little more time to learn where all the buttons are though (compared to Paint) but I found it well worth the effort."
+	},
+	{
+		"id": 16803,
+		"title": "Re: !",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-08T02:04:55.000Z",
+		"content": "The question that has always bothered me about this type of editing is; what if I wish to make a sprite with no transparency bitmap? How would I go about making a sprite I could see the background through, like the masked tiles in Keen?<br /><br />I've not done any sprite editing myself, but the only graphics program here is Paint.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16804,
+		"title": "huh?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-10-08T05:42:13.000Z",
+		"content": "I thought you could already do so, by using a non-black color for your alpha?"
+	},
+	{
+		"id": 16805,
+		"title": "Re: huh?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-08T14:20:23.000Z",
+		"content": "Malvineous: yes.  Very cool.  One thing though - are the sprites in Keen true 'layers' as such, or rectangles defined by 2 points?  Separate layer might be overkill if you has a UI that let you drag out clipping rects.  THat's a pretty big 'if', though, your method is simpler and better in some ways for sure.  I vote 'yes'.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 16806,
+		"title": "Re: huh?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-08T22:10:28.000Z",
+		"content": "<i>what if I wish to make a sprite with no transparency bitmap?</i><br /><br />Given that for these sprites you *must* have a transparency bitmap to import them into the game I'm not sure what you mean.  Like Xky says, you don't have to colour any pixels transparent if you don't want.<br /><br />The only tricky thing would be if you wanted to use those XOR/inverted pixels, I'm not sure how you could easily do that with the alphamap method.  It might be possible to do something like set a pixel to 50% transparency and then whatever pixel is in the main sprite is the \"inversion value\" or something...hmmm...<br /><br /><i>are the sprites in Keen true 'layers' as such, or rectangles defined by 2 points?</i><br /><br />I don't know for sure, but based on all the other EGA images I've dealt with I'm expecting them to be 6-bit (64-colour) images.  Something like bits 1,2,3 are for red, green and blue, bit 4 is for transparency and bit 5 is for hitmapping.  This will allow you to set any pixel to any colour/transparency/hitmapping value.  The sprite for the paddlewar paddle has different colours in its hitmap, so I'm not sure about this.<br /><br />That's a good point about the rectangles, however I don't really want to implement a whole image editor when there are plenty of good ones already out there.  If I do come across a format that uses rectangles, I'll probably export the images in the same way and warn the user that if they don't keep one of the layers rectangular they won't be able to import the image back in again.<br /><br />If it works out well, I'm also thinking of using layers for the multi-image things, like animations, so you can have one frame in each layer and switch layers on and off to get an idea of how each frame will look.  But I think I'll have to offer the option of extracting each image to a non-layered format for compatibility, for those people who just want to stick to Paint."
+	},
+	{
+		"id": 16807,
+		"title": "Re: huh?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-09T10:45:23.000Z",
+		"content": "I use PSP for my graphics. It has some layers and things, but I have no idea how to use them. So, I don't have much of bells and whistles to use. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I like to use that program because there the palette can show exactly 16 colours in the palette, and no more, and there you can undo and redo a lot of times, and can zoom easily back and forth. Otherwise my editing is pretty much like the Paint users'; pixel-by-pixel drawing.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16808,
+		"title": "Re: huh?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-10T10:53:23.000Z",
+		"content": "What I mean by without a transparency bitmap is what if I wish to see the scenery behind a ghost sprite say? With ModKeen I merely make the mask either white, or colored. This produces some lovely effects.<br /><br />However with your program I cannot edit the mask at all, what I want to do is thus impossible. I fear this.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16809,
+		"title": "Re: huh?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-10-10T22:24:37.000Z",
+		"content": "<i>I use PSP for my graphics...Otherwise my editing is pretty much like the Paint users'</i><br /><br />Yes, that's pretty much the same as me (only now it's GIMP instead.)  Well that shouldn't be a problem, because if you load an image that already has layers all you have to learn is how to switch between layers and show/hide them, which is very simple.<br /><br /><i>what if I wish to see the scenery behind a ghost sprite say?</i><br /><br />Yes, setting different values in the mask image could be tricky doing it this way.  I suppose I could always add a third layer that contains the mask, but I'd be reluctant to do something that would remove the alphamap.  My other thought would be to use different alpha-levels for this, so e.g. a pixel that's 100% transparent would appear transparent, but a pixel that's only set to 50% transparent would appear as one of the masked effects.  The only tricky bit here would be that it's not exactly intuitive, and with 16 potential colours and 256 different alphalevels, how would you know what colour you're setting?<br /><br />I'll have a think about this one - maybe I'll leave the alphamap there and any transparent pixels override the mask, but otherwise you can access the mask as a third layer to do transparency effects.  I think that might be the best way."
+	},
+	{
+		"id": 16810,
+		"title": "Re: huh?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-10-11T17:40:20.000Z",
+		"content": "whoo hoo my post is the 100 post in the modding sub-forum<br /><br />i use photoshop paint and tgf[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 16811,
+		"title": "Re: huh?",
+		"author_id": 1485928,
+		"author_name": "Feldegryph",
+		"timestamp": "2006-11-04T23:46:01.000Z",
+		"content": "I think Paint is okay, because the graphics of the Keen games are pretty simple. VGA, EGA--whatever that stuff was called--it doesn't use very many colors, so Paint is an acceptable way to make new graphics.<center><b>crymorenub</b></center><br />"
+	},
+	{
+		"id": 16812,
+		"title": "Re: huh?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-11-05T01:47:29.000Z",
+		"content": "I use paint for all my keen tilesets and sprites.<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 16813,
+		"title": "Re: huh?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-06T07:12:03.000Z",
+		"content": "I use the Gimp for pretty much everything. I was a Paint user for a while but the Gimp, for all its UI flaws, is much more powerful and efficient.<br /><br />For me, .png format is best (not that I'm a big modder). Another layer for the hitbox would be nice, but there doesn't seem to be a really good format for it. Gimp's .xcf format is a little screwy from what I hear.<br /><br />Another option would be .gif files with two or three frames. .gif editors are easy to come by, and the Gimp will treat each frame as a layer.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 16814,
+		"title": "Re: huh?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-06T23:10:49.000Z",
+		"content": "I would've liked to use .png, but I don't think it supports layers (or at least they're not widely supported.)  I was thinking of using Photoshop's image format, since AFAIK it has always had support for layers, and most decent programs will open it.  At any rate it looks like I'll offer multiple formats to so you can pick your preferred one (and .png will definitely be in there, but more as a \"presentation\" format rather than an \"editing\" format.)<br /><br />I'm not so keen on .gif, what with the copyright issues and all."
+	},
+	{
+		"id": 16815,
+		"title": "Re: huh?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-07T01:44:55.000Z",
+		"content": "I believe the .gif patent expired a few years ago.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 16816,
+		"title": "GIMP?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-11T18:01:51.000Z",
+		"content": "Oh, man, I'm living in the stone age, here.  I decided I'd try and install the GIMP onto my laptop, just to see what it could do differently for me.  No dice.  First, the GTK thing told me that since I don't use a TrueType font on my Windows stuff, I might have errors--I said \"no prob\" and installed anyway.  But then the GIMP didn't even want to install since I don't run at 1024x768.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  What bad luck.  <br /><br />What exactly does the GTK do, anyway?  It was telling me it was going to modify my boot files?  That's suspicious..."
+	},
+	{
+		"id": 16817,
+		"title": "Re: GIMP?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-11-11T22:20:16.000Z",
+		"content": "I can't imagine why it would modify boot files. Perhaps that just means that it needs to write to a system folder? Gtk+ is a GUI toolkit. It provides the buttons and whatnot for the Gimp. It was originally created for the Linux version of the Gimp, but has since come to be used for the entire Gnome desktop and many other Linux programs.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 16818,
+		"title": "Re: GIMP?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-14T16:50:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]But then the GIMP didn't even want to install since I don't run at 1024x768[hr][/quote]<br /><br />That's odd. I've used the latest GIMP versions (2.2.something) with a 800x600 resolution display in both Windows and Linux, and it just displayed a warning that could be hidden, at the program's startup.<br /><br />[quote]<b><i>Quote:</i></b>[hr]What exactly does the GTK do, anyway? It was telling me it was going to modify my boot files? That's suspicious... [hr][/quote]<br /><br />Well, it doesn't modify boot files. It just creates some folders in \\Program Files and that.<br /><br />BTW, I've been using The GIMP for my game graphics and my Keen1 mod graphics. I learned how to create PNG or GIF files from the modkeen output, automatically using the ModKeen graphics masks. Perhaps I could write a tutorial or something about that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   I'd really like to write a GIMP plugin for doing that in one step.<br /><br />EDIT: I haven't tried it yet, but I think the method also works for converting a PNG or GIF to ModKeen masked bitmap format. Obviously it's mandatory to properly convert the palette to EGA.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 16819,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-04-21T17:20:27.000Z",
+		"content": "I use Paint mostly because I used to sprite a lot, and I have the skills still in my memory.<br /><br />I have GIMP, but... I'm horrible with it. @_@[Swim Swim Hungry]"
+	},
+	{
+		"id": 16820,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-04-29T09:09:05.000Z",
+		"content": "me 2 ultrabyte, i always use paint in such things[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 16821,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-29T10:40:44.000Z",
+		"content": "Indeed, I have always been, and shall always be, a painter.<br /><br />It was the first.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16822,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-02T03:02:33.000Z",
+		"content": "&lt;3 Paint[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16823,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T17:45:41.000Z",
+		"content": "Yeah, Paint has some nice feature that most more-professional applications (i.e. Photoshop, The GIMP) don't have (or have in an awful manner).<br /><br />The most similar to Windows Paint application for GNU/Linux is KolourPaint (which you can find somewhere in www.kde-apps.org IIRC). I downloaded and built it some days ago, but I haven't had enough time to actually use it.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16824,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-03T19:53:33.000Z",
+		"content": "Ah, KolourPaint was great.<br />There was supposed to be the ability to make different palettes sometime in the future, which would be great for Keen mods.<br />Also, I like the way you can simply double-click the color change tool, and all of that color in the picture changes.<br /><br />If there was a Windows port (is there?) I would definitely use it instead of paint.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 16825,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-03T23:28:09.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>From the KolourPaint site:</b><br />In 2007, expect KolourPaint to be fully ported to KDE 4 and a preliminary version for Windows to be available, thanks to the KDElibs for win32  project.[hr][/quote]Hold tight [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />At the moment I'm experimenting with a very nice pixel editor called Pixen, which appears to have all the features you could want for doing pixel art: layers, animation, pre-built patterns and tiles, backgrounds, customisable palettes... it's a real shame it's not cross-platform.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 16826,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-04T05:59:01.000Z",
+		"content": "well, i use paint.<br />but i think i'm gonna use pixen like grafix"
+	},
+	{
+		"id": 16827,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-04T17:06:51.000Z",
+		"content": "Is this a signal? Will we have KDE apps ported to Windows in the future? In that case, nobody'd need Vista for fancy graphics.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 16828,
+		"title": "Re: What program do you use to for editing Keen graphics?",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-05T09:35:49.000Z",
+		"content": "Sadly, Pixen only runs on OS X and not Windows - so you can't use it without a Mac."
+	}
+]

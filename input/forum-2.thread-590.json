@@ -1,0 +1,122 @@
+[
+	{
+		"id": 247,
+		"title": "Patch requests",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-07T00:11:03.000Z",
+		"content": "Hi <br />does anyone know where these patches are (if they have been used before) or know how to make them?<br />I haven't been able to find these ones anywhere.<br /><br />- Gargs turn into yorps when shot.<br /><br />- Yorps kill keen.<br /><br />- Yorps 'charge' like gargs.<br /><br />- Gargs shoot like tank-bots.<br /><br />- Yorps aren't stunned.<br /><br />- No sound when the lights are turned off and on at the end.<br /><br /><br />I'll need these before I can continue with Keenwarp1 (a keen1 mod I have been working on)<br /><br />Thanx.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6688,
+		"title": "Re: Patch requests",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-07T01:04:06.000Z",
+		"content": "You might want to post that at [url=http://andy.durdin.net/keen/modding]Keen:Modding[/url].<br /><br /><br />- Gargs turn into yorps when shot.<br />I might be able to do this one (i'll have to see). But do you want dead yorps or living yorps?<br /><br /><br />- Yorps kill keen.<br />#yorps *kill* keen<br />%patch $188B $03 $00 <br /><br /><br />- Yorps aren't stunned.<br />#Can't stomp yorps<br />%patch $18A5 $90<br /><br />Thats all i could do. -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6689,
+		"title": "Re: Patch requests",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-07T01:38:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You might want to post that at Keen:Modding.[hr][/quote]<br /><br />I can't; my account is still inactive, and it has been that way for months. I sent an email to andy an hour ago.<br /><br />[quote]<b><i>Quote:</i></b>[hr]But do you want dead yorps or living yorps?[hr][/quote]<br /><br />living, please.<br /><br />[quote]<b><i>Quote:</i></b>[hr]#yorps freeze keen[hr][/quote]<br /><br />Freeze?<br /><br />[quote]<b><i>Quote:</i></b>[hr]- Yorps aren't stunned.<br />#Can't stomp yorps<br />%patch $18A5 $90<br />[hr][/quote]<br /><br />ta.<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6690,
+		"title": "Re: Patch requests",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-07T02:00:24.000Z",
+		"content": "Oops. I made that yorps freeze keen patch a while ago and just changed the value so it would kill keen. I forgot to change the comment. It should still kill keen though, no matter what the comment says.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6691,
+		"title": "Re: Patch requests",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-07T02:04:47.000Z",
+		"content": "no, the freeze patch isn't doing any thing.<br /><br />they don't freeze keen, kill keen (but they don't bump keen.)<br /><br />the no stunning yorps seems to work fine though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6692,
+		"title": "Re: Patch requests",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-07T02:10:17.000Z",
+		"content": "I tried out the patch, and it killed keen. So i don't know what the problem is. Hmm...<br /><br />\"they don't freeze keen, kill keen (but they don't bump keen.)\"<br /><br />Do you mean they don't freeze, but still kill keen? Because thats what's supposed to happen.<br />Or did you mean they don't do anything?-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 6693,
+		"title": "Re: Patch requests",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-07T02:33:46.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Do you mean they don't freeze, but still kill keen? Because thats what's supposed to happen.<br />Or did you mean they don't do anything? [hr][/quote]<br /><br />They don't do anythng.<br /><br />however, when I 'find' them, put them on my screen, and then move away, and then come back, I find that they have dissapeared. (and they couldn't have got out of the pit they were in either). <br /><br />Edit: my 100th post ... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6694,
+		"title": "Re: Patch requests",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-02-07T07:10:29.000Z",
+		"content": "As far as I know, Andy is away in Europe - so emailing him won't work. Try emailing Xky instead (his email address is his PCKF username at Hotmail).[url=http://last.fm/user/grafix5000/][img]http://toxicsheep.com/sigs/scrobbler.png[/img][/url]<br />[url=http://toxicsheep.com]toxicsheep.com[/url] <font color=\"BLACK\">[url=http://toxicsheep.com/luv.htm]| [/url]</font> [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 6695,
+		"title": "bah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-08T02:06:04.000Z",
+		"content": "Well, here's the thing.  There's currently three different \"FreeYorp###\" accounts at K:M.  Two of them, FreeYorp071 and FreeYorp101, are registered to Ben131093 (at) hotmail (dot) com.  The third, FreeYorp181, is registered to FreeYorp101 (at) hotmail (dot) com.<br /><br />Of the three accounts, <b>FreeYorp101</b> has been activated, and should be able to post messages.  Try logging in to that one.  <br /><br />All three accounts were registered in November 23 of 2005.  Why did you need three accounts?  :-("
+	},
+	{
+		"id": 6696,
+		"title": "Re: oops",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-08T04:22:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Why did you need three accounts?[hr][/quote]<br /><br />I made mistakes entering in the first two, and each time I needed to make a new one [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  . But if Freeyorp101 was activated OK, then it should be alright. freeyorp071 should be deleted and so should freeyorp 181 if you can. Sorry about the trouble though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6697,
+		"title": "Re: oops",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-02-09T00:27:33.000Z",
+		"content": "Well, lets look at those patches;<br /><br />- Gargs turn into yorps when shot.<br /><br />A much wanted but difficult patch; someday I may actually figure it out.<br /><br /><br />- Yorps kill keen.<br /><br />This should work; it works for me.<br /><br /># Killah yorpz.. (beware yorps now) <br />%patch $188B $03 $00<br /><br />- Yorps 'charge' like gargs.<br /><br />A somewhat complex patch will be required to patch Garg movement routines into the Yorp sprite; you can either draw yorps as gargs, I can make a patch so that the garg uses the yorp frames, or you can alter the yorps speed to make it faster:<br /><br /># yorp movement- left speeds = $FF $FF MINUS desired speed<br />%patch $18D4 $C4 $FF # [si+20] left speed<br />%patch $18CD $3C $00 # [si+20] right speed<br />%patch $19C2 $C4 $FF # [si+20] left speed<br />%patch $19CE $3C $00 # [si+20] right speed<br />%patch $1964 $80 $00 # [si+22] yorps jump higher when this is higher<br />%patch $1A1C $C4 $FF # [si+20] left speed<br />%patch $1A14 $3C $00 # [si+20] right speed<br /><br /><br />- Gargs shoot like tank-bots.<br /><br />Can't be done as of yet.<br /><br /><br />- Yorps aren't stunned.<br /><br />#Can't stomp yorps [As seen above]<br />%patch $18A5 $90<br /><br />- No sound when the lights are turned off and on at the end.<br /><br />For this patch we look for the lightswitch sound in the sounds.ck1 file; we find CLICKSND is sound 31 [$19] So we search the Keen executable for this value; there are 11 occurences, but only one of these is near the switch code; at 35DB, now we set the sound value to $04 [$90 $90 makes an interesting noise] which is almost silent.<br /><br />#Change the switch sound to be quiet:<br />%patch $35DB $04 $00<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6698,
+		"title": "Re: patches",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-02-09T03:59:26.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, lets look at those patches;<br /><br />- Gargs turn into yorps when shot.<br /><br />A much wanted but difficult patch; someday I may actually figure it out.[hr][/quote]<br /><br />I found a vort into yorp patch (from norp 3.5):<br /><br /># dead vort turns into yorp<br />%patch $1D8D $90 $90 $90 $90 $90 $90 $90 $90 $90<br />%patch $1DAF $90 $90 $90 $90 $90 $90 $90 $90 $90 $90<br />             $90 $90 $90 $90 $90 $90 $90 $90 $90 $90<br />%patch $1DAD $4F $19<br />%patch $1DA8 $68 $1A<br />%patch $1DA3 $30 $00<br />%patch $1D98 $00 $02 $00<br /><br />Is there a way to edit the vorticon reference to garg maybe?<br /><br />[quote]<b><i>Quote:</i></b>[hr]...you can either draw yorps as gargs...[hr][/quote]<br /><br />they are drawn as gargs - the idea is that the gargs are armoured enough that they aren't killed when shot but rather a weaker garg...<br /><br />[quote]<b><i>Quote:</i></b>[hr]...or you can alter the yorps speed to make it faster:[hr][/quote]<br /><br />I already have, but I would still like it if it becomes availble, but I can cope...<br /><br />[quote]<b><i>Quote:</i></b>[hr]- Gargs shoot like tank-bots.<br /><br />Can't be done as of yet.[hr][/quote]<br /><br />Darn...<br /><br />[quote]<b><i>Quote:</i></b>[hr] #Change the switch sound to be quiet:<br />%patch $35DB $04 $00<br /> [hr][/quote]<br /><br />thank you!<br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/sig2.png[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 6699,
+		"title": "freeyorp",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-09T18:59:08.000Z",
+		"content": "Alright, FreeYorp, things should be cleared up.  You've got FreeYorp101, and the duplicates have been deleted.  :-)"
+	},
+	{
+		"id": 6700,
+		"title": "Re: freeyorp",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-02-11T03:54:31.000Z",
+		"content": "RIGHT!<br /><br />First a virus, then a computer crash, but so help me I'm posting this dammit!<br /><br />First we look at the vorticons patch you found; there are several things we can alter:<br /><br />[quote]<b><i>Quote:</i></b>[hr]# dead vort turns into yorp<br />%patch $1D8D $90 $90 $90 $90 $90 $90 $90 $90 $90<br />%patch $1DAF $90 $90 $90 $90 $90 $90 $90 $90 $90 $90<br />             $90 $90 $90 $90 $90 $90 $90 $90 $90 $90<br />%patch $1DAD $4F $19<br />%patch $1DA8 $68 $1A<br />%patch $1DA3 $30 $00<br />%patch $1D98 $00 $02 $00[hr][/quote]<br /><br />The first two lines; nuh-uh; they do the neat dying code stuff like the flashing border, let them be.<br /><br />Line 3 however controls the sprite spawned by the dying vort; it can be anything:<br /><br />[quote]<b><i>Quote:</i></b>[hr]#$4F $19 #acts like a Yorp <br />#$51 $1B #acts like a Garg <br />#$0E $1C #acts like a Vorticon <br />#$C7 $1D #acts like a butler bot <br />#$75 $1F #acts like a robot <br />#$60 $33 #no movement, never disappears <br />#$E8 $47 #stays stationary, then disappears <br />#$08 $48 #zaps/zots when hits something? <br />#$9D $48 #sinks down changing sprite images <br />#$21 $51 #normal movement, then disappears[hr][/quote] <br /><br />Now the fourth line controls what the yorp spawn when it gets shot; the dead vort yorp isn't like the usual yorp:<br /><br />[quote]<b><i>Quote:</i></b>[hr]#$68 $1A #creates dead yorp when shot <br />#$CE $1B #creates dead garg when shot <br />#$6E $1D #creates dead vorticon when shot <br />#$94 $1E #shots zot/zap against it, it keeps going and goes farther than usual if shot <br />#$45 $20 #shots zot/zap against it, it keeps going <br />#$A6 $22 #hits keen and is destroyed, shots make zot/zap against it <br />#$BB $22 $creates falling block when shot <br />#$60 $33 #nothing special happens <br />#$00 $4A #zots/zaps against keen <br />#$49 $48 #shots zot/zap against it, it's destroyed[hr][/quote]<br /><br />Line five is the sprite the spawned sprite uses to orient all its other spritey... things. In this case its the first yorp sprite, others are:<br /><br />[quote]<b><i>Quote:</i></b>[hr]Yorp   $30 $00<br />Garg   $3C $00<br />Vort    $46 $00<br />Bot     $58 $00<br />Tank   $62 $00<br />Ice     $70 $00<br />Chain  $72 $00[hr][/quote]<br /><br />The sixth and last line controls how the sprite affects Keen:<br /><br />[quote]<b><i>Quote:</i></b>[hr]#00 $00 #no sprite is created <br />#$01 $00 #nothing <br />#$02 $00 #pushes keen, if you jump on it right, a stunned yorp emerges <br />#$03 $00 #kills (used by gargs) <br />#$04 $00 #kills (used by vorticons) <br />#$05 $00 #pushes keen (used by robot) <br />#$06 $00 #pushes keen (used by butler bot) <br />#$07 $00 #shots zap/zot against it <br />#$08 $00 #shots zap/zot against it (used by falling block) <br />#$09 $00 #shots zap/zot against it <br />#$0A $00 #shots zap/zot against it <br />#$0B $00 #kills (used by robot shots, can also kill vorticons and gargs) <br />#$0C $00 #nothing (used by mini ice cubes) <br />#$0D $00 #shots zap/zot against it <br />#$0E $00 #nothing <br />#$0F $00 #freezes/stuns keen[hr][/quote]<br /><br />This allows as you can see,a lot of variation; you can make almost any sprite of any properties emerge from the dying yorp<br /><br />Pretty much all the patches ever created so far for all the episodes of Keen can be found all listed togethere here: [url=http://levellord.toxicsheep.com/Index/]levellord.toxicsheep.com/Index/[/url] Its very useful.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6701,
+		"title": "Re: freeyorp",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-02-11T04:47:02.000Z",
+		"content": "Doubble post!<br /><br />Here's all the spawning patches you'll ever need!:<br /><br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?p=8814#8814]andy.durdin.net/keen/modd...=8814#8814[/url]<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

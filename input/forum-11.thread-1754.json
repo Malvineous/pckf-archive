@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1411,
+		"title": "source code of blood",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2005-10-16T12:22:05.000Z",
+		"content": "has someone an idea why the blood source code is not  released yet ?I am the bad you are the ugly There is no good"
+	},
+	{
+		"id": 29660,
+		"title": "Re: source code of blood",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-10-16T18:28:51.000Z",
+		"content": "No idea. Some companies just don't release their source code. Although, doesn't Blood use the Build engine? Build engine's source code is released (or has always been, can't remember), however. That doesn't naturally have all the stuff Blood has in it, but with skills one can tweak the Build engine to have same stuff, if want to.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 29661,
+		"title": "Re: source code of blood",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-16T21:44:25.000Z",
+		"content": "Have you [url=http://www.petitiononline.com/bloodsrc/petition.html]signed the petition?[/url]"
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"id": 254,
+		"title": "An idea...",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-09T04:40:03.000Z",
+		"content": "I was thinking, since re-making all the sprites from keen is such a long and tiring effort, perhaps we should have a thread where every month theres a different tile, and we all contribute in optimizing it (as well as bumping the resolution up by 4 times) and then everyone posts what they did and that gets stored somewhere so we can have a community keen fan game with only the creme of the crop graphics. Good idea?<br />---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 6783,
+		"title": "ooh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-09T04:41:35.000Z",
+		"content": "I think it'd be fun.  Wanna post one to start us off with? :-)"
+	},
+	{
+		"id": 6784,
+		"title": "Re: ooh",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-12-09T06:28:17.000Z",
+		"content": "I think that would be a lot of fun too. There are just a couple of important points we need to cover first:<br /><br />1. What kind of style for the tile? Something smooth and gradient-y like Isis or the Keen6 redraw that someone posted a few weeks ago, or a style more bright and cartoony like the originals, but higher res?<br />I guess every participant could choose what they wanted to do. If we did enough we could have a complete set of each, or partial sets would be cool to. That would still be better than nothing.<br /><br />2. What do you mean by \"4 times the resolution\"? Each side would be 4x as long (i.e 8px wide to 32px wide), or would there be 4x as many pixels (8px wide to 16px wide)?<br /><br />3. Which Keen? Or all of them?<br /><br />You've got me envisioning a library page of tiles, including, but not limited to, redraws of original Keen tiles. That would be cool, and a big help to anyone wanting to make a fan-game.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 6785,
+		"title": "Re: ooh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-09T06:36:29.000Z",
+		"content": "1.) Whatever looks best I guess<br /><br />2.) Each tile would be four times larger, pixel wise but since computer screens have so much more resolution it'd be the same size<br /><br />3.) Probbably only a specific Keen, like Keen 5<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6786,
+		"title": "Re: ooh",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-09T09:42:11.000Z",
+		"content": "Nice idea! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 6787,
+		"title": "Re: ooh",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-09T11:54:24.000Z",
+		"content": "We just need a way to kinda set this out. How should we do it? cause it will be a bit annoying having tons and tons or posts, and it would be hard getting peoples opinions as well as voting and stuff.<br /><br />anyideas? perhaps we need a site for this to work? Unless the thread is 'Reset' every time theres a new tile?<br /><br />And yes, i think Keen 5 would be a good idea too, seeing how the tiles are much simpler than keen 4 or 6. <br /><br />Oh, and with that in mind, on some occasions we will have to have bunches of related tiles seeing how everyones will be different. This will lets things like Left walls match up with the floor and etc, so we dont have someones left wall over there and a completely different center wall somewhere else, if you know what i mean.<br /><br />hmm, perhaps i could make a program that runs php to do this?---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 6788,
+		"title": "Re: ooh",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-12-09T18:44:57.000Z",
+		"content": "A forum is the best time-independent method of collaborating on a project like this. You can always update the first post with each completed tile."
+	},
+	{
+		"id": 6789,
+		"title": "Re: ooh",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-12-09T21:18:57.000Z",
+		"content": "I don't think a forum would be best for this. A page that displayed them in groups would be clearest. It would be nice to be able to go to a web page and upload your newest tile to the proper section and everything. That means someone would have to write it though, of course. The forum would be a decent place to collect them, at least at first.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 6790,
+		"title": "Re: ooh",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-12-09T23:03:10.000Z",
+		"content": "I think I misunderstood somewhere - I assumed alex was talking about where we were going to collaborate and review, rather than store. Unless we except a great enough level of output to merit adding automation to the system, I don't really see the need to add any kind of automation."
+	},
+	{
+		"id": 6791,
+		"title": "Re: ooh",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-09T23:19:52.000Z",
+		"content": "This really is a good idea and I'd participate too! One tile per month wouldn't be enough though... let it be 6 to 10 tiles, depending on the enthusiasm of the users, everyone could chose one or two and then we would work together to make the tiles fit. My only fear is that they wouldn't without some consensus about the style. Or do you want the participants to create their own tilesets, adding one tile per month?<br /><br />Automation is only required if there's a big number of keeners doing it, otherwise the tiles could be just posted on a webpage or even in a topic here.<br /><br />I'm not at home but I can do the first tile on monday if nobody starts it on this weekend. I hope someone will, otherwise it would mean that there's not enough support for this idea...[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 6792,
+		"title": "Re: ooh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-10T00:51:10.000Z",
+		"content": "Each momnth we should do a segment [Such as say a set of pole tiles, an area of background that uses 6 tiles; something where the tiles are all interconnected, remember, this is Keen 4-6, very few of these tiles are stand alone and unrelated.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 6793,
+		"title": "Re: ooh",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-10T04:10:14.000Z",
+		"content": "[url=http://p072.ezboard.com/fpubliccommanderkeenforumothercommanderkeenstuff.showMessage?topicID=1183.topic]The threads up[/url]---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 6794,
+		"title": "Re: ooh",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-12-10T14:20:09.000Z",
+		"content": "I didn't want to litter the other topic so I write here about the first tiles. Wouldn't it be a good idea to start with some background or floor tiles first? It's really hard to create decoration when  you don't know what will the surrounding look like... Another question, should the tiles be 32x32? And what about the color depth?[hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 6795,
+		"title": "Re: ooh",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-12-11T03:16:45.000Z",
+		"content": "i posted an example on the thread with a better explanation, hope that helps. Feel comfortable to ask questions there."
+	}
+]

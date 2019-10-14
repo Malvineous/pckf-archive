@@ -1,0 +1,18 @@
+[
+	{
+		"id": 737,
+		"title": "MIDI2MUS, MUS2IMF and timing issues",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T17:35:02.000Z",
+		"content": "EDIT: disregard this topic. I should've checked for updates in my shikadi4 topic in the Modding subforum first.<br /><br />Well. This is it... I got the holy Genmidi.op2.<br /><br />However, when I export a MIDI to MUS file, and then the MUS to IMF, and play it in my favourite music player with IMF capability, some of these generated IMFs have timing issues. In some parts the song goes incredibly slow for minutes, and then incredibly fast for a pair of seconds. The original MIDI file doesn't have those speed irregularities.<br /><br />I'm not sure whether the bug is caused in the MIDI2MUS process or in MUS2IMF. DaVince should've already noticed it.<br /><br />I've not had enough time to use a MUS player and see where the bug's coming from. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 19369,
+		"title": "Re: MIDI2MUS, MUS2IMF and timing issues",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-03T18:34:02.000Z",
+		"content": "I know I could ignore this topic now, but the fault lies at mus2imf. The mus file plays fine, too.<br /><br />But the Windows based IMF converter really rocks! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	}
+]

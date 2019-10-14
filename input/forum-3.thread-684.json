@@ -1,0 +1,242 @@
+[
+	{
+		"id": 341,
+		"title": "Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-02T12:12:21.000Z",
+		"content": "I converted some of the Keen MIDIs to modules for use with fangames and the like. They can be found here:<br /><br />[url=http://davince.sitesled.com/files/keen-s3m.zip]davince.sitesled.com/files/keen-s3m.zip[/url]<br />[url=http://davince.sitesled.com/files/keen-it.zip]davince.sitesled.com/files/keen-it.zip[/url]<br /><br />I'm also making my own Eat Your Veggies remix. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10145,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-02T12:49:48.000Z",
+		"content": "Wow. Beautiful. Well chosen instruments! I look forward to your remix."
+	},
+	{
+		"id": 10146,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-02T12:53:31.000Z",
+		"content": "The ones in the IT file actually use a Final Fantasy 8 soundfont. Works well on the Keen songs in my opinion. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10147,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-02T15:06:33.000Z",
+		"content": "its funny, yesterday i througt: it will be cool if someone will convert the sounds to mp3 so i can listen them on psp. and now, its here! <br />i'm looking forward to your remix too.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 10148,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T17:58:12.000Z",
+		"content": "It's not too difficult, just use Winamps diskwriter plugin and convert the resulting wav file to MP3.<br /><br />I can do it myself as soon as I get home, if anyone's interested in downloading a bunch of MP3.<br /><br />Hey, Dav, could I use them as soundtrack for my mods if I like them?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10149,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-03T18:27:57.000Z",
+		"content": "Sure, no problem, but you might wanna wait a bit because I'd like to fix some of these up (fix the timing, instruments etcetera).<br /><br />It's also way easier to just open the modules in Modplug Tracker and choose file &gt; save to mp3. Or in Modplug Player, save as wav.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10150,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T18:29:29.000Z",
+		"content": "I don't have those apps.<br /><br />I just have MilkyTracker (Linux version) and XMMS-Modplug/Mikmod plugins. Oh, and Winamp's Modplug plugin.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10151,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-03T18:31:30.000Z",
+		"content": "Use the Modplug plugin there, because Mikmod screws up on the pitch bends and it isn't quite as accurate/extended as the Modplug one. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Modplug Tracker is freely available on www.modplug.com, and can be run perfectly fine in Wine.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10152,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T18:39:46.000Z",
+		"content": "Mikmod is perfect for Jazz Jackrabbit music tracks because it is as inaccurate as Jazz Jackrabbit music engine.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10153,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-04T07:45:47.000Z",
+		"content": "Inaccurate?<br /><br />Everyone knows you can't convert .PSM filles properly![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10154,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-04T11:00:24.000Z",
+		"content": "well... i din'dt know[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  <br /><br />edit: nevermind, i DO know[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 10155,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-04T15:24:13.000Z",
+		"content": "Well, the plugin isn't as good, at least. There's less good support for effects and the sound can't really be tweaked (bass strength, pitch etcetera). And it can give more info on a module. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10156,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-04T17:14:36.000Z",
+		"content": "I was wrong. I now remember what I did with Jazz Jackrabbit's psms.<br /><br />I used MilkyTracker to convert them to .xm modules. Now, they play correctly in Modplug (Mikmod doesn't play .psm btw) and no notes are skipped.<br /><br />Yeah, really. When Modplug plays .psm files, it skips some notes, specifically Jazz Jackrabbit's last CD song (is it songcd8.psm? the one for Lagunicus anyway). It does some ugly jumps and the only workaround is to convert the psm to other module format using an external tool.<br /><br />Your modules sound good Dav.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10157,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-06T00:47:21.000Z",
+		"content": "Ooh, the main guitar or whatever it is in make_it_tighter.it is a bit off-key...  But these sound like the MIDIs from Bobby Prince's page though - didn't you convert any IMFs?<br /><br />So what format do people use for listening to the Jazz Jackrabbit music?  I found a PSM to S3M converter years ago (well, January 1998 according to the dates of my JJ S3M files) and I never noticed any difference in sound quality between the S3M and the in-game music (except the in-game music has more of a surround sound quality to it.)"
+	},
+	{
+		"id": 10158,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-06T02:37:03.000Z",
+		"content": "Tsh! Tone deafness![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 10159,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T12:46:34.000Z",
+		"content": "Some of these conversions really suck, like the guitar one. I wrote some stuff in the song comments of the songs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Yes, I converted the MIDIs, not the IMFs. Saves me the hassle of having to reselect ALL of the instruments.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10160,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-06T19:32:50.000Z",
+		"content": "Yay, I finished my remix.<br /><br />[url=http://davince.sitesled.com/music/2007/keens-veggies.mp3]Keen's Veggies[/url]<br />[url=http://davince.sitesled.com/music/2007/keens-veggies.it]Original file in IT format[/url]<br /><br />Enjoy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10161,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-07T07:19:26.000Z",
+		"content": "That's not bad!  My only suggestion would be to use some more 'interesting' instruments - the song sounds a lot like a MIDI (although the piano bit near the end is quite nice.)"
+	},
+	{
+		"id": 10162,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:10:36.000Z",
+		"content": "Yeah. I'm not sure, but perhaps Bobby's MIDIs sound better than those with Timidity and some neat instrument patches I found.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10163,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T17:47:37.000Z",
+		"content": "Oh, I would have made some conversions with Timidity too, if it only were available to me. The only thing that wants to install on this crappy computer is Ubuntu with no internet, and it doesn't come with Timidity.<br /><br />I might work on the Keen module a bit, but it's not very likely (when I finish a song it's usually just 'done').____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10164,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:50:09.000Z",
+		"content": "Can't you just access the Ubuntu repositories with another computer via direct FTP, download the package and install it offline in your comp.?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10165,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-07T17:52:34.000Z",
+		"content": "(Or the same computer, since it's dualboot. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] )<br /><br />I guess I could. I used to do that (though not from repositories, I didn't even know of their existence before I installed the SMART package manager), but packages usually lacked dependencies and such, making me have to look them up again, etc. etc. And I haven't found a good place for the instrument banks anyway, and I hate using Ubuntu to be honest.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10166,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-07T17:55:36.000Z",
+		"content": "Well, if you ever get to install Timidity, contact me for the patches. Mandriva 2007 includes a lot of nice patches, and the sound rocks if you add some patches I found in SDL's website.<br /><br />EDIT: my 314th post.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10167,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T10:53:48.000Z",
+		"content": "Packages?!  You're kidding, right?  You really need to try out Slackware - they supply hardly any programs, so you have no choice but to install everything from source yourself.  (Although somewhat ironically Timidity is there.)<br /><br />Is this really so hard?<br /><br />&lt;download the .gz file from timidity.sf.net using your preferred method&gt;<br />$ tar zxvf TiMidity++-2.13.2.tar.gz<br />$ cd TiMidity++-2.13.2<br />$ ./configure &amp;&amp; make<br />$ su -c 'make install'<br /><br />Done!  Put some samples and a config file in /usr/local/share/timidity/ and start playing.<br /><br />What patches do you use for Timidity SM?  My current config uses some \"Real Sound\" 8MB SoundFont as the base, with another 9.2MB SoundFont overlaid on top that I made out of a bunch of samples I picked up (mostly from demo songs on one of the SBLive CDs.)  Even though that's only 16MB of samples, I still prefer it to my other alternative, a 142MB \"FluidSynth\" SoundFont."
+	},
+	{
+		"id": 10168,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-08T14:33:08.000Z",
+		"content": "I don't know where my patches come from. I've been trying to use FluidSynth, but it crashes the kernel, as TImidity does if it's ALSA port is used by any application but DOSBox. (Probably a kernel bug... 2.6.17-13 Mandriva 2007, I should move to a new kernel).<br /><br />And not all of us have enough time to build an application from its source code instead of installing a package. Did you know how many hours I spent compiling Wine 0.93? Aproximadetly 1.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10169,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-08T17:30:38.000Z",
+		"content": "I know how to configure, make and install from source, Malv, but it just likes to fail so much due to missing dependencies and other crap like that. Packages were made for one's convenience and install a lot faster. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I won't do a thing until I manage to get SuSE fixed on my lappy. I'll have the DVD drive replaced. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10170,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-08T22:11:16.000Z",
+		"content": "I suppose that's the problem if you use packages a lot - they don't install any of the source headers, which sort of locks you into the package system as you can't compile from source if the headers are missing.  (Although I believe that's what the \"-dev\" packages are for.)<br /><br />And SM, you don't have to sit in front of the PC while it's compiling [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   The kernel takes about an hour too which is why I compile it at \"idle\" priority, so that I can keep using my PC for other things while it's compiling."
+	},
+	{
+		"id": 10171,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-09T17:17:00.000Z",
+		"content": "It's difficult to get such headers if you're working offilne.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 10172,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-09T21:11:58.000Z",
+		"content": "Yet another reason why Slackware (or Gentoo for that matter) is good - all the built in packages include the headers, and of course everything you compile from source installs the headers too [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 10173,
+		"title": "Re: Bunch of Keen music conversions",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-10T13:59:48.000Z",
+		"content": "Thanks for the tip. I now know which one will be my next try. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	}
+]

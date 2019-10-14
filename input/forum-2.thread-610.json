@@ -1,0 +1,210 @@
+[
+	{
+		"id": 267,
+		"title": "What is new?",
+		"author_id": 1486487,
+		"author_name": "commanderklown",
+		"timestamp": "2005-08-31T19:53:43.000Z",
+		"content": "Hey its me, commanderklown.  I haven't been here in almost a year and I was wondering if there were any new good games availableGirls dont like boys, girls like cars and money"
+	},
+	{
+		"id": 7946,
+		"title": "Re: What is new?",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-01T01:00:42.000Z",
+		"content": "Well CC, there's quite a few promising fangames under development, modding has made great strides, and in general the community is as Keen as ever. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 7947,
+		"title": "Re: What is new?",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-09-01T10:44:20.000Z",
+		"content": "Yeah, and we have some newbies too.(and I'm one of them![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] )<font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 7948,
+		"title": "Re: What is new?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-01T12:17:08.000Z",
+		"content": "Yeah, too bad we have some new newbies, but there has been great mods (for Keen games) to balance that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] [url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 7949,
+		"title": "modding",
+		"author_id": 1486487,
+		"author_name": "commanderklown",
+		"timestamp": "2005-09-02T16:07:08.000Z",
+		"content": "i tried a couple of the new mods...seemed to have some trouble with a couple of them...keen kept falling through tiles...<br /><br />i was kind of curious about how difficult it would be for me to mod.  The only computer programming stuff i know is knp (ya i know its crap).  How difficult is it to do?"
+	},
+	{
+		"id": 7950,
+		"title": "Re: modding",
+		"author_id": 1486686,
+		"author_name": "DasBrot",
+		"timestamp": "2005-09-02T17:56:25.000Z",
+		"content": "Its pretty easy... You don't need to know any programming languages [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   (Look at Xtraverses Site [url=http://dosclassics.com/keen/]Spatang[/url] for modding programs... And for patches and informations about modding go to [url=http://andy.durdin.net/keen/modding/]Keen:Modding[/url] <br />By the way, welcome to the board!-&gt;DasBrot&lt;-"
+	},
+	{
+		"id": 7951,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-09-03T01:11:56.000Z",
+		"content": "If you're just getting started playing mods, the most important thing to remember is to RUN THE BATCH FILE, not Keen1.exe.  In any mod's folder, you should see a .BAT file... run that.  For most of Xtraverse's mods, it's Norp#.bat, for me it's XkyKeen#.bat, and so on.  Just running Keen1.exe will cause problems!!<br /><br />If you want to make your own mods, there's really very little programming involved, unless you WANT to do that hard stuff!  <br />For the most part, you run ModKeen, which spits out a whole bunch of BMP files for you... you edit them, change the graphics, and then use ModKeen to put it back into the game files.  After that, just create new levels, change some text, make your own BAT file and then run the darn thing--instant mod!  :-)<br /><br />Spatang.com is a great site for info--not only can you download other peoples' mods and open them up to see how they're put together, but you can read tutorials on how to do your own stuff!<br /><br />Welcome to the community, too.  :-)[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 7952,
+		"title": "Re: hehe",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-03T08:51:40.000Z",
+		"content": "Yeah, no programming skills is required! Other skills are handy but not required either. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 7953,
+		"title": "Re: hehe",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-03T08:57:51.000Z",
+		"content": "Yeah, but you must know how to cook. And how to do the laundry.----"
+	},
+	{
+		"id": 7954,
+		"title": "Wait a minute...",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-09-03T11:03:25.000Z",
+		"content": "Why is this thread in Unofficial Keen Games? It should be in Miscellaneous, because it doesn't have anything to do with a Keen Game at all.<font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 7955,
+		"title": "Re: Wait a minute...",
+		"author_id": 1486686,
+		"author_name": "DasBrot",
+		"timestamp": "2005-09-03T16:40:30.000Z",
+		"content": "Of course: [quote]<b><i>Quote:</i></b>[hr]Hey its me, commanderklown. I haven't been here in almost a year and I was wondering if there were any new good games available [hr][/quote] He was asking for good UNOFFICIAL KEEN games....-&gt;DasBrot&lt;-"
+	},
+	{
+		"id": 7956,
+		"title": "Re: Wait a minute...",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2005-09-03T16:54:41.000Z",
+		"content": "What's the point when all the threads were lost a few months ago?!? By browsing the first and second page, he can view all the lates happenings in this forum.<br /><br />And what is more important, why we are continuing using this EZboard, instead of moving to a new more secure forum?!?!?!?!?----"
+	},
+	{
+		"id": 7957,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-09-03T19:44:42.000Z",
+		"content": "It has to do with tradition... people are used to coming here, seeing this layout, doing things a particular way.  We're a crowd of people who still play 15 year old DOS game, for goodness sakes... we're not gonna change so easily.  :-)"
+	},
+	{
+		"id": 7958,
+		"title": "FAQ.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-09-04T07:23:58.000Z",
+		"content": "Countless other threads have already covered this topic, though, and every time the answer is that we'll move eventually, but there are things to work out beforehand, such as the type of forum, the layout, hosting, etc.Cave assectatorem Ductoris Alacris <br /><br />The development of the hardware, and the greater ability to express every idea that flies into a programmers head, mean that game creators have made the new games congested with every technique in their power. The basic games behind all this are so blurred that people cant catch up. We should go back to basics  like Pac-Man  and play in an easier, more relaxed way. -Toru Iwatani<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 7959,
+		"title": "Re: FAQ.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-04T10:46:56.000Z",
+		"content": "Keen: Can I get a new forum? Pleeease?<br /><br />Xky: No, we just can't afford one right now.<br /><br />Keen: [Sourly] Duke Nukem got a new forum<br /><br />Xky: And he's a millionare, we just don't have the money, and I honestly think you're spending too much time with that man.<br /><br />Keen: But its for my own good! He said him and his friend Clarissa are going to give me a real education at the party next thursday!<br /><br />Xky:That does it! Out!<br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 7960,
+		"title": "[This subject is missing and can not be restored]",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-09-04T16:32:33.000Z",
+		"content": "Keen: OH-NO!!! THE WORST THING HAPPENED TO ME!!!!! I GOT KICKED OUT OF THE PCKF!!!!!!!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]      <br /><br />Duke: That's because of what you told Xky.<br /><br />Jazz: Uh-huh. I visit PCKF every day as a guest, and told Xky that I'm going to destroy Apogee Software, and I've never been kicked out of the PCKF.<br /><br />Jill: DON'T VISIT THAT FORUM, THEY'LL SUCK YOUR BRAINS OUT!!!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]      <br /><br />Malvinious: Actually, I'm registered to that forum and nothing's ever happened to me.<br /><br />Sonic: Yeah, I like to visit that forum as a guest, too.<br /><br />Mario: I like to visit the PCKF as a geust, three![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]      <br /><br />(back at the PCKF)<br /><br />KR: I thought you were working for us!<br /><br />Xky: I was asleep on the job!<br /><br />KR: TO LATE!!! SENSE EVERY GAME CHARACTER IN EXISTENCE READS OUR FORUMS DAILY, YOUR FIRED!!!!!!!!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]      [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]     [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]    <br /><br />(NOTE: I haven't heard of every single game character in existence, but I've heard of Commander Keen, Duke Nukem, Jazz Jackrabbit, Jill Of The Jungle, Malvinious, Sonic The Hedgehog, and Mario, and I've found out about a few others from David Wonn's Unique Video Game Glitches, and DOSGames.com.)<font color=\"BLUE\">A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)</font>"
+	},
+	{
+		"id": 7961,
+		"title": "Re: [This subject is missing and can not be restored]",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2005-09-05T01:12:11.000Z",
+		"content": "...[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 7962,
+		"title": "Re: [This subject is missing and can not be restored]",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2005-09-05T06:23:58.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]... [hr][/quote]-----------------<br />[img]http://jamba.nl/storage/view/335/0/cr/CrazyFrog___Axel_F_Rocket.gif[/img]<br />Jamster! rules!"
+	},
+	{
+		"id": 7963,
+		"title": "Re: [This subject is missing and can not be restored]",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-05T10:26:54.000Z",
+		"content": "LL: *Spraypainting 'Zibble' on wall*<br /><br />Oh Hi Djaser, whats up?<br /><br />Djaser: LL, me and a few friends want to talk to you.<br /><br />LL: Hi Xky! Hey, is that Jazz? Sonic?... Whats going on??<br /><br />Jazz: You started this stupid off topic dialouge, now Harvey is going crazy with nonsensical rantings!<br /><br />Xky: Pixelate her!<br /><br />LL: Aieeeee!<br /><br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 7964,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2005-09-19T04:33:39.000Z",
+		"content": "all i gotta say is: ..wow"
+	},
+	{
+		"id": 7965,
+		"title": "K:M",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-19T11:19:35.000Z",
+		"content": "I'd also recomend taking a look at K:M (Keen: Modding).<br /><br />[url=http://andy.durdin.net/keen/modding/]andy.durdin.net/keen/modding/[/url]<br /><br />This is the official Keen Modding forum. Here, you can follow new mods, check out demos; find out not just that they stink, but why they stink.<br /><br />You can also learn the tricks of the trade, and start modding yourself.<br /><br />Oh, well; hope you check out.<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 7966,
+		"title": "Re: uh...",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-09-20T05:16:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It has to do with tradition... people are used to coming here, seeing this layout, doing things a particular way. We're a crowd of people who still play 15 year old DOS game, for goodness sakes... we're not gonna change so easily. :-) [hr][/quote]<br /><br />We play that '15 year old dos game' because it is *** brilliant!!<br />hehe, commander keen is still active as there is a commnity that still plays it, and enjoys, and these forums are proof of that - Catch 22 HAHA! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /><br />____________________________________________________<br /><br />- The yorp shalt inherit the mars -"
+	},
+	{
+		"id": 7967,
+		"title": "Maturing:",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T05:27:03.000Z",
+		"content": "It's like this game just gets better every year:<br /><br />1991: \"Biggest hit of the year\"<br />1992: Replaying all the Keens before Keen 7 comes out<br />1993: Um... Maybe they're a little off scedual (Keeps playing)<br />1994: Oh, well (Still playing...)<br />1999: Wow... all those years; a great game, but the same-old, same-old is setting in; I wonder if I could change this?<br />2000: w00t! A new mellinium; I wonder what this means for Keen?<br />2001: w00t; A forum, now I can tell the world how much I love keen!!! \"[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] \"<br />2002: Breakthroughs in modding techniques<br />2003: w00t!!! MODDING!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] !!! + the Keen modding forum.<br />2004: Wow; serious patching makes for some pretty amazing mods.<br />2005: Najawa joins the forum (the climax; one only to get better with time)<br /><br />-- NAJAWA --"
+	},
+	{
+		"id": 7968,
+		"title": "Re: Maturing:",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-20T06:55:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]2001: w00t; A forum, now I can tell the world how much I love keen!!! \"[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  \"[hr][/quote]<br />There's been a forum for far longer than that."
+	},
+	{
+		"id": 7969,
+		"title": "Re: Maturing:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-20T10:06:54.000Z",
+		"content": "Yeah, but he's only been aware of it for that long.<br /><br />Well Naj, don't climax just yey, I do believe there's a movie in the works, <i>by someone who actually usually completes their stuff!</i>A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 7970,
+		"title": "Whoops!!!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-09-20T10:27:34.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  I kinda just picked that up from other conversations. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img] <br />[hr]<br />I found the PCKF in 2003, but at that time; I thought modding was illegal (I was sooo wrong; a stupid 5th grader [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] ).<br /><br />I found the K:M in a Google for Keen Modding; I just loved those awesome moddifications (so far; I have every mod ever made [I really think so, but there is a margin of error]). I joined both forums in August.<br /><br />Here I am now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <br /><br />-- NAJAWA --"
+	}
+]

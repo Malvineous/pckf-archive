@@ -1,0 +1,266 @@
+[
+	{
+		"id": 1127,
+		"title": "Do you program C/C++ or Pascal?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-14T14:22:07.000Z",
+		"content": "Wondering, how many people around here have minimal knowledge of these languages?<br /><br />I for one, have less-than-minimal knowledge of Pascal, and average knowledge of C/C++, mainly C anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br /><br />Some people around here tend to speak in programmative terms, that's why I'm asking.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25389,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-14T14:24:35.000Z",
+		"content": "Pure C all the way!"
+	},
+	{
+		"id": 25390,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-14T14:39:07.000Z",
+		"content": "I hate all of those languages, especially C++. Or well, I don't hate Pascal, but I don't program in it either, and can't remember the very basics I once knew. There are thousands of programming languages out there, so I rather pick some more interesting ones, ones that please me aesthetically. These are ugly ones (in my opinion, duh!). But too bad I have to use C on a course or two at university this year -- and what's worse, Java too, if I'm not mistaken. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  So, I'll answer \"None of the Above\", as I don't use those (unless forced to).<br /><br />What would Keen use? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  He'd probably compose the fastest possible system in his mind and then would just feed in the raw machine code bytes.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 25391,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-14T14:42:38.000Z",
+		"content": "Probably. The real life Keen (a.k.a. the official game engines) were written in pure C, it seems, built with Turbo C++ and something else for the last trilogy.<br /><br />Interestingly, I happen to hate Java and love C++. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img]  The original, pure C, is great for operating systems and small applications, not for games, IMO. And as I'm programming a game...<br /><br />I started programming in BASIC when I was 4 years old anyway.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25392,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-14T15:03:41.000Z",
+		"content": "Nothing's wrong with basics in my opinion, especially if one is using some very simple basic (although not sure if can be count basic anymore then) with only GOTOs to jump around, no functions or anything -- to make subroutines one needs to store stuff somewhere in memory by oneself, for example set some value to some variable to indicate that the program jumps from the 'subroutine' to correct place, then there is some if-table where the destination is chosen according to that variable, and all that, and things like \"a = d(b(3), c<i>);\" would be absolutely out of question. It'd take a lot more skills to write a game in such, unless interpreting something more advanged language in it first, which'd obviously slow down a lot if using old computer. As well the program would get a lot more complex. And of course, that kind of jumping is close to what's going on in the lowest level all the time.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"[i]If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 25393,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-08-14T15:13:57.000Z",
+		"content": "I used to use Dev-C++ to do some basic C++ programming. I still would, but I can't seem to get it to work anymore. Every time I compile something, it comes up with an error. Even the example codes that come with it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] <br />If there's any freeware C++ IDE that is easy to set up and use, I'd like to know. Because I can't find anything good.-Genius314"
+	},
+	{
+		"id": 25394,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-14T15:16:12.000Z",
+		"content": "Microsoft Visual C++ 2005 Express Edition is freeware. And easy enough to setup. (see msdn.microsoft.com)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25395,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-14T16:06:48.000Z",
+		"content": "Genius314: You could try Code::Blocks...<br /><br />I have some basic knowledge of C++ apps, and I can make some very simple programs with it. Not much more than that, though.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 25396,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-14T22:33:30.000Z",
+		"content": "[hr]<b>Shadow Master</b> Interestingly, I happen to hate Java and love C++. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img]  The original, pure C, is great for operating systems and small applications, not for games, IMO. And as I'm programming a game...<br />[hr]Aye, I find Java extremely uncomfortable. But, it has its place.<br /><br />I'm using C for programming games, as it happens. C++ is too abstract and picky for my liking. With C I can hack things around without the need to concern myself with a lot of planning and efficiency. Since deciding not to worry about those two factors so much, my coding style and speed has improved significantly, and I'm getting a lot of stuff done.<br /><br />[hr]<b>Genius 314</b> I used to use Dev-C++ to do some basic C++ programming. I still would, but I can't seem to get it to work anymore. Every time I compile something, it comes up with an error. Even the example codes that come with it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]  <br />[hr]What's the error? I've not had any major trouble with Dev-C++."
+	},
+	{
+		"id": 25397,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-08-15T02:20:03.000Z",
+		"content": "C++ here, if only for the wealth of code on the internet that exists for it.  It can be a frustrating language at times.<br /><br />brainfuck is much better, right KR? :P[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 25398,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-08-15T03:24:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]What's the error? I've not had any major trouble with Dev-C++.[hr][/quote]<br /><br />Well, when I compile one of the example codes, I get the errors:<br />[quote]<b><i>Quote:</i></b>[hr][url=http://undefinedreferenceto`__cpu_features_init'<br />ldreturned1exit]ldreturned1exit\"&gt; undefined reference to `__cpu_features_init'<br />ld returned 1 exit [/url][hr][/quote]-Genius314"
+	},
+	{
+		"id": 25420,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T03:45:15.000Z",
+		"content": "Each language has its place.  Personally I can't stand *proper* C, because you have to declare all your variables at the start of a function definition and you can't use // comments.  For that reason I don't think I've ever programmed in plain C, but definitely \"C+\" if you could call it that - C with a few nice things borrowed from C++.<br /><br />I guess that's why I'm not mad on Pascal either - I don't like languages that impose arbitrary rules on what you can and can't do.  If I want to convert this string into an integer and add one to it, then that's my business, don't give me that lame 'type mismatch' excuse, just do it.  C and C++ figure you know what you're doing and don't try to stop you, which is great.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25399,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T03:49:47.000Z",
+		"content": "@Genius314:  It looks like a library isn't getting linked in properly.<br /><br />According to Google<br />[quote]<b><i>Quote:</i></b>[hr]I ended up fixing it, but here's my solution for posterity:<br /><br />1. Uninstalling Dev-Cpp may not be sufficient. Follow it up by searching your hidden and system folders for devcpp.* and deleting what you find.<br /><br />2. Don't use your old projects. Start new ones, configure your libraries and such from scratch, then import your old source files.<br />[hr][/quote]<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25400,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-15T05:56:24.000Z",
+		"content": "[hr]<b>Malvineous</b> For that reason I don't think I've ever programmed in plain C, but definitely \"C+\" if you could call it that - C with a few nice things borrowed from C++.<br />[hr]I did for a while, but it didn't feel right. While new, delete, cin/out, etc are useful, I decided it feels much more consistent to use the C equivalents, even if they do take some extra effort.<br /><br />[hr]<b>Malvineous</b> don't give me that lame 'type mismatch' excuse, just do it.<br />[hr]That reminds me of something from the days of my cousin's C64.<br /><br />C64: TYPE MISMATCH<br />ME: MISMATCH<br />C64: SYNTAX ERROR<br />ME: Argh!"
+	},
+	{
+		"id": 25401,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T13:16:48.000Z",
+		"content": "I have some strange love for malloc and not for new on integral types. So you might see the use of malloc() in my C++ code.<br /><br />What I love the most in C++ is the possibility to redefine operators for your custom classes. It feels so... mathematical.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25402,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T22:23:09.000Z",
+		"content": "That is strange [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   I prefer 'new' because you don't have to do any casting and it produces much more readable code.<br /><br />I also really like the ability to redefine the C++ operators, you can produce some really elegant code that way.  In a database system I'm working on at the moment, I like the way I can redefine the operators to describe database queries in straight C++, for example:<br /><br />DBCriteria q = (ID == \"abcd\");<br />database-&gt;query(q);<br /><br />Then of course it gets converted into SQL, looking for a row in the database where the ID is \"abcd\".<br /><br />Taking that to the next level, have a look at the Boost \"Spirit\" parser - that lets you define a parser for reading in some code (be it anything from C++ to your own custom scripting language) and you define the language grammar entirely using C++.  It's *really* nice.  I used it in my game editor for the scripting code which allows you to describe file formats in XML.  It sure beats writing your own parser by hand!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25403,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-17T12:24:07.000Z",
+		"content": "That's been on my TODO list since last December. EDIT: although back then I was a novice in C and I hadn't learned C++ yet.<br /><br /><br />Ah, the reason I like malloc is my strange love with low-level programming, even though I only have learned a dozen of concepts and assembler instructions.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25404,
+		"title": "Re: Do you program C/C++ or Pascal?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-17T13:22:22.000Z",
+		"content": "Ha ha, that's good - that's where most decent programmers start - with a love of low-level programming.  Then, once they've reinvented the wheel for the hundredth time, they give in and use things like new[], template classes, etc. and wonder how on earth they ever coped without them, appreciating them all the more because of their low-level understanding of how they work (and why they break when things go wrong.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25405,
+		"title": ".",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-08-28T11:13:11.000Z",
+		"content": "As for me, i hate operator overloading and multiple inheritance with a passion. So to me c++ is an ugly language and i refuse to touch it until i really have to use it.<br /><br />With that said, i code a heck of a lot in objective-c and c.  I love the idea of using dynamically typed objects. In most situations, it takes a lot less code to achieve what you want."
+	},
+	{
+		"id": 25406,
+		"title": "Re: .",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-28T13:58:04.000Z",
+		"content": "[url=http://en.wikipedia.org/wiki/Objective-C]Objective C[/url] is a rather odd relative of C, and it doesn't seem to be very popular, except for the platforms mentioned in the abstract of the wikipedia article. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 25407,
+		"title": "Re: .",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-09-23T19:18:41.000Z",
+		"content": "I started out in Visual BASIC in Sophomore year of high school; then I moved to a little bit of C++ to build my game, which failed, but now that I get basic programming theory and more advanced mathematics, I can probably move on to a less 'helpful' method of game making.<br /><br /><br />I can program a bit in C++, though I intend to be able to program a bit in Java and C# by the end of the school year --or at least Java.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 25408,
+		"title": "Re: .",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-09-24T02:00:25.000Z",
+		"content": "I used to know some C and Pascal, heck even some BASIC.  Can't remember any of it now.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 25409,
+		"title": "Re: .",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-09-24T03:09:02.000Z",
+		"content": "I know a bit of Visual BASIC as well as an outdated version called Liberty BASIC.  I hope to learn C++ or something someday...I can't do so much with BASIC languages.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 25410,
+		"title": "_",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-09-28T09:30:40.000Z",
+		"content": "well i'm taking a C class in college right now; nothin in it is hard atm due to my experience with GM, but i have a feeling c++ is gonna b my favorite because it's object oriented (like game maker);Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 25411,
+		"title": "Re: _",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-10-10T07:08:35.000Z",
+		"content": "there is this annoying thing in c++ about string to integer conversion, how do you guys deal with that?[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote][img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img] <br />[url=http://trailers.apple.com/trailers/independent/blacksheep/trailer/]trailers.apple.com/trailers/independent/blacksheep/trailer/[/url]"
+	},
+	{
+		"id": 25412,
+		"title": "Re: _",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-10T22:14:12.000Z",
+		"content": "There is?  As far as I'm aware it's not treated any differently to any other type of conversion.  I normally use string streams if I have to:<br />[pre] int iValue = 5;std::ostringstream sstr;sstr &lt;&lt; iValue;std::string strValue = sstr.str();std::cout &lt;&lt; \"iValue is \" &lt;&lt; iValue &lt;&lt; \" and strValue is \" &lt;&lt; strValue &lt;&lt; std::endl;[/pre]<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25413,
+		"title": "Re: _",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-11T16:45:36.000Z",
+		"content": "I'm not good at C++ at all, but I did read about functions like static_cast for C++ typecasting. And the usual parentheses for C-style typecasting.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 25414,
+		"title": "Re: _",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-10-19T07:56:31.000Z",
+		"content": "integer to string is easy, just do<br /><br />int i = 5;<br />string s = \"\" + i;<br /><br />but i'm talking string to integer, which can be done using a method similar to yours' far as i can tell, but my preferred method by far is:<br /><br />string s = \"534532\"<br />int i = atoi(s.c_str());<br /><br />atoi() converts from c-strings to ints, which is why you have to get a c-string representation of s by saying s.c_str().  I asked because i was wondering if there was some function that didn't require converting to c_strings.  by far this is the aspect that i've found most annoying coming from java, who had an easy <br /><br />string s = \"2523523\";<br />int i = Integer.parseInt(s);[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]<br /><br />\"God is love.\" 1 john 4:8<br />\"Love is not jealous.\" 1 corinthians 13:4<br />\"I, the Lord thy God, am a jealous god.\" exodus 20:5<br /><br />[img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img] <br />[url=http://trailers.apple.com/trailers/independent/blacksheep/trailer/]trailers.apple.com/trailers/independent/blacksheep/trailer/[/url]"
+	},
+	{
+		"id": 25415,
+		"title": "Re: parseInt",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-22T22:10:53.000Z",
+		"content": "Umm...you might want to re-read that, it didn't quite make sense (\"integer to string is easy, but I'm talking integer to string\"??)<br /><br />By the way, your first bit of code (string s = \"\" + i) won't actually work.  The reason is that C and C++ are designed to be powerful languages that can do many things, but they're not designed to be easy.  The reason there's no \"parseInt\" is because that could limit the functionality - what if you wanted to parse a hexadecimal integer?  Or a binary int?  atoi() was the C answer for a few common cases to make it easier, and string streams (think sprintf() in C) are the C++ answer.  You're always free to write your own parseInt function if you want.  Personally I prefer a toString function, because then you can overload it, so instead of having parseInt, parseLong, etc. you can just have multiple toString functions and the compiler will automatically pick which one you want at compile-time.<br /><br />The reason why you have to convert a std::string using c_str() is because atoi() is a C function, so you shouldn't be using it in a pure C++ program.  If you use the string streams like in my last post, then you won't need to convert anything to C style strings.  You might find the syntax horrible and complicated, but that's how it's done in C++.  Besides, you can wrap it in a parseInt function and then forget about it if you're not quite ready to move to fully-fledged C++.<br /><br />(By the way, as an aside C++ has no \"string\" type.  There is a string defined in the std namespace, but this is almost always written as std::string.  There are ways around this, but you [url=http://www.parashift.com/c++-faq-lite/coding-standards.html#faq-27.5]won't be very popular if you use them[/url].)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25416,
+		"title": "Re: parseInt",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-10-28T08:36:37.000Z",
+		"content": "Yeah, it would be string to integer i'm talking about =/<br /><br />[quote]<b><i>Quote:</i></b>[hr]By the way, your first bit of code (string s = \"\" + i) won't actually work.[hr][/quote]<br /><br />I'm pretty darned sure it does, though!  (A program for which i did that seemed to work fine.  or perhaps it was<br /><br />string s = \"\";<br />s += i;<br /><br />i can't quite remember.  but i definitely didn't have to do any stream jazz.)<br /><br />[quote]<b><i>Quote:</i></b>[hr]<br />(By the way, as an aside C++ has no \"string\" type. There is a string defined in the std namespace, but this is almost always written as std::string. There are ways around this, but you won't be very popular if you use them.)[hr][/quote]<br /><br />Hm, good to know.\"God is love.\" 1 john 4:8<br />\"Love is not jealous.\" 1 corinthians 13:4<br />\"I, the Lord thy God, am a jealous god.\" exodus 20:5<br /><br />[img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img] <br />[url=http://trailers.apple.com/trailers/independent/blacksheep/trailer/]trailers.apple.com/trailers/independent/blacksheep/trailer/[/url]"
+	},
+	{
+		"id": 25417,
+		"title": "Re: parseInt",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-28T18:51:31.000Z",
+		"content": "\"\" + i wouldn't work? Doesn't it automatically convert i to a string before concatenating it with the empty string, though?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 25418,
+		"title": "Re: parseInt",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-29T22:14:04.000Z",
+		"content": "Nope, it doesn't.  Try this:[pre] #include &lt;iostream&gt;#include &lt;string&gt;int main(void){  std::string myString = \"65 is: \";  int myInt = 65;  myString += myInt;  std::cout &lt;&lt; myString &lt;&lt; std::endl;  return 0;}[/pre]You'll get \"65 is: A\" coming out.  It's treating the number as a char, which makes sense as char, int and long are all numeric types under C++.<br /><br />Most other languages will convert a number into a string with \"\" + i, but C++ isn't like most other languages [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   If you want that sort of thing to work with C++, you'd have to create an implicit conversion operator yourself (which is like a function which C++ will call automatically to perform the conversion), but you'd be competing with the built in char conversion used in the example above so I don't know how successful it'd be.<br /><font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 25419,
+		"title": "Re: parseInt",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-10-31T02:04:02.000Z",
+		"content": "You're right.  I must have been doing something else.\"God is love.\" 1 john 4:8<br />\"Love is not jealous.\" 1 corinthians 13:4<br />\"I, the Lord thy God, am a jealous god.\" exodus 20:5<br /><br />[img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img] <br />[url=http://trailers.apple.com/trailers/independent/blacksheep/trailer/]trailers.apple.com/trailers/independent/blacksheep/trailer/[/url]"
+	}
+]

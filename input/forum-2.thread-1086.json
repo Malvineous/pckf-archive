@@ -1,0 +1,986 @@
+[
+	{
+		"id": 200,
+		"title": "Commander Keen Doom Progress Thread! (Updated 10/21)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-01T01:12:42.000Z",
+		"content": "Instead of posting another thread on Commander Keen Doom, I've decided to convert this thread into the Official Progress Thread of Commander Keen Doom.<br /><br />The only progress that will deserve its own thread will be the \"Commander Keen Doom is Released\" thread. That's a long way away though...<br /><br />Old post:<br /><br />Subject: Commander Keen Doom Community Project...? <br />Yeah... that's a very big possibility.<br /><br />The Doom aspects will be handled by me.<br /><br />As in map making, item programming, DECORATE programming (for those of you who aren't in the know, DECORATE is the magical lump that allows additional monsters, weapons, and power ups), monster programming, and anything else that I'll be able to do via posting on the ZDoom message boards.<br /><br />But...<br /><br />That doesn't mean ideas and possibly entire game elements and monster designs have to come solely from me either.<br /><br />Any weapon ideas, monster ideas (I'd like to keep classic Keen enemies to a minimum, and possibly keep the Neuroblaster as a basic weapon like the pistol)<br /><br />and eventually even monster designs (I'll get to that later)<br /><br />Also, level ideas (Keep in mind that these are levels based off of a 2D map with a bunch of sectors, lines, and vortices with certain characteristics including height, light level, floor and ceiling texture, etc...) <br /><br />As for what Keen characteristics can and cannot be done...<br /><br />Pogo? Possibly. Jumps? Definitely.<br /><br />Scuba gear? Definitely<br /><br />Poles? Extremely difficult (sorry folks, but then again Keen 1 - 3 had no poles either)<br /><br />Multiple level platforms? Only if I use GZDoom, which I'm leaning against due to stability issues.<br /><br />OpenGL support? Definitely, but that's up to you to download GZDoom and run it yourself.<br /><br />High resolutions? Definitely.<br /><br />Hanging off of the edge? Not likely.<br /><br />Neuroblaster? Yep.<br /><br />Key-crystals? Yep. The holders as well.<br /><br />With that in mind, I'll also let you guys know the basic limitations on Doom II walls and floors.<br /><br />Floors (and ceilings) are only 64x64. You can only have 128x128 if you have 4 different 64x64 squares that come together.<br /><br />Walls can be 64x64, 64x128, 128x128, with the maximum I think at 256x128 (I might be wrong, I'll check with that). To a certain degree, walls are stackable as well. <br /><br />And of course, 256 colors only please. Limit bright Purple and bright Cyan as well, since they tend to become transparent.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4642,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-11-01T08:16:33.000Z",
+		"content": "It's an intriguing possibility, and I'd like to contribute some levels and such when you get to that point.<br /><br />[img]http://jimsoft.spatang.com/jdraw/drawings/games/Platform%2001.gif[/img]<br />[img]http://jimsoft.spatang.com/jdraw/drawings/games/Platform%2002.gif[/img]<br /><br />Those are some quick ideas I sketched up in 2003, I think about half a year before first discovering this forum. That's how I invision the levels of a 3D Keen game. If you can find a way to allow true 3D structuring like that, I'm definitely in.<br /><br />Also, will you be making this first or third person? I'm not sure if I'd be such a fan of playing Keen as an FPS.<br /><br />Do you have any ideas for a story yet?"
+	},
+	{
+		"id": 4643,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-01T11:19:25.000Z",
+		"content": "Spleen -- I think that kind of structures aren't allowed, the ones overlapping others. That could perhaps be done with sprites, but no sure if this game supports the the way Build engine does.<br /><br />And yeah, external view would be cool. I think some Doom port or whatever they are had one, likely this one has one as well.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4644,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-02T03:42:09.000Z",
+		"content": "You'd be surprised.<br /><br />Doom has those teleports, and with Zdoom you can cross a line and it teleports you without you noticing anything to a different sector, and if done right will give the illusion of going downstairs to a floor directly under the floor you were originally on.<br /><br />They are best done with enclosed staircases, or spiral staircases (which are my favorite! ^_^)<br /><br />but also keep in mind that enemies or items won't necessarily be in the staircase, if you leave one in a certain part, you can see it disappear and reappear as you move back and forth over the teleporting line.<br /><br />It's also key to have all the textures aligned exactly the same and have the top left corner vertex in the exact same location in relation to the 64x64 square (since floors and ceilings are all 64x64) so the floor and ceiling textures are aligned perfectly as well. If done right, it looks freaking awesome.<br /><br />Now, although multi level platforms are difficult to do (They can be done with GZDoom and Legacy, but both of them are unfamiliar to me - although with practice I could possibly get GZDoom's multi leveled platforms to work.)<br /><br />However... you'd be amazed at what people are able to do with sprites and the like. Although it might look weird at first, it's ubiquitous throughout a bunch of doom mods. Floating platforms and true bridges can be emulated using just lines and not sectors. With Vanilla (unmodified) Doom, it can be done with some trickery (but then it gets tricky to walk under it) but with ZDoom, the walkable part of the bridge is an invisible object placed at the exact height as the bridge. <br /><br />It's cool, because you can have invisible bridges and have a script that removes the objects making up the invisible bridge, so when you go to walk back over it, you fall.<br /><br />This'll be a first person shooter though in the most basic sense, but it will also have the adventure aspects that were prevalent in the Keen games.<br /><br />IE... World maps are possible. Multiple world maps even.<br /><br />Then you get into the realm of possibility where you can exit a level and reenter it, and instead of starting the level over, the level is as it was when you exited it. This also opens up the potential of having enemies in the world map as well, and having certain areas open up after you beat a level. With scripting, I believe it is possible to flip a switch in say level 5 and have an effect occur in level 12.<br /><br />I haven't experimented with this that much though, so I'm not entirely certain about the range of possibilities this feature has. I do know it's on ZDoom. <br /><br />lol... this probably makes no sense to the lot of you though.<br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4645,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2006-11-03T14:12:16.000Z",
+		"content": "Interesting. I never thought of making a keen platform game like that.<br /><br />I can imagine if done properly it would be extremely good."
+	},
+	{
+		"id": 4646,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-04T01:47:28.000Z",
+		"content": "Yeah, those drawings look pretty cool Spleen - but you'd probably want to keep the same camera angle as in the drawings, to give a mix between the typical platformer view and a 3D view - although in doing that, I think controlling the player could be tricky (which directional arrow would you press to walk up the stairs?!)<br /><br />And Joe - what you describe with the invisible teleports is precisely how they implemented fake sector-over-sector in Shadow Warrior (and Blood, although it wasn't quite perfected then.)  Of course in the Build games you can make spiral staircases with true sector over sector, providing you can't see the overlapping sectors at the same time, but Shadow Warrior automatically overlays the two invisible-teleport areas so you not only teleport between them, but you can stand in the lower sector and look up into the upper sector.  It works *really* well, and Ken Silverman admitted that it was just a hack anyway, so I'm surprised that hasn't made it into Doom."
+	},
+	{
+		"id": 4647,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-04T06:45:40.000Z",
+		"content": "Doom's works perfectly, although what you see in the previous sector must be exactly the same. That's so hard to do, I have to ctrl+C, then ctrl+V, then place. So tedious. Since even texture alignments are copied, all one must worry about is having a reference vertex on the same location of a 64x64 square. That's easy to do though, just have that reference vertex on a corner.<br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4648,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-04T11:17:38.000Z",
+		"content": "It probably doesn't matter that much, in Shadow Warrior the actual \"overlap\" between sectors (the bit that's duplicated across the two sectors) is usually only a couple of textures and even in the final release of the game they hadn't lined up all the textures perfectly, so you can still see the textures jump as you move through the teleport - but given how few textures jump (usually only four, in the case of a square hole into the room below), you can't really notice it unless you're looking out for it.<br /><br />But for all intents and purposes, it allows you to do true room over room, where you can walk above and below an area without using sprites."
+	},
+	{
+		"id": 4649,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485928,
+		"author_name": "Feldegryph",
+		"timestamp": "2006-11-15T21:12:36.000Z",
+		"content": "Interesting idea.<br /><br />On the subject of old shooter games, though, I was always under the impression that the first Quake game was the easiest to mod.<br /><br /><br /><i>I</i> was able to make new character skins for quake, and I was like 11 or 12 when I did it--I didn't know squat about that stuff back then.<br /><br /><br />I just imagine maybe if you were trying to make a 3d or pseudo 3d Keen game by modding a different one, Quake would be the way to go.<br /><br /><br /><br />Don't take this as critisism or anything, it sounds like you really know what you are doing when it comes to Doom.<center><b>crymorenub</b></center><br />"
+	},
+	{
+		"id": 4650,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-15T21:39:06.000Z",
+		"content": "Making skins for quake is one thing...<br /><br />But Keen would be fugly with a grunt model as a base.<br /><br />The 3D modeling is the part that turned me away from quake.<br /><br />Doom uses 2D sprites, and is originally meant to be run on the same resolution as Commander Keen (320x200) which means it would have the same classic pixellation as Commander Keen if done right.<br /><br />3D keen games with 3D models are alright (The 3D Keen Dreams game is cool!) but it doesn't have as much of a classic feel, and that's what I'm going for.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4651,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2006-11-22T21:24:42.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]This'll be a first person shooter though in the most basic sense, but it will also have the adventure aspects that were prevalent in the Keen games.[hr][/quote]<br /><br />You do realize that Doom Legacy has a thirdperson mode available, right?<br /><br />[quote]<b><i>Quote:</i></b>[hr]The 3D modeling is the part that turned me away from quake.[hr][/quote]<br /><br />Plus, I believe that a Commander Keen playerskin for Doom has already been made: you could probablyjust use that if its maker doesn't mind.  (I downloaded it from Beyond the Pogo)<br /><br /><br />[quote]<b><i>Quote:</i></b>[hr]Now, although multi level platforms are difficult to do (They can be done with GZDoom and Legacy, but both of them are unfamiliar to me - although with practice I could possibly get GZDoom's multi leveled platforms to work.)[hr][/quote]<br /><br />Making 3D floors isn't really that hard with Legacy, though I don't know about the other engines.  I know because I've done some work with Chex Quest (a medium-quality freeware E-rated cereal promotional game which is a licensed mod of Ultimate Doom) level editing in which I included 3D floors.<br /><br />Reading a description of how to make 3d floors can look discouraging, but it's not half as hard or tedious as it looks."
+	},
+	{
+		"id": 4652,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2006-11-23T05:50:27.000Z",
+		"content": "I am already familiar with Zdoom. Legacy does not have the versatility with DEHACKED modification that Zdoom has, which means a limited number of monsters and weapons, as well as no point collectables.<br /><br />I am familiar with ACS scripting and the various technical aspects of Zdoom map editing. It isn't too much trouble to look into 3D floors. I won't have to worry about dynamic lights or anything that complicated, the 3D floors being the only reason why I am using GZDoom. Fortunately, GZDoom has a setting that disables OpenGL to give the game a more classic look, which I'll definitely be going for. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4653,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-23T15:27:29.000Z",
+		"content": "This project sounds very promising.  If you ever want to hear some level design ideas or what not, gimme a holler on AIM.  I've got plenty, lol.<br /><br /><br />But really though, try for that pogo program.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4654,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-06-30T21:09:40.000Z",
+		"content": "I've started working on a Commander Keen Doom TC already, and I didn't notice this thread.  (I've already posted one of my own.)  In any case, I'd be perfectly willing to contribute what I've done to any Community Project that gets under way. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 4655,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485548,
+		"author_name": "Apocalypse Gohan",
+		"timestamp": "2007-06-30T23:05:57.000Z",
+		"content": "Will it be in 3rd person view?<br /><br />[img]http://img170.imageshack.us/img170/594/k2dri6.png[/img]<br /><br />I also think it would be cool for a mod that replaces the cyberdemon in E2M8 with the commander keen skin from S&amp;F Prod.<br /><br />Keen as a last level boss."
+	},
+	{
+		"id": 4656,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-01T17:41:24.000Z",
+		"content": "Haha, that looks really neat. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4657,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-01T22:37:56.000Z",
+		"content": "Cool! Although that's probably only picture edit? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4658,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-02T05:32:09.000Z",
+		"content": "[img]http://i91.photobucket.com/albums/k284/KeegTech/DOOM0000.png[/img]<br /><br />[img]http://i91.photobucket.com/albums/k284/KeegTech/DOOM0003.png[/img]<br /><br />[img]http://i91.photobucket.com/albums/k284/KeegTech/DOOM0005.png[/img]<br /><br />[img]http://i91.photobucket.com/albums/k284/KeegTech/DOOM0006.png[/img]<br /><br />These are screenshots from the unfinished first level of my Keen Doom WAD.  As you notice, I haven't edited the gun animation or any of the font.  Also, I'm only half-finished with the animation for the zombie dude replacement.  I think there's an unchanged ceiling tile in there also...in any case, It's not all done, but this is all I can show so far.<br /><br />And by the way, the above pic of the Commander Keen fighting the cyberdemon is very awesome!  I like the stunner especially. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 4659,
+		"title": "Tasty!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-02T13:53:53.000Z",
+		"content": "Oh, wow. That is actually quite amazing. I don't know how Keenish it'd be with the shooter-oriented Doomness, but it certainly looks impressive.<br /><br />I imagine, though, if it was designed to take advantage of the features available in a port like zDoom, such as jumping, you could make something much more in the original platform style. That would be neat."
+	},
+	{
+		"id": 4660,
+		"title": "Re: Tasty!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-02T16:15:19.000Z",
+		"content": "I say you copy the blaster from the picture edit.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4661,
+		"title": "Re: Tasty!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-02T19:12:11.000Z",
+		"content": "[img]http://i91.photobucket.com/albums/k284/KeegTech/DoomAlt.png[/img]<br /><br />This is one of the screenshots as it would look with Apocalypse Gohan's blaster.  Very cool. (I changed the color of the skin so it was more continuous with the face at the bottom.)<br /><br />But I definitely agree that we should try and make the levels as Keenish as we can.  I don't know enough about tweaking the zDoom engine so we can do that kind of fun stuff, but there are certainly people who can."
+	},
+	{
+		"id": 4662,
+		"title": "Re: Tasty!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-02T23:22:10.000Z",
+		"content": "The floor seems to be quite weird in that screenshot, and are the [what were those things called again?] transparent? I don't think that'll work.<br /><br />Looking pretty cool so far. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4663,
+		"title": "Re: Tasty!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-02T23:59:17.000Z",
+		"content": "Thanks. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />The Koraths actually are transparent, though they are NOT supposed to be that way.  The monster they are replacing is transparent in the zDoom engine, and I haven't found a way to fix it!  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]   There's probably a way, but I haven't found it yet."
+	},
+	{
+		"id": 4664,
+		"title": "Re: Tasty!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-03T00:10:42.000Z",
+		"content": "Really? I always figured those enemies were set up like Duke Nukem: press t and thee shall become transparent. Too bad.<br /><br />If you have any C++ knowledge, you could edit the source code and recompile, but it's not really a great solution.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4665,
+		"title": "Re: Tasty!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-03T05:27:09.000Z",
+		"content": "[img]http://i91.photobucket.com/albums/k284/KeegTech/TitlePic.png[/img]<br /><br />This is the title picture I decided on.  How's it look?<br /><br />EDIT: See changed picture, next page."
+	},
+	{
+		"id": 4666,
+		"title": "Egad!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-03T07:23:43.000Z",
+		"content": "I think you should reconsider the skin colour. That olive-puke colour just doesn't fit the EGA palette theme you've got going. My suggestion is to go with the classic white skin."
+	},
+	{
+		"id": 4667,
+		"title": "Re: Egad!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-03T16:46:15.000Z",
+		"content": "You're right.  I think I'll change that.  And I'm too colorblind to tell how wierd it looks anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]"
+	},
+	{
+		"id": 4668,
+		"title": "Re: Title Screen",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-03T17:13:36.000Z",
+		"content": "Honestly, my only complaint about the title screen is Keen, besides the skin color, his look just isn't up to the standard of the Keen 4-6 title screens. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 4669,
+		"title": "Re: Title Screen",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-03T18:31:50.000Z",
+		"content": "Well, I changed the skin color.<br /><br />As for the face, I didn't mean for it to look like it did in Keen 4-6.  I see your point though.<br /><br />Of course, if this becomes a community project, then this doesn't necessarily have to be the title screen at all.  I post this as a possibility. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Title screen with the more Keenish color, but same face as before.<br />[img]http://i91.photobucket.com/albums/k284/KeegTech/TitlePic-1.png[/img]"
+	},
+	{
+		"id": 4670,
+		"title": "Re: Title Screen",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-03T18:34:51.000Z",
+		"content": "The skin is definitely alot better.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I post this as a possibility.[hr][/quote]<br /><br />Ahh ok, I get it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 4671,
+		"title": "Re: Title Screen",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-07-03T22:59:58.000Z",
+		"content": "Hah, that's great! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4672,
+		"title": "Re: Title Screen",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-04T08:33:02.000Z",
+		"content": "None too shabby![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4673,
+		"title": "Re: Title Screen",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-07T23:35:52.000Z",
+		"content": "Thank all. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />By the way, does anybody know where Joe Capricorn is? I tried messaging him a couple days ago about getting this thing started and stuff.  He might have been busy lately but I'm not sure. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4674,
+		"title": "Re: Egad!",
+		"author_id": 1486068,
+		"author_name": "spooniest",
+		"timestamp": "2007-07-08T19:09:31.000Z",
+		"content": "Hey keegtech i was wondering i saw your commander keen doom mod and i was like wow that looks so good.So i was wondering if you could send me it only because it looks so good and i love doom mods."
+	},
+	{
+		"id": 4675,
+		"title": "Re: Egad!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-15T03:01:37.000Z",
+		"content": "Will do. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4676,
+		"title": "Re: Egad!",
+		"author_id": 1486068,
+		"author_name": "spooniest",
+		"timestamp": "2007-07-15T13:23:58.000Z",
+		"content": "Here's my email address keegtech patrick5020@bellsouth.net"
+	},
+	{
+		"id": 4677,
+		"title": "Re: Egad!",
+		"author_id": 1486068,
+		"author_name": "spooniest",
+		"timestamp": "2007-07-15T20:55:24.000Z",
+		"content": "Have you sent it yet keegtech?"
+	},
+	{
+		"id": 4678,
+		"title": "Re: Egad!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-16T00:05:49.000Z",
+		"content": "Haven't you noticed how this is a work in progress?____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4679,
+		"title": "Re: Egad!",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-16T00:06:04.000Z",
+		"content": "It hast been sendeth. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />EDIT:  As DaVince21 pointed out, this is a work in progress, and although I concievably could do this all alone, I would love to get the community involved.<br /><br />Although many things like mapping require experience with Doom, sprites and textures can be drawn by anybody with a few basic things in mind.  I will put any graphics done into the mod.<br /><br />Also, I can't manipulate the Doom engine in any cool ways that produce good jumping, pogoing, keyholders, extra characters, and all that good stuff that would make it more Keenish.  But there are people who can (Joe Capricorn, I think, is an example).  I don't know if I should bring this mod up on the Doom forums also, since this would most likely be more appreciated by Keen fans, but then again, what do I know? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Anyway, if anybody is interested in helping with this, then please tell me, because, although I have one playable level (I sent that one level to the spooniest guy) there's still an insane amount of work to be done.  And there are plenty of good graphic artists here.  It's all pixel art, so it would be nothing new to Keen modders. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4680,
+		"title": "awesome idea",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-24T22:02:39.000Z",
+		"content": "hows the project goig i had a few ideas make on for doom 1 shareware i used to have the old wads but if any of you have doom 2.wad please upload it please email jarongame@yahoo.com i would redownlad it my limit hit [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 4681,
+		"title": "ideas",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-25T02:29:49.000Z",
+		"content": "well i had an idea for a story okay it goes like this keen was at his work house working on new weapons he got a reating from his new weapon commanker kee n bizz bam bam zappp zappp zappp we need your help please were under bizzapp gozoop zapp ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh and keen thought where are they what are they and whats going on what is it they want is this the work of the shikadi bloogs is it him is he behind this well lets don that helmet and become commander keen - defender of the universe   and he gets in to the bean with bacon mega rocket he took off exploring but later he got lost and he saw i light its a lazer ahh he crashed into a unknowen planet and he said oh where am i what the was that zap wow what are you doing i am commander keen you made it come on zapp ahhh and he ran into a alien house"
+	},
+	{
+		"id": 4682,
+		"title": "Re: ideas",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-25T02:54:21.000Z",
+		"content": "Megakeen, I personally think you should try to make this idea yourself, learn how to use GameMaker and MS Paint to make decent enough graphics, you'll learn about the game making process and will be able to help with other projects a little better with this knowledge. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 4683,
+		"title": "age issue",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-25T03:13:23.000Z",
+		"content": "i am only 15 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img]"
+	},
+	{
+		"id": 4684,
+		"title": "age is not an issue",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-25T04:49:19.000Z",
+		"content": "The belief that age has anything to do with ability is long outdated. If you've got an idea, just find a way to make it happen. And experiment a lot. If you need help, there are always people around to offer support."
+	},
+	{
+		"id": 4685,
+		"title": "age be not an issue",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-25T06:07:33.000Z",
+		"content": "He's right...I'm only a year older than you are, megakeen. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img]  <br /><br />EDIT: I would be happy to give you DOOM2.WAD, except for the fact that it's quite illegal to distribute it for free. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-gimp.gif[/img]   I think the only way to get it is to buy Doom II.<br /><br />And you also asked how the project's going?  It's moving along pretty nicely.  Still 1 level, but two new character replacements."
+	},
+	{
+		"id": 4686,
+		"title": "Re: age be not an issue",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-25T10:54:59.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]i am only 15[hr][/quote]<br />And you STILL haven't tried, heck, I tried making games when I was 13, and I know some good programmers who started even younger.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4687,
+		"title": "Re: age be not an issue",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-26T00:46:53.000Z",
+		"content": "I wrote my first halfway decent game when I was 10...amazingly enough, it's still on my PC today:<br /><br />[img]http://www.shikadi.net/pckf/qb_001.png[/img]<br /><br />You had to navigate the little happy face through the maze, collecting all the characters as \"points\" (except the sharp characters, which killed you.)  It even had cheat codes (although I was 11 before I figured out how to make multikey G+F10 style cheats work.)  Needless to say, you can probably guess which game inspired me [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />Ah, nostalgia...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4688,
+		"title": "Re: age be not an issue",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-26T00:53:24.000Z",
+		"content": "Have you ever played a game called Rogue before?  The ASCII graphics and smiley guy remind me of Rogue.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4689,
+		"title": "Re: age be not an issue",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-26T00:57:17.000Z",
+		"content": "No I haven't actually, but I've heard a bit about it.  I guess with the limited character set, all ASCII games will look somewhat similar.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4690,
+		"title": "game maker goten",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-26T02:37:30.000Z",
+		"content": "i got a fps maker  i want the new x10 its for vista [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  well just make level one a replacement level and rest leave them alone"
+	},
+	{
+		"id": 4691,
+		"title": "Re: game maker goten",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-26T04:20:37.000Z",
+		"content": "The only 3D game creation system I've ever owned is ye olde Pie3D GCS.  It came free with some other gaming software, and I never learned to use it since it only works on my ancient laptop.  I don't know how good it really is, but I figure I could probably get something better if I really wanted to. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4692,
+		"title": "doom 2",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-26T18:16:29.000Z",
+		"content": "well any ways i got doom 2 wait i got collectors doom it contains ultimate doom [doom 1] doom 2 final doom [ tnt plotanina]"
+	},
+	{
+		"id": 4693,
+		"title": "Re: doom 2",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-26T19:48:36.000Z",
+		"content": "I see.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 4694,
+		"title": "What's a GM goten?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-26T21:31:29.000Z",
+		"content": "That's a moddable game, not a game creation system though.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4695,
+		"title": "don.t know junk",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-26T23:24:11.000Z",
+		"content": "listen up i don.t know how to script make cfgs bats are any thing about making games!!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img]"
+	},
+	{
+		"id": 4701,
+		"title": "32 replacement",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-27T01:10:11.000Z",
+		"content": "in level 32 in doom 2 to replace the keens you can replace them with doom guys and for a dead body he.l be cut in haif"
+	},
+	{
+		"id": 4702,
+		"title": "opps",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-27T01:11:42.000Z",
+		"content": "[sorry for triple post]for the cyberdemon mortimer mcmire"
+	},
+	{
+		"id": 4703,
+		"title": "Re: opps",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-27T05:35:51.000Z",
+		"content": "For the cyberdemon, I think I've decided to replace it with Mortimer McMire...make it the final boss, maybe give it some gnarly new powers, etc.<br /><br />Also, I've already got plans for the Wolfenstein SS and the hanging keens.  I'm not sure I want to give them away just yet. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4704,
+		"title": "icon of sin",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-28T17:25:45.000Z",
+		"content": "for icon of sin in keen 5 in the thing that your suposed to break you can replace it with robobot  for a body and that thing for the brain"
+	},
+	{
+		"id": 4705,
+		"title": "Re: icon of sin",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T20:29:44.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]listen up i don.t know how to script make cfgs bats are any thing about making games!!!![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img] [hr][/quote]<br />What ARE you talking about? I've never stumbled across either when making a game, except when I want my game to create a config file by itself.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4706,
+		"title": "Re: icon of sin",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-07-28T21:57:30.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr][sorry for triple post]for the cyberdemon mortimer mcmire[hr][/quote]<br /><br />then use the fucling EDIT button[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 4707,
+		"title": "Re: icon of sin",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-28T22:32:53.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]then use the fucling EDIT button[hr][/quote]<br /><br />Is that like a baby F-word?"
+	},
+	{
+		"id": 4708,
+		"title": "don.t know",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-28T22:50:29.000Z",
+		"content": "i dont know where it f-ing is"
+	},
+	{
+		"id": 4709,
+		"title": "Re: don.t know",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-07-28T23:08:33.000Z",
+		"content": "[url=http://www.shikadi.net/keenwiki/Keen_2_Easter_eggs#Filthy_Word]fucl on keen wiki[/url]<br /><br />the edit button is under youname<br />[img]http://img.photobucket.com/albums/v177/memsys/editbutton.png[/img][url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 4710,
+		"title": "Re: don.t know",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T23:35:14.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]i dont know where it f-ing is[hr][/quote]<br />That's because it oh-so hard to look around for yourself.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4711,
+		"title": "not showing",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-28T23:38:15.000Z",
+		"content": "its not showing up around the reply butten in my post"
+	},
+	{
+		"id": 4712,
+		"title": "Re: not showing",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-07-29T00:25:51.000Z",
+		"content": "Are you sure you're logged in after you post? If not you might have to enable cookies (methinks).<br /><br />\"butten\"...LOL"
+	},
+	{
+		"id": 4713,
+		"title": "Re: not showing",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-29T00:32:28.000Z",
+		"content": "Believe me, it can be insanely hard to find things, I had to have my mother find the edit button for me, go easy on the guy.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 4714,
+		"title": "Re: not showing",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-29T00:44:57.000Z",
+		"content": "found it<br />edit:can you send me the wad when its done plz plz plz plz"
+	},
+	{
+		"id": 4715,
+		"title": "Character animations",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-29T01:16:30.000Z",
+		"content": "Changing the subject...<br /><br />I was wondering if anybody would like to help draw up the animations for one of the characters in the game.  Unlike most aspects of this thing, it doesn't really require any experience with Doom.  And since the graphics are all very Keenly colored, it should be fairly similar to drawing sprites for Commander Keen...except that there's a lot more frames to deal with. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />There are a couple in particular that I haven't started drawing yet.  They require about 50-60 frames, which (hopefully) isn't as arduous as it sounds.  If you're interested I'll give you more info.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   The help, as always, would be much appreciated.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4716,
+		"title": "Re: Character animations",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-07-29T01:49:13.000Z",
+		"content": "if this has nothing else with doom now i am done with this topic[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-moon.gif[/img]"
+	},
+	{
+		"id": 4717,
+		"title": "Re: Character animations",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-29T11:55:07.000Z",
+		"content": "You are rude. This is about a Keen DOOM project, how can it not be DooM-related?<br /><br />I'm not great at pixel art OR animation, so I'll have to skip, sorry.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4718,
+		"title": "Re: Character animations",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-08-01T17:49:17.000Z",
+		"content": "well can we see some screenshots"
+	},
+	{
+		"id": 4719,
+		"title": "Re: Character animations",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-01T18:12:16.000Z",
+		"content": "[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm17.showMessageRange?topicID=1175.topic&start=1&stop=25]p072.ezboard.com/fpublicc...=1&amp;stop=25[/url]____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4720,
+		"title": "doom 3 one",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-08-02T04:57:09.000Z",
+		"content": "any ways my dad taught me how to mod doom 3 so i started the same project no screenshots yet are videos are any thing in matter of fact dad told me this is gunna take years to make it for every keen  but i am sure thats true [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br />ps:any new screenshots any thing new"
+	},
+	{
+		"id": 4721,
+		"title": "Re: doom 3 one",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-06T18:06:31.000Z",
+		"content": "... Where were we? Doom 2 or Doom 1 mod?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4722,
+		"title": "Re: doom 3 one",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-08-23T23:52:18.000Z",
+		"content": "The mod I'm working on is a mod of Doom 2.  More enemies and stuff that way. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shockshund.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-poisonslug.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wormouth.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4723,
+		"title": "Re: doom 3 one",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-08-30T01:51:16.000Z",
+		"content": "hmm, i seem to have misplaced my copy of doom and doom 2. guess i gotta go torrent them.House of Cocoa<br />http://www.cocoanut.org"
+	},
+	{
+		"id": 4724,
+		"title": "Re: doom 3 one",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-08-31T03:53:32.000Z",
+		"content": "Isn't that illegal?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4725,
+		"title": "Re: doom 3 one",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-08-31T08:04:19.000Z",
+		"content": "probably, but i live in canada.[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 4726,
+		"title": "Re: doom 3 one",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-31T08:38:47.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Best reply ever."
+	},
+	{
+		"id": 4727,
+		"title": "Re: doom 3 one",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-31T12:27:48.000Z",
+		"content": "Ditto. Long live Canada!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-british.gif[/img] <br /><br />Wait, that's a british emotic. Why don't we have a canadian one?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4728,
+		"title": "Re: doom 3 one",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-08-31T17:49:43.000Z",
+		"content": "In Canada, for some strange reason, it's not illegal to pirate, only to distribute pirated materials.  Heck, I think there may even be a stipulation that it's only illegal if distributed for monetary gain as well.<br /><br />American movie companies don't like us much for that one.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 4729,
+		"title": "Re: doom 3 one",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-31T17:52:55.000Z",
+		"content": "Argh, people will do what is forbidden just because it's forbidden. Piracy will continue to trouble commercial authors till it is no longer forbidden.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4730,
+		"title": "Re: doom 3 one",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-09-01T21:36:33.000Z",
+		"content": "in canada, you can even distribute it, as long as you don't profit on piracy.  Some isps send out emails saying: you shouldn't pirate software. They don't say it's illegal, just that you shouldn't, lol[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 4731,
+		"title": "Re: doom 3 one",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-09-02T09:30:28.000Z",
+		"content": "Well then, it seems we owe this country more than just the gift of maple syrup on our pancakes.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4732,
+		"title": "Re: doom 3 one",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-09-04T22:45:12.000Z",
+		"content": "I've heard that Sweden is also really lenient with copyright laws.  Is this true?  It's another reason for me to want to go there. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]    The only reason we don't go there is that it's apparently pretty expensive to travel there these days.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4733,
+		"title": "Heh",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-09-19T18:13:10.000Z",
+		"content": "I'm still working on figuring out how GZDoom works and all, and how to do the really tricky stuff. I've been busy with a lot of other things (Ironically, Summer time isn't the best time for me to work on stuff. And now I got college... heh)<br /><br />However... there are a couple Doom mods that have me especially interested.<br /><br />One is called \"Sonic Doom\"... it adds Sonic the Hedgehog style gameplay to Doom, but still uses Doom monsters and the Doom guy.<br /><br />The other is called \"Phocas 2\" - it has to be the most advanced mod for Doom ever created, stretching the GZDoom sourceport to its max. What is really interesting is how 3D floors are used... and one particular case is where you are walking across a wooden bridge and a 3D plank of wood falls to the ground. It is not an object, it is in fact a sector defined on the same 2D map as all other Doom maps, but it has a certain amount of flags and variables that give it a 3D look, as well as a trigger that causes it to fall down.<br /><br />Ironically, it seems that I may be the one who originated the idea for the project, but someone else already got ahead of me in actually working on it. Hahahahahaha!<br /><br />Some of the stuff you got there, Keegtech, is looking good too! <br /><br />What I've also been looking into is creating a Multimedia Fusion prequel to Keen Doom, maybe even two prequels - with one using graphics similar to Keen 1 - 3, while the other being an attempt to emulate Keen 4 - 6. I know I talk about this a lot, and I'm thinking about compiling a few old versions of the various Keen games I worked on - Commander Keen Andromeda and HyperKeen - as a bonus of sort. <br /><br />As for a storyline...<br /><br />There are many possible directions I might go. <br /><br />Option One - A remake of an existing keen game(s)... which would leave the MMF prequels as entirely different games on their own. <br /><br />Option Two - A simple fusion of Commander Keen and Doom - i.e. Keen gets sucked into the Doom Universe, or Doom monsters get sucked into the Keen Universe.<br /><br />Option Three - Completely original storyline based in the Keen Universe with new monsters and new graphics (With the same Keen colors as well) with gameplay being as close to the original Commander Keen game series - only in 3D and in first person. This is what I've been leaning toward all this time...<br /><br />Option Four - Same as above, with elements of my own universe mixed in. This would make things interesting... <br /><br /><br />Now the question is, would you guys want full color Doom graphics? It is being made in GZDoom, so that gives more options other than just 256 color Doom graphics. It also allows for hi-res textures, dynamic lighting, etc... OR do you guys want traditional colors similar to the screenshots by Keegtech?<br /><br />I've been leaning on the traditional Keen colors myself. In order to give off that classic look, ALL sectors must be set to light-level 255... Otherwise it doesn't look all that good, and if I want different light levels, I'd probably go with more colors than just the Keen colors. <br /><br />Anywho...<br /><br />What I plan to do in order to actually get something done is to make a standard GZDoom WAD and use it to experiment with all of the strange features that I have yet to really be familiar with. These include 3D elevators, polysectors, 3D floors, and all sorts of stuff. <br /><br />Then, I'll start experimenting with adding new monsters with new definitions, as well as new weapons and new ammunition types.<br /><br />As for the new monsters, if anyone would like to take a crack at creating new monsters for a 3D game, or even the old monsters (The sprites in Keegtech's screenshots look nice!), feel free to send them my way. <br />I am on AIM as Xaqnir. And my e-mail address is bzdraconian AT comcast DOTN ET"
+	},
+	{
+		"id": 4734,
+		"title": "Re: Heh",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-09-21T18:55:19.000Z",
+		"content": "I was wondering what happened to you!  Good to see you back. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />How experienced are you with modding the zDoom engine and stuff?  As I've undoubtedly pointed out already, I can handle graphics and mapping, and I can do some rudimentary changes with DeHacked (I've changed a bunch of the enemies...for instance, the pain elemental has been replaced with a walking creature with wrist-mounted autocannons, the revenant is now a flying character, the imps are robots that use the two-directional mancubus attack, etc) but I can't do anything beyond that.  If you're good with that then the mod would be a lot better, because I think it should be as keenish as possible.  I have, so far, one level completed, as well as 8 characters completed and several others in varying stages of development, and a whole bunch of textures.  Not much free time, though... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4735,
+		"title": "Re: Heh",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-09-23T02:29:30.000Z",
+		"content": "DeHacked is outdated.<br /><br />While I don't really have much experience in this field, there are ways to add new monsters and new weapons without needing dehacked. Some mods have over 50 new monsters...<br /><br />It gets really complicated though, so I've been trying to learn as much as I can to avoid a wad that doesn't crash with certain versions of GZDoom. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4736,
+		"title": "Re: Heh",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-09-26T05:42:01.000Z",
+		"content": "I figured there <i>had</i> to be something out there better than DeHacked.  Because DeHacked doesn't really allow you to add anything new, and it's really irritating because I'd love to add lots of new things and not be restricted to the 18 or so monsters in Doom.<br /><br />There's obviously lots of fun things one can do with the WAD file that involve more deeply editing the code, something I don't have the patience to learn to do.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4737,
+		"title": "Re: Heh",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-07T21:31:54.000Z",
+		"content": "Well, let me think...<br /><br />18 characters in Keen 4<br />14 characters/enemies in Keen 5<br />15 characters in Keen 6<br /><br />So in all, there are at least 47 characters that would need to be included if I go through with Keen Doom and I remake Keen 4-6...<br /><br />GZDoom would easily be able to do that, along with all of the items and powerups. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4738,
+		"title": "Re: Heh",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-08T02:53:32.000Z",
+		"content": "I must learn to do that.  I don't intend to do a remake but I have more ideas for monsters and their attacks than are offered in Doom.  More variety would be wonderful.<br /><br />The problem of mapping will remain, though...I regret to say that I'm not the best mapper in the world and, since I have plans for 32 levels in all (names/concepts, not actual layouts) I'm not sure I'll have either the time or the skill to make super interesting levels that are true to the Keen feel.  I can handle most anything else of the modding process, but without the altered levels it simply wouldn't be complete.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4739,
+		"title": "Re: Heh",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-12T01:38:09.000Z",
+		"content": "Just in, I am getting some work done in the background structuring of Keendoom.<br /><br />Basically, I've been messing around with GZDoom heavily. I finally figured out how to do 3D floors. Not only that, I also found a way to mimic the disappearing platforms from Miragia!!<br /><br />It's easy! 3D floors have an Alpha flag, set it to 256 and it is completely solid. Set it to 128, you can somewhat see through it. Set it to 0... you can walk on it, but it's invisible.<br /><br />Alpha alone won't complete the miragia effect. There is another flag that you can set for a 3D floor that will make it ignore collision detection. In other words, you'd be able to walk through it. This would make it possible to fall through a 3D floor using a script.<br /><br />I also think I might be able to recreate the platforms in Keen 6 that flip. 3D floors can exist in slopes, although translucent sloped 3D floors are not possible with GZDoom. These are hard to do, and I never successfully did one. <br /><br />Ironically, what seems to be very difficult is to make moving platforms with 3D floors. Moving them is no problem, I wrote a script that made them move to a location, however the time it took for them to move was instantaneous. I have no idea why, but I suspect it might have something to do with a bug in Doom that is often exploited to create instantly appearing monsters or items.<br /><br />If a sector is lower than a floor, and you set it to lower to the \"highest floor\" it will instantly align with the floor above it. In 3D floors, the floor is higher than the ceiling, so when it moves, it probably moves somewhere instantly. <br /><br />I'm trying to find a work around. If not, I'll find another way to make vertical platforms that move up and down.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4740,
+		"title": "Fun with GZDoom",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-12T03:09:52.000Z",
+		"content": "That's tight! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   I definitely need to figure out how to do that stuff.  (Or at least some of it...I may not need to use the Miragia effect, since none of the locales I have in mind would necessarily use it.)  Either that, or find somebody who can that has time to help me by building some of the maps.  I could theoretically ask around on some Doom forums, but I have to make sure they know the kind of gameplay we're ideally looking for with this.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4741,
+		"title": "Re: Fun with GZDoom",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-13T17:47:30.000Z",
+		"content": "I was using the wrong command!<br /><br />Oddly enough, saying Floor_RaiseByValue and Ceiling_RaiseByValue will not work. <br /><br />It has to be the command FloorAndCeiling_RaiseByValue for it to work. <br /><br />What's even cooler is making a moving 3D platform that moves on command with a switch is easier and faster to do - I can insert the command directly onto the switch instead of creating a whole new script for it. <br /><br />Now, scripts will be necessary, for things like the disappearing platforms of Miragia and so on...<br /><br />But for now, I'm going to start with the easy stuff. Mapping!A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4742,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-21T02:14:13.000Z",
+		"content": "Instead of posting another thread on Commander Keen Doom, I've decided to convert this thread into the Official Progress Thread of Commander Keen Doom.<br /><br />The only progress that will deserve its own thread will be the \"Commander Keen Doom is Released\" thread. That's a long way away though...<br /><br />(What is above is in the very first post as well)<br /><br />I am currently toying with implementing poles and seeing if I can slightly alter the gravity to make for slightly higher jumps without having to enter a Set_SectorGravity command for each tag.<br /><br />Actually, doing a search of \"Gravity\" at the Zdoom Wiki yields the following command: Set_Gravity (#) <br /><br />That was easy.<br /><br />I am already working on implementing the Miragia style platforms. I'll update this page when I find something.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4743,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-21T23:26:12.000Z",
+		"content": "Doommander Keen is sounding more and more promising. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4744,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-22T03:08:15.000Z",
+		"content": "I got the Miragia platforms working perfectly!<br /><br />It's simply a 3D floor with an animated texture on the sides and the top and bottom that looks virtually identical to the Miragia platforms.<br /><br />I also have a 32-radius Bridge item (used for invisible bridges, and stuff like that) that moves to a dummy sector outside the game play for a few seconds, and moves back when the platform reappears. The only problem is that the current version of DoomBuilder does not allow me to type thing_move(1,2,1);<br />I can only do thing_move(1,2);<br /><br />That third number is the nofog value. Basically, without that third number, you see the green teleport flash. <br /><br />Two ways I can fix this...<br /><br />1. Somehow updated DoomBuilder to let me compile the script with the third argument.<br /><br />Or<br />2. Replace the teleport flash sprite with a tiny transparent pixel, and the sound with \"recorded silence\"<br /><br />But if I want monsters to teleport in front of you, they'll just pop in instantly. <br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4745,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-10-22T07:37:54.000Z",
+		"content": "[hr]<b>Joe</b> But if I want monsters to teleport in front of you, they'll just pop in instantly. <br />[hr]That's not really a problem, as far as I see it. There isn't a lot of sprite spawning in Keen 4-6 that warrants any sort of teleport effect. Maybe the Smirky would, but it's probably going to be a challenge in itself anyway.<br /><br />Hopefully an update will arrive before release time and simplify things for you.<br /><br />I've posted a news item at [url=http://www.planetkeen.com]Planet Keen[/url] about this project, and mirrored the screenshots in the gallery I've just setup there."
+	},
+	{
+		"id": 4746,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-22T07:45:12.000Z",
+		"content": "Yep, again, the new progress sounds great! Yeah, as said, there isn't really much of them that teleport (I can't recall anything but Treasure Eaters (Smirky) -- and for example the disappearing smoke would probably be part of TE's own frames). I like this kind of projects where one has to figure out all sorts of things and use clever ideas to get stuff done.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4747,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-22T13:25:26.000Z",
+		"content": "Well, it'd be easier to just wait for some way to update the ACS. When that happens, I can just type a comma, a space, and a number '1', to fix the problem.<br /><br />Then I can replace the teleport fog with the Smirky teleport animations, as well as the sound made when Smirky teleports, that way it might make it easier to replicate his behavior. <br /><br />And I thought they were called Gnosticene Ancients.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4748,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/20)",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-22T15:04:52.000Z",
+		"content": "We went through a loooong ordeal to determine this, and it turns out they're called Treasure Eaters.  Smirky is a better name, and Gnosticene Ancients is a common name for them.<br /><br />Anyway, this project is looking really impressive! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  You clearly have a great handle with scripting and mapping tricks and the like.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4749,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/21)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-22T21:27:08.000Z",
+		"content": "I won't have to do anything with the teleport fog, because all I had to do was update the ACS compiler... and Bingo! The platforms from Miragia work perfectly. The only bug I found was that if you jumped through the platform from underneath as the object teleported back, it wouldn't do so, and you won't be able to stand on the platform until another animation cycle - then it acts normally. <br /><br />The next step will now be the implementation of new switches, animations, and poles. <br /><br />I have a ton of homework to do, so that'll put a damper on any progress tonight, but I really hope that the step after poles, animations and switches includes building levels.<br /><br />Other little things I did...<br /><br />Removed the sound the red platforms make, since in Commander Keen they are silent, they will be silent in Doom. This was easy, just placing a sound object in the dummy sector for the 3D floor did the trick. <br /><br />Altered the gravity slightly so that you can jump farther and higher. <br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4750,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/21)",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-23T03:48:31.000Z",
+		"content": "We should see if we can get the name 'Treasure eater' officially changed.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4751,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/21)",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-23T05:48:21.000Z",
+		"content": "Call 'em whatever you want, their name may be limited to two characters.<br /><br />Sprite animations can only be 8 characters long. 1 or two for the number of animations (SKJMP1, SKJMP2, SKJMP3 for example), which leaves just four or five characters for the action (JUMP, WALK, RUN, FART)... and that'll leave two characters for the name.<br /><br />So, the Gnosticene Eaters or Treasure Ancients, or whatever, might be TE or GA... or even GN or TR.<br /><br />Poison Slugs might be PS or SL.<br /><br />Dopefish? DF<br /><br />Jumping Rocks? JR<br /><br />Sparky? SK<br />Ampton? LA<br />Slice Star? ST<br /><br />Commander Keen? CK.A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4752,
+		"title": "Re: Commander Keen Doom Progress Thread! (Updated 10/21)",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-23T15:58:06.000Z",
+		"content": "Go for TE (Treasure Eater) as that's official.<br /><br />Anyways, nice progress again. Poles? I'm very interested in seeing how they're going to work! Will you make the doors open when one places the correct gem to correct opener, or whatever they're called. I guess that's possible as well, would be neat. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Edit: The jumping rocks are called mimrocks.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4753,
+		"title": "Re",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-23T17:20:16.000Z",
+		"content": "The keys are easy to do. While the gem holders will not be on the floor, they will be inside the wall near a door, and when you press \"use\" while having a key, the correct key will appear inside the gem holder, the compartment will light up, and the door will open. <br /><br />Seeing how easy it is to at least import the sprites for objects that are stationary - such as decorations and power ups - I'll be doing that before I work on levels for Keen 4."
+	},
+	{
+		"id": 4754,
+		"title": "Re: Re",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-10-24T04:02:22.000Z",
+		"content": "I have often wondered how easy it would be to import Keen graphics into the build engine, certainly it seems to me to be almost laughably simple.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 4755,
+		"title": "Re: Re",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-24T10:51:14.000Z",
+		"content": "It would be very simple, but (at least the normal) Build engine wouldn't support the kind of 3D stuff seen in these shots -- one'd have to use sprites, slopes would be impossible to make, and if I remember correct there'd be some issues with the sprites because the way they're drawn, or something. And it wouldn't be as flexible or 'easy' to make all this stuff, I think. I rather see this on this Doom. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4756,
+		"title": "Re: Retard",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-10-24T16:18:30.000Z",
+		"content": "Well you know, the \"normal\" doom engine doesn't support floating sectors either. It doesn't support jumping OR looking up and down. (Which is what makes me think that doom wouldn't be the best engine for a platform game.) But I guessed that Joe is using one of those \"Doom in windows\" ports. (That lets you jump and look up and down in the original doom games.)<br /><br />If you mean by \"the normal\" build engine you mean \"Duke Nukem 3D's build engine\" then yes, you can't do that stuff. But I have made some user levels when I was little. It is the EASIEST editor to use that I have used. (Next to TES Construction set for Morrowind.) Shadow Warrior uses just a \"legitimate\" version of the build engine that DN3D does and supports floating and in fact MOVING sectors. (Such as the magic carpet.)<br /><br />[quote]<b><i>Quote:</i></b>[hr]slopes would be impossible to make[hr][/quote]<br />Um... The build engine definately supports slopes... like.. they are all over the place in DN3D.<br />[quote]<b><i>Quote:</i></b>[hr]And it wouldn't be as flexible or 'easy' to make all this stuff, I think.[hr][/quote]<br />Once again, the build editor is the easiest I have used in a game. To be fair I never made a doom wad so I wouldn't know which is truly easier.<br /><br />The sprites? You would have to create a \"Front\", \"Back\" and \"45 degree angle\" positions but nothing more than what is required for Doom.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 4757,
+		"title": "Re: Retard",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-24T16:54:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Um... The build engine definately supports slopes... like.. they are all over the place in DN3D.[hr][/quote]<br />Sprite slopes are impossible to make, but if you used Shadow Warrior for this you would use sectors rather than sprites anyway.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4758,
+		"title": "Re: Retard",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-10-25T11:33:24.000Z",
+		"content": "Yes, he's using one of those ports -- in which probably there are quite good level tools already that can be used to make such stuff, ie floating stuff, quite easily. I don't know about that myself, never tried.<br /><br />And yes, I was talking about sprite slopes, there's no way to rotate sprites to make such.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4759,
+		"title": "Re: Retard",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-10-25T21:15:51.000Z",
+		"content": "<i><b>Gal:</b> Shadow Warrior uses just a \"legitimate\" version of the build engine that DN3D does and supports floating and in fact MOVING sectors. (Such as the magic carpet.)</i><br /><br />Actually the magic carpet was made of sprites [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]   The one thing with moving sectors is that they can't go outside the sector they were created in, which is why all the vehicles in Duke and Shadow Warrior were either on a large field, a road, a lake, etc.  Very weird things happen if this rule isn't obeyed, as anyone who's created a rotating door that opens the wrong way will have noticed.<br /><br />Technically Shadow Warrior doesn't support floating sectors either.  It supports a hack where you design the bottom half of a room and then design the top half next to it.  The game then draws these two halves on top of each other, making it look like there's a floating sector.  You'll often notice that the walls on the join overlap, so the image used to tile the wall jumps as you cross the boundary (from the tile used in the lower sector to the tile used in the upper sector - usually the same image but not always tiled from the same x,y offset.)<br /><br />Needless to say it's quite an effort to do (compared to drawing a normal sector), and because of the join all the \"floating\" sectors need to be at the same height in each room, so it's really not that useful for this sort of thing.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 4760,
+		"title": "Re: Retard",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-25T21:31:46.000Z",
+		"content": "Floating sectors in GZDoom are EASY.<br /><br />Just draw the shape of the sector in the game area, and give it a unique 'tag' number.<br /><br />Then create a dummy sector. <br /><br />Then specify the top and bottom values for the ceiling and floor respectively in the dummy sector. <br /><br />Then set one of the lines in the dummy sector to Action 160 (It's Sector_Set3dFloor), with a matching tag, type 0-3, any flags (I usually leave this 0), the Alpha (255 for solid), and some fifth value which I always leave at 0.<br /><br />Another thing I recently found out...<br /><br />GZDoom has 3D model support. It's limited, but I think it can be useful for platforms that move horizontally, or both vertically and horizontally (such as in a square, or something).<br /><br />It can also be useful for those platforms that flip around. A 3D model would have to be animated to do that, as a 3D sector is defined from the start of the level and cannot be changed. In order for it to have any reasonable collision, an invisible collision object would be in place, and every time the platform flips, a script would move the collision object away during the flip - it'll be a lot like how the Miragia platforms are scripted. A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4761,
+		"title": "I AM BACK WHOO",
+		"author_id": 1486192,
+		"author_name": "megakeen",
+		"timestamp": "2007-10-25T23:03:36.000Z",
+		"content": "I AM BACK BABY MEGAKEENS BACK YEHAW"
+	},
+	{
+		"id": 4762,
+		"title": "Megakeens return",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-10-26T02:05:25.000Z",
+		"content": "This cannot be good [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img] <br />lol"
+	},
+	{
+		"id": 4763,
+		"title": "Re: Megakeens return",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-26T10:04:04.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]BABY MEGAKEENS BACK[hr][/quote]<br />That sounds about right. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Hey, <i>you</i> said it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 4696,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-10-26T15:12:52.000Z",
+		"content": "Welcome back.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 4697,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-10-26T15:31:20.000Z",
+		"content": "You already said that in a different thread. Here it is off topic."
+	},
+	{
+		"id": 4698,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-28T02:14:02.000Z",
+		"content": "After leaving with such [url=http://p098.ezboard.com/gift/fpubliccommanderkeenforumother.showMessage?topicID=2558.topic]dignity[/url] it's nice to see megakeen come back.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img]  <br /><br />But back to the topic of the CKDoom thing, which I'm pretty sure was the actual topic of this thread...are you going to be using original Keen sprites which have been modified for 8-directional movement?  Or will you just be making new animations altogether?  Also, will you be including the pain sequences and 6-to-12-frame death animations?  This is what I've been doing, and it may be un-Keenish to do that, but it would still be cool.  Maybe...[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 4699,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 997812,
+		"author_name": "Joe Capricorn",
+		"timestamp": "2007-10-28T06:40:46.000Z",
+		"content": "Commander Keen has \"pain\" animations. The enemies flash white. In the case of the Shikadi, their entire body flashes white as well. Are you doing this with the pain animations in your sprites? If so, that's good, that's the way I want to do with all of the enemies.<br /><br />For enemies that take one hit to kill, pain animations aren't really needed. I only plan to include one weapon in the Keen 4-6 remakes - the Neural Stunner.<br /><br />That pistol that appears in your screenshots don't look that good. I'd rather use a new set of animations (which aren't that numerous. You have one frame for an idle animation, and a couple frames for the firing sequence - that's all) for the Neural Stunner, and have it be an actual green pistol.<br /><br />The shot fired by the Neural blaster is easy to make. That can be lifted directly from the Keen games.<br /><br /><br /><br />I'd be interested to see what your death animations are. For enemies like the Mad Mushroom, however, death and pain animations will not be needed. Any monster that is invincible in the original games will be invincible in Keen doom. However, if I decide otherwise, it shouldn't be hard to add death animations to a monster. <br /><br />My plan for death animations was just to instantly shift into a death frame, and have the sprite \"jump\" a few feet. This is certainly possible, and would be easier to do - since less animating is required. <br /><br /><br />A lesson in Ascillan:<br /><br />In the Dawn of a new age<br />\"Hu beikacho-yon xa beidhakyo-yut.\"<br /><br />In an eternal quest for world peace.<br />\"Hu ebe'et sayboo'lin-yut yyk choo'i-yon.\"<br /><br />Will you be my friend?<br />\"Chi choo'zilli xa ut kle?\""
+	},
+	{
+		"id": 4700,
+		"title": "Re: Commander Keen Doom Community Project...?",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-10-28T20:29:43.000Z",
+		"content": "That makes sense.  I kind of figured that that's how you would manage weapons and fighting, since it's most Keenish.  It should be interesting to play Doom that way. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />What I've accomplished thus far in the way of sprite animations is more akin to the style of Doom.  (This kind of applies to all of what I've done, actually.)  I considered making the enemies flash white when hit, but I ended up giving them actual expressions of pain instead.  I haven't planned for the use of the stunner, but rather a full set of weapons.  So I don't have the enemies being stunned, but actually killed, as in Keen 1-3.  I originally included blood in the sequences but I later decided that it would be better without it.<br /><br />I haven't actually drawn any animations for the weapons at all.  What you saw as my stunner replacement was actually a concept image, using a stunner drawn by Apocalypse Gohan.  That's why nothing else is replaced.[img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	}
+]

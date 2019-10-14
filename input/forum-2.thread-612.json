@@ -1,0 +1,98 @@
+[
+	{
+		"id": 269,
+		"title": "IT will return",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T02:23:08.000Z",
+		"content": "[img]http://3dmm.net/files/29/gnosticus3preview.gif[/img]"
+	},
+	{
+		"id": 7996,
+		"title": "Re: IT will return",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-09-15T04:44:15.000Z",
+		"content": "*Gasp!*<br /><br />LL: Allstories, we've been seeing each other for quite some time.<br /><br />AS: Yeah, about 6 months now.<br /><br />LL: I want you to know, I have needs, needs I can't fufil at home.<br /><br />AS: I understand.<br /><br />LL: I think we should do It.<br /><br />AS: You're sure?<br /><br />LL: Yeah. Lets do It.<br /><br />*Later that night in allstories bedroom...*<br /><br />LL: OMG Yeah! Teh r0xx0rz!!<br /><br />LL: Gnosticus 7 1337!<br /><br />AS: So how long has your internet connection been broken?<br /><br />A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 7997,
+		"title": "Re: IT will return",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-09-15T13:08:15.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br />Anyways, cool! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  Looks very good![url=http://www.keengrid.net/]keengrid.net[/url]"
+	},
+	{
+		"id": 7998,
+		"title": "Re: IT will return",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-15T15:55:37.000Z",
+		"content": "So this is all done with CSS. No nasty tables to be seen anywhere.<br /><br />Right?<br /><br />Also, will this incarnation be plain HTML or will it be database-driven?[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 7999,
+		"title": "Re: IT will return",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T18:48:36.000Z",
+		"content": "Err, I didn't realize tables were a bad thing. That text area is a 3x3 table. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img]  <br /><br />Also, yes, this will use CSS. I also plan to use php to make things a little more easy to manage.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 8000,
+		"title": "Re: IT will return",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-09-15T19:23:28.000Z",
+		"content": "Hmmm, I reconogise your new avatar's colours from above image.<br />Neat colour scheme; I'm curious to see what you're going to do with it.<br /><br />Use DIVs for layout instead of tables.<br />You're not cheating by (ab)using tables anymore, and although it's a bit harder to figure out, if you do, you can actually make your source a lot neater by simply using classes described in your CSS.<br />Of course once you do that, you can easily change around the layout at will when you feel like it.<br />It adds another bit towards the keep-content-and-layout-seperate advice.<br /><br />See [url=http://csszengarden.com/]Zen Garden[/url] for a nice example.<br />Use the colomn on the right to change layouts dynamically.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 8001,
+		"title": "Re: IT will return",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-15T19:51:01.000Z",
+		"content": "Using tables <i>is</i> cheating for design. You only use tables in HTML as you would in a business document - to lay out tabular data (for example, to lay out a list of countries and some statistics about them you would use tables).<br /><br />Also, avoid using &lt;<i></i>img<i></i>&gt; tags for your layout - use them to includes art, pictures, screenshots etc. but not for things like the edges of the text box or that keycard in the bottom. (This might sound crazy, but you'll find it is really much better using CSS for these things)<br /><br />Some useful links include [url=http://css.maxdesign.com.au/listamatic/]Listamatic[/url] (for that navigation) and [url=http://www.alistapart.com]A List Apart[/url]. It takes quite a long time to learn to use CSS, but you'll regret not doing so in the future.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 8002,
+		"title": "Re: IT will return",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-15T20:09:15.000Z",
+		"content": "I used CSS for my latest webpage (it's in hungarian) just to see what's it like, and I found it more than annoying... I had to make little tricks just to make all browsers behave the same way. Tables didn't have this kind of problem though... I don't see your point."
+	},
+	{
+		"id": 8003,
+		"title": "Re: IT will return",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-15T21:11:00.000Z",
+		"content": "I don't really understand a lot about CSS other than using it to make all my pages have the same font and colors and stuff. In fact, I first used it just so I could get rid of underlines on my links. Aside from that and the use of PHP, most of my other HTML skills are essentially the same as the ones I learned when I wasn nine. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]"
+	},
+	{
+		"id": 8004,
+		"title": "Re: IT will return",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-09-16T15:45:15.000Z",
+		"content": "The advantages to CSS are accessability and future-proofing. It's almost impossible to browse a table-based site with a screen reading, and future browsers will not display table-based sites correctly. Also, CSS-based sites are viewable on devices with small screens - table-based layouts are either unreadable or very painful to read. If you don't care about any of these points, then that's fine - but you might regret it later.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 8005,
+		"title": "Re: IT will return",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2005-09-16T18:58:30.000Z",
+		"content": "I'm looking forward to a future when all browsers behave the same way. Till that time, I stick to tables. I start with our kitchen table, harr harr! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img]  <br /><br />Back on topic: what is this IT that will return? I haven't been around for enough time to be familiar with it yet."
+	},
+	{
+		"id": 8006,
+		"title": "Re: IT will return",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-09-16T19:08:33.000Z",
+		"content": "Being that this is a site that will probably seldomly receive views from people outside the CK community, which itself is incredibly small anyway, I'm not really as concerned about it being able to be viewed by every last obscure internet-browsing medium.<br /><br />And for those of which who are unaware, this IT is the third incarnation of my Keen site, Gnosticus VII, which was started as a site to review Commander Keen mods, and will hopefully soon have more to offer."
+	}
+]

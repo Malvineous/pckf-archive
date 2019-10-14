@@ -1,0 +1,314 @@
+[
+	{
+		"id": 203,
+		"title": "Real Keen Player 3 DX(that will work in XP)",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-02-07T11:11:11.000Z",
+		"content": "Hey guys,<br />I have a applied for a game developer somewhere and they wanted me to show work i made so I decided that my old Real Keen Player 3 is nice(even though it runs only sometimes on my laptop) to show and to my surprise it's still the highest rated game in the list of finished fanmade games.<br /><br />When I was playing it(it's more fun 5 years later after I made it, since I don't know everything anymore) I thought it would be cool to remake it in Windows XP with some improvements over the original and may be some new features too. I still have the source code on my old computer and with my openGL knowledge and everything I can port it.<br />I have now also (some) knowledge in music theory so i might remix the original tunes. And i also follow drawing and graphical design as elective courses on the art academy which can help me too. The only problem is my lack of time and hopefully the old RKP3 gives me the game developer job in the first place:PIf Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4829,
+		"title": "Re: Real Keen Player 3 DX(that will work in XP)",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-07T13:38:06.000Z",
+		"content": "Given the shape and behavioral patterns, I'd say a boned fish, like the colecanth. The original would likely have been much smaller, like most fish today, a few inches to a few feet long. A large food supply would be needed for it to grow to such lengths (And breadths.) but that's not a problem if heroes regularly pop by.<br /><br />Also, this project sounds cool.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4830,
+		"title": "Oom.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-02-07T13:49:44.000Z",
+		"content": "Haha, that signature has derailed so many conversations over the years.<br /><br />This sounds great. RKP3 had a great engine and atmosphere, though the storyline wasn't very Keenish and the levels were notoriously difficult. I'm still especially fond of the 3D effect you employed for the platforms. I actually discovered RKP3 a couple of months or so before stumbling across the PCKF, and it blew me away.<br /><br />If you can make the game cross-platform and moddable, it would completely pwn."
+	},
+	{
+		"id": 4831,
+		"title": "Re: Oom.",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-02-07T20:40:15.000Z",
+		"content": "oh yea i could make it open source in the end. I didn't think of this. After all I will use is openGL with Glut or SDL for the windows. And maybe some people can even remove the glitches it still has.<br /> <br />Already wrote a small Glut program that maps the screen to a 320x200 'pixel' screen(only problem is resizing the window messes this up because of the width height ratio) so it's easy to port coordinates. I have to wait till the weekend to be back at my parents place to get the old source code.If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4832,
+		"title": "Re: Oom.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-02-08T14:27:57.000Z",
+		"content": "I've never managed to get any version of RKP running, since DOSBox doesn't like it and my old machine died a long time ago, so a port that could run on WinXP would be great!"
+	},
+	{
+		"id": 4833,
+		"title": "Re: Oom.",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-02-11T18:58:00.000Z",
+		"content": "That would be really, really cool TheRealDopeFish!  So far, you're the few guys who have actually kept their word to making fangames.  Every day I move closer to being in that list, though it'll be quite a while longer. =P<br /><br />Anyways, RPK3 is a kickass game, and I really look forward to any updates you'd make to it.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4834,
+		"title": ".moO :ER",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-12T03:28:18.000Z",
+		"content": "I have read about this game, but have ever played it. Is it still obtainable? Will it work in XP?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4835,
+		"title": "Re: .moO :ER",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-02-12T19:53:21.000Z",
+		"content": "You can get it, but it won't play on XP - that's the goal of this updated version that therealdopefish will hopefully release."
+	},
+	{
+		"id": 4836,
+		"title": "Re: .moO :ER",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-02-13T22:18:05.000Z",
+		"content": "well i have it running with VDMsound. Without VDMSound it works 10% of the times i try to start it, but it has no sound.If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4837,
+		"title": "Re: .moO :ER",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-02-14T16:37:36.000Z",
+		"content": "It was five years ago I played RPK3?  Dear god how time has flown!~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4838,
+		"title": "Re: .moO :ER",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-15T02:59:02.000Z",
+		"content": "Hmmn, how interesting, what is the conflict with it?<br /><br />(And will this new version be Vista capable?)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4839,
+		"title": "Re: .moO :ER",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-02-20T10:54:46.000Z",
+		"content": "I think it's a sound conflict, since that's what VDMsound is made for.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />They were really excited about me when I applied for the game job and showed I made a commander keen game. Never knew I could  use it for finding work. Now all I have to do is wait for a reply or phone them myself if I got the job or not.<br /><br />I just beat my game again and it's a lot harder now then when I just finished it since i don't know everything anymore. I just beat the game without saving once(for a single trophy) and it only took me 2 hours and 16 minutes and lost just 22 lives. I used to lose not a single life 5 years ago:P<br /><br />And I doubt that it will not work in Vista since they're based on the same windows.<br /><br />Anyway, I have a main menu now for the deluxe version and made a music change there(no kirby 64 music:P). If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4840,
+		"title": "Re: Great!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-02-20T16:43:35.000Z",
+		"content": "Nice to see you here. I have had lots of fun playing RKP3 (WinXP + VDMSound) and RKP2 (though I couldn't even finish it).<br /><br />A modern version of RKP3 would definitely be nice.<br /><br />EDIT: btw, it might be a good idea to add ------ (newline) at the start of your signature [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 4841,
+		"title": "Re: Great!",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-03-05T10:31:24.000Z",
+		"content": "darn, I got the 'some fields are missing' error, I press back and my message is gone again.<br /><br />First of all i will have my 2nd conversation as a game developer programmer this afternoon. I'm quit nervous and hope to get this future job.<br /><br />As for programming things for RKP DX I haven't done much. I still have the same skeleton code structure I had already.<br />For the rest I wrote a list of changes for every enemy in the game(which is a lot: 43 different enemies). Most of them are cosmetic(dust clouds, different animation) but some have a slight different behaviour(like the Twirly Cones appearing on a nearby platform or the platform you're on instead of always appearing on the platform where you are on).<br /><br />I also wrote some new music for the game which I try to make robert princish and now wanting to make remixes of the original keen music too. Might be posting midi's soon.<br />I just noticed ape escape 3 has a song which sounds a lot like my favorite keen song: Keen S.O.S. It even has the morse code. I might use that for inspiration.<br /><br /><br />Edit: I Have the job! So for anyone out there who wants to be a game programmer as job should work hard and they might get a job too if they show their Commander Keen game. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4842,
+		"title": "Re: Great!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2007-03-06T18:11:03.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]darn, I got the 'some fields are missing' error, I press back and my message is gone again.[hr][/quote]<br /><br />(That's an ezboard feature, especially useful after having written an elaborate post of some kind.)Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 4843,
+		"title": "Re: Great!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-07T07:29:47.000Z",
+		"content": "Congratulations on your new employment, mention Keen when you're at the top!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4844,
+		"title": "Re: Great!",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-03-07T14:18:50.000Z",
+		"content": "What did you program RKP3 in?<br /><br />DirectX, Allegro, VB?~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4845,
+		"title": "Re: Great!",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-03-08T22:13:42.000Z",
+		"content": "if you're talking about the original game, that was made with div games studio with a C DLL connected which did the special effects and some things that are hard to make fast(rain, lighting, the mine cart tracks).<br /><br />The new version will be made with Glut and OpenGL, since I hate using anything Microsoft related(even though I use Visual C++). Pretty low level yes, but then I could make it run with 800 fps with modern computers:P After all for a 2D game I don't need all the mumbo jumbo like lighting etc. and with hardware acceleration even unoptimized code will run quite smooth. I guess the bottle neck will be the textures.<br /><br />Anyway, here's some music for the new game I composed myself:<br />[url=http://www.liacs.nl/~pjordaan/waltzofsillycreaturess.mid]www.liacs.nl/~pjordaan/wa...turess.mid[/url]<br />i tried to make it keenish(the title of the song is 'Waltz Of Silly Creatures'). I'm still quite new on music theory and composing music so give me your opinion pls.If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4846,
+		"title": "Re: Great!",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-09T18:03:49.000Z",
+		"content": "It sounds pretty good so far, it does kind of have that Keenish sound. ------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 4847,
+		"title": "Re: Great!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-10T13:15:58.000Z",
+		"content": "I never played Real Keen Player I believe, but I did find a HORRIBLE demo called that, not sure if it was your game though.<br /><br />Looking forward to this. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4848,
+		"title": "Re: Great!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-13T16:33:38.000Z",
+		"content": "Perhaps it was RKP1, not RKP3. I never could run RKP1 anyway.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 4849,
+		"title": "Re: Great!",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-04-19T13:08:19.000Z",
+		"content": "lol, the first RKP is probably about 8-10 years old by now. There weren 't many game development tools during those times, so you always had to do everything yourself without much resources on the internet either. It was such a case of trial and error and with not much knowledge it was mainly error.<br /><br />Anyway the new engine I\"m working on is finally showing up as I can walk with keen on a hardcoded level. Now it's time to update Commander Keen's graphic and make a level editor. Levels will be composed of a mix of vector-based and tilemapbased layers.<br />The biggest trouble I had so far with the conversion was the graphic sizes needed to be a power of 2 for openGL to work with. So I made my own image format and with zlib compression the files are very small. And for optimization only needed graphics are loaded in the memory instead of all the graphics like the previous game.<br />If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4865,
+		"title": "Re: Real Keen Player 3 DX(that will work in XP)",
+		"author_id": 1486620,
+		"author_name": "pacdan729",
+		"timestamp": "2007-05-12T22:11:38.000Z",
+		"content": "A Windows XP compatible version of RKP3 would be awesome. It used to be the one of the best Keen fangames, next to Isis II, but unfortunately I don't have Windows 98 anymore[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img] . Plus if the source was released then other people could do something based off the same engine, if they wanted to.---------<br />www.eternalwanderer.com"
+	},
+	{
+		"id": 4866,
+		"title": "Re: Real Keen Player 3 DX(that will work in XP)",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-14T17:31:50.000Z",
+		"content": "I vote for the source code release too! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img] <br /><br />Ah, wait, I guess you want to keep full posession rights on it, well, anyway...<br />If the idea crossed your mind... lemme know that I'd really love to see a source code release of RKP3. it has some clever ideas in the engine.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 4850,
+		"title": ".",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-05-24T00:46:57.000Z",
+		"content": "RKP1 was gay. Would not load. Bitmaps as images.<br /><br />RKP3 was O.K., the graphics were ok, levels were hard but I was good at them,  you could win trophies. Boring Story. I can run it on XP fine, though."
+	},
+	{
+		"id": 4851,
+		"title": "Re: .",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-24T06:55:27.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]you could win trophies[hr][/quote]<br />Hey, this reminds me of this other Keen fangame I once ran, of which I forgot the name. Do the platforms have this weird 3D perspective change when you move around?____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 4852,
+		"title": "Re: .",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-24T14:20:46.000Z",
+		"content": "Yep. Dav, I guess it's the same game.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 4853,
+		"title": "Re: .",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-06-09T15:58:37.000Z",
+		"content": "Hahaha, yeah.  That good old RKP 3.  The perspective shift always threw me off (as if the playworld was a VERY small globe).--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 4854,
+		"title": "Re:",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-07-05T10:28:21.000Z",
+		"content": "Sorry for late reply. It's still in development. Currently working on new keen sprite since the old one looks too pixelated compared to background.<br />Moving elevators and platforms work but keen being squishes by moving platform detection still fails sometimes(especially when you're standing still). The orignal RKP3 had no slopes and i still wonder whether i should add them. If slopes could move too it will hurt my head with maths to detect being squished.<br />No level editor yet, but there is an image packer to pack images you need making it relatively easy in the source code to load images and make an object display graphics.<br />Also I want to add scripting to maintain coding easier or make custom enemies.<br />Might be posting screenshot soon."
+	},
+	{
+		"id": 4855,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-05T13:20:41.000Z",
+		"content": "Great [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  Specially since it won't use DOS. The DOS version runs with an incredible performance (sarcasm) in DOSBox.<br /><br />The only way for me to play it was by running from native Windows VDM using the VDMSound addon to enable sounds, but that's no longer possible as I'm not using Windows. Most DirectX applications work fine in Linux on the other hand, so I'm more likely to get it running again if it was a native Windows app. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Screenshots.... can't wait [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4856,
+		"title": "Re:",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-07-06T06:59:47.000Z",
+		"content": "Looking at the source code and used libraries I think it can be ported to Linux quite easily since the only external libraries I use are Lua, Fmod and Glut and OpenGL which all have Linux libraries available.<br /><br />I will post new screenshots once I have the new Keen sprite done. Right now it looks quite ugly."
+	},
+	{
+		"id": 4857,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-06T14:11:55.000Z",
+		"content": "If you want somebody to port it for Linux, I'm volunteer. I've already ported some other programs for Linux (my game engine, ModKeen 2.0.1, Fin2Bmp) so it sounds piece of cake in any case.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4858,
+		"title": "Re:",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-07-25T14:30:44.000Z",
+		"content": "sad news: i seem to be running in a huge memory leak and as long i have that i'm stuck, since it has to do with loading graphics it's quite important that part is leak free.<br />Just add lack of time and it's quite frustrating.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-annoyed.gif[/img]:\"&gt; [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 4859,
+		"title": "Re: Re:",
+		"author_id": 1485776,
+		"author_name": "therealdopefish",
+		"timestamp": "2007-07-30T07:12:11.000Z",
+		"content": "YES, found the error. THere was a memory leak in the scoreboard showing the score and since that happens every frame it didn't take long for the memory to flood.<br />Now I can finally work further. Will be posting screenshot this evening.If Dopefish is for real, what would it be evolved from?"
+	},
+	{
+		"id": 4860,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-30T15:33:17.000Z",
+		"content": "I think I now what your error was (happens to me every day). Great you fixed it before my return.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4861,
+		"title": "Re: RKP3",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2007-10-04T21:12:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I've never managed to get any version of RKP running, since DOSBox doesn't like it and my old machine died a long time ago, so a port that could run on WinXP would be great! [hr][/quote]<br /><br />[quote]<b><i>Quote:</i></b>[hr]You can get it, but it won't play on XP - that's the goal of this updated version that therealdopefish will hopefully release.[hr][/quote]<br /><br />Actually, you can get RKP3 to run on an XP computer.  Make an MS-DOS boot disk and set it up to start with a RAM drive, CD-ROM support, and (if possible) sound card support.  Then put RKP3 on a CD.  Boot your computer with the floppy, copy RKP3 from the CD to the RAM drive, and play RKP3!  Then when you're done playing, (I  haven't ever actually done this part) copy the savegame file to the floppy and reboot your computer.<br /><br />If you make the boot disk on an ME, it automatically has the RAM drive and CD-ROM support installed"
+	},
+	{
+		"id": 4862,
+		"title": "Re: RKP3",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-10-08T18:53:54.000Z",
+		"content": "RKP3 runs on XP fine with VDMSound, INSIDE windows.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4863,
+		"title": "Re: RKP3",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-10-10T03:42:25.000Z",
+		"content": "Hmm.. Something tells me he abandoned the project.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4864,
+		"title": "XP RKP3",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2007-10-10T20:54:14.000Z",
+		"content": "That's funny.  I tried it on my XP and the loading screen remained indefinitely.<br /><br />I tried it again, and it still wouldn't load.  Tried it a third time, and it worked fine.  Weird.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]"
+	}
+]

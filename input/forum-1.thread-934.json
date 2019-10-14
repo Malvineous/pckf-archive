@@ -1,0 +1,58 @@
+[
+	{
+		"id": 124,
+		"title": "Acute-angeled edges",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-16T18:59:04.000Z",
+		"content": "In Keen 5 and Keen 6 egdes of the way can be not just right-angeled but also acute-angeled and obtuse-angeled. It's logically to guess that Keen can hang and hook up on all acute-angeled breakades and climb from them to a ways, but really they behave different:<br /><br />In Keen 6 you can hang on the acute-angeled breakanes, but can' climb up (If you try to do so you will hang again!)<br />In Keen 5 behaviour of Keen on the acute-angeled breakages depend on color of wall (they can exist on red ang green walls, but not on yellow-black)!:<br />On the red walls right acute-angeled breakage doesn't exist, and left behave very strange: you can't even hang on it, not just climb up!!<br />On the green wall everything is normal: you can hang on the breakage and climb up.<br /><br />Please explain me: why these breakages behave different?[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3372,
+		"title": "Re: Acute-angeled edges",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-16T20:01:32.000Z",
+		"content": "Well, i'll try but I'm too lazy to paint some graphics and load them up...<br /><br />First off all: it has nothing to do with the style of the tiles...<br /><br />You cant hang on *ANY* slopes which go up, so if u come from left you cant hang on a slope like which goes like \"/\" and if u come from right u cant hang on a slope like \"\\\". This is because the keen-engine checks when it tries to hang keen onto an edge only for tiles which have the respective left- or right-flag set to 1 (something like solid!) AND the tile above has to have *ALL* flags (top, bottom, left, right) set to 0! So u can basicly only hang on slopes which go done if u face them. (Because on every slope, which goes upwards, the engine would assume u hang on the tile below the slope (which obviously should have set the corresponding left/right flag set to 1!) BUT the tile above isnt flat ( = topflag isnt set to 0)<br /><br />Why u drop after u climb up on an acute-angled slope I' not sure till now..<br /><br />MfG<br /><br />PS: this is a piece of code which hopefully describes what the problem is (it's for direction = left):<br /><br />[pre] if(&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp (ptile_rightflags[ (DI) ] == 0) &amp;&amp;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp (ptile_leftflags[ (DI) ] == 0) &amp;&amp;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp (ptile_topflags[ (DI) ] == 0) &amp;&amp;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp (ptile_bottomflags[ (DI) ] == 0) ) {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp /* loc_1796 */&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp tile_pointer += level_width;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp (BX) = *tile_pointer;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp if(&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ( ptile_rightflags[  (BX) ] != 0 ) &amp;&amp;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ( ptile_leftflags[ (BX) ] != 0 ) ) {&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp /* loc_1798 */&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;xmotion = -1;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;clipping = 0;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;xpos = (keen-&gt;xpos &amp; 0xFF00) + 128;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;ypos = local_08  64;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;int10 = 0;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp /* deltaY? */&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp keen-&gt;ymove = 0;&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp sub_305( keen, &amp;A_KEEN_HANG_0 );&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp /* 0x12EC */&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp }}[/pre]"
+	},
+	{
+		"id": 3373,
+		"title": "Re: Acute-angeled edges",
+		"author_id": 1486794,
+		"author_name": "Br1ck",
+		"timestamp": "2005-12-31T06:05:06.000Z",
+		"content": "Well done OnkelPeterle!  Just throw in some random segment of code, preceeded by a little technical gibberish, and *Wham* topic is dead!  <br /><br />I must remember that technique!"
+	},
+	{
+		"id": 3374,
+		"title": "Re: Acute-angeled edges",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-31T10:52:53.000Z",
+		"content": "... what's your problem? It's a correct answer and show's, what the keen-engine is doing..."
+	},
+	{
+		"id": 3375,
+		"title": "Re: Acute-angeled edges",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-31T11:00:04.000Z",
+		"content": "I don't understand this code. But i think that different behavior of red and green acute-angeled breakages in Keen 5 is caused by differences of tile properties. I will test (and maybe even fix) it now, using the utilite ck456tli. But in Keen 6 there is only color of acute-angeled breakage and this explanation don't fit. Also i found that most of the problems with breakages have been fixed in Keen 6 1.5.[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3376,
+		"title": "Re: Acute-angeled edges",
+		"author_id": 1485654,
+		"author_name": "OnkelPeterle",
+		"timestamp": "2005-12-31T12:26:24.000Z",
+		"content": "OK, if u dont understand this piece of code here is a little explanation...<br /><br />[pre] /* the next line just reads in one foreground-tile from the maplayer (---it reads the number of the tile!) */(DI) = *tile_pointer;/* now we have to check, wether or not the flags for this thing are all NOT solid ( set to 0 ) */if(        (ptile_rightflags[ (DI) ] == 0) &amp;&amp;        (ptile_leftflags[ (DI) ] == 0) &amp;&amp;        (ptile_topflags[ (DI) ] == 0) &amp;&amp;        (ptile_bottomflags[ (DI) ] == 0) ) {        /* if so, we have to check the next line ( (0,0) of the coordinate system is top left, so if we increment we just go a line down... */        tile_pointer += level_width;        /* get the tilenumber */        (BX) = *tile_pointer;       /* and check that the left &amp; right flags are set to solid (so that keen can hang on them */                         if(        ( ptile_rightflags[  (BX) ] != 0 ) &amp;&amp;                ( ptile_leftflags[ (BX) ] != 0 ) ) {                /* the next stuff is just for the engine (so it knows the current 'status' of keen */                keen-&gt;xmotion = -1;   /* set face-direction = left */                keen-&gt;clipping = 0; /* collide with walls = off */                /* set correct xpos and ypos */                keen-&gt;xpos = (keen-&gt;xpos &amp; 0xFF00) + 128;                keen-&gt;ypos = local_08  64;                /* unsure about this, normalle int10 is deltaY */                keen-&gt;int10 = 0;                /* set the y-speed to 0 (no more falling) */                keen-&gt;ymove = 0;                /* set the current action (hang) for the object keen */                sub_305( keen, &amp;A_KEEN_HANG_0 );        }}[/pre]<br /><br />Well, I hope that you can get it now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />MfG"
+	},
+	{
+		"id": 3377,
+		"title": "Re:",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2006-01-31T19:28:50.000Z",
+		"content": "I have some good news. I've figured out the reason, why in Keen 5 different breakages behaves diffenently and fixed it!<br />This is caused by small differnce of tile properties. The tile 847 dec ($034F hex, green acute-angeled breakage) has the left flag 1, but the tile 631 decimally ($0277 hex, red breakage) has the same flag set to 0. I changed it to 1, and now everything works normally: you can hang on the red acute-angeled breakage in the level \"Energy flow systems\"."
+	}
+]

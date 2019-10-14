@@ -1,0 +1,178 @@
+[
+	{
+		"id": 658,
+		"title": "CK1 - Modding Questions",
+		"author_id": 1486510,
+		"author_name": "OracleVii",
+		"timestamp": "2006-07-14T08:37:31.000Z",
+		"content": "Hi, I intend to start modding (CK1)[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pogo.gif[/img] . These are the stumbling blocks I cant get past at the moment.<br /><br />1. I changed the title image, to 320*200. But the animations of the creeping plant, the fire etc, show through. <br /><br />2. I have analyzed the extracted contents of various mods, and their tileset has been rearranged. How do you do this ?<br /><br />3. Following on from the above question, what method do other modders use to draw the worldmap. It seems near impossible in the original tileset bmp, as its a scrawl of diagonal pieces.<br /><br />4.How do you create 2 or 4 frame animated point items, and random background animations.<br /><br /><br />Thank you."
+	},
+	{
+		"id": 16844,
+		"title": "Re: CK1 - Modding Questions",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2006-07-14T13:56:12.000Z",
+		"content": "I don't know the answer to any of these questions but the people over at Keen : Modding probably do.<br /><br />You can visit them at: [url=http://andy.durdin.net/keen/modding/]andy.durdin.net/keen/modding/[/url]<br /><br />Welcome to the PCKF and do stick around and post in some of the other threads. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] -----------------------<br />[url=http://Galaxie.Spatang.com][img]http://i34.photobucket.com/albums/d134/Galaxieretter/New-blegd-smeeg-banner-60.png[/img][/url]"
+	},
+	{
+		"id": 16845,
+		"title": "Re: CK1 - Modding Questions",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2006-07-14T16:02:55.000Z",
+		"content": "1. I can't remember which one, but one of the level files contains the level for the title screen, the Order Info screen, etc. Just make all of the tiles in the Title screen area blank tiles and they won't show through on the title screen.<br /><br />2. Um, I don't understand. They are rearranged because they're different mods with unique tilesets?<br /><br />3. Um, just draw the tiles you would need and only use those when designing the layout for your world map.<br /><br />4. a. Just draw two or four tiles next to each other on your tilesheet and give the first one in the row a 2 or 4 animation value.<br />b. You can't.<br />[center]<font color=\"MAROON\">TOUGH GUYS DON'T FOLLOW FADS</font>[/center]"
+	},
+	{
+		"id": 16846,
+		"title": "Re: CK1 - Modding Questions",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-07-14T16:28:19.000Z",
+		"content": "There's a program called TileInfo which lets you load a new tileset and change the tiles and their properties - you can find out about it [url=http://andy.durdin.net/keen/modding/viewforum.php?f=10]here[/url].[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 16847,
+		"title": "!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-07-14T22:18:32.000Z",
+		"content": "Hey, great posts, Allstories and grafix.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Hope that helps get him started."
+	},
+	{
+		"id": 16848,
+		"title": "Re: !",
+		"author_id": 1486510,
+		"author_name": "OracleVii",
+		"timestamp": "2006-07-15T00:06:43.000Z",
+		"content": "Thanks, that does help. I tried signing up for Keen:Modding, but they require a manual response by the moderators it seems."
+	},
+	{
+		"id": 16849,
+		"title": "Spleen asked me to post this:",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-07-15T00:18:47.000Z",
+		"content": "\"Guh! I'm back on this connection that doesn't like posting things. Just realised that the reply I attempted to post 10 hours ago didn't go through. What a waste of effort.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br /><br />For question 1, edit level90.ck1. You'll probably want to use the patch for positioning the title bitmap at the very top-left of the screen, too.<br /><br />For drawing complicated groups of tiles, I usually create a separate bitmap to create complete images, then carve out the individual tiles and paste them into the tileset however they fit.<br /><br />In reply to 2 and 4, essentially my reply was \"use Tileinfo\", as Grafix says. There are certain tiles (ie. the DONE squares and bridge tile). Also, tile 143 is the background tile that collectable items turn into when Keen grabs them, but there is a patch that can mae them turn into the first tile in their row in the tileset.<br /><br />I'm not sure what you mean by random background animations, but you can animate any combination of 2 or 4 tiles including point items.<br /><br />If in doubt about anything, Keen:Modding is your best bet. Just ask and we'll help you out with whatever you're having trouble with.<br /><br />Welcome to the forums, and to the neat world of Keen modding.\""
+	},
+	{
+		"id": 16850,
+		"title": "Re: Spleen asked me to post this:",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-07-15T00:23:56.000Z",
+		"content": "Thanks Z.<br /><br />Hahah, it'll be funny if this one works.<br /><br />[edit][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rollhead.gif[/img]"
+	},
+	{
+		"id": 16851,
+		"title": "Re: Spleen asked me to post this:",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-07-15T00:25:18.000Z",
+		"content": "It's fortunate I was on msn [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 16852,
+		"title": "Re: Spleen asked me to post this:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-15T00:59:14.000Z",
+		"content": "Spleen, what do you mean? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Anyways, welcome! Hopefully these answered your questions. Keen mods are always welcome.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16853,
+		"title": "Re: Spleen asked me to post this:",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-15T03:57:23.000Z",
+		"content": "Z, we must talk! There's an awful lot of potential there you're not exploiting.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 16854,
+		"title": "Re: Spleen asked me to post this:",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-15T06:11:27.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]You'll probably want to use the patch for positioning the title bitmap at the very top-left of the screen, too.[hr][/quote]<br /><br />It can also be changed to reflect any postion you like.<br /><br />[pre]  # The title bitmap will be shown at offset 0,0 %patch $97B2   $00 $00     # Y location, in pixels %patch $97B6   $04 $00     # (X location in pixels) / 8 + 4 [/pre]<br /><br />[quote]<b><i>Quote:</i></b>[hr]but there is a patch that can mae them turn into the first tile in their row in the tileset.[hr][/quote]<br /><br />Here:<br /><br />[pre]  #Keen 1 background tiles behave like Keen 3%patch $4409      $26 $8B $07 $B6 $0D $F6 $FE %patch $4410  $F6 $EE $26 $89 $07 $E9 $60 $01 %patch $4482  $E9 $74 $FF %patch $44BA  $E9 $3C $FF %patch $4513  $E9 $E3 $FE %patch $28EC                  $26 $8B $07 $B6 %patch $28F0  $0D $F6 $FE $F6 $EE $26 $89 $07 %patch $28F8  $03 $1E $08 $6C $03 $1E $08 $6C %patch $2900  $26 $89 $07 $90 $90 $90 $90 $90 [/pre]<br /><br />[quote]<b><i>Quote:</i></b>[hr](ie. the DONE squares and bridge tile). [hr][/quote]<br /><br />The done squares can be changed too:<br /><br />[pre]  #Change the Done tile markers# Single tile \"Done\" marker %patch $7D88  $01 $00 # Four-tile \"Done\" marker %patch $7DFC  $04 $00%patch $7E14  $08 $00 %patch $7E2A  $0C $00 %patch $7E43  $10 $00 [/pre]<br /><br />Remember to use hex values.<br /><br /><br />I think the bridge tile can be changed too, But I can't find the patch at the moment. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />EDIT: shouldn't this be in the modding section? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 16855,
+		"title": "Spleen posted this:",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-07-15T08:01:07.000Z",
+		"content": "I think we've created some confusion here. The reply above that Z-1 posted was written by me, hence the title \"Spleen asked me to post this\". Once more I'm at my cousin's place, and the connection seems to have some trouble posting to this board at times. One of those times was this morning so I asked Z to post for me.<br /><br />After the message was posted, just for kicks I attempted to reply again, and it worked, which I found humorous, as I now do the subsequent chaos.<br /><br />Anyway... yes, this would make a fine addition to the Modding section."
+	},
+	{
+		"id": 16856,
+		"title": "Re: Spleen posted this:",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-15T15:03:58.000Z",
+		"content": "Ah, now I get it. For some reason I thought you ordered z-1 to write something and post. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br />I'll move this to the modding section.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 16857,
+		"title": "Re: Spleen posted this:",
+		"author_id": 1486510,
+		"author_name": "OracleVii",
+		"timestamp": "2006-07-16T22:56:49.000Z",
+		"content": "Hello people,<br />1. I have managed to get the title screen working perfectly.<br />The animated tiles however are another story. When I open the 1TIL0000.bmp in Tile Info, and draw 4 tiles and designate '4 frame' animation. Nothing Happens, ive tried variations but have not got to the bottom of this.<br /><br />2. Secondly What is the process for creating a new Map. Moving levels. and making them link in Keen Editor.<br /><br />3. Can you change the ending sequence (the bwb flying), or just the two frames of the lights in Billys house coming on and off.<br /><br />4. Is there a cheat that skips to the ending sequence<br /><br />5. Sorry for the numbering, but it makes it easier to outline specifics and reduces the likelihood of people glossing over questions [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img]"
+	},
+	{
+		"id": 16858,
+		"title": "ck1 modding",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-17T04:25:55.000Z",
+		"content": "1) Did you import from the unlzexe'd keen1.exe first?<br /><br />2) KeenEdit? sorry, can't help you there, I use Ikeen.<br /><br />3) The way the BwB moves is a much looked for patch, but I don't think there is much yet.<br /><br />4) No. The best way to test is to create a temporary level with all four parts and an exit. Later this can be deleted.<br /><br />5) actually I find it quite helpful [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 16859,
+		"title": "Re: ck1 modding",
+		"author_id": 1486510,
+		"author_name": "OracleVii",
+		"timestamp": "2006-07-17T08:58:17.000Z",
+		"content": "1 - Yes, I am still missing something, as I have 4 tiles set identically to the 'stars' and its still not working.<br /><br />2 - Ikeen, I havent checked that out. <br /><br />3 - So the Modder has to think of a way to incorporate the BwB animation into an altered storyline. Quite a challenge.<br /><br />4 - Sad to hear there is no way to view the ending of fellow modders games without finishing them. LoL<br /><br />Thanks for the help."
+	},
+	{
+		"id": 16860,
+		"title": "Helpage.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-07-17T09:06:09.000Z",
+		"content": "1. Have you familiarised yourself with patching? Tileinfo creates a *.tli file, which needs to be %patchfiled in using ck1patch before it will have any effect.<br /><br />2. The map level (stored in level80.ck1) is the same as any other level, it's just treated differently by the game. To make a tile link to a level, simply place a sprite with the number of the level (ie level12.ck1 would mean a sprite number of 12) over the respective tile.<br /><br />3. In theory, it's possible to patch the ending sequence into something completely different, but we're not at that point yet. Levellord has put [url=http://levellord.toxicsheep.com/Index/Keen1/E.txt]a lot of work[/url] into tweaking this part of the game, though.<br /><br />4. Patching comes to your rescue once more.<br /><br />[pre] # Keen only needs to play 1 level to win the game%patch $843E  $01[/pre]<br /><br />As soon as you finish a level, the finale should appear.<br /><br />I remember a patch that skips to the end as soon as Keen enters the map... I don't recall if it was I or Levellord who created it though.<br /><br />5. Sorry, didn't have time to read that one."
+	},
+	{
+		"id": 16861,
+		"title": "Re: Helpage.",
+		"author_id": 1486510,
+		"author_name": "OracleVii",
+		"timestamp": "2006-07-17T10:10:38.000Z",
+		"content": "Great tips, Spleen [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img]"
+	},
+	{
+		"id": 16862,
+		"title": "Re: Helpage.",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-07-18T09:07:21.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]So the Modder has to think of a way to incorporate the BwB animation into an altered storyline. Quite a challenge.[hr][/quote]<br /><br />Not so!<br /><br />[pre] #Skip the flight to Earth sequence. [To be cont... shown on background of #tile No 1] Also skips Mars map and text. %patch $81A3 $02[/pre]<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 16863,
+		"title": "Registering on K:M",
+		"author_id": 1486326,
+		"author_name": "adurdin",
+		"timestamp": "2006-08-05T09:31:15.000Z",
+		"content": "OracleVii: are you still having trouble registering at K:M?  You should be able to activate the account yourself, from a link in an email sent to you after registering.<br /><br />If you still have trouble, email me: andy at durdin dot net."
+	},
+	{
+		"id": 16864,
+		"title": "Re: Registering on K:M",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-08-06T06:43:09.000Z",
+		"content": "He's the admin of the site  ^Andrew Durdin^Tough Guys Wear Pink!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/tough_guys_wear_pink.jpg[/img]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	}
+]

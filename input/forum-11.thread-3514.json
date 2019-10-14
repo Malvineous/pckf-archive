@@ -1,0 +1,10 @@
+[
+	{
+		"id": 1414,
+		"title": "Halloween Harry music - hidden song?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-10-11T10:20:16.000Z",
+		"content": "Has anyone noticed that if you extract mission.4md from Halloween Harry and play it, it's the same music that plays behind the story at the start of each episode, but if you listen to the music that plays behind the *first* story sequence (before the main menu, just after the Apogee logo) it's a different version of the same song.<br /><br />I can't find this alternate version, does anyone know where it's stored?  The only thing I can think of is that the song is stored as unused patterns in mission.4md, however lacking a good MOD editor at the moment I can't find out.<br /><br />Any ideas?  Here is mission.4md, [url=http://www.shikadi.net/pckf/mission.mod]converted to a MOD[/url]."
+	}
+]

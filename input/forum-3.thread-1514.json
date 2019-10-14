@@ -1,0 +1,106 @@
+[
+	{
+		"id": 414,
+		"title": "kMod",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-02-03T22:12:15.000Z",
+		"content": "Just to let you know, I and kMod are both back! However, grafix has decided not to continue with the project, so it's just me. A tech demo <i>will</i> be coming soon..."
+	},
+	{
+		"id": 12222,
+		"title": "Re: kMod",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-02-03T23:09:18.000Z",
+		"content": "this is not about kMod... please chose a different server for your user image file, 'cos the current one asks me to enter a password to see it! thanks![hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 12223,
+		"title": "Re: kMod",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-02-04T11:01:43.000Z",
+		"content": "Well, that's nice to hear.. *tries to remember* A level editor, IIRC.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 12224,
+		"title": "Re: kMod",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-02-05T04:17:52.000Z",
+		"content": "Oops, got that fixed.<br /><br />Edit: Maybe not...<br /><br />Edit Again: There we go."
+	},
+	{
+		"id": 12225,
+		"title": "Re: kMod",
+		"author_id": 1180427,
+		"author_name": "The Dixie Dazzler",
+		"timestamp": "2006-02-06T20:01:51.000Z",
+		"content": "What Is This KMod? What is this about? whats going on here?"
+	},
+	{
+		"id": 12226,
+		"title": "Re: kMod",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-02-06T23:30:11.000Z",
+		"content": "I ate a canolli.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 12227,
+		"title": "Re: kMod",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-02-08T01:23:36.000Z",
+		"content": "Congratulations.<br /><br />kMod is an (in-progress) all-in-one CK editor (not just a level editor). Which reminds me, does anybody know if it is legal to incorporate ModKeen's source in to this?"
+	},
+	{
+		"id": 12228,
+		"title": "MODME!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-02-08T01:29:14.000Z",
+		"content": "Of course, as long as you acknowledge Andy as some kind of deity.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 12229,
+		"title": "Re:",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-18T04:41:56.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Of course, as long as you acknowledge Andy as some kind of deity.[hr][/quote]<br />I'm going to have to be doing a lot of that since 60% of the code will be done by other people; I'm just going to do the level editing myself and package this all together in one nice and neat application... Or is that illegal to do?"
+	},
+	{
+		"id": 12230,
+		"title": "Re: Re:",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-18T09:11:52.000Z",
+		"content": "I don't see why not, as long as you release the source code."
+	},
+	{
+		"id": 12231,
+		"title": "Re: Re:",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-21T05:17:01.000Z",
+		"content": "Well, of course. It's hard to get around not releasing the source nowadays...<br /><br />...and I just realized I only have the Working Model Edition of VB6, so I'll release a CNC-made pre-Alpha version until I get a compiler."
+	},
+	{
+		"id": 12232,
+		"title": "Re: Re:",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-21T19:28:45.000Z",
+		"content": "Email me the code and I'll compile it for you. (That is, when I find my copy of VB)<br /><br />EDIT: I do have a Windows machine, but not one I have regular access to."
+	},
+	{
+		"id": 12233,
+		"title": "Re: Re:",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2006-03-22T04:00:52.000Z",
+		"content": "I thought you said you no longer had Windows. But if you can do that, THANK YOU!!!!!!!!!"
+	}
+]

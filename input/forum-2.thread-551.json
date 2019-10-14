@@ -1,0 +1,1746 @@
+[
+	{
+		"id": 208,
+		"title": "The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-14T07:23:24.000Z",
+		"content": "Heh, I'm back, and this time with a more laid back project that I'm working on in my spare time.  It's a Keen 1 hack, starring none other than myself.  I've not got a plot firmly in place yet, but I'm thinking it'll be something to do with me, space pirates and maybe even Commander Keen.  We'll see.  Anyhow, I've not much done yet, the walking sprites and this neat little \"One Moment\" screen replacement.<br /><br />[img]http://www.zxdware.net/tiba1.gif[/img]<br /><br />I've got plenty else to do, so don't expect this to be done in an instant, if anyone even is interested in this premise.  All I know is that it ought to be neato when (and if) it's done."
+	},
+	{
+		"id": 4936,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-14T09:32:37.000Z",
+		"content": "Wooooot, that's really cool looking! Really nice sprite work! Lookin' forward this one. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] <b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4937,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-15T04:42:09.000Z",
+		"content": "[img]http://www.zxdware.net/tiba2.gif[/img]<br /><br />Threw together a little title screen.  Also decided the plot's definitely going to involve space pirates invading the boonies and stealing Ian's stuff.  And Ian wants it back.  And goes to get it.  With a shotgun in hand.  Sweet deal.<br /><br />EDIT:<br /><br />[img]http://www.zxdware.net/tiba3.gif[/img]<br /><br />Is this better or worse?  I decided to add a spaceship with a flame trail entering the Earth's atmosphere.  (If you can't tell what that is behind the words.)"
+	},
+	{
+		"id": 4938,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-15T05:58:52.000Z",
+		"content": "Hmmm, I prefer the first one -- and the text could be a bit more brighter (white for example).<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4939,
+		"title": "re: new game",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-15T08:21:55.000Z",
+		"content": "Cool, man... your art style reminds me of CheesyDave's.  Lookin' forward to it--and I agree, the first title screen is better--everything's clearer without the flames in the background.<br /><br />--Xky"
+	},
+	{
+		"id": 4940,
+		"title": "Re: re: new game",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-15T13:02:20.000Z",
+		"content": "Wow, I've got the interest of the great Xky.  Here's a fun little tidbit on those lines.  I was actually originally going to ask someone else (I was thinking Xky) to do the title screen.  Then I remembered I actually CAN draw with MSPaint and that it DOESN'T look like crap when I do it.  Or so I think.  Anyhow, this is pretty much the final title screen, unless someone has a further complaint about it.<br /><br />[img]http://www.zxdware.net/tiba4.gif[/img]"
+	},
+	{
+		"id": 4941,
+		"title": "Re: re: new game",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-15T16:33:00.000Z",
+		"content": "Ah, looks pretty good as it is! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  You can add some background there, but it isn't a must. Good job.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4942,
+		"title": "IB",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-16T01:37:51.000Z",
+		"content": "Cool, an ego mod.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  Looks classy. I definitely like the latest screen with the white text.<br /><br />Hmm... your initials are the same as Impossible Bullet. Interesting. Interesting indeed...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 4943,
+		"title": "Re: IB",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-16T03:41:43.000Z",
+		"content": "IT'S A LIE!  I'M NOT THE IMPOSSIBLE BULLET!<br /><br />I mean.<br /><br />Oops.<br /><br />Anyhow, I've got a few ideas floating around in my head, which I think I'll expound upon now.  The enemies will need some working, but I've got a few ideas as of now.<br /><br />No longer will Yorps exist in this game, but rather Mimrocks.  The pirates picked them up on Gnosticus IV and have since put them to use to occupy any possible pursuers.<br /><br />Wow, I'd go on, but I've badly burned my thumb.  Ow.  It's really REALLY painful."
+	},
+	{
+		"id": 4944,
+		"title": "Re: IB",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-16T04:03:20.000Z",
+		"content": "Do shading on the letters, like the way your character's drawn. That would r0xx0r. R0xxor indeed...<font color=\"BLACK\"><br />If Keen eats all that sugar, why doesn't he get a coronary?<br />goto [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font>"
+	},
+	{
+		"id": 4945,
+		"title": "Re: IB",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-16T05:35:08.000Z",
+		"content": "Like this?<br /><br />[img]http://www.zxdware.net/tiba5.gif[/img]<br /><br />Also, I think I may do some patching for the enemy behavior and make the sentry robot a pirate armed with a jello pistol.  (Hats off to anyone who knows what I'm blatantly stealing from with the whole choice of weapon there.)"
+	},
+	{
+		"id": 4946,
+		"title": "Re: IB",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-16T06:06:54.000Z",
+		"content": "Sounds good! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Also, the text looks nice that way as well!<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4947,
+		"title": "Re: IB",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-16T08:41:09.000Z",
+		"content": "Yup. That'll do nicely.<br /><br />Am I correct in saying this is the first mod where the main character isn't Keen-related since Bazooka Wowbagger?<font color=\"BLACK\"><br />If Keen eats all that sugar, why doesn't he get a coronary?<br />goto [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font>"
+	},
+	{
+		"id": 4948,
+		"title": "nope",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-16T10:06:03.000Z",
+		"content": "CheesyDave's Zelda II mod.<br /><br />--Xky"
+	},
+	{
+		"id": 4949,
+		"title": "Re: nope",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-16T17:01:57.000Z",
+		"content": "Yeah, and before that there was the Norp the Yorp trilogy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4950,
+		"title": "re: Keen-related",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-16T18:18:56.000Z",
+		"content": "Well, I'd argue that Norp the Yorp is Keen-related because he is Keen's pet, and the whole game centered around saving Keen, and defeating Mortimer... Bazooka Wowbagger, on the other hand, was primarily about rescuing band members (Keen just happened to appear along the way).  The ZeldaII mod was about Link's quest to raise the sleeping princess... :-) No sign of Keen anywhere!<br /><br />So, Ian... what exactly will Ian be doing, aside from dodging jello pirates?<br /><br />--Xky"
+	},
+	{
+		"id": 4951,
+		"title": "Re: re: Keen-related",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-16T18:52:39.000Z",
+		"content": "Oops. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  I didn't notice it was '-related' there, I just read 'Keen'. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  In that case Bazooka and Zelda mods are the only ones that aren't Keen-related. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4952,
+		"title": "Re: re: Keen-related",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2004-11-16T20:01:53.000Z",
+		"content": "Let me guess... Dig in? Naah.<br /><br />Space Pirates are often equipped with old planes, which they souped up to their own taste. Their chosen craft should be old (because it is cheaper), modifiable (if it's old...), equipped with a lot of shields (we are talking about individuals, not a fleet!), a reserved engine (or hyperdrive if you like) for escaping patrols and weaponry able to disable, and if they want to, destroy ships. Their main targets are transports and unarmed convoys, because these are easy to disable and carry a lot of stuff beyond imagination. If they steal a personal craft (I think your main character has a fighter-like vehicle, not a huge cruiser, right?), that can be of 3 reasons:<br />1: the craft has something they want to use in their own ships<br />2: they have had personal problems with the owner of the craft<br />3: the craft itself is worth a lot (which in case of a personal transport I doubt) and can be sold for a lot of cash.<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] ------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 4953,
+		"title": "Re: re: Keen-related",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-11-16T23:12:17.000Z",
+		"content": "Now that the title-screen's text has been changed to white, I think it'd look better with the flaming space-ship back in.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 4954,
+		"title": "Re: re: Keen-related",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2004-11-17T00:41:01.000Z",
+		"content": "Wouldn't it be better for the ship BETWEEN the two texts?"
+	},
+	{
+		"id": 4955,
+		"title": "another thought...",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2004-11-17T00:44:09.000Z",
+		"content": "Maybe it's too scientific talking about color theory, but it'd be even better for the blue background to darken from left to right, to keep the balance of the image."
+	},
+	{
+		"id": 4956,
+		"title": "Re: re: Keen-related",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2004-11-17T00:44:13.000Z",
+		"content": "I agree.<br />The part that I didn't like was the superimposing of the 2 things.<br />Basically you couldn't see what the graphic represented; it looks like the letters were on fire, or... something...Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 4957,
+		"title": "Re: re: Keen-related",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-17T03:30:39.000Z",
+		"content": "Heh heh, I was actually considering pasting my logo over the PC Maniac Mansion opening sequence, where the mansion's in the distance, and there are hills, stars and the moon.  Since it seemed to be 16 color, it worked out quite well, heh heh.  But my house looks more different than the mansion than I wanted, and I kinda felt cheap ripping that directly off for this.  Even though I'm ripping so many other things off.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />Still, I think I may add some stars and put the burning ship back in.  As for the appearance of the ship, it's gonna be pretty simple.  Saucer shaped, a lot like the UFOs you encounter in EarthBound.  Only... you know, big enough for people to be in.<br /><br />I believe someone suggested the main character had a ship of some sort?  This is not the case.  The character is just a regular teenage kid who lives in the middle of nowhere, who falls victim to invading space pirates.<br /><br />As for what he'll be doing, well.  When he finds out that pirates from space are not only invading the countryside, but have stolen his four most precious posessions (Computer, TV, two other yet to be determined objects) he grabs himself a shotgun and sets out to get his stuff back.  And, well, to hopefully chase the space pirates off.<br /><br />Level design, well, I'll probably need a hand for tiles and mapping, though I can do some sketches of level ideas if anyone would care to help me.  I'm already starting to bubble and stew ideas in my head over this.  I just hope there are enough tiles to accomodate a rural setting AND an alien technological setting.  &gt;&lt;<br /><br />So yeah, that's about all for now."
+	},
+	{
+		"id": 4958,
+		"title": "Re: re: Keen-related",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-17T05:56:41.000Z",
+		"content": "I'm pretty sure there is enough tiles. Also, level editing isn't that hard, you should try.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4959,
+		"title": "Re: re: Keen-related",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-18T03:08:02.000Z",
+		"content": "It looks really scary.  REALLY scary.  iKeen made me cry when I opened it and I tried to use it.<br /><br />EDIT: Bleh, I don't know if this looks good or not.  I was never a great judge of my own work.<br /><br />[img]http://www.zxdware.net/tiba6.gif[/img]"
+	},
+	{
+		"id": 4960,
+		"title": "Re: re: Keen-related",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2004-11-18T05:24:31.000Z",
+		"content": "that looks awsome. but try to give it an AA look (anti analizing, where it looks more smoother around the edges)"
+	},
+	{
+		"id": 4984,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-11-18T05:34:13.000Z",
+		"content": "Looks great.  I wouldn't do the whole AA thing myself though.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 4985,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486387,
+		"author_name": "merder",
+		"timestamp": "2004-11-18T08:31:40.000Z",
+		"content": "The title screen look good [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] .<br />I hope you have a beta ready soon.<br />And i have high expectations for it."
+	},
+	{
+		"id": 4986,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-18T16:02:19.000Z",
+		"content": "Looks better.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4987,
+		"title": "new title!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-18T21:30:28.000Z",
+		"content": "I think I'm just biased because I like CheesyDave's art style so much... I say keep it that way--it's got a very distinct style.  For now, focus on doing your level tiles and making some in-game graphics... if you decide on something you like, try to incorporate it into your title screen graphic.  :-)<br /><br />--Xky"
+	},
+	{
+		"id": 4988,
+		"title": "Re: new title!",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2004-11-19T14:03:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]that looks awsome. but try to give it an AA look (anti analizing, where it looks more smoother around the edges) [hr][/quote]<br /><br />anti-aliasing?[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />And it will be interesting to see the actual result..------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 4989,
+		"title": "Re: new title!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-19T17:25:00.000Z",
+		"content": "Anti-aliasing - blurring edges to give the appearance of diagonal lines being \"smooth\"; often used in 3D games so that the models don't look rough.<br /><br />\"Smoothing\" is probably a more appropriate word here.<font color=\"BLACK\"><br />If Keen eats all that sugar, why doesn't he get a coronary?<br />goto [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font>"
+	},
+	{
+		"id": 4990,
+		"title": "Re: new title!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2004-11-19T17:35:46.000Z",
+		"content": "Actually anti-aliasing doesn't make models look less rough.<br />With \"models\" I'm talking about the 3D meshes.<br />The end result, the characters or weapons for instance, will generally look more refined because of AA thoughl of course.<br /><br />FSAA (Full Screen Anti Aliasing) will basically treat the final image rendered, so basically your 1024 x 768 (or whatever resolution the game plays at), as a texture, and put some AA on that.<br />This will help the models stand out from the background a bit less, making things look more real.<br />You can do this with 2D games too.<br />Run your Keen through DOSbox and select the appropiate filter.<br /><br />There are some video cards that add extra polygons to models resulting in a smoother look, but gun barrels which are supposed to be slender tubes, will also often look bloated like balloons, so it's not really better than playing without the option.<br /><br />In a Keen mod the best you can do is put some grey in between black and white, and/or dither the colours, but you are severly limited compared to more recent games.Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 4991,
+		"title": "Re: new title!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2004-11-19T23:26:01.000Z",
+		"content": "What does anti-aliasing have to do with 3D? It's a 2D technique making an image look more detailed than it really is. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <br /><br />We should make a contest who is smarter [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 4992,
+		"title": "who?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-19T23:31:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]We should make a contest who is smarter [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr][/quote]<br /><br />Aaaaaand the winner, by one point, is... Mortimer McMire!<br /><br />Billy: Nuts.<br /><br />--Xky"
+	},
+	{
+		"id": 4993,
+		"title": "Re: new title!",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-11-20T02:55:12.000Z",
+		"content": "grafix, I'm pretty sure BBalazs knows what anti-aliasing is...he was questioning alex87's spelling of it.<br /><br />(anti analizing...sounds like a social group of homophobes)--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 4994,
+		"title": "Re: new title!",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2004-11-20T08:18:56.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shucks.gif[/img]  Yep, true Flaose.<br />It's just that I wanted to wait if someone notices...------------------------------------------------------<br />Keep in mind, I'm not an artist.<br /><br />\"Take evasive action!\""
+	},
+	{
+		"id": 4995,
+		"title": "Re: new title!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-20T09:45:10.000Z",
+		"content": "OK, sorry then. Didn't mean to accidentaly waste 50KB of ezBoard server space igniting a series of pointless posts. My most sincere apologies.<br /><br />...<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  <br /><br />I will also remember that in the future, I will never, <i>ever</i> answer other forumers' questions.<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <br /><br />(As you can see, I'm a bit uptight today. Too much homework)<font color=\"BLACK\"><br />If Keen eats all that sugar, why doesn't he get a coronary?<br />goto [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font>"
+	},
+	{
+		"id": 4996,
+		"title": "Re: new title!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-20T17:16:33.000Z",
+		"content": "Well, I don't plan on further changing the title.<br /><br />I've been working on the player sprites, both running and jumping are done.  So yeah, work is going along decently."
+	},
+	{
+		"id": 4997,
+		"title": "Re: new title!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-20T20:06:33.000Z",
+		"content": "Woah, I wish I'd be that fast on sprites. Although I have all sprites done in my current mod, it usually takes months for me (although when I got the idea I managed to draw some enemy in few hours).<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 4998,
+		"title": "Re: new title!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-21T08:28:48.000Z",
+		"content": "Haha, don't expect much amazing from the player sprites.  They're just minor Keen edits.  Granted, it looks like me now, but still.  Also, due to size stuff, my hair does weird things, like the front gets cut off while jumping, and when in the air, the top line disappears.  But still, it's kinda neat.<br /><br />After I get the player done, it's on to the Mimrock."
+	},
+	{
+		"id": 4999,
+		"title": "Edit... tiles...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-21T09:15:56.000Z",
+		"content": "There is a way of resizing sprites in Keens 1-3. I know about K-Sprite for Keens 4-6, but does anyone know of the equivalent for the first 3 games?<font color=\"BLACK\"><br />If Keen eats all that sugar, why doesn't he get a coronary?<br />goto [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5000,
+		"title": "Make sprite big!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-21T10:03:39.000Z",
+		"content": "[hr]<b>grafix5000</b> I know about K-Sprite for Keens 4-6, but does anyone know of the equivalent for the first 3 games?<br />[hr]You... resize the image. And if necessary you patch Keen's shot height and other things dependent on Keen's height.<br /><br />Make sure, of course, that the sprites remain a multiple of 8 high and a multiple of 24 wide (8 for each sub-sprite).<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5001,
+		"title": "Re: Make sprite big!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-21T17:29:17.000Z",
+		"content": "Heh, alright then, I knew about being able to resize, but there was that whole issue with the numbers there.  So, can anyone tell me what the new dimension for width on a player sprite would be if I just made it the minimum 24 pixels wider?"
+	},
+	{
+		"id": 5002,
+		"title": "24 / 3 = 8",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-22T01:58:53.000Z",
+		"content": "Just make sure each of the sub-sprites are of the same width. Expanding the image width by 24 means making each part eight pixels wider.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5003,
+		"title": "Re: 24 / 3 = 8",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-22T05:10:43.000Z",
+		"content": "Thanks, I'm no good at math."
+	},
+	{
+		"id": 5004,
+		"title": "Re: 24 / 3 = 8",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-24T22:40:40.000Z",
+		"content": "Alright, so my jumping frames are done, as are walking.  And I've began work on the Mimrock.  So far I've got the searching frames done, nothing Earth shattering, but I oughtta have the enemy done pretty quick.<br /><br />EDIT: [img]http://www.zxdware.net/mimshock.gif[/img]<br /><br />All I've left to do is death animation for Mimrock.  Sweet deal."
+	},
+	{
+		"id": 5005,
+		"title": "Re: 24 / 3 = 8",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-25T01:36:55.000Z",
+		"content": "That's a nifty looking Mimrock.<br /><br />I never thought to use a non-black colour for transparent pixels... that would make things a whole lot easier.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5006,
+		"title": "Re: 24 / 3 = 8",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-25T01:40:53.000Z",
+		"content": "Heh, actually, can that be done and work?  Because I didn't actually use non-transparent pixels there, I just did that so the stunned stuff would appear above its head.<br /><br />But if that'd work, I'd GLADLY switch over.  This black stuff gives me pains.  &gt;&lt;"
+	},
+	{
+		"id": 5007,
+		"title": "Xor",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-25T01:55:58.000Z",
+		"content": "Well the white pixels in the mask simply tell the game not to draw anything at that position. It doesn't matter what colour it isn't drawing.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5008,
+		"title": "transparent",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2004-11-25T01:57:30.000Z",
+		"content": "You can use any color you want, just remember to fill it up with black when you use it [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />It may still needs to be black, as masking may work that way, but I've never tried to mod an official keen game."
+	},
+	{
+		"id": 5009,
+		"title": "Xor",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-11-25T02:09:12.000Z",
+		"content": "*tests*<br /><br />Erg. Damn, I thought this might be the case--it's all Xor, not 'don't draw this'. So the black is necessary so the white inverts it back to the original background.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />\"All judgment reveals itself to be self-judgment in the end, and when this is understood a larger comprehension of the nature of life takes its place.\" <br />--David R. Hawkins, spiritual teacher <br /><br />[img]http://img.photobucket.com/albums/v192/Jimage/emotispleens/EmotiBogeyHappy.gif[/img] Bogey Lives!<br /><br />JimSoft Lair Has Moved!<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5010,
+		"title": "Re: Xor",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-25T06:36:32.000Z",
+		"content": "Yeah, that's too bad. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <br /><br />Anyways, nice progress with the mod. The mimrock looks pretty good.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5011,
+		"title": "Re: Xor",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-27T01:56:48.000Z",
+		"content": "So...<br /><br />Who wants me to release what's done so far as a SUPER ULTRA NOT MUCH DONE ALPHA JUST TO SEE WHAT THE SPRITES LOOK LIKE version?<br /><br />It'd be a heckuva lot easier than making a nice animation of the Mimrock and how it acts and stuff."
+	},
+	{
+		"id": 5012,
+		"title": "yes!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-27T03:34:03.000Z",
+		"content": "I'll gladly take an in-progress version.  XkyRauh2001{at}hotmail{dot}com please!  :-)<br /><br />--Xky"
+	},
+	{
+		"id": 5013,
+		"title": "Re: yes!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-27T03:37:05.000Z",
+		"content": "Mmmm, betas. Please send to grafix5000[at]gmail&lt;dot&gt;com. Thanks muchly!<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5014,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-11-27T04:04:27.000Z",
+		"content": "Please send it to the e-mail linked in my profile.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5015,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-27T04:28:33.000Z",
+		"content": "Ehh...<br /><br />Send schmend, this is what I have a website for!  It's so much easier this way.<br /><br />www.zxdware.net/Tiba.zip<br /><br />Get 'er here."
+	},
+	{
+		"id": 5016,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-11-27T11:09:45.000Z",
+		"content": "Hehee... Mimrocks. It's like the \"lure the yorp into the pit\" game all over again! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5017,
+		"title": "ooh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-11-27T11:58:44.000Z",
+		"content": "You've got some alignment issues with your jump-when-facing-left sprite... he squirms about a bit before it actually goes.  All in all, it's got a very Sega-Genesis-y feel to the sprite style.  Keep it up!<br /><br />--Xky"
+	},
+	{
+		"id": 5018,
+		"title": "Re: ooh",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-27T12:35:26.000Z",
+		"content": "Looks very good! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I love the hair style (do you really have it?).<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5019,
+		"title": "Re: ooh",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-11-27T17:45:47.000Z",
+		"content": "Yeah, I noticed the alignment issues.  I don't think there's really much I can do unless I make it the original size again, thus cutting the front of the hair off in certain frames.  &gt;&lt;<br /><br />And about the hair, well, I <b>TRY</b> to keep it that way, but my hair fights me all the way.  I've had it successfully stay that way (or somewhere close to it) like, ten times maybe.<br /><br />I think my next enemy will be a Garg replacement.  I'm thinking some kind of drunk/posessed/zombified/somethingized angry farmer/hillbilly with a pitchfork.  What say ye, people?"
+	},
+	{
+		"id": 5020,
+		"title": "Re: ooh",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-11-27T17:48:58.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  Sounds like a good garg replacement.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5021,
+		"title": "NEW ENEMY UNDERWAY",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-06T05:08:40.000Z",
+		"content": "[img]http://www.zxdware.net/Psychobilly.gif[/img]<br />I've affectionately dubbed my hick enemy \"Psychobilly.\"  This only took me a few minutes, so finishing off the angry Garg animations ought to be a snap, since all they're gonna be is a fun, cartoony burst of steam from the ears.  ;D"
+	},
+	{
+		"id": 5022,
+		"title": "Re: NEW ENEMY UNDERWAY",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-06T09:55:13.000Z",
+		"content": "Haha, great drawing! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Good name as well.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5023,
+		"title": "NEW CHECK OUT THE COOL STUFF RELEASE",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-10T06:45:58.000Z",
+		"content": "[url=http://www.zxdware.net/Tiba.zip]Click here[/url]<br /><br />I've finished the Mimrock and Psychobilly completely, most of Ian's sprites and added the shotgun ammo and blast.<br /><br />Among a few other things I might have missed.<br /><br />How's it look?"
+	},
+	{
+		"id": 5024,
+		"title": "Nice.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-12-10T08:35:25.000Z",
+		"content": "Looks good thus far. The mimrocks are classy. The hair cut-off is kind of annoying, so I suggests working on that... maybe increase the height of the sprite by another 8 pixels.<br /><br />You've done a good job of making your sprite counterpart look Keenish. Keep it up.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />JimSoft Lair<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5025,
+		"title": "Hillbilles rock!",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-12-10T08:42:49.000Z",
+		"content": "Heehee, stupid hillbillies... *aims, shoots, reloads*<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5026,
+		"title": "Billy",
+		"author_id": 1486686,
+		"author_name": "DasBrot",
+		"timestamp": "2004-12-10T12:21:23.000Z",
+		"content": "I really like your mimrocks, and you've done a good job at the psychobilly, too[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-poisonslug.gif[/img]"
+	},
+	{
+		"id": 5027,
+		"title": "Re: Billy",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-10T14:35:06.000Z",
+		"content": "Now this is a mod I'm waiting eagerly. This has pretty good feeling already! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  The new enemy works pretty well and I like the shotgun. Gonna be fun.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5028,
+		"title": "what he said",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2004-12-10T19:57:05.000Z",
+		"content": "Hehe this mod's coming along nicely--have you started making any levels yet?  :-)<br /><br />I agree with Spleen--fix the hair cut-off.  Either make the sprite 8 pixels taller and adjust accordingly (you may have to do that for ALL frames, though)... or bend your d00d's knees a little more and move everything down a pixel, to scrunch him more.  Also, you still haven't fixed the strange alignment issues when Ian jumps facing left.<br /><br />Your Psychobilly's walk looks a little awkward--and I know it's tough to make a believable walk with just 2 frames of animation... If you want it to look like he's sorta lilting along, almost dancing, than fine--keep it like that ;-)  Otherwise, one frame where his legs are apart, and he's one pixel shorter vertically, like  / \\ would be good, and then another one where he's 1 pixel taller (due to the 'lift' in his legs) and then they're together, maybe knees bent, like $ would be good.  If you don't understand, maybe Ilsoap can explain it better, or maybe I can just toss together a tiny picture.<br /><br />Those things aside, though, this is looking good--I like your guy's hair.  I keep thinking the title screen says \"t3h Ian Burton Adv3ntur3\" which always makes me chuckle.<br /><br />--Xky"
+	},
+	{
+		"id": 5029,
+		"title": "Re: what he said",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-12-10T23:02:08.000Z",
+		"content": "In addition to the other criticisms (which I agree with), the \"shotgun\" Ian fires looks, to me, far more like a Thompson Submachine Gun (which is cool, but obviously doesn't use shotgun shells [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ).<br /><br />Otherwise, awesome work, keep it up!--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5030,
+		"title": "Fixes",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-11T00:18:43.000Z",
+		"content": "Well, if you click the link above, I've fixed the Psychobilly's walk and the hair cutoff.  I understand the Psychobilly thing perfectly; I myself even thought it looked strange, comparing it to the walk of Bagman, from the arcade game of the same name.  Seriously, if you ever happen to play it, you'll notice right away what I mean.<br /><br />As for the hair cutoff, that was a strange thing.  I first made it 8 bigger, but found that if I landed a jump, I continually fell THROUGH THE FLOOR.  So I simply lifted the legs more.  All in all, the jump is almost perfect now.  There is, however, still one problem I need to work on.<br /><br />THE JUMPING JITTERS, as I've dubbed them, ARE A TOUGH PROBLEM TO FIX.  It seems that if I move him much more towards the left, the front of his hair will end up getting cut off, and it'll look terrible.  I'm gonna fiddle with this a little more, but if I can't get it, I may release the sprites and see if somebody more experienced can't get a handle on the situation.<br /><br />Anyways, I'm thinking about level design and the like, I may start up with some tile stuff soon.  I think I'm going to turn the clam plant into a snapping bear trap.  As for enemies, the Vorticon will become a Space Pirate, the Sentry Robot a Space Pirate with a Jello Pistol, but as for the rest, I'm open for suggestions.<br /><br />Oh, and if anyone's interested, I've already started planning a sequel, curse my creativity.  It'll only ever exist if I get enough C++ programming knowledge to create my own engine, though.<br /><br />EDIT: I fixed the jumping jitters as well as I could.  I can't notice it anymore.<br /><br />Also, I'm curious as to why nobody has commented on the fact that when you shoot the Psychobilly, his HEAD EXPLODES."
+	},
+	{
+		"id": 5031,
+		"title": "Re: Fixes",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-11T10:32:54.000Z",
+		"content": "\"Also, I'm curious as to why nobody has commented on the fact that when you shoot the Psychobilly, his HEAD EXPLODES.\"<br />Oops, I forgot: \"Cool!\"<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5032,
+		"title": "Walking animation",
+		"author_id": 1486686,
+		"author_name": "DasBrot",
+		"timestamp": "2004-12-11T11:38:32.000Z",
+		"content": "WOW, that new walking animation looks great!"
+	},
+	{
+		"id": 5033,
+		"title": "Re: Walking animation",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-11T11:51:52.000Z",
+		"content": "Yeah, now and the fixed player jumping animation is pretty good as well. This is nice stuff.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5034,
+		"title": "HAHA!  Screenshot.",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-12T07:27:44.000Z",
+		"content": "[img]http://www.zxdware.net/tiba7.gif[/img]<br /><br />Notice anything different?<br /><br />Maybe like some new tiles?<br /><br />Haha!<br /><br />And by the way, I've got an official theme song for the game.  It fits so well as something to play in the background while playing the game.  But we'll talk about that when it becomes more pertinent."
+	},
+	{
+		"id": 5035,
+		"title": "Re: HAHA!  Screenshot.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-12-12T07:55:23.000Z",
+		"content": "Do you mean as in a \"Turn on WinAmp/iTunes/WMP, start playing song on loop, open up TIBA and play!\" sort of thing? Because Keens 1-3 don't play music. Obviously.<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5036,
+		"title": "Tasty.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2004-12-12T11:12:19.000Z",
+		"content": "It'd be cool if someone could work out how to pluck the level number from the in-memory variables... that way, one could create a TSR that would play a different song for each level (optional, of course).<br /><br />Looking good, btw.<br /><br />&gt;Commander SpleenCave assectatorem Ductoris Alacris <br /><br />JimSoft Lair<br />http://jimsoft.spatang.com/"
+	},
+	{
+		"id": 5037,
+		"title": "Re: Tasty.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-12-12T11:26:59.000Z",
+		"content": "*cough*Adurdin*cough*<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5038,
+		"title": "Re: Tasty.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-12T16:11:03.000Z",
+		"content": "Very nice tiles.<b>LiFe WiThOuT kEeN iS dEaTh In DiSgUiSe.</b>"
+	},
+	{
+		"id": 5039,
+		"title": "Re: Tasty.",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-13T01:26:02.000Z",
+		"content": "Heh, yeah, I meant loop the song in the background.<br /><br />Sorry, nothing new today.  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 5052,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-17T12:38:19.000Z",
+		"content": "Okay, it's time to do some text editing.  How do I do this?  Will a hex editor work, or do I have to use patches?"
+	},
+	{
+		"id": 5053,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-17T13:53:54.000Z",
+		"content": "I'd suggest patching; it's easier to change things that way.((A proud member of the <b>Mod Unreleasing Society</b>.))"
+	},
+	{
+		"id": 5054,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2004-12-17T15:43:35.000Z",
+		"content": "And I think editing the original files is against the law (since you're <i>changing</i> the file as opposed to <i>modifying</i> it).--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5055,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-12-17T17:04:52.000Z",
+		"content": "Changing and modifying are synonyms, but I know what you mean.<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5056,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2004-12-18T04:35:31.000Z",
+		"content": "Permenatnt alteration vs patching a modified file into memory. Yes, Id has declared hex editors ilegal for use on Keen.'Some go for walks, others get drunk and some get laid.'<br /><br />- Bjrk Gumundsdttir<br /><br />UR A Frt Ltl Mrt Dsinhrt!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/antiror.jpg[/img]<br /><br />\"No one should be here\" -Level Lord"
+	},
+	{
+		"id": 5057,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-22T21:10:46.000Z",
+		"content": "HAHA!  Great...<br /><br />So who wants to be my official patcher?  &gt;&lt;"
+	},
+	{
+		"id": 5058,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2004-12-23T00:08:44.000Z",
+		"content": "Depends on the patches..((A proud member of the <b>Mod Unreleasing Society</b>.))"
+	},
+	{
+		"id": 5059,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2004-12-31T01:37:06.000Z",
+		"content": "Well, it'd basically be textual stuff, except I'd like the Sentry Robot to freeze you in ice and for the cannons to kill you and have an explosion.  (ZOT and ZAP)"
+	},
+	{
+		"id": 5060,
+		"title": "huh?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2004-12-31T01:38:42.000Z",
+		"content": "Is that possible?<br /><br />For text, use the Patchotron. Find it on Spatang."
+	},
+	{
+		"id": 5061,
+		"title": "Re: huh?",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2004-12-31T10:53:51.000Z",
+		"content": "Check on K:M, now that it's back up. All you'd need to do to make the ice cannons kill you is change the ice-block sprite that it fires to a cannonball (using Paint!) and set its sprite properties to that of a bullet. Maybe.<br /><br />I don't know about making the sentry robots freeze you, but I'm sure it's a possibility.<br /><br />Click here: [url=http://andy.durdin.net/keen/modding/viewtopic.php?t=393]andy.durdin.net/keen/modding/viewtopic.php?t=393[/url]<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!</font><br />[img]http://www.toxicsheep.com/scrobblersig_filesafe.php[/img]"
+	},
+	{
+		"id": 5062,
+		"title": "Re: huh?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2004-12-31T15:49:15.000Z",
+		"content": "Actually, if you patch them to switch, it might be possible.<br />How do people learn patches anyway? It seems impossible.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 5063,
+		"title": "Re: huh?",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2004-12-31T17:46:59.000Z",
+		"content": "The Patchwork Mod thread has a link to [url=http://andy.durdin.net/keen/modding/viewtopic.php?t=381]andy.durdin.net/keen/modd....php?t=381[/url] where Adurdin explains his steps quite detailed.<br /><br />You first need to disassemble the game, which basically gives you a text file with the source code.<br />(This is not the source code the programmers wrote exactly, because useful things like comments (that don't actually do anything) are stripped from this version, making it much harder to understand what happens.)<br /><br />In assembly you use certain addresses to store data.<br />For instance Adurdin found the word \"London\" stored in there somewhere.<br />Also there are certain commands that calculate things, and can manipulate the data as well.<br />There are commands that add 1 to the number in a specified address for instance, meaning a 5 would become a 6.<br />A command could also substract 1, or add the numbers from 2 addresses together.<br /><br />If you look at the source, you see the mnemonic (pretty much the same thing as \"abbreviation\") \"INC\", which (if I remember correctly) increases something by 1 like I mentioned above.<br />A computer chip doesn't understand words, but compilers translate things like INC to a specific piece of code it does understand.<br />Apparently the decompiler Adurdin uses, shows the more understandable (to humans at least) mnemonics as well.<br /><br />You should get a book on the subject to get a good description, but my point is all those commands, all those 2, 3, or 4 letter mnemonics are really puny, they can barely do anything.<br />The trick with programming is to combine all those tiny things to accomplish something bigger.<br /><br />The thing Adurdin is doing, is trying to figure out which set of tiny things are doing certain bigger things.<br />Once he figures that out, he can patch those commands or values; change them into something different.<br />Through that he changes what the game does.<br /><br />I'm not sure this description helps, especially since it's been ages since I programmed in Assembly Language, and I never was any good, but read the other thread I linked to and maybe you'll get the general idea.<br />It just is difficult to work with Assembly if you ask me.Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 5064,
+		"title": "Re: huh?",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2005-05-29T17:23:56.000Z",
+		"content": "Heya kids, did you miss me?  I've been gone for a while now, and sadly I forgot all about this place and my project.  But school's almost out now, and I think I'm going to pick up on this project again.  After all, why let all that work go to waste?"
+	},
+	{
+		"id": 5065,
+		"title": "Re: huh?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-05-30T10:29:18.000Z",
+		"content": "Hey, that's cool! I'm still waitin' for this mod! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 5066,
+		"title": "0&#9830; Lives!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-06-02T14:10:28.000Z",
+		"content": "Funny what gets forgotten when school tries to take over your mind. Great to hear you're still alive. Now get working!Cave assectatorem Ductoris Alacris <br /><br />\"You are so afraid to <i>live</i>--so afraid of <i>life itself</i>--that you've given up the <i>very nature of your being</i> in trade for security.\"<br />-CWG Book 3, Neale Donald Walsh<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5067,
+		"title": "Re: 0&#9830; Lives!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2005-12-28T20:36:07.000Z",
+		"content": "So yeah, I'm in trouble right now.<br /><br />But next time I get the chance, I'm wondering on the public's opinion: Should I completely redo the sprites for the main character?  The edits sort of leave me wanting more myself, but the task of scratching all those sprites seems a bit daunting.  But I'd be up to it if others thought it a good idea."
+	},
+	{
+		"id": 5068,
+		"title": "Re: 0&#9830; Lives!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-29T00:17:59.000Z",
+		"content": "Welll...<br /><br />The part of me that patches says 'Hell no, far too much work'<br /><br />But the part of me that isn't you, and thus doesn't have to do any work, but sees the end result says \"Go for it man!'<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5069,
+		"title": "The New Face of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2005-12-31T04:33:05.000Z",
+		"content": "[img]http://www.zxdware.net/newtiba.png[/img]<br /><br />How does this look?  It's the prototype scratch redesign."
+	},
+	{
+		"id": 5070,
+		"title": "hum",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-12-31T08:03:44.000Z",
+		"content": "Well, it's adorable, I'll give you that, but it's gonna take some tweaking to be part of a believable run/walk sequence.  ((unless he's gonna keep his head angled like that and just sorta shuffle his arms/legs and move up/down a bit.  That coudl work...))<br /><br />I like it, though.  :-)  Cute!"
+	},
+	{
+		"id": 5071,
+		"title": "Re: hum",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-12-31T13:56:45.000Z",
+		"content": "Awesome! Much better than the old sprite.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5072,
+		"title": "The New Walk of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-01-02T08:16:17.000Z",
+		"content": "[img]http://www.zxdware.net/newtibawalking.gif[/img][img]http://www.zxdware.net/newtibawalking2.gif[/img]<br /><br />The new walk animation.  Comments?  Suggestions?"
+	},
+	{
+		"id": 5073,
+		"title": "Re: The New Walk of ADVENTURE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-02T16:03:12.000Z",
+		"content": "Looks pretty good! Perhaps the head could move one pixel forward at some point of the animation? Dunno, I've never been good animator.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5074,
+		"title": "Re: The New Walk of ADVENTURE!",
+		"author_id": 1486226,
+		"author_name": "z hyphen one",
+		"timestamp": "2006-01-02T22:14:54.000Z",
+		"content": "It's a good start! Just make his upper body turn a little bit as he moves, and maybe move his head a bit too. And make the animation slower so we can see [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr]<i>The human brain is not user-friendly...</i>"
+	},
+	{
+		"id": 5075,
+		"title": "Re: The New Walk of ADVENTURE!",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2006-01-02T23:16:51.000Z",
+		"content": "I thing his legs should visibally pass eachother. They seem to be doing a jumping jack: \"Come togather, Go Apart\"<br /><br />You need to have the legs go all the way past eachother before they come back... unless of course this is an excersie game? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mischief.gif[/img] Tough Guys Can Fix Their Own Problems!!!<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/Prisoner.jpg[/img]<br />*Under Self Inflicted Posting Restriction*<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 5076,
+		"title": "The New Shotgun of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-01-14T21:08:43.000Z",
+		"content": "[img]http://www.zxdware.net/tibashoot.png[/img]<br /><br />The new shotgun sprite."
+	},
+	{
+		"id": 5077,
+		"title": "make",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-01-14T22:37:12.000Z",
+		"content": "Try making his entire body 'dip' down as his legs are apart, or make his entire body 'bob' up as his legs come together.  :-)  That'll help make it more interesting to watch over long periods of time."
+	},
+	{
+		"id": 5078,
+		"title": "Layer.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-15T01:44:56.000Z",
+		"content": "I've found the easiest way to create a walking animation is to work in layers. Draw the frames for one leg, then duplicate them and line them up in a different order complementary to the other, then do the same for the arms. Attach the final result, along with a head, to the torso and you're pretty much set, give or take a bit of tweaking to make the overall result look nicer.<br /><br />I'll post an example sometime. At the moment it's all part of a TGF game and I don't feel like converting the sprites to GIF.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 5079,
+		"title": "Re: Layer.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-15T18:03:09.000Z",
+		"content": "The shooting frame looks excellent!<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5080,
+		"title": "Re: Layer.",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-02-01T03:56:56.000Z",
+		"content": "Well, I have a week's worth (5 pages) of goofy, abstract drawings.  The more I think about them, the more I feel I have some ideas that I can incorporate into the game.  The first chance I get, I'll scan them and throw them up here for you guys to eyeball."
+	},
+	{
+		"id": 5081,
+		"title": "Re: Layer.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-02-02T12:01:40.000Z",
+		"content": "Cool, can't wait to see them! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 5082,
+		"title": "Re: Layer.",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-02-06T20:29:40.000Z",
+		"content": "Here are my sketches.  Feel free to point out any that have potential in your opinion!  It'd be nice to have some outside thoughts on what I could possibly use here, since all I've considered so far is possibly using the design of Scotty McAssbeat on #5.<br /><br />Various Boredom Inspired Artworks from Health Class<br />[img]http://www.zxdware.net/Vbiafhc1.gif[/img]<br />[img]http://www.zxdware.net/Vbiafhc2.gif[/img]<br />[img]http://www.zxdware.net/Vbiafhc3.gif[/img]<br />[img]http://www.zxdware.net/Vbiafhc4.gif[/img]<br />[img]http://www.zxdware.net/Vbiafhc5.gif[/img]"
+	},
+	{
+		"id": 5084,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-02-28T00:31:36.000Z",
+		"content": "So.<br /><br />I'm guessing nobody's keen on giving any input."
+	},
+	{
+		"id": 5085,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-02-28T08:53:10.000Z",
+		"content": "That's weird - I'm sure I replied to that post ages ago...<br /><br />I like all the characters (doodled stuff is cool), especially Stewboy and that teenage fly businessman dude, but the only one I can think of an enemy to replace for in-game is Scotty McAssbeat.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 5086,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-02-28T18:04:22.000Z",
+		"content": "I forgot. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  Anyways, they're fun. You should use whatever can be drawn well. Can't decide.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5087,
+		"title": "hmm...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-02-28T18:23:36.000Z",
+		"content": "I like the Dismayed Puppet, No Nose, the Pillbox, Philbin, Sock Rocker, Scotty McAssBeat, and DoomStick.  Those are the doodles I think that would make the best limited-pixel Keen-size enemies.  <br /><br />A lot of your doodles are cool to look at (I like the names for them, too!) but many of them are too large/unusually shaped to work well for a game."
+	},
+	{
+		"id": 5088,
+		"title": "The New Villain of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-03-17T17:13:11.000Z",
+		"content": "[img]http://www.zxdware.net/scottymcassbeat.png[/img]<br /><br />The first frame for the new look of the SPACE PIRATES, who happen to be the same race as Scotty McAssbeat."
+	},
+	{
+		"id": 5089,
+		"title": "Re: The New Villain of ADVENTURE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-17T21:46:43.000Z",
+		"content": "Haha, that is awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5090,
+		"title": "Re: The New Villain of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-05-30T18:41:12.000Z",
+		"content": "Gah.  Anyone here a good animator?  I've been fiddling with walking animations for the space pirates, but I can't seem to get it to work.  If somebody might be interested in fixing them up, I'd be greatly appreciative."
+	},
+	{
+		"id": 5091,
+		"title": "The New Attempt of ADVENTURE!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-05-30T19:26:28.000Z",
+		"content": "[img]http://img.photobucket.com/albums/v609/genius314/spacepirate.gif[/img]<br /><br />Ok, I tried. Where's my prize? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5083,
+		"title": "Re: The New Walk of ADVENTURE!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-05-30T20:56:23.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I thing his legs should visibally pass eachother. They seem to be doing a jumping jack: \"Come togather, Go Apart\"[hr][/quote]<br /><br />The animation plays pretty quickly, but I think I see 3 individual images... maybe there are 4?<br />If so, both his left and right leg point forward (and backward) in one frame, but like you said, this is hard to see.<br />Perhaps make the leg that's farthest away from the camera (when walking to the right of the screen, his left leg) darker than the other would make his leg movement easier to follow?Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5092,
+		"title": "Re: The New Attempt of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-01T04:08:36.000Z",
+		"content": "Genius314, wow.<br /><br />I didn't expect somebody to just up and randomly animate the whole thing for me.  Give me the individual frames for that and I will love you forever."
+	},
+	{
+		"id": 5093,
+		"title": "Re: The New Attempt of ADVENTURE!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-06-01T07:54:40.000Z",
+		"content": "Ta-da:<br /><br />[img]http://arnott.f2s.com/images/spacepirate_1.gif[/img]<br />[img]http://arnott.f2s.com/images/spacepirate_2.gif[/img]<br />[img]http://arnott.f2s.com/images/spacepirate_3.gif[/img]<br />[img]http://arnott.f2s.com/images/spacepirate_4.gif[/img][url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 5094,
+		"title": "Re: The New Attempt of ADVENTURE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-01T09:16:15.000Z",
+		"content": "The animation looks excellent, gotta say.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5095,
+		"title": "Re: The New Attempt of ADVENTURE!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-06-01T19:11:03.000Z",
+		"content": "GRAFIX!! You stole my love!!! grr!!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] <br />Yeah, I was bored, i saw that post, so i made the animation. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5096,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-03T06:41:34.000Z",
+		"content": "Here's a question that I think I know the answer to.<br /><br />Is there a utility out there that can import and export the PC Speaker sounds of Commander Keen?  WDC comes with a built-in feature for editing PC Speaker sounds, and I might want to change a few of them.<br /><br />But yeah, I'm guessing that this is a negatory, right?<br /><br />Oh, also, I should be releasing another \"ooh look at the pretty graphics\" demo soon."
+	},
+	{
+		"id": 5097,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-06-05T14:21:01.000Z",
+		"content": "[url=http://www.student.tue.nl/p/f.a.m.smeijers/sfp/games/ckeen.htm]Snd play[/url] lets you play/listen to the sounds at least.<br />Also I recall it's possible to switch around sounds.<br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=725]Here[/url] on Keen: Modding is something about it.<br />I also think I heard a unique sound or two in a mod a while ago, but I suppose maybe I just didn't recognise something.<br />There is sure to be somebody more knowledgeable in this area.Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5098,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-06-05T19:13:00.000Z",
+		"content": "I KNOW I've seen a sound editor before...<br /><br />And here it is: [url=http://andy.durdin.net/keen/modding/viewtopic.php?p=5461&sid=9e117464f7599301e2a1ab6bb933ac4a]KEENFX[/url]-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5099,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-05T22:14:03.000Z",
+		"content": "I made my own (rather, ehm, non-advanced) sound editor when I made Episode Smile, however it was never released to public, and I lost the source code a year (or two already?) ago. However, there's Spleen's sound editor and Grelphy's one. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5100,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-06T03:59:14.000Z",
+		"content": "Keenfx only works on Keen1 [for now] so thats why the sound switching topic is still up.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5040,
+		"title": "Re: Tasty.",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-08T20:39:25.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It'd be cool if someone could work out how to pluck the level number from the in-memory variables... that way, one could create a TSR that would play a different song for each level (optional, of course).[hr][/quote]<br /><br />I just noticed this old post.  Would this actually be possible?  Because I've found a few NSFs that would fit as BGM for the game, and I know of a DOS-based player that would work nicely to run them.  If this is possible, I'd be very interested in looking into how.<br /><br />Otherwise people'll just have to pick which theme to listen to throughout the game, or if playing in pure DOS, not have it.  No big, since most games don't include it anyways, but yeah."
+	},
+	{
+		"id": 5041,
+		"title": "Re: Tasty.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-06-08T21:33:29.000Z",
+		"content": "Hey, that's a pretty interesting idea.  It'd be pretty easy to write an IMF player and install it as a TSR to play background music in DOS, the only hard part would be figuring out where in memory Keen is and what level you're on."
+	},
+	{
+		"id": 5042,
+		"title": "Progress Report & Further Ideas",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-09T21:38:22.000Z",
+		"content": "Well, things are going fairly well.  The yorp and garg replacements (Mimrock and Psychobilly respectively, if you forgot) have long been finished, and the Space Pirate needs only death frames.  I'm going to look into the possibility of editing Ian's walking frames a little before moving on to finally replace the jumping frames, and then the pogo stick.<br /><br />Further ideas have come to me in the process of my continued work.  I will probably be replacing the Sentry Robots with Space Krakens* (as depicted in VBIAFHC #3), who will bob along on tentacled limbs and fire deadly rays from their eyes.  The freeze cannons will be either a variant of the current space pirates in some sort of blast armor, or Square Strongbody (VBIAFHC #5) carrying a stasis ray cannon.  Stasis rays are going to be how I explain the fact that there are free floating objects outside--the pirates left some things floating around in stasis fields while rampaging through the countryside.<br /><br />I'll do a sprite for either one (armored space pirate and Strongbody) and see which one you guys like better.<br /><br />EDIT: Here's the space pirate stasis cannon trooper, or whatever I end up calling it.<br /><br />[img]http://www.zxdware.net/spacepirate_stasis.png[/img]<br /><br />Unless somebody else really wants to see a Strongbody to compare with, I'm probably going with this.<br /><br />*EDIT #2: Space Kraken.<br /><br />[img]http://www.zxdware.net/spacekraken.gif[/img]<br /><br />I'm having problems, though.  Maybe it's because I've yet to replace all the sprites of the Sentry Robot with those sized for the Space Kraken.  But if it isn't, could somebody make me a quick patch that draws the Sentry Robot enemy eight pixels higher?  Otherwise, it gets caught in the ground.<br /><br />EDIT #3: I replaced all the frames.  Now it actually seems to be stuck FURTHER in the ground.  A screenshot, if that would help:<br /><br />[img]http://www.zxdware.net/theproblemwithspacekrakens.png[/img]<br /><br />As for level design, I'm thinking it'll be mainly forested areas for the outside levels.  Inside levels will be the space ships, and I'm thinking that I'm going to design them mostly out of ice tiles and have them have slick, shiny metal surfaces everywhere.  The important swag that needs recovering has been settled on as my cell phone, my fedora, my TV and my computer, in that order.  I have little in mind for bonus items--so far, I've edited the suspiciously Pepsi-like soda can into a Mountain Dew can, in respect to that.  Pogo stick will probably be replaced by springs on the bottoms of shoes.<br /><br />Also, I need some advice on a level editor.  iKeen looks like it'd be nice, but it chews levels up when I try to load them.  I have the Keen1 tileset loaded, and it seems to be displaying the levels... it just shows everything as the wrong tiles.  Any idea as to why this might be?"
+	},
+	{
+		"id": 5043,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-11T00:57:18.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I'm having problems, though. Maybe it's because I've yet to replace all the sprites of the Sentry Robot with those sized for the Space Kraken. But if it isn't, could somebody make me a quick patch that draws the Sentry Robot enemy eight pixels higher? Otherwise, it gets caught in the ground.[hr][/quote]<br /><br />Put your sprite one tile higher than normal, that should fix it.<br /><br />Its not so easy to make a sprite spawn lower or higher, I've looked for this patch and I can't seem to locate it, I'd like it as well.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5044,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-06-11T02:08:51.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Also, I need some advice on a level editor. iKeen looks like it'd be nice, but it chews levels up when I try to load them. I have the Keen1 tileset loaded, and it seems to be displaying the levels... it just shows everything as the wrong tiles. Any idea as to why this might be?[hr][/quote]<br /><br />I'm currently using iKeen to try out level stuff, but it's somewhat slow for me, and loading a different tileset locks up the programme most of the times.<br />I recall not being able to removed/add/something enemies at all either, but it's been ages since I tried that.<br />I'm not sure if the version I use is still up-to-date.<br /><br />Anyway, try this:<br />(Open one of your levels first, otherwise it won't work!)<br />File &gt; \"Import New Tiles/Sprites\" &gt; select a profile (I made a new one with my name, but I don't remember if this is even necesary) &gt; Edit &gt; select the proper game &gt; Import (Hey, you can't Cancel this screen!) &gt; browse to directory with the proper \"1TIL0000.bmp\" &gt; OK &gt; OK &gt; Set Active (is this necessary?) &gt; Close.<br />After the 2nd OK it usually locks up for me, but after forcing the programme shut and starting it again, it does have the custom tileset loaded.<br />I do wish the process was a bit easier, yes. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5045,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-11T04:51:51.000Z",
+		"content": "Actually, the tileset not loading isn't the problem.<br /><br />The problem is that it is loading the wrong tiles to represent those on the level.  It looks like it's run the tileset through a blender on frappe and then randomly put it back together.  I think I read a thread about this same problem on its forum at Keen:Modding and that xtraverse has no idea why it happens, so it can't be fixed.<br /><br />So what's the next best thing?  Since it looks like I'm not going to be using iKeen for levels after all."
+	},
+	{
+		"id": 5046,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-11T10:36:14.000Z",
+		"content": "Man, great looking new graphics again! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br />Until Spleen's level editor is complete, I'd suggest using good ol' KeenEdit (KeenWright).3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5047,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-12T20:41:30.000Z",
+		"content": "Well, now that I've finally got the art of patching down, I might be taking back what I said about the title screen and making a new full screen one instead.  We'll see.  Speaking of graphics, all enemies are fully edited with the exception of the Butlerbot, which I'll likely be replacing with Philbin (VBIAFHC #3).  Since I sustained a painful wrist injury falling off a trampoline yesterday, I probably won't be doing any graphics today, but I'm going to see what I can do in terms of text and possibly patching.  Hopefully I can get the story text written in today.<br /><br />Speaking of patches, I know it'd be more helpful to me to ask on Keen:Modding, but since my account has yet to be validated, perhaps somebody here can help me.  (Levellord is probably the best candidate.)  I've used this patch to make the stasis cannon more like what it should be.<br /><br />[pre] #Icecube frezzes Keens animation [Whatever hes doing when hit he frezes as] %patch $270F $90 [/pre]<br /><br />At the end of the freeze, it shows the unfreeze sprite for a moment first, like normal.  Would it be possible to show the freeze animation once, then the unfreeze frame?  I'd like Ian to shake his head in confusion after becoming mobile again.  If it's not possible, I'll work with what I have, but I'd greatly appreciate it if it is."
+	},
+	{
+		"id": 5048,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-13T09:53:41.000Z",
+		"content": "Hmm, it may be possible, however this patch works by skipping the freezing frame animation entirely, so we'll have to see...A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5049,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-16T19:23:38.000Z",
+		"content": "Well, the entirity of STORYTXT.CK1 is almost changed.  I'd like to cut out the little Commander Keen sprite at the end, but the last time I tried it, it wouldn't let me turn the game on anymore, instead claiming that I was out of memory.  Putting him back in changed that immediately.  How odd.  Anyways, all I have left is the \"EVERYTHING YOU NEVER WANTED TO KNOW ABOUT SPACE PIRATES\" section, and then it'll be all wrapped up.<br /><br />Speaking of story, I hate inspiration, as I've already come up with a good plot for \"The Ian Burton Adventure 2\" and am eager to get to work on it.  I need to remember, you've got to take it one project at a time!  Anyhow, if anyone's interested, I'll post the contents of STORYTXT.CK1 or, if anyone wants to know the premise for the second, I can throw that up as well."
+	},
+	{
+		"id": 5050,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-18T19:09:35.000Z",
+		"content": "Okay, it's all typed up, but now when I scroll past a certain point, the text and graphics all garble up horribly for everything in the game until you quit.  I'm uploading it so that somebody can take a look at this and see what the problem could possibly be.<br /><br />[url=http://www.zxdware.net/STORYTXT.CK1]www.zxdware.net/STORYTXT.CK1[/url]<br /><br />It would be much appreciated if somebody could tell me why this is happening, or possibly even fix it."
+	},
+	{
+		"id": 5051,
+		"title": "Re: Progress Report & Further Ideas",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-06-18T22:06:17.000Z",
+		"content": "That URL gives me a 404 Not Found error."
+	},
+	{
+		"id": 5101,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-19T01:17:30.000Z",
+		"content": "Whoops.  I thought it uploaded as the full caps filename.  Guess not.  Here's a link that works:<br /><br />www.zxdware.net/Storytxt.ck1"
+	},
+	{
+		"id": 5102,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-06-19T07:20:28.000Z",
+		"content": "I think it might be because the original story file is 3504 bytes and your is 9694 bytes.. I think this new story eats up too much memory and messes up the game.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5103,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-19T19:26:04.000Z",
+		"content": "That's odd.  It didn't do this without the addition of \"EVERYTHING YOU NEVER WANTED TO KNOW ABOUT SPACE PIRATES\".  And actually, part of that was even there and it was still okay.<br /><br />Oh well, looks like I found a use for the PREVIEWS thing now, if such is the case."
+	},
+	{
+		"id": 5104,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-21T11:06:51.000Z",
+		"content": "It is now also possible to edit the About Id and Ordering info text; and also the length of notes in game, thus you could have a large note in game using up the about Id text to explain things.<br /><br />But yes, your story is too long, Keen 1 has an array to hold texfiles that cannot take too much prodding.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5105,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-24T19:23:17.000Z",
+		"content": "Is there any way to switch around the menu options?  I'd like to stick the \"Previews!\" function right after the \"Story\" one.  I looked around K:M, but all I could find was how to change what the current functions do with very little options for variation.<br /><br />EDIT: Also, if it's not too much trouble, could anyone give me the hex addresses where each sound starts?  I figure that doing what I want to do will be much easier to do with a hex editor."
+	},
+	{
+		"id": 5106,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-06-30T07:34:06.000Z",
+		"content": "Well, just to draw some attention back to this thread, here's a peek at the current state of the new title screen I've been working on.<br /><br />[img]http://www.zxdware.net/newtibatitle.png[/img]<br /><br />I drew this with pencil and paper last Saturday, scanned it in full black-and-white, and with some fiddling in PSP including several applications of the erode edges effect, finally ended up with a black and white outline.  Just today, I got around to getting on shading it, and I'm proud to say that I've got little left to shade.<br /><br />Also, any information pertaining to the last post I made would still be greatly helpful."
+	},
+	{
+		"id": 5107,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-06-30T10:47:05.000Z",
+		"content": "Hookay; as yet I have no figured out how to switch menu options around, merely how to disable and roughly reorder them. I should look into it, but I don't have the time.<br /><br />As for the sounds; they're stored in the SOUNDS.CK1 file; and are referenced from the exe like 'Vorticon dies $27 $00' It is possible to directly edit the sounds; Spleen released a utility to do so. It is also possible to switch sounds in the soundfile.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5108,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-07-03T05:38:44.000Z",
+		"content": "The final enemy, unless I've forgotten about one, has been finished as of today.<br /><br />[img]http://www.zxdware.net/philbin.gif[/img]<br /><br />Say hello to Philbin."
+	},
+	{
+		"id": 5109,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-03T12:53:34.000Z",
+		"content": "Oooh! Neats.<br /><br />*touches*A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5110,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-07-03T14:08:27.000Z",
+		"content": "Haha, that's great! This mod will rock.. Nice title screen too. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5111,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-07-07T07:29:30.000Z",
+		"content": "I've finished both the jumping frames and the pogo-replacement frames.  Major thanks to my animation mentor--he's a lifesaver when it comes to some of these things.  After I get a decent enough amount of the tiles replaced, I'll make a demo level, patch in the \"one level completes\" patch, and release a demo."
+	},
+	{
+		"id": 5112,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-07-08T04:50:31.000Z",
+		"content": "T3h neatness! Any patches you need help no; I'm your girl!A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5113,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-07-08T07:38:46.000Z",
+		"content": "Thanks levellord.  I think I'm going to start a thread on K:M containing all the patches I currently need that I can't handle myself at my first opportunity tomorrow.<br /><br />Oh, and hey, just in the event anyone is interested in asking me specific questions or anything, you can reach me most of the time on AIM.  My SN is TheRealZXD.  Just tell me who you are, and I'll be glad to talk to you."
+	},
+	{
+		"id": 5114,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-08-03T03:56:31.000Z",
+		"content": "I've recently updated the title screen.  It's almost finished... but it still feels like something's missing in the bottom right hand corner.  I'm thinking tree foliage."
+	},
+	{
+		"id": 5115,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-03T07:56:09.000Z",
+		"content": "Or clouds, or buildings, or perhaps mountains.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5116,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-09-17T19:57:23.000Z",
+		"content": "The final version of the title screen is completed and uploaded.  I went with tree foliage for the background, and I think it turned out marvelously.  Look a few posts up to see it."
+	},
+	{
+		"id": 5117,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-09-18T07:29:46.000Z",
+		"content": "Those are some incredible 16-colour trees! Go team! The only thing I can find to complain about in that title screen is the hair--it looks kinda flat. Overall, though, it's a stunning image.<br /><br />*applauds*"
+	},
+	{
+		"id": 5118,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-09-18T10:00:32.000Z",
+		"content": "Whoaly garg, that is one of the best title screens I've ever seen! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  It's incredible! The trees are so cool!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5119,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-18T13:30:17.000Z",
+		"content": "I can see we'll have an awesome mod someday.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5120,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-09-18T18:51:11.000Z",
+		"content": "Looks really nice.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5121,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-09-18T23:00:28.000Z",
+		"content": "What kind of level would you guys like to see in a demo release: outdoor with trees and whatnot, or indoor with the spaceship interior stuff?"
+	},
+	{
+		"id": 5122,
+		"title": "vote",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-09-19T00:56:16.000Z",
+		"content": "I'd vote for outdoor, because it's tough to make those square-shaped blocks turn into un-square-shaped mountains and fields.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />Also, share your wisdom for your tree construction.  What model did you work from, and how'd you decide on the colors?  It looks very nice!"
+	},
+	{
+		"id": 5123,
+		"title": "Re: vote",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-09-19T01:23:21.000Z",
+		"content": "I didn't use a model at all, really.  Right now, I'm living in a 15th floor apartment in downtown Chicago, so there's not many evergreens around.  If anything, I based it off of images in my head.  The shape was done by staggering straight edge lines in MSPaint in tiers.  Color choice was simple: pick green, because they're evergreens."
+	},
+	{
+		"id": 5124,
+		"title": "Re: vote",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-19T10:02:05.000Z",
+		"content": "See; thats the kind of working I like; paint based and simple.<br /><br />I'd prefer an indoor level, save your 1337 outdoor graphics for the final release.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5125,
+		"title": "Re: vote",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-09-19T13:16:12.000Z",
+		"content": "Yeah, indoor now and outdoor for final release! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5126,
+		"title": "New Bonuses of ADVENTURE!",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-09-21T05:06:26.000Z",
+		"content": "[img]http://www.zxdware.net/newtibabonuses.png[/img]<br />The new bonus items.  Can you identify them all?"
+	},
+	{
+		"id": 5127,
+		"title": "Re: New Bonuses of ADVENTURE!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-09-21T13:40:30.000Z",
+		"content": "Ooh, tasty. Now I have some inspiration for the collect-stuff sound effect."
+	},
+	{
+		"id": 5128,
+		"title": "Re: New Bonuses of ADVENTURE!",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-09-21T20:53:54.000Z",
+		"content": "I'd say... can of Mountain Dew, a taco, a dixxette, a framed picture, and a money bag, or maybe that's a rod of Asclepius and it's a bag of drugs instead. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Retodon8<br />Sheep happens! [url=http://keen.retodon8.net/][img]http://retodon8.net/Keen/Graphics/K1_nme_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 5129,
+		"title": "Re: New Bonuses of ADVENTURE!",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-09-22T11:22:10.000Z",
+		"content": "Very nice and inventive!Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5130,
+		"title": "Re: New Bonuses of ADVENTURE!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-09-22T12:22:58.000Z",
+		"content": "Man, everything in this is so professional! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  Those collectiables are just awesome, I'll collect every single one of them!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5131,
+		"title": "qua qua qua",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-11-16T07:53:52.000Z",
+		"content": "Got off track here.  Been doing college stuff.  Also updated my webcomics a lot.  I'm suddenly very interested in this again, though, so hopefully I'll get back on the wagon and have something more for you guys soon.<br /><br />Also, I need some level design tips.  What do you, the audience, think makes a good level?  I'll take into consideration all tips I'm given and try to impliment them to the best of my abilities.  This game's not just being made for the sake of my ego; always remember, this game's for you guys.<br /><br />Also also, here's a sneak peek at what the overworld map will look like.  Only the worldmap will be downgraded because it can't emulate reality.  Still, it'll hopefully look something like this: [url=http://www.google.com/maps?f=q&hl=en&q=almont&sll=37.0625,-95.677068&sspn=35.768112,59.941406&ie=UTF8&z=18&ll=42.893212,-82.993056&spn=0.00202,0.003659&t=h&om=1]www.google.com/maps?f=q&amp;h...9&amp;t=h&amp;om=1[/url]"
+	},
+	{
+		"id": 5132,
+		"title": "Re: qua qua qua",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-16T14:00:33.000Z",
+		"content": "It'll be interesting to see that converted to Keen! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  And glad to hear you're still making this, I'm so waiting for it!<br /><br />About level design.. I'm myself not an expert in that even if I like it the most when making mod, but there has been a few topics about that it at the K:M, and here's one of them:<br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=775]andy.durdin.net/keen/modd....php?t=775[/url]3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5133,
+		"title": "re: thread",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-16T21:03:43.000Z",
+		"content": "Haha, that's the thread which led to our ongoing analysis of Yorphius II.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  How cool!  <br /><br />Hope you get some ideas, ZeroDiamond!"
+	},
+	{
+		"id": 5134,
+		"title": "Re: re: thread",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-11-17T07:33:40.000Z",
+		"content": "[img]http://www.zxdware.net/ughwtf.PNG[/img]<br />I didn't notice this until I started using TileInfo, but does anyone know what the deal with this weird gray-and-white barfage all over my tiles here is?  It's not at all present on the tile sheet, so I have no idea where it's coming from."
+	},
+	{
+		"id": 5135,
+		"title": "Re: re: thread",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-17T16:15:18.000Z",
+		"content": "I have no idea, but it could be something to do with the sprites messing up something -- either there's too much data (but I doubt that) or some sizes are wrong somehow, or too large. Not sure. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  Something like this happened to me once, but I can't remember what was the problem.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5136,
+		"title": "yeah",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-17T19:40:47.000Z",
+		"content": "TileInfo is a picky little program--make sure when you load and save that you're reminding it that it's a Keen1 tileset.  I seem to recall CheesyDave having issues when he didn't remember open the default Keen1 set to remind TileInfo what he was doing."
+	},
+	{
+		"id": 5137,
+		"title": "Re: yeah",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2006-11-17T23:19:58.000Z",
+		"content": "Did you import the keen1 tileinfo before editing? I think not doing so can mess up the tiles in a similar way...<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5138,
+		"title": "Re: yeah",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2006-11-18T01:15:44.000Z",
+		"content": "You have to import the Keen1 tile info first every time?  If so, that'd explain it.  I'll try that later and see if that works.  Thanks in advance!"
+	},
+	{
+		"id": 5139,
+		"title": "Re: yeah",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-18T18:40:24.000Z",
+		"content": "I fool somehow didn't read that you were talking about TileInfo doing something -- ignore my whole reply. :P3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5140,
+		"title": "Re: yeah",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-02-02T08:32:28.000Z",
+		"content": "Okay, I'm at the end of my rope here.  Can somebody who really knows how to handle TileInfo volunteer to help me clear up the ugly tile vomit that's appearing all over my trees?  I've done what was suggested, but to no avail.  Apparently, I'm just dumb.  Whoever can handle this for me, I will send a zipped copy of the entire game folder as well as a copy of the tileset.<br /><br />Please, I'd really like to get back to work on this, but this is going to drive me absolutely batty."
+	},
+	{
+		"id": 5141,
+		"title": "Re: yeah",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-02T10:06:32.000Z",
+		"content": "If you send me your tileinfo and patchfile I shall see if I can fix it, post haste, I have a lot of spare time this week.<br /><br />I suspect it may have to do with tile/patch clash.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5142,
+		"title": "Re: yeah",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-02-03T00:11:14.000Z",
+		"content": "Alright, how should I go about getting what you need to you?  I'd rather not put up a public link right now, what with there being these unsightly issues and whatnot."
+	},
+	{
+		"id": 5143,
+		"title": "Re: yeah",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-02-27T03:26:20.000Z",
+		"content": "You still want to help me, Levelass?"
+	},
+	{
+		"id": 5144,
+		"title": "Re: yeah",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-27T07:08:12.000Z",
+		"content": "But of course, I'm always ready to help, just email me and I'll get back to you ASAP!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5145,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-02-27T22:05:07.000Z",
+		"content": "Ah geez, this is ancient...I remember the topic from before I left!--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5146,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-02-28T05:27:21.000Z",
+		"content": "Well, at least there's been steady progress.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5147,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-02-28T07:14:17.000Z",
+		"content": "I'll send you an e-mail... as soon as you share the address with me!  Otherwise, I'll be unable to send it.  Which would make me sad!  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	},
+	{
+		"id": 5148,
+		"title": "Male",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-01T06:41:02.000Z",
+		"content": "Well, I have three, levellass@gmail.com, six_different_people@hotmail.com and gld4@waikato.ac.nz (Educational adress.)"
+	},
+	{
+		"id": 5149,
+		"title": "Re: Male",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-03-01T23:00:59.000Z",
+		"content": "Sent to the GMail.  Thanks for helping me out--I really appreciate this."
+	},
+	{
+		"id": 5150,
+		"title": "Re: Male",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-11T02:51:50.000Z",
+		"content": "I have found no errors whatsoever appearing with these patches and tile data; from Dosbox or plain, slow to fast computer.<br /><br />This leaves twop posibilities:<br /><br />1.) It is your comoputer<br />2.) The tiles themselves have something to do with this.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5151,
+		"title": "Re: Male",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-03-11T03:33:32.000Z",
+		"content": "If I sent you the whole game and the source tiles, could you maybe see if you could figure out that way?"
+	},
+	{
+		"id": 5152,
+		"title": "Re: Male",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-12T05:09:06.000Z",
+		"content": "I could try, this is a real interesting problem; is it one tile or several getting affected?<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4961,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-03-12T06:54:21.000Z",
+		"content": "It looks like upwards of four tiles are getting this static barfed all over them.  At any rate, I'll be sending you this stuff by tomorrow."
+	},
+	{
+		"id": 4962,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-13T05:46:42.000Z",
+		"content": "Well, if poblems persist, the four tiles can always be relocated and not used.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4963,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-06T02:39:39.000Z",
+		"content": "My e-mail client got sucked into a time warp, so \"tomorrow\" took an awfully long time getting here.  At any rate, I sent you the full game and tileset.  Hopefully there'll be something more useful that comes out of things this time.  Otherwise, guess that makes four or so tiles that just can't be used."
+	},
+	{
+		"id": 4964,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-06T02:57:07.000Z",
+		"content": "WOAH WOAH WOAH HOLD THE PHONE<br /><br />Did somebody say this garbage could be sprite related?  And, if so, does the width have to be divisible by 8, or by 24?  Because it appears my old dead frames (which have yet to be resprited from scratch) are at a width of 32, which is NOT divisible by 24...<br /><br />I'll take a whack at this regardless.<br /><br />EDIT: Oops, crap.  Why didn't I just edit the former post?  Anyhow, I just realized that that can't possibly be the case, as all the frames for the Psychobilly and the Space Pirates are at 32 as well, and the overworld Keen sprites are at 16.<br /><br />EDIT OF AN EDIT:  ... unless I effed them ALL UP.  In which case, I am going to jump out this window.  Right.  Freaking.  Now.<br /><br />EDIT OF AN EDIT OF AN EDIT:  ... no, actually, I believe I am reading the dimensions Windows is giving me wrong.  Is it width x height or height x width?"
+	},
+	{
+		"id": 4965,
+		"title": "Re: The Ian Burton Adventure",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-04-06T03:30:39.000Z",
+		"content": "I sounds like you're thoroughly psyching yourself out there. Just make sure the height and width are multiples of 8. That's all there is to it, and if they're all right then it's something else.<br /><br />Didn't Levellord or someone have a problem like this that was related to the title screen bitmap?"
+	},
+	{
+		"id": 4966,
+		"title": "edits of editted editing edits who are also editing",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-04-06T03:33:53.000Z",
+		"content": "The width of the sprite itself as it appears in-game must be a multiple of 8, which means that the sprite bitmap file that you have in your folder must have a width that is a multiple of 24, because of the 3-part nature of their construction.<br /><br />The \"color\" part of the sprite must be a multiple of 8, the \"masking\" part of the sprite must be a multiple of 8, and the \"collision\" part of the sprite must be a multiple of 8... <br /><br />For example, if you're using MSPaint, it Ctrl+E to bring up the image properties--the width should be either 24, 48, 72, or 96.  Anything else is likely to be too large to be usable--you should only have one or two that are 96, anyway.  The height shouldn't matter, but don't get rediculous.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />Hope that helps..."
+	},
+	{
+		"id": 4967,
+		"title": "Re: edits of editted editing edits who are also editing",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-06T04:13:35.000Z",
+		"content": "Okay, then yeah, the sizes are all spot on.  Hm.<br /><br />Looks more and more like there's going to be a few unused tiles in this..."
+	},
+	{
+		"id": 4968,
+		"title": "Re: edits of editted editing edits who are also editing",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-06T05:54:43.000Z",
+		"content": "In that case, make a few unique tiles that take up a lotta room; odd kittke easter eggs to hide around the place.<br /><br />Sprite heights ca be anything you wish if I remember correctly.<br /><br /><br />Where did you mail this to? I have not recieved any email of any kind for you at any of my three possible contact mails.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4969,
+		"title": "Re: edits of editted editing edits who are also editing",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-06T18:19:40.000Z",
+		"content": "Really?  I sent it to the gmail...  I guess I'll try again in a sec.<br /><br />EDIT: \"Hi. This is the qmail-send program at unixplesk5.nexpoint.net.<br />I'm afraid I wasn't able to deliver your message to the following addresses.<br />This is a permanent error; I've given up. Sorry it didn't work out.<br /><br />&lt;levellass@gmail.com&gt;: <br />64.233.185.114 failed after I sent the message.<br />Remote host said: 552 5.7.0 Illegal Attachment 3si3833952wrs\"<br /><br />I have no idea why this would be an illegal attachment, so I guess I'll send a copy to each of the other two addresses and see what they have to say about it.<br /><br />EDIT OF AN EDIT: Sent to the latter two.  Hopefully one of them goes."
+	},
+	{
+		"id": 4970,
+		"title": "anti-virus",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-06T21:17:37.000Z",
+		"content": "It's probably because GMail doesn't like .exe attachments in emails (or .exe files inside .zip files), mainly to protect people from their own stupidity viruses. Sending it to the other two addresses should work fine."
+	},
+	{
+		"id": 4971,
+		"title": "Re: anti-virus",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-04-07T01:35:59.000Z",
+		"content": "Gmail is easily fooled. Just change the file extension to something that isn't .zip or .exe, and voila."
+	},
+	{
+		"id": 4972,
+		"title": "Re: anti-virus",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-04-07T02:10:43.000Z",
+		"content": "Yet another reason to use z7 files pver zip.  Not only about 200-300% higher compression rates, but because no stupid f'ers like g-mail know how to fucl around with them yet.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 4973,
+		"title": "Re: anti-virus",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-07T03:07:28.000Z",
+		"content": "And lo! I have recieved!<br /><br />z7 files it appears, now carry viruses (Gosh!) and I have had them blocked.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4974,
+		"title": "Re: anti-virus",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-09T19:25:59.000Z",
+		"content": "Offtopic: and can I fool Gmail with .tar.gz files? I use them a lot.<br /><br />Ontopic: I'm looking forward to this mod. No release date planned yet?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 4975,
+		"title": "Re: anti-virus",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-10T03:18:34.000Z",
+		"content": "I'm not going to project any more dates for the project; as soon as I find a workaround for the tiles goofing up, I'll get back to work.  And since there have been some significant leaps forward in terms of level editing, hopefully I can use the mouse to do level design by the time I really get to it."
+	},
+	{
+		"id": 4976,
+		"title": "Re: anti-virus",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-10T07:11:05.000Z",
+		"content": "Modkeen wasn't compressing your title screen right, I had it recompressed, I think it'll be fine, the problem now is ugly hash marks over you Game over and High Score screen bitmaps. Were these here on your game, or is it a side effect of my recompression?<br /><br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 4977,
+		"title": "Re: anti-virus",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-10T17:12:57.000Z",
+		"content": "There are no backups of the original data (i.e. BMP files)?<br />Sounds strange, perhaps you want an updated version of ModKeen 2.0.1 (unofficial) for Win32. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  What was the version you were using?<br />------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 4978,
+		"title": "Re: anti-virus",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-04-10T17:30:35.000Z",
+		"content": "Ick.  Those weren't there before... hm...<br /><br />Try recompressing those?  X_X<br /><br />I know very little (i.e. nothing) about the compression routines used in the game, so I don't know what to say in terms of that...  I'd certainly hate to have to leave out my title screen or something, and the same goes for having to edit out having high scores and a game over screen.  At any rate, though, you're less likely to see the \"Game Over\" and \"High Scores\" screens than you are map tiles, so this is a marked improvement.<br /><br />If there's any way to fix this nicely, I'm sure you'll figure out how.<br /><br />EDIT: Also, I'm using the original ModKeen 2.0.1 and was completely unaware of a Win32 version.<br /><br />And there are backups of the original bitmaps on my system.  At least if you mean the resources that compile into the game automatically."
+	},
+	{
+		"id": 4979,
+		"title": "Re: anti-virus",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-08-03T04:49:09.000Z",
+		"content": "Alright, it's been quite a while since I've talked about this project.  Is there anything new on the compression issues wracking the game's graphics?  Or has it long since been given up on?<br /><br />Also, would it possibly remedy the situation to start over fresh with a new Keen1 folder and recompile stuff with the Modkeen Win32 compile that was mentioned earlier?  If so, where can I download this program?"
+	},
+	{
+		"id": 4980,
+		"title": "Re: anti-virus",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-03T09:28:05.000Z",
+		"content": "\"Also, would it possibly remedy the situation to start over fresh with a new Keen1 folder and recompile stuff with the Modkeen Win32 compile that was mentioned earlier? If so, where can I download this program?\"<br />I think you should do that. Here's the program:<br />[url=http://www.keengrid.net/ckfiles/programs/modkeen32.zip]www.keengrid.net/ckfiles/...keen32.zip[/url]3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 4981,
+		"title": "Re: anti-virus",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-03T14:04:28.000Z",
+		"content": "If you still have problems and you have the input BMP files, you could pass them to me and I could see what can be done to fix the import process, if necessary, with LModKeen 2, the released version, or with a bug fix.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 4982,
+		"title": "Re: anti-virus",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-08-03T19:25:15.000Z",
+		"content": "Alright, redoing it with Modkeen32 was both a success and a failure.  While it did get the ugly hash marks off of the tiles on the map, it did exactly what levellass mentioned about the recompression last time, putting the same marks instead over the \"GAME OVER,\" \"NAME,\" \"SCORE,\" and \"POINTS\" graphics.  I suppose it's a marked improvement to the point where I can start working on tiles and whatnot again, but it's certainly a hassle having to deal with this.  Is there -any- way to fix these compression errors short of sending everything to Shadow Master and hoping he can compress everything right?  Not that that's something I'd be against... just it would be a hassle to have to send to him every time I want to recompile."
+	},
+	{
+		"id": 4983,
+		"title": "Re: anti-virus",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-03T20:54:39.000Z",
+		"content": "No, I just want your files to reproduce the issue, and I need them once, so I could work on  a bug fix or something on LModKeen 2 (have you tried with it btw? Not the same link KR gave you, see in my signature).<br /><br />Obviously, after we run out of fast solutions.<br /><br />In any case, my email is com dot gmail at shadowm2006 (reverse order and you shall get it).------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

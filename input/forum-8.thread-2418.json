@@ -1,0 +1,186 @@
+[
+	{
+		"id": 866,
+		"title": "Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-03-30T17:52:14.000Z",
+		"content": "I've been out of the Keen scene for a while, but I have been representing Keen as BillyBlaze314 on xbox live.  Have any of you ever played Geometry Wars on the xbox 360?  I was up to 5th place (now 7th) on the leaderboard (out of about 100,000 people).  I made a video of the game I got the highscore, if anybody's interested.  [url=http://video.google.com/videoplay?docid=8882579799957136749&pl=true]video.google.com/videoplay?docid=8882579799957136749&amp;pl=true[/url]  It's good to see that Keen is still alive!"
+	},
+	{
+		"id": 21734,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-30T18:42:39.000Z",
+		"content": "Hi man, nice to see ya again. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  A lot has happened while you've been away, and Keen is still alive! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />For those newbies that haven't heard of this guy, he made the legendary first Keen 4 level by using a hex editor instead of some level editor!<br /><br />Never heard of that game, but that's pretty nice accomplishment considering how many there are other players. Very neat.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21735,
+		"title": "Re: Geometry Wars",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-03-30T19:11:35.000Z",
+		"content": "Another crusader returns.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-british.gif[/img] -----------------<br />[img]http://www.geocities.com/anthalerero/pic/banner_eurovision.jpg[/img]"
+	},
+	{
+		"id": 21736,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-03-30T20:03:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]he made the legendary first Keen 4 level by using a hex editor instead of some level editor![hr][/quote]<br /><br />Well, that's not entirely true -- I used Ted5 (which I slightly modified with the source code), but I didn't have the graphics working properly, so it looked like a garbled mess in the editor, then I used a hex editor to append the level data to the end of the gamemaps file.  I eventually wrote a little tool that would handle all the file modifying for me.  That was before the ckxpatch utilities, which I think are really nice.  But I did actually make a little level before that \"first level\" using only a hex editor, when I was figuring out how the level data was stored in the file.  It was a silly small thing that only used the \"block\" tiles, but it worked!"
+	},
+	{
+		"id": 21737,
+		"title": "ah, yes",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-30T21:36:32.000Z",
+		"content": "The mysterious ChargingMoose that I only know of from my days of looking around keen sites for mods and level packs (before i signed up here)<br /><br />And we have the same little icon. Thats rare, TWO keen heads on a keen forum! Didn't expect that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 21738,
+		"title": "Re: ah, yes",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-03-30T21:47:24.000Z",
+		"content": "Yes, but they're not exactly the same...mine faces to the left."
+	},
+	{
+		"id": 21739,
+		"title": "Re: ah, yes",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-30T21:55:47.000Z",
+		"content": "Hey, I don't know you, but then again, I am pretty new to the forums.<br /><br />So, um, welcome back, I guess. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 21740,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486970,
+		"author_name": "Yorpy.e",
+		"timestamp": "2006-04-01T08:45:33.000Z",
+		"content": "I've played geometry wars but I'm not very good, my highest score is like 70,000 or something like that.[img]http://public.clunet.edu/~ebuckle/yorpylogo.jpg[/img]"
+	},
+	{
+		"id": 21741,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-03T07:24:14.000Z",
+		"content": "Yays! The Moose is crushing me beneath its hooves!<br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21742,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-04-17T15:55:54.000Z",
+		"content": "Just wanted to update you all, I'm now #1!  It's a pretty big deal as there are well over 100,000 people on the leaderboard."
+	},
+	{
+		"id": 21743,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-17T16:31:22.000Z",
+		"content": "Woah! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Congrats, man! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21744,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-04-18T00:37:53.000Z",
+		"content": "Yep, so if you look at the leaderboard, you'll see BillyBlaze314 right there on top.  He must have too much time when he's traveling in his Bean with Bacon Megarocket."
+	},
+	{
+		"id": 21745,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-20T01:23:24.000Z",
+		"content": "O.o<br /><br />Charging Moose represents!<br /><br />Yeahs! Now the world shall once again know the Name of Ke- err, Billy Blaze!<br /><br />C'mon, lets face it, those mental wimps never stood a chance.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21746,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-04-20T13:44:55.000Z",
+		"content": "Yeah, check this out [url=http://www.xboxic.com/news/693]www.xboxic.com/news/693[/url]<br />that website wants to do an interview with me, too."
+	},
+	{
+		"id": 21747,
+		"title": "Re: Geometry Wars",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2006-04-20T15:30:45.000Z",
+		"content": "Congratulations with your score!<br />I only tried to game for a few minutes, noticed I suck at it really bad rightaway.<br />I earned something like 10 or 100 points or something.<br />Actually the minimum amount of points per ship could be 1000 for all I know, I'm just saying I had a lot less digits than the top 10 scores. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />Maybe I should give it another chance, judging by the video I didn't exactly play it the right way.Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 21748,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-20T18:27:14.000Z",
+		"content": "An interview with Billy Blaze?<br /><br />Huzzah! Tell the world of your galaxy wide conquests!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21749,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-20T22:41:16.000Z",
+		"content": "Yeah, pretend being the real BB! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] <br /><br />Link the interview when it's done.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21750,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-04-21T02:37:15.000Z",
+		"content": "Here you go [url=http://www.xboxic.com/news/712]www.xboxic.com/news/712[/url]<br />It's probably not very interesting to most of you, but it's been really fun to get attention like this.  Sorry, I didn't mention Commander Keen.  I should have there at the end.  Oh well."
+	},
+	{
+		"id": 21751,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-21T04:38:26.000Z",
+		"content": "Drat! Nevermind! Keen will have his day again! And besides, he rulez Geometry!<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 21752,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486085,
+		"author_name": "eK",
+		"timestamp": "2006-04-21T05:14:46.000Z",
+		"content": "I haven't played Geometry Wars in a while, but I quite enjoyed it after I got my 360. I didn't even by a full game until a week after I bought the thing."
+	},
+	{
+		"id": 21753,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-04-21T12:53:36.000Z",
+		"content": "Ah, nice interview.<br />Hmmm, this game seems to be more popular than I could've guessed from screens/videos -- perhaps there's some old school arcade feeling in it that people can't get enough. It's nice to see a modern game where the amount of polygons doesn't count but the actual gameplay does. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21754,
+		"title": "Re: Geometry Wars",
+		"author_id": 1486415,
+		"author_name": "ChargingMoose",
+		"timestamp": "2006-04-21T18:41:56.000Z",
+		"content": "Just one more note, I call the little ship in the game the Bean-with-Bacon Megarocket."
+	},
+	{
+		"id": 21755,
+		"title": "Re: Geometry Wars",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-22T07:54:44.000Z",
+		"content": "Its little touches like that which are the true mark of a Keener.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

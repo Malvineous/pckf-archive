@@ -1,0 +1,34 @@
+[
+	{
+		"id": 564,
+		"title": "Vortlev 0.5 - A Keen:Vorticons Level Utility",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-27T03:37:16.000Z",
+		"content": "This utility is to be a level editor for Keen:Vorticons. So far it can open and view most levels, but there are some that are still proving troublesome. Also, Levellord tells me it's able to open Dangerous Dave 2 tiles and levels, since it uses a very similar engine.<br /><br />Although it's made in Allegro, through the magic of static linking it requires no DLL file and comes in a tasty 204kb zip.<br /><br />Download:<br />[url=http://jimsoft.spatang.com/keen/spleen/archive/vortlev0.5exe.zip]Win32 EXE[/url] 204kb<br />[url=http://jimsoft.spatang.com/keen/spleen/archive/vortlev0.5src.zip]Source code[/url] 4kb (Note: requires Allegro library to be installed to compile)<br /><br />When it is run, it'll bring up a dialog asking for the tileset location followed by another seeking the level. I haven't worked out how to allow these dialogs to support the mouse yet, so you'll have to work with the clumsy keyboard interface for now.<br /><br />You'll then be able to scroll around the level (if it's larger than the screen of course) using the arrow keys. Hit Esc to exit, and T to reload the tileset on-the-fly [much easier than restarting the program as is necessary for most other editors]. F is meant to switch between fullscreen and windowed, but as a side effect of some experimental code it currently just crashes the program. I'll fix that next time.<br /><br />My aim is to basically make this into a windowable, cross-platform KeenEdit. It'll have a nice hybrid of keyboard and mouse controls [ie. KE's ZXC combined with LMB and RMB, and then Ctrl/Alt/Shift modifiers for various functions] and animating tiles, among many other trippy little features.<br /><br />In the meantime, it should be usable as a quick preview window while drawing the tileset. I'm open to any suggestions for making it more intuitive or just better in general, so if you have a feature request let me know.<br /><br />The lowest specs I've tried this on is a 166MHz with 16Mb RAM and a 2Mb graphics card. Windowed, it runs at fairly a usable speed (though it takes a while to load the level at the moment), but I'm working on improving the drawing and file code to make it even quicker.<br /><br />Please try it out on as many different machines as you can and tell me how well it runs on different hardware. If you'd like to go the extra mile, you could try the two previous versions I still have available and let me know how much better the latest version performs.<br /><br />[url=http://jimsoft.spatang.com/keen/spleen/archive/vortlev0.4.zip]Version 0.4 (EXE)[/url]<br />[url=http://jimsoft.spatang.com/keen/spleen/archive/vortlev0.3.zip]Version 0.3 (EXE)[/url]<br /><br />Enjoy, y'all.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15233,
+		"title": "Re: Vortlev 0.5",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-01-27T04:18:19.000Z",
+		"content": "Cool! Didn't have much time to play with it since it's late. But I did find a couple things...<br />1. Pressing F makes it fullscreen... but that crashes. (I'm all too familiar with this, uh, feature where switching between fullscreen and windowed does cool things like ... doesn't work.)<br />2. On the loading dialog, it always seems to start with \"x^=\" after the current directory in the \"textbox\" at the top.<br />3. Moving between controls with arrow keys on the loading dialog is ... weird.<br />With focus on the file list, press right. You'll move to the drive list.<br />With the focus now in the drive list, Press right again or left, you'll move back to the file list. <br />However, the focus is on the file list, press left. Now you'll move to the OK button.<br />This doesn't matter too much because Tab works and the tab order is correct."
+	},
+	{
+		"id": 15234,
+		"title": "Indeed.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-01-27T04:36:58.000Z",
+		"content": "Yeah, I intend to code a better file selection method. Allegro's built-in dialogs are quick to code but not very pleasant. Useful as a temporary measure, though.<br /><br />Hmm... the path has \"^^=\" for me. That's weird, but it should go away when I create a better interface.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 15235,
+		"title": "Re: Indeed.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-01-27T10:12:05.000Z",
+		"content": "As said, this is gonna be so awesome! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] <br />Nice to see you got 0.5 up so fast! The dialogs are excellent. Mouse'll make (yeah, I know you said you'll add it soon) it easier but it's not bad as it is.<b>Eat your veggies!</b>"
+	}
+]

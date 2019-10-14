@@ -1,0 +1,114 @@
+[
+	{
+		"id": 665,
+		"title": "GNU compiler",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-10-16T17:57:11.000Z",
+		"content": "does any1 know how to run this thing? i just dled v4.2 or something, extracted it, and now i have no idea how to run/install it; [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img] Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 17012,
+		"title": "Re: GNU compiler",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-10-16T19:57:55.000Z",
+		"content": "Windows? Use MinGW instead.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 17013,
+		"title": "Re: GNU compiler",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-10-17T02:40:56.000Z",
+		"content": "i might look into that 2, but if any1 knows, plz tell meEver notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 17014,
+		"title": "Re: GNU compiler",
+		"author_id": 1486463,
+		"author_name": "KeenEmpire",
+		"timestamp": "2007-10-17T05:46:31.000Z",
+		"content": "MinGW if you just want the compiler, as opposed to the entire linux shell<br /><br />then add the /bin/ folder (where you installed MinGW) to your path<br /><br />finally, to compile, in the command line and appropriate directory type \"g++ file.cpp -o fileName\" in order for the compiled program to be fileName.exe (or \"j++\" or \"gcc\" i think).  (This is the same as in GNU.)<br /><br />From what I gather, installing GNU is much more arduous.[quote]<b><i>Quote:</i></b>[hr]Just remember that this is the year of the elite devil.<br /><br />1337 + 666 = 2003[hr][/quote]<br /><br />\"God is love.\" 1 john 4:8<br />\"Love is not jealous.\" 1 corinthians 13:4<br />\"I, the Lord thy God, am a jealous god.\" exodus 20:5<br /><br />[img]http://img259.imageshack.us/img259/3852/sheepsmall0sf.jpg[/img] <br />[url=http://trailers.apple.com/trailers/independent/blacksheep/trailer/]trailers.apple.com/trailers/independent/blacksheep/trailer/[/url]"
+	},
+	{
+		"id": 17015,
+		"title": "Re: GNU compiler",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-17T21:06:41.000Z",
+		"content": "In Windows, you will definitely want MinGW. Installation procedure isn't too difficult, KeenEmpire just told you how.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 17016,
+		"title": "Re: GNU compiler",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-10-17T22:36:32.000Z",
+		"content": "all right i'll try that, but i'm doing c and not c++.Ever notice how master mind and Mortimer McMire coincide?"
+	},
+	{
+		"id": 17017,
+		"title": "Re: GNU compiler",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-17T23:09:26.000Z",
+		"content": "Both are supported, amongst a few other languages even.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 17018,
+		"title": "Re: GNU compiler",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-10-22T15:52:54.000Z",
+		"content": "Yes. Just keep in mind that you must install g++ to be able to compile C++ programs, as gcc only does C by its own AFAIK.<br /><br />MinGW's installer offers you the possibility to select what tools you want to install.<br /><br />After that, everything should be easy if you have experience with makefiles. Just do make. I think there are even Integrated Development Environments for MinGW, but I don't recall specific names atm.<br /><br />I think you can even use it along with Visual C++ if you tweak the project settings to use a compiler other than MS's included one. IIRC that is possible.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 17019,
+		"title": "Re: GNU compiler",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-10-26T03:51:27.000Z",
+		"content": "alright i dled MinGW; i clicked on download and install, but i think all it did was dl it; oh and i chose the minimal dls. then i unzipped everything into one folder...<br /><br />....so how do i use this stuff..? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] --------<br />Dear Mother, I can't believe what happened today! I met one of the smartest people in the whole Universe! His IQ is three f...<br />Hold on, Mother. Something strange is happening...<br />6234yuweyudfhjgfklgmm,/.,"
+	},
+	{
+		"id": 17020,
+		"title": "Re: GNU compiler",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-10-26T05:16:21.000Z",
+		"content": "if you're using windows, just download bloodshed c++.  The compiler is mingw. It comes with quite a decent gui as well, so you don't have to use the command line to compile your code.<br /><br />It has support for c/c++ and im sure more languages.  I used it about 4 years ago in college for a c++ course i took and it worked quite well for what i needed to do.  <br /><br />If you still want to use mingw via the command line, then i suggest you look at reading the documentation.  You can't just expect people to tell you how to use it as it does take a bit of time getting used to especially if you've never worked with command line before.<br /><br />[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 17021,
+		"title": "Re: GNU compiler",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-10-26T05:32:47.000Z",
+		"content": "MinGW has become rather complex with all those modules. I remember it being a lot simpler to acquire the files for installing a CLI-only configuration a few years ago. The installation's usually fairly straightforward, finding the files is confusing.<br /><br />I second Blue's suggestion. Grab Dev-C++. You'll have access to a nice IDE and still be able to use MinGW from the command line. Plus it has a good repository of libraries you can install fairly easily from within the program.<br /><br />Good luck."
+	},
+	{
+		"id": 17022,
+		"title": "Re: GNU compiler",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-10-26T10:11:52.000Z",
+		"content": "Or get Code::Blocks, which is actually still updated and improved on, and it uses the same devpacks repository. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Installing MinGW should be a piece ofcake, btw. Download the installer, install, done. Code::Blocks and Dev-C++ should automatically pick it up.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 17023,
+		"title": "Dev-C++",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-10-31T04:33:36.000Z",
+		"content": "i got dev-C++ and i can work it, but 1 question; my c console programs used to say \"press any key to continue...\" when they're done. But now it just closes the console box immediately; i looked in the help file and found something that might be this, but i could not find it in the actual program. Does Ne1 know how or if i can do this?--------<br />Keen wears his watch on his RIGHT wrist... Is he left handed? Nope, he shoots with his right hand too.<br /><br />\"Dear Mother, I can't believe what happened today! I met one of the smartest people in the whole Universe! His IQ is three f...<br />Hold on, Mother. Something strange is happening...<br />6234yuweyudfhjgfklgmm,/.,\""
+	},
+	{
+		"id": 17024,
+		"title": "Re: Dev-C++",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-10-31T11:31:36.000Z",
+		"content": "Write a plain DOS-style .bat file such as:<br />[pre]  @echo off&lt;name and path of the generated program&gt;pause[/pre]<br /><br />And that solves it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />(I suppose dev-C++ allows you to set the path to the \"program\" to be launched when you launch your project. At least Visual C++, Eclipse, most debuggers and GNU Emacs do.)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

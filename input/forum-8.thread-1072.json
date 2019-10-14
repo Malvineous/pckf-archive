@@ -1,0 +1,146 @@
+[
+	{
+		"id": 729,
+		"title": "I need help.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-13T19:01:39.000Z",
+		"content": "And no I don't need mental help or nothing like that.<br /><br />My computer just died. Well... kinda. I turned it on and found it wouldn't boot. So after playing around with it (And thankfully retrieving all my artwork off of it.) The hard drive poopied out on me. Totally.<br /><br />This is the like... 5th time it has happened in 4 months... It was always like that. Bad from the get-go. You see... it is my brother's old computer that was put together with cheap, off brand parts. The power supply is cheapy-cheap brand which is probably supplying dirty power to the motherboard, which is an off brand, which has off brand memory in it which probably gets messed up from the dirty power and stores incorrect data which all in turn gets sent to the high quality hard drive which makes it fail after about a month on a new XP install.<br /><br />That and the random freezes and crashes.<br /><br />So I got pissed royally this last time and decided to build a new computer. The only problem is... I haven't been following hardware since I was in early highschool. And back then 1.5 GHZ Pentium 4s were \"the bomb\".<br /><br />So after going on New Egg and looking around I came to the great conclusion of \"Wow... I know nothing about this new technology.\"<br /><br />Now I am asking for help from people who DO know a thing or two about SATA drives... (What happened to IDE?!) video cards and memory. (DDR? Isn't that what they play in the arcade?) Mind you I am not CLUELESS about hardware. I just don't know what is a good CPU speed, how many cores I need (Or want), if I should go 32 or 64 bit, how big a pipeline I want for my video card and so on and so forth.<br />I no longer know what is the \"good stuff\" to get.<br /><br />So if you were going to build a computer... what would you put in it? I don't need it for games... just a stable piece of machinery that would be able to use Photoshop fastly and maybe play oblivion or something like that.<br /><br /><br />Oh by the way... I have an X-Box 360... I know the regular X-box could be modded to put XP on it. If I could do that to the 360... screw it... I'm just doing that.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19152,
+		"title": "Re: I need help.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-13T19:45:55.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I know the regular X-box could be modded to put XP on it.[hr][/quote]Linux, actually - you'd have trouble getting it to run Windows XP. You can also run Linux on the XBox 360 from a specially prepared DVD, but I'm assuming that's not what you had in mind."
+	},
+	{
+		"id": 19153,
+		"title": "Re: I need help.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-13T21:43:00.000Z",
+		"content": "well your problem probably is [url=http://en.wikipedia.org/wiki/Capacitor_plague]the capacitor plague[/url]<br /><br />pata [the flat gray cable] is already over 20 years old!! so they made a new type of ata and called it sata<br />think of sata as pata but smaller faster and easier [you don't have to set things to master or slave]<br /><br />as for multi core cpu's think of them as 2 [or 4] cpu's in one package at the moment it's as good as useless since there are almost no progams that use the 2d core<br /><br />you do want 64 bits bit but multi core is useless at the moment<br /><br />i would go far an amd cpu as they are more energy efficient<br />however amd is having a hard time atm<br /><br />you want a motherboard that has a pci-e 16 slot for your video card<br />[hr]a pc to play oblivion [recommended specs &amp; up]<br />[hr]<br />+/- 3ghz 64 bit single core CPU <br />1gig ram<br />a geforce 7800GT or ATI X1600<br />160 gb or more sata hard disk<br />dvd burner<br />a mother board with pci-e 16x<br />floppy drive ?<br />win xp<br /><br /><br />[hr]a pc not for gaming<br />[hr]<br />+/- 2ghz 64 bit single core CPU<br />512mb ram<br />low end video card<br />160 gb or more sata hard disk<br />dvd burner<br />a mother board with pci-e 16x<br />floppy drive ?<br />win xp[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 19154,
+		"title": "Re: I need help.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-13T22:06:27.000Z",
+		"content": "The random freezes and crashes can also be due to the memory not being fully compatible with the motherboard (an annoyingly common problem) or even somone accidentally touching the pins on the RAM sticks when installing/uninstalling them (contrary to popular belief, static electricity often doesn't kill something instantly, but each 'zap' tends to make it more and more unreliable.)<br /><br />Grab a program like Memtest86 which will let you know if the problem lies with the RAM.  If so you can just pull sticks out one by one or replace them with others until Memtest reports no more errors, and then your random crashes will be gone.<br /><br />It could also be due to temperature, and underclocking your CPU will likely fix that (I have an AMD Athlon 1GHz that will only run at 750MHz - any faster and it will lock up after a few minutes.)<br /><br />And of course if you suspect the power supply, just swap it for another one (or buy a new one, which you can use for your new PC if it doesn't fix your old one.)"
+	},
+	{
+		"id": 19155,
+		"title": "Re: I need help.",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-14T02:08:43.000Z",
+		"content": "Just don't buy any dual- or multi-core processors. They run WAAAY too slow, since most programs can't make good use of them yet. It's like cutting your CPU speed in half...-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19156,
+		"title": "Re: I need help.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-14T05:32:10.000Z",
+		"content": "Well I think it is a mix between a bad power supply and bad memory... I would go with what you said Mal' but I simply don't want to put ANY more money into it... It just isn't worth it at this point.<br /><br />Replacing the power supply and memory would be about 100 dollars... four times that much gets me a new computer.<br /><br />Right now I have a 1.2 (Or 1.5 I am not quire sure.) GHZ AMD something or other. 512 MB memory... 128 MB video card and an 80 gig HD.<br /><br />Oh and like a 350 watt Power supply. It is just time to upgrade.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19157,
+		"title": "Re: I need help.",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-14T05:48:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Just don't buy any dual- or multi-core processors. They run WAAAY too slow, since most programs can't make good use of them yet. It's like cutting your CPU speed in half...[hr][/quote]Not if you have a Core 2 Duo - they're blazingly fast even without taking advantage of the dual cores. In fact, they're the first Intel chip that beats what AMD has to offer in a very long time."
+	},
+	{
+		"id": 19158,
+		"title": "Re: I need help.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-14T09:20:38.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Just don't buy any dual- or multi-core processors. They run WAAAY too slow, since most programs can't make good use of them yet. It's like cutting your CPU speed in half...[hr][/quote]<br />Ahem, ahem. It is dividing the processing power over two processors. If programs can't make use of them, it's all processed on one processor, but that still leaves the other processor open for good processing power. That and two things can be processed at the same time, making the computer actually TWICE AS FAST.<br /><br />Don't forget: super computers have over a thousand processors.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 19159,
+		"title": "Re: I need help.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-14T11:57:10.000Z",
+		"content": "Yes, of course when you only run one process at a time a 2GHz dual core will be slower than a 3GHz single core - but don't forget that Windows is multithreaded, so at the very least you can run Windows on one core and that leaves an entire core free for a game to use.  Also don't forget that when most people buy a new PC they'll keep it for at least three years, so if you only buy a single core CPU today you might think you're getting a better deal, but then in about a year's time when every program under the sun takes advantage of multicore processors, you'll be stuck with your sluggish single core CPU for another couple of years until your next upgrade...<br /><br />You also (at least under Linux) tend to notice that a multicore system is a lot more responsive - while one core is busy doing some complex calculation, or it's stuck waiting for a disk read/write to complete, the other core can take over and update the UI or keep running the other programs on the system or whatever.  Most of the servers on my LAN have been dual CPU for the last 4-5 years and it really makes a difference (not to mention it halves your compile times under Linux, being able to literally compile two files at the same time.)  I would've gone dual CPU on my desktop PC years ago, if it wasn't for the massive price increase when you head in that direction (Athlon MP anyone?)<br /><br />I'm actually looking at buying a new PC now, but I may just hang out long enough to get a reasonably-priced quad core..."
+	},
+	{
+		"id": 19160,
+		"title": "Re: I need help.",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-05-14T19:49:04.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Not if you have a Core 2 Duo - they're blazingly fast even without taking advantage of the dual cores. In fact, they're the first Intel chip that beats what AMD has to offer in a very long time.[hr][/quote]<br /><br />Ah, that'd probably explain it.<br />You see, I got the motherboard from my parent's old computer, which had an outdated (I think AMD) processor. Their new processor is an AMD dual-core (at least I'm almost *certain* it's dual), but it goes so much slower than mine.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 19161,
+		"title": "Difficult Wear",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-17T03:07:26.000Z",
+		"content": "[hr]<b>Gal</b> I haven't been following hardware since I was in early highschool. And back then 1.5 GHZ Pentium 4s were \"the bomb\".<br />[hr]Heh, I was in exactly the same situation at the start of last year. Fortunately I have a friend who keeps up to date with these things, so he designed the machine for me.<br /><br />My priority is gaming these days, so I prefer to buy top-notch stuff that'll handle anything I throw at it. Although my machine is a year and a half old, I'm still yet to come across anything that'll lag it. Plus I haven't really kept up to date with hardware in general since then. So I wouldn't be able to offer you much advice on a modern machine designed only for desktop use.<br /><br />I can, however, suggest some brands.<br /><br />- I prefer Nvidia for graphics, more due to their relatively open source-friendly nature compared with ATI.<br />- AMD was owning Intel when I purchased this machine, but from what I hear the Pentium is ahead at the moment. Go for PCI-e for sure, assuming you get a separate graphics card rather than an onboard (which is a horrible path to take, IMKO).<br />- RAM probably wouldn't be such an issue for desktop use, but budget Mushkin or Corsair would be worth looking into.<br />- I'm quite satisfied with my 400Mb Samsung SATA HDD. It even came with a proper case and screws, unlike the 250Mb Seagate SATA I got a while ago (though I've had no problems with that one either). 16Mb cache is a good thing to have, also. I believe 32 is around the corner, but it'll probably be expensive so I'd suggest taking advantage of the likely 16Mb price drop that'd follow.<br />- No idea what makes for a good motherboard these days, but Gigabyte has always impressed me. The board I have in this one is DFI, but I had some major issues with it, as did a lot of others. However, that was a long time ago so their modern hardware has likely improved.<br /><br />[hr]<b>Malv</b> (I have an AMD Athlon 1GHz that will only run at 750MHz - any faster and it will lock up after a few minutes.)<br />[hr]Have you tried a better fan on and some decent thermal paste? I've got a Duron 1GHz that had similar problems, and some  Arctic Silver 5 fixed it right up. That and cleaning off the cheap-o brand thermal paste that had gunked everything up.<br /><br />[hr]<b>Gal[/hr] I would go with what you said Mal' but I simply don't want to put ANY more money into it... It just isn't worth it at this point.<br />[hr]If you have some spare time, carrying out some of the suggested diagnostics would be a worthy investment. If you find a way to fix it, you'll have a secondary machine to play with. Secondary machines are </b>"
+	},
+	{
+		"id": 19162,
+		"title": "Re: Difficult Wear",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-17T10:08:38.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]- I'm quite satisfied with my 400Mb Samsung SATA HDD. It even came with a proper case and screws, unlike the 250Mb Seagate SATA I got a while ago (though I've had no problems with that one either). 16Mb cache is a good thing to have, also. I believe 32 is around the corner, but it'll probably be expensive so I'd suggest taking advantage of the likely 16Mb price drop that'd follow.[hr][/quote]<br /><br />i think you mean GB i had a +/- 600mb hdd in my 486 :P oh and Mb means megabit<br /><br />[quote]<b><i>Quote:</i></b>[hr]- AMD was owning Intel when I purchased this machine, but from what I hear the Pentium is ahead at the moment.[hr][/quote]<br /><br />the pentium name is dead[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 19163,
+		"title": "Re: Difficult Wear",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-17T10:19:48.000Z",
+		"content": "[hr]<b>memsys</b> i think you mean GB<br />[hr][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  Indeed."
+	},
+	{
+		"id": 19164,
+		"title": "Re: Difficult Wear",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-05-20T17:44:06.000Z",
+		"content": "Ah thanks for all your people's help so far but I still have the MAIN problem of choosing a good motherboard with the right clock speed. What should I try and go for? 2.7 GHZ or something? (Why can't I find 3 or 4 GHZ anywhere? 2 GHZ came out when I was in early high school! And chips are STILL at the same speed more or less.)<br /><br />[quote]<b><i>Quote:</i></b>[hr]Spleeny: <b>Secondary machines are</b>[hr][/quote]<br />Yes... secondary machines ARE... they most certainly ARE.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 19165,
+		"title": "Re: Difficult Wear",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-20T20:30:14.000Z",
+		"content": "3GHz shouldn't be hard to find, but no 4GHz chips have been released yet. This is mainly because the focus has moved towards getting more done in each cycle rather than doing more of said cycles per second. For example, the new Core 2 Duo chips clocked at 2GHz are way faster than any of the Pentium or Athlon chips clocked at 3GHz."
+	},
+	{
+		"id": 19166,
+		"title": "ezBovine",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-21T02:12:07.000Z",
+		"content": "[hr]<b>Gal</b> they most certainly ARE.<br /><br />[hr]Gah, even though I avoided using quotes, ezBoard still found a way to screw up my post! Fortunately, the answer is sufficiently implied. 3200+ XP, 200MHz DOS and 1GHz experimental/Linux is a nice combination when hooked up to a KVM."
+	},
+	{
+		"id": 19167,
+		"title": "Re: Difficult Wear",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-05-22T22:25:49.000Z",
+		"content": "<i><b>Spleen</b> Have you tried a better fan on and some decent thermal paste? I've got a Duron 1GHz that had similar problems, and some Arctic Silver 5 fixed it right up. That and cleaning off the cheap-o brand thermal paste that had gunked everything up.</i><br /><br />Yep, sure have - and you can sit in the BIOS for hours (which usually runs the CPU at 100%) with no problems, temperature is fine, but as soon as it boots Linux it locks up.  I think the problem was that I had overclocked it a bit too much, and it had been running a bit hot for long enough that it started to fail and now the only stable speed is slower than its stock speed."
+	},
+	{
+		"id": 19168,
+		"title": "Re: Difficult Wear",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-05-31T16:13:34.000Z",
+		"content": "ibm's power 6 has clockspeed of 4.7 GHz !!! [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	}
+]

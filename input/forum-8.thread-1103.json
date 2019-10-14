@@ -1,0 +1,50 @@
+[
+	{
+		"id": 760,
+		"title": "Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-02-15T22:08:31.000Z",
+		"content": "I need help with this program, and I'm wondering if anyone can help me.  Anyone up for the challenge?<br /><br />I just need help figuring out the basic structure, like:<br /><br /><br /><br />A. What is the difference between Class vs. Property Manager?<br /><br />B. How do I get programs to use the #include files that I want it to?<br /><br />C. What's the difference between a solution, the projects, and what is their relation to the actual scripts themselves?<br /><br />D. What are different projects: CLR, Win32, General?<br /><br />E. On one of my attempts to figure out the program,  Icreated three little files on the mid-left window.  They were headers, sources, and something else. I cannot seem to find them/<br /><br /><br />I need to talk to people, and not read some help list that makes no sense to me.  Though posting is just fine, if you want my IM's, they are:<br /><br />YIM: globox88@yahoo.com<br />AIM: pitchblack44<br />MSN: goldphoenix99@hotmail.com<br />GIM: goldphoenix99@gmail.com~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 19788,
+		"title": "Re: Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-02-17T11:24:30.000Z",
+		"content": "A) Never used the Property Manager, the class view shows you classes in the graph layout<br />B) They must be in directories VC knows about.  Right-click on the project in Solution Explorer, and go to properties.  Under C/C++ you'll see 'additional include directories'.  An extra directories are in here, relative to the project directory.  Make sure you make changes for both debug and release if you're planning to compile a release build at some point.<br />C) A solution holds projects.  For example, you can have a 'MySweetGame' solution that has the game project, the engine project and the map editor project.  I'm not sure what you mean by 'their relation to the actual scripts themselves'.<br />D) They are all basically templates for creating default, almost empty project of different types.  Choosing CLR will create a blank project set up for .NET, Win32 will create a blank project for Windows (optionally with the WinMain function put in and precompiled headers set up) and General creates a blank project not configured for anything specifically - so a blank DOS window-type project.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 19789,
+		"title": "Re: Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-02-18T17:35:30.000Z",
+		"content": "Thank you so much, Svevvy!<br /><br /><br />Do you by any chance no of any good site that has ideas on a map editor?  I've got an idea myself, that I think could work very well, but it is always good to expose yourself to different ideas.<br /><br /><br />EDIT:  Anyone care to tell me what this garbage means?<br /><br />[quote]<b><i>Quote:</i></b>[hr]intro.obj : error LNK2019: unresolved external symbol __imp__readkey referenced in function \"int __cdecl _mangled_main(int,char * * const)\" (?_mangled_main@@YAHHQAPAD@Z)<br />intro.obj : error LNK2019: unresolved external symbol __imp__set_gfx_mode referenced in function \"int __cdecl _mangled_main(int,char * * const)\" (?_mangled_main@@YAHHQAPAD@Z)<br />intro.obj : error LNK2019: unresolved external symbol __imp__install_keyboard referenced in function \"int __cdecl _mangled_main(int,char * * const)\" (?_mangled_main@@YAHHQAPAD@Z)<br />intro.obj : error LNK2019: unresolved external symbol __imp___install_allegro_version_check referenced in function \"int __cdecl _mangled_main(int,char * * const)\" (?_mangled_main@@YAHHQAPAD@Z)<br />intro.obj : error LNK2019: unresolved external symbol __imp___WinMain referenced in function _WinMain@16<br />E:\\Project#10\\Programming\\Keen_Spot\\Debug\\Physics_AI_Engine.exe : fatal error LNK1120: 5 unresolved externals<br />Build log was saved at \"file://e:\\Project#10\\Programming\\Keen_Spot\\Physics_AI_Engine\\Debug\\BuildLog.htm\"<br />Physics_AI_Engine - 6 error(s), 0 warning(s)<br />========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========[hr][/quote]~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 19790,
+		"title": "Re: Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-02-20T04:44:29.000Z",
+		"content": "It's spelt <b>Szevvy</b> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />From memory, that means you're not linking Allegro.  Again in the properties tab (I don't have VS on this machine so I can't give exact instructions) there's a 'linker' option - within that or one of its children there's an 'additional library directories' or somesuch - add the location of your Allegro lib folder, and a 'additional libraries' - add the allegro lib.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 19792,
+		"title": "Re: Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-02-20T23:11:11.000Z",
+		"content": "My dad would know... Only thing I have ever done with C++ was a long time ago when I came here a lot for often. (I'd say, 1-2 years ago?) Anyway, not the point.<br /><br />Meh previous work... Goood times. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   <br />__________________________________________<br />[img]http://i91.photobucket.com/albums/k296/Medevila/bphn.gif[/img]"
+	},
+	{
+		"id": 19791,
+		"title": "Re: Anyone able to help me with basic Visual C++ 2005?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-02-23T12:07:26.000Z",
+		"content": "Wow, VC++ sounds needlessly complicated - give me GCC/G++ and a Makefile anyday [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />LoG, I think you should try to figure out how to enable \"simple\" mode to start off with, all these IDEs try to generate as much code as possible for you, which really confuses beginners (I speak from experience) and if you do use it you often end up with a slow, bloated program.<br /><br />When I started learning C, I spent the first six months being confused by all the options in the Borland IDE I was using, and once I figured out how to switch all that stuff off suddenly it became really easy to start coding [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	}
+]

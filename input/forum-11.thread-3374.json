@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1344,
+		"title": "New IMF2MIDI converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-28T11:15:01.000Z",
+		"content": "Hi everyone,<br /><br />I've [url=http://www.shikadi.net/utils/]released a new version of DRO2MIDI[/url] with a couple of enhancements you might be interested in - the most obvious being it now converts .imf files again, as well as .raw files (and of course .dro.)<br /><br />You might find this useful because the original IMF2MIDI doesn't convert \"rhythm-mode percussion\", so some songs (like theme.imf from Monster Bash) are missing most of the percussion.  If you convert the song with DRO2MIDI instead and give it the \"-r\" option you should find the resulting conversion much more percussive.<br /><br />I've also rewritten the note mapping code, so the notes that come out in the MIDI file should be much more accurate now (they certainly sound a few octaves higher in some songs!)<br /><br />Enjoy!  (Well, those of you running Linux enjoy, those of you running Windows will have to compile it yourself or wait for someone to send me a win32 version.)<br /><br />EDIT: The win32 version is there now!<br /><br />EDIT2: Now you see it now you don't - I removed the Windows .exe because it wasn't compiled properly and won't convert some files.  Hopefully it'll be back soon.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28785,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-07-28T14:43:36.000Z",
+		"content": "Why do I see a Win32 version there if you say there is none?  LIES!------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28786,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T20:55:33.000Z",
+		"content": "It doesn't say [NEW], so it must be the old version. Better seperate your programs' versions better, Malv.<br /><br />I'd gladly compile this, if I didn't know MinGW produces huge executables, even after removing all debugging code, optimizing, and using UPX.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28787,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-28T23:22:36.000Z",
+		"content": "Sorry, about an hour after I posted that message MiniMax from the DOSBox forums provided me with a win32 version - I'll go stick a \"[NEW]\" next to it now.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28788,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-29T00:51:48.000Z",
+		"content": "Wonderful bit of owrk!Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 28789,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-07-30T05:05:15.000Z",
+		"content": "yes indeed, i have started to make midis of Monster Bash tunes<br /><br />well more correctly, i got the source midis.<br />And then i fixed them to midi format 1, and edit them in a music application"
+	},
+	{
+		"id": 28790,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-30T11:05:50.000Z",
+		"content": "Hey DaVince, can you have a go at compiling it anyway?  MiniMax is having trouble producing a version that works - have a look here:<br /><br />[url=http://vogons.zetafleet.com/viewtopic.php?p=113648]vogons.zetafleet.com/viewtopic.php?p=113648[/url]<br /><br />There's an example file there that you can use to test your compile to see if it's working properly.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28791,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-30T15:09:33.000Z",
+		"content": "Trying to compile using MinGW, I get 40 compile errors, 37 of which are undefined references to MidiWrite::anykindoffunction. The other 3 errors are undefined references to freq2key.<br /><br />Am I missing some sort of lib here? Hm no, then it'd have to have come up with a \"file missing\" error, which it didn't. Hmm...____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28792,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-30T22:11:46.000Z",
+		"content": "The functions are split between three .cpp files - it sounds like you didn't compile midiio.cpp or freq.cpp.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28793,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-31T14:51:08.000Z",
+		"content": "You were right. I created a project, added all source files, and it compiled now (though it gave me a bunch of warnings about comparing signed with unsigned ints, hopefully that doesn't mess things up!). Time to test if it works.<br /><br />EDIT: ok, I converted zone66_001.dro while having the .reg files in the same folder as the program, and the instruments sound different than the ones in the MIDI you provided. Also, if I don't use the reg files, I get almost the same result as your MIDI, only the drums are played as piano notes and everything is exactly one octave higher.<br /><br />This is the MIDI I got after using the reg files:<br />[url=http://www.tengusoft.net/davince/misc/zone66_dv.mid]www.tengusoft.net/davince...e66_dv.mid[/url]<br /><br />For Bash1.dro I got the same problem after compiling as the other guy:<br />[quote]<b><i>Quote:</i></b>[hr]This application has requested the Runtime to terminate it in an unusual way.<br />Please contact the application's support team for more information.[hr][/quote]____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28794,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1486199,
+		"author_name": "Zero Diamond",
+		"timestamp": "2007-08-19T20:51:07.000Z",
+		"content": "Why is only the source available for this?  What if you're a dummy like me who just wants to use the program and has no way to compile it or any knowledge of how to go about doing so?"
+	},
+	{
+		"id": 28795,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-19T21:03:47.000Z",
+		"content": "You could have read the topic through... It gives the reason why there's no Windows executable.<br /><br />And there's more than only the source - the Linux binary.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28796,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-19T22:27:26.000Z",
+		"content": "Yes, I don't have Windows installed and a cross-compiler is still on my to-do list.  On a related note, the pitchbends now work *almost* perfectly, except that I still have to figure out how to do a MIDI pitchbend that's larger than a couple of semitones.  I've seen docs that say it's possible, but I can't get it to work (so if anyone has any ideas...)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28797,
+		"title": "Re: New IMF2MIDI converter",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-20T01:31:32.000Z",
+		"content": "Wish I did. Please keep us informed man (and I'll email ya soon.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  !<br /><br />- Spike"
+	},
+	{
+		"id": 28798,
+		"title": "ooh!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-20T23:04:32.000Z",
+		"content": "Hey, I get to help for once!!<br /><br />You need to send a MIDI Controller value.  Set 100 and 101 both to 0 (not sure why this is necessary, but it helps) and then set Controller 6 to however many half-steps you want the pitch bend to reach.  The default is 2, which will bend a whole step in either direction--setting it to 12, for example, will allow you to stretch an entire OCTAVE (useful for the Cosmo1 Bonus Stage music).  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />Be sure to set the controller on each channel!"
+	},
+	{
+		"id": 28799,
+		"title": "Re: ooh!",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-21T09:04:15.000Z",
+		"content": "i think the maximum pitch range is 48"
+	},
+	{
+		"id": 28800,
+		"title": "Re: ooh!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-22T12:44:33.000Z",
+		"content": "Ah, I didn't think of that.  According to the specs setting controllers 100 and 101 to zero select \"pitchbend sensitivity control\", and the data for that setting is put into controller 6 (in semitones.)  Controller 38 can also be used for cents.<br /><br />I've just implemented it and it seems to work perfectly!  Well, almost perfectly.  I'm a little confused as to the pitch bend values - I always thought MIDI pitchbends went between 0 and 8192, zero being the lowest bend and 8192 being the highest.  4096 would be neutral, sitting right in the middle.  For some reason it only seems to work properly when I set 8192 to be the middle setting, so I'm a bit confused now...but it sure does sound good [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />EDIT: Actually now that I think about it, maybe it is +/-8192 - after all, two 7-bit bytes for the pitchbend value gives you a 14-bit number, and 2^14 is 16384, which would put 8192 right smack bang in the middle...<br /><br />[url=http://www.shikadi.net/pckf/hesbacka.mid]hesbacka.mid[/url] (using new pitchbends)<br />[url=http://www.shikadi.net/pckf/hesbacka-nopitchbends.mid]hesbacka-nopitchbends.mid[/url] (with no pitchbends at all, ala IMF2MID)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28801,
+		"title": "Re: ooh!",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-22T13:12:03.000Z",
+		"content": "Apparently, according to my MIDI editing program, MIDI pitchbends go from -8192 to 0 to 8191. (a range of 16383 or 4 I think)<br /><br />Either way if it's sounding good, that's awesome Mal [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28802,
+		"title": "Re: ooh!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-23T11:53:46.000Z",
+		"content": "Well, I've now implemented a new method of reading the instruments for the conversion too, which was bugging me because the old method with all the .reg files was a bit of hack, not to mention being very confusing.  Now the program spits out a one-line instrument definition when it encounters an instrument it doesn't know about, and you just have to copy and paste it into inst.txt for it to pick it up on the next run.<br /><br />There are also a couple of other little bug fixes, but it looks like it's pretty much ready for a release.<br /><br />Compare the \"good\" hesbacka.mid above to the latest [url=http://www.shikadi.net/pckf/hesbacka-new.mid]hesbacka-new.mid[/url] and you should notice a decent improvement in quality.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28803,
+		"title": "Re: ooh!",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-08-23T13:58:10.000Z",
+		"content": "I have a theory about how to make a higher resolution for modulation in midis.<br /><br />The logic solution would be to increase the tempo, like to 960<br />your converted adlib tunes, is at 120, but as i see, thise tempo rate is not meanth to synch the notes.<br /><br />So by increasing the tempo rate, the pich modulation forexample will get a higher resolution, for more complex modulated instruments.<br />Also amplitude modulation will also have more space each note.<br /><br />bouth pitch modulation and amplitube is used in chip tunes, like adlib, in order to make all thise wierd stuff.<br /><br />i will anyways take a closer look at this experiment."
+	},
+	{
+		"id": 28804,
+		"title": "Re: ooh!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-23T14:23:15.000Z",
+		"content": "The new version sounds very good, but there's one thing: this choir voice replacing a drum instrument every once in a while. Is this just how the IMF has done that instrument?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28805,
+		"title": "Re: ooh!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-23T22:07:32.000Z",
+		"content": "To be honest, the tempo being set at 120 and the 'resolution' at 500 was just a guess because I don't know what either of these values really do, and since the conversions play at the right speed I didn't bother looking into it.  I would've thought 960 would be too high though...<br /><br />As to the choir voice I did wonder about that - I'd set it to that patch because of another IMF, so maybe I got it wrong.  It's simple enough to change it to a drum - any suggestions of which one?<br /><br />This is the offending line in inst.txt (just so you know what to expect in the new version) - it looks like it came from a Major Stryker song:<br /><br />07-12/0A-1F/F2-F2/60-52/00/03-03: patch=53  # Choir Aahs<br /><br />I could change the patch to say 117 for a Taiko Drum, or instead of \"patch=53\" I could put \"drum=35\" for an Acoustic Bass Drum.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28806,
+		"title": "Re: ooh!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-24T00:12:20.000Z",
+		"content": "How about trying out both, testing the sound of a few conversions that use the instrument, and pick the one that sounds best? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28807,
+		"title": "Re: ooh!",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-24T06:47:01.000Z",
+		"content": "Yeah, I can definitely hear the difference.<br /><br />I'm surprised the odd pitch bends are still in the mIDI's though- I'm guessing you elft them because using pitch bend values of 24 worked [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br />On the choir, I think it's definitely wrong. So is the acoustic bass on the same channel though. But it's no big deal, that's the kind of thing I don't care about that I could easily work out when working on a CD.<br /><br />Having the major guitar (or whatever the leads are) channels and percussion is my major concerns in Apogee music. Plus, the weird bends in Monster Bash music :P<br /><br />EDIT: Shouldn't one of the guitars be a bass channel or something? I think the fingered bass channel is wrong too. although it's hard to know what would be 'right' in that case [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28808,
+		"title": "Re: ooh!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-24T10:18:36.000Z",
+		"content": "Sorry DaVince, I didn't have time to try out the instruments (had to dash off to work) and to be honest, after spending most of yesterday listening to conversions I've had enough now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   Maybe I'll leave that as an exercise for the downloader...<br /><br />And I'm not sure what you mean by \"odd\" pitch bends Spikey?  As far as I'm aware they're the same as the IMFs, which is what I was aiming for.  (And please do explain what you mean - I spent a *lot* of time trying to get them converting properly!)<br /><br />That's also the reason why this is by no means a perfect conversion - I must stress that I did *not* choose instruments that sounded good for that particular song, rather I chose instruments that more or less sounded like their Adlib counterparts.  The reason is that these mappings will be the default, so they need to sound acceptable on a wide variety of conversions.  If I made them sound perfect for hesbacka.imf, it would sound quite wrong for a lot of other files (an example is the Adlib sawtooth, which could either be a MIDI sawtooth or a distortion guitar - the choice really depends on the specific song.)  That and I'd have an irresistable urge to convert everything to classical instruments, because [url=http://www.shikadi.net/pckf/demons-classical.ogg]I think it sounds cool[/url].<br /><br />At any rate the idea is to provide enough instrument mappings to give a rough guide of which instrument is which, to make post-conversion editing easier.  You could always remove the mapping file and have everything converted as a piano (which does sound kinda nice) but then figuring out which instrument plays which part will be *really* hard.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28809,
+		"title": "Re: ooh!",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-26T02:44:22.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]And I'm not sure what you mean by \"odd\" pitch bends Spikey? As far as I'm aware they're the same as the IMFs, which is what I was aiming for. (And please do explain what you mean - I spent a *lot* of time trying to get them converting properly!)[hr][/quote]<br />Looking at the MIDI, one instrument was bending at -3, -2, and -1. That's not much of a bend :P I'm guessing because you have the controller set to 24, low bends do a lot more at that setting. In which case you've done it correctly [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  It's more that I have edited a hell of a lot of General MIDI files in my time, and most bends go into the thousands, none go to 1 and 2 either side of 0.<br /><br />So, probably ignore what I said [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]That's also the reason why this is by no means a perfect conversion - I must stress that I did *not* choose instruments that sounded good for that particular song, rather I chose instruments that more or less sounded like their Adlib counterparts. The reason is that these mappings will be the default, so they need to sound acceptable on a wide variety of conversions. If I made them sound perfect for hesbacka.imf, it would sound quite wrong for a lot of other files (an example is the Adlib sawtooth, which could either be a MIDI sawtooth or a distortion guitar - the choice really depends on the specific song.) That and I'd have an irresistable urge to convert everything to classical instruments, because I think it sounds cool.[hr][/quote]<br />Yeah, I agree. <br /><br />I really like that Demons track (the french horns sound more appropriate and like the Adlib lead than BD's 'authentic' conversion). I hope that after you do the 'faithful' conversion, you'll do more of those, if for no other reason than a favour to me with regards to the CD.<br /><br />[quote]<b><i>Quote:</i></b>[hr]At any rate the idea is to provide enough instrument mappings to give a rough guide of which instrument is which, to make post-conversion editing easier. You could always remove the mapping file and have everything converted as a piano (which does sound kinda nice) but then figuring out which instrument plays which part will be *really* hard.[hr][/quote] <br />Yep, you rock [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />No, no pianos! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  Not unless it's that track from the start of MB2.<br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28810,
+		"title": "Re: ooh!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-26T12:05:05.000Z",
+		"content": "OH, I see now.  Those tiny pitchbends are a side effect of the conversion.  The problem is that a MIDI note is a number between 1 and 127 (for example middle C is 60.)  Adlib notes on the other hand are between 0 and 1023.  The original IMF2MIDI program used a lookup table that had about 12 notes and the Adlib and MIDI values for each note.  This produced quite an inaccurate conversion, particularly with octave changes - and pitchbends were practically nonexistent, as interpolating between values in the lookup table was even more inaccurate.<br /><br />I replaced the lookup table with a somewhat complex (but well known) formula, which I reversed (as it's normally used during playback to convert *to* Adlib note numbers.)  This yielded a much more accurate conversion.  Unfortunately because the formula is so precise, when the songs were orignally played rounding errors were introduced - for example the song might want to play MIDI note 60, but after feeding it through the formula it might come out as Adlib number 123.45 - and since Adlib numbers must be integers, it gets rounded to 123.<br /><br />The problem then is when you reverse the formula as the converter does, 123 might come out as MIDI note number 59.9.  MIDI notes also need to be whole numbers, so the converter writes out MIDI note 60, along with a tiny pitchbend to pull it down to 59.9.  Along with that there are two versions of the formula - one uses 50,000 as the constant, and the other uses something like 49,716 - so again, if you don't use the same constant when you reverse the formula, you don't end up with the exact same note originally played, only one really close to it.<br /><br />If the song uses pitchbends (as hesbacka.imf does) there's no way around it, but for other songs you can use the -p option with DRO2MIDI to disable pitchbends.  This will result in some approximation, but because the notes are so close to their originals, they should be \"approximated\" to what the original note would've been.  There's also the -a option you can use with -p, which will approximate pitchbends by just playing the note again when the frequency changes enough to reach the next whole MIDI note number.  You'd only ever want to do that if you're manually working the MIDI afterwards though, because it sounds quite silly - but it does remove all the tiny pitchbends that might otherwise get in the way.<br /><br />I'm glad you like the \"Classical Demons\" version, I've always thought of that part as French Horns.  One day I would like to go through and do more conversions like this - or preferably whole remixes - but sadly I lack any recognisable musical talent [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28811,
+		"title": "Re: ooh!",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-08-26T13:10:37.000Z",
+		"content": "Sorry to reply to such a long post with a short reply, but..<br /><br />Right, I understand!<br /><br />[quote]<b><i>Quote:</i></b>[hr]I'm glad you like the \"Classical Demons\" version, I've always thought of that part as French Horns. One day I would like to go through and do more conversions like this - or preferably whole remixes - but sadly I lack any recognisable musical talent[hr][/quote]<br />Don't let that stop you, I can't compose and have limited knowledge of music theory, and that hasn't stopped me from [url=http://smc.sq7.org]running a flourishing game music website[/url]. Which, incidentally, is approaching its' 5th anniversary!<br /><br />Seriously though, I hope you will reconsider and do the same for all MB tracks. Which, as I hear from B.D., are coming along very well [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28812,
+		"title": "Re: New release",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-02T01:21:52.000Z",
+		"content": "Okay, I've finally gotten around to packaging up and releasing the latest (mostly working) version of the converter.<br /><br />[url=http://www.shikadi.net/utils/]www.shikadi.net/utils/[/url]<br /><br />I even got hold of VC++ for a short while, so the Windows version is up there too along with the source.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28813,
+		"title": "Re: New release",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-09-04T03:01:07.000Z",
+		"content": "Very, very awesome Mal. Thanks so much. I'll get back to you on this.<br /><br />Before I forget, did you know someone did GM versions of Xargon music?<br /><br /><br />EDIT: Very cool Mal. Unfortunately, some of the Bio tracks come too short, and I see a lot of 'unexpectedly long pause' warnings, whatever that means.<br /><br />And my favourite Apogee piece, 205 from Bio, (the Enforcer music), is one of the cutoffs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  Still, awesome to see this has got this far. I know you'll make it even better, and on a positive note, I'm amazed at how good the conversions are at this point in time.<br /><br />My main 'gripe' would be the balances are way off for most files, but that's almost impossible to preset, I guess.<br /><br />Once again, good on you Mal, you've made a grown man happy with this [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28814,
+		"title": "Re: New release",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-09-04T05:47:38.000Z",
+		"content": "This is excellent.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 28815,
+		"title": "Re: New release",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-04T07:08:43.000Z",
+		"content": "Thanks guys.  Spikey, which tracks in particular come out short?  My Bio Menace songs all have proper names so I don't know what number 205 is.  Maybe you could e-mail me the file and I'll take a look at it.  I did encounter that problem but I thought I'd fixed it.  'Unexpectedly long pause' means it's reading the file wrong, which also explains why it's getting the song length wrong as well.<br /><br />By 'balance' do you mean the volume of the specific instruments?  (Because the files are mono so there's no panning involved.)  It is really difficult to get the volumes right, because I don't know if there's a way to figure out how loudly the instrument is likely to play.  (You can tell how loudly a *note* will play and this is converted to the note velocity, but the overall instrument volume is left at the default.)<br /><br />I was thinking of adding a volume=100 option to insts.txt so that when you specify the MIDI instrument you can also specify what volume it should play at, so maybe that will happen one day.<br /><br />Also yes, I have heard the GM conversions of Xargon - but I didn't think they were particularly amazing, lots of piano...unless you're referring to something else?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28816,
+		"title": "Re: New release",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-09-05T03:23:36.000Z",
+		"content": "Where'd you get the names from, Malvineous?------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28817,
+		"title": "Re: New release",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-09-05T04:01:01.000Z",
+		"content": "if he means the Bio Menace songs, all the song names are stored inside the sound data files for menace."
+	},
+	{
+		"id": 28818,
+		"title": "Re: New release",
+		"author_id": 1486007,
+		"author_name": "Spikey698",
+		"timestamp": "2007-09-05T04:53:19.000Z",
+		"content": "I replied, but IE crashed.. <br /><br />Basically, I agree with your response, although it might be wise to default all panning to 64 for each channel and also default the drumkit as piano 1 (acoustic grand).<br /><br />Also, you're right about the Xargon piano fetish unfortunately.<br /><br />- Spikehttp://smc.sq7.org - Sierra Music Central - for old Sierra soundtracks (hopefully Apogee too!)"
+	},
+	{
+		"id": 28819,
+		"title": "Re: New release",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-05T22:02:36.000Z",
+		"content": "Yes, IIRC the Bio Menace IMF files have the same trailing data that the Wolf3D files have, so there's extra data on the end like \"c:\\bhazard\\APOGFANF.IMF\" (the first two bytes are the file length, and the extra data starts after that number of bytes.  If the \"length bytes\" are 0x0000 then there's no extra data at the end.)<br /><br />I'm not sure what format the extra data is, but it's quite possible it's uniform across all files in this particular variant of the format.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	}
+]

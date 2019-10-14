@@ -1,0 +1,98 @@
+[
+	{
+		"id": 158,
+		"title": "keen sound",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T16:57:25.000Z",
+		"content": "for keen 4,5,and 6, I can't hear any adlib sound. I think it's because my sound card is too new. I don't know much about sound drivers, do I need to get a specific one to make the sound work?<br /><br />I tested the games on a windows 98 and xp."
+	},
+	{
+		"id": 3860,
+		"title": "Re: keen sound",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-19T17:03:25.000Z",
+		"content": "You need [url=http://sourceforge.net/projects/vdmsound/]VDMSound[/url] or [url=http://dosbox.sourceforge.net]DOSBox[/url], because your sound card does not natively support Keen's SoundBlaster sounds."
+	},
+	{
+		"id": 3861,
+		"title": "Re: keen sound",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-19T17:03:51.000Z",
+		"content": "1. Did you see if the music was on or the speakers were turned up?<br />2. If not, try using DOSbox.<br />3. If that doesn't work, try VDMsound.<br />4. If you don't hear anything still, try turning the speakers up - some computers (well, mine anyway) plays keen music really quietly.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3862,
+		"title": "Re: keen sound",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T17:06:28.000Z",
+		"content": "The speakers were up. I guess I'll try dosbox.<br /><br />Edit: Just downloaded. When I install it and run it, do I just run keen like I would on normal dos?"
+	},
+	{
+		"id": 3863,
+		"title": "Re: keen sound",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-19T17:17:16.000Z",
+		"content": "No, just drag the keen icon onto the dosbox icon.<br /><br />Otherwise you have to type \"mount C C:\\\" (or whatever drive keen is on), then you have to go to that drive and go all the way into the keen folder.<br /><br />Which one do you think is easier? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  <br /><br /><br />Also nice avatar! lol[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3864,
+		"title": "Re: keen sound",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T17:21:56.000Z",
+		"content": "thanks. that's sounds alot easier than doing all that cd space junk.<br /><br />stinkoman!"
+	},
+	{
+		"id": 3865,
+		"title": "keen sound... keen sideways?",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T17:52:51.000Z",
+		"content": "well, it works. the sound is almost exactly the same. the only strange thing is that I can't get it to go full screen. thanks again.<br /><br />i noticed that those titles that you see just before you enter a level are actually their full length it seems (time on screen).<br /><br />Edit: Here's what I'm scared of though, I was playing K4 for a bit and suddenly the screen goes black. A few seconds later, it comes back on... but the screen did a 90 degree clockwise rotation. When I moved the mouse I had to move it side to side to get it over to the shut down. But when I restarted it still is sideways. I think I remember an option on the control panel to change this, lemme check."
+	},
+	{
+		"id": 3866,
+		"title": "Re: keen sound... keen sideways?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-19T18:18:01.000Z",
+		"content": "\"well, it works. the sound is almost exactly the same. the only strange thing is that I can't get it to go full screen. thanks again.\"<br /><br />I don't think there's an option for fullscreen. I never checked, though.<br /><br />\"i noticed that those titles that you see just before you enter a level are actually their full length it seems (time on screen).\"<br /><br />Yeah, dosbox runs pretty slow. At least you can read it now (it usually goes too fast for me.) [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br /><br />\"Edit: Here's what I'm scared of though, I was playing K4 for a bit and suddenly the screen goes black. A few seconds later, it comes back on... but the screen did a 90 degree clockwise rotation. When I moved the mouse I had to move it side to side to get it over to the shut down. But when I restarted it still is sideways. I think I remember an option on the control panel to change this, lemme check.\"<br /><br />Wierd.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3867,
+		"title": "keen sideways!!!",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T18:24:48.000Z",
+		"content": "well. there's no settings I can see on the display or display - advanced or system that would let you rotate the screen.<br /><br />but wait... here's an idea... hmmm... I move the mouse to point to the right and then I pick my monitor up and lay it down on it's side. then I won't have to hurt my neck anymore.<br /><br />but seriously folks, has anybody heard of an option to change your screen's.................. degree?<br /><br />H<br />E<br />L<br />P"
+	},
+	{
+		"id": 3868,
+		"title": "Re: keen sideways!!!",
+		"author_id": 1215771,
+		"author_name": "allstories",
+		"timestamp": "2005-07-19T18:30:12.000Z",
+		"content": "You can use Fullscreen with DOSBox, just edit the config file with Notepad (You should be able to just go to Start&gt;Programs&gt;Dosbox&gt;DOSBox.conf. Then scroll to where is says fullscreen=false and change it to say fullscreen=true. You might also want to change some of those other settings to get it to work how you want.-----<br />[img]http://gnosticus.spatang.com/PBF056BCPuppyWish.jpg[/img]"
+	},
+	{
+		"id": 3869,
+		"title": "I got it to work",
+		"author_id": 1486621,
+		"author_name": "Alecswrld",
+		"timestamp": "2005-07-19T18:30:36.000Z",
+		"content": "Who would have thought it was under the Intel options for the graphics card?<br /><br />apparently they have these hotkeys, and one was ctrl-alt-right and it makes you screen rotate 270. I didn't have these hotkeys enabled (that was another option) but it must have done it when I tried to jump, pogo, and move at the same time."
+	},
+	{
+		"id": 3870,
+		"title": "Re: I got it to work",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-19T21:44:51.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Who would have thought it was under the Intel options for the graphics card?[hr][/quote]...I was just going to suggest that, apparently a lot of people with the same video card have this problem because they have no idea that there are shortcut keys.<br /><br />As to the DOSBox thing, you don't need to edit your config file, just press Alt+Enter to switch between a window and fullscreen - that's a pretty standard shortcut, it works with the normal command line and it used to work with most Windows games as well."
+	}
+]

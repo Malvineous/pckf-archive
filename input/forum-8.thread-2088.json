@@ -1,0 +1,98 @@
+[
+	{
+		"id": 701,
+		"title": "dosBOX and game help",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-08-05T01:54:53.000Z",
+		"content": "hey all, I was wondering if any1 knows what to do if sound is not working properly in a game emulated by dosbox. I read the readme and tried decreasing speed like it says but it doesn't seem to work.<br /><br />The problem is rather weird. The music comes on at first but then disappears after like 2 seconds. You can go to the setup menu in the game and toggle the sound button again and it does the same thing no matter what.<br /><br />This actually used to be the case on my old computer without the dosbox, so I don't as much hope as I'd like, but I remember way back in the beginning the music and sound worked fine...<br />Every notice how Master Mind and Mortimer McMire coincide?<br />Finish Keen! 315!"
+	},
+	{
+		"id": 18661,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-05T02:20:41.000Z",
+		"content": "Hmm...<br /><br />Is it with specific games?  Maybe you need to change the game's configuration.  What kind of sound card do you have?  Do you have to do anything funky to get it working in Windows?"
+	},
+	{
+		"id": 18662,
+		"title": "Re: hmm",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-08-05T04:00:30.000Z",
+		"content": "yes, it's only 1 game that has this problem. It's called Bricks and it came on one of those 100+ game CDs. Apparently it's kinda cheap because of this. And the game's configuration menu is limited--i already tried what I could there.<br /><br />I'm just a regular windows XP guy, and no funky stuff is necessary to get my card to work. I think my sound card is built into my ATI video card. It's an all in wonderEvery notice how Master Mind and Mortimer McMire coincide?<br />Finish Keen! 315!"
+	},
+	{
+		"id": 18663,
+		"title": "hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-05T04:28:07.000Z",
+		"content": "Well, unfortunately, if it's just the one game you might be out of luck.  <br /><br />DOSBox is pretty flexible regarding what kind of sound system to use--maybe switch from [sb16] to [sbpro], or disable it entirely and try the [sound source] or [gravis ultrasound] synths.  Chances are the game's just not coded well for the sound type you're using.  <br /><br />Good luck!"
+	},
+	{
+		"id": 18664,
+		"title": "Re: hmm",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-06T12:13:20.000Z",
+		"content": "He's not completely out of luck. Ask for support from the DOSBox team, the forum, etc.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18665,
+		"title": "Re: hmm",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-08-09T18:52:59.000Z",
+		"content": "how do i change sound options? I don't see it in the readme.<br /><br />edit: nm, i got it, but nothing seems to work. And i don't understand IRQ and DMA, nor oplmode. Any info on this would be good cuz I don't wanna try random configurations if at all possible.Every notice how Master Mind and Mortimer McMire coincide?<br />Finish Keen! 315!"
+	},
+	{
+		"id": 18666,
+		"title": "Re: hmm",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-10T13:22:50.000Z",
+		"content": "Leave IRQ and DMA alone, they are old hardware specifications that DOSBox emulates. They're fine at what they are.<br /><br />OPL Mode is to decide between OPL2 and OPL3, which are FM Synth modes. Stick to what it is right now (auto).<br /><br />Instead, fiddle with things like the blocksize, prebuffer and rate. Remember that the default configurations are:<br /><br />rate=44100<br />blocksize=2048<br />prebuffer=10____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18667,
+		"title": "Re: hmm",
+		"author_id": 1486906,
+		"author_name": "MortimerInBlack",
+		"timestamp": "2007-08-10T18:18:33.000Z",
+		"content": "i'll take ur advice, but it would be helpful to know what those settings are, like what they do and stuff.Every notice how Master Mind and Mortimer McMire coincide?<br />Finish Keen! 315!"
+	},
+	{
+		"id": 18668,
+		"title": "Re: hmm",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-10T22:47:49.000Z",
+		"content": "I can't tell in detail, it's audio related but I kinda forgot. The block size determines how much memory is reserved for the sound, I think (the sound buffer), and the prebuffer must be how many milliseconds of sound are processed in advance. In any case, fiddle with the settings a bit. I found that a value of 3096 on the block size works best for me.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18669,
+		"title": "Re: hmm",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-14T17:29:10.000Z",
+		"content": "The rate (mixing rate) is a physical magnitude in Hertz units (s ^ -1, a.k.a. \"Hz\"). It means how many cycles per second are done. The higher the mixing rate, the better quality sound you'll get, but reducing your CPU's performance if it's not powerful enough to bear so much quality. 44100 is good for most people, 48000 produces better quality, almost unnoticeable by most (and completely unnoticeable by people who put that value in the incorrect place). 22500 would do good for low-end machines.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18670,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-15T02:49:18.000Z",
+		"content": "You mean 22050 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]   You'll really notice an audible drop in quality if you go that low though.<br /><br />The blocksize and prebuffer options in DOSBox will only affect the way sound is played in your OS, they don't affect anything you run inside DOSBox - if the sound gets choppy then increasing the prebuffer should help, at the expense of the sound lagging behind the video (i.e. with a very large prebuffer you might shoot a gun and a few seconds later hear the sound of the gun being fired.)  The blocksize is more related to your sound card, some cards work better if the audio data is delivered in chunks of certain sizes.  Best not to change this unless you're having sound problems with *everything* you run in DOSBox.<br /><br />It sounds like the original problem is caused by a bug in the game.  Probably not much you can do about it unless you want to start tweaking the DOSBox code to figure out what's going on (e.g. you could try disabling the SB16 mixer, in case the game is turning the volume down for some reason.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18671,
+		"title": "Re: hmm",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T13:10:28.000Z",
+		"content": "22050 indeed. I keep forgetting.<br /><br />This reminds me that I should finish writing that DOSBox - Keen tutorial for Linux and Windows users.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

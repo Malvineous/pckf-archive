@@ -1,0 +1,234 @@
+[
+	{
+		"id": 1342,
+		"title": "Superland",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-13T13:45:19.000Z",
+		"content": "Although this isnt a Keen game, it is very much inspired by the Keen games. The main player sprite is even 16x24 pixels. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  I am making an opensource game called 'Superland' in C++. It features a Keen-like gameplay, with small levels, jumping, shooting and collecting points. Eventually i would like to make some connection to the Keen-games, like introducing the Standard Gallactic Alphabet, or the Dopefish or something. I might even use Billy Blaze somewhere in the story. <br /><br />It is not finished yet, but here is a small gameplay teaser movie:<br />[url=http://youtube.com/watch?v=bmJ_lXNPvx8]youtube.com/watch?v=bmJ_lXNPvx8[/url]<br /><br />The quality sucks, because Youtube compressed it very much. I will post some screenshots here soon, so you can see what the graphics look like. <br /><br /><br />I could use some help from level editors, sprite creators and tile creators. If someone is interested, post it here. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I put this topic in 'Unofficial Keen games' because it is a Keen-inspired game. If this does not belong in 'Unofficial Keen games' someone may move it to another subforum. [img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	},
+	{
+		"id": 28730,
+		"title": "Re: Superland",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-03-13T15:13:29.000Z",
+		"content": "Judging by the trailer it looks pretty solid already! Good graphics. I'll surely try it out when it's done.<br /><br />(But I'll have to move this topic, I think. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] )3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 28731,
+		"title": "f",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2007-03-13T17:12:28.000Z",
+		"content": "Looks more like Mario than Keen."
+	},
+	{
+		"id": 28732,
+		"title": "Re: f",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-13T18:39:06.000Z",
+		"content": "What kind of level editing utility would be used for this game? I'm sort of interested in possibly making levels for it...<br /><br />Edit: It does look Mario-ish. It looks pretty cool though.------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 28733,
+		"title": "Re: f",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-13T19:56:30.000Z",
+		"content": "I have commented on the video and subscribed to your username. Good luck with this, it looks promising. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 28734,
+		"title": "Re: f",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-13T20:52:38.000Z",
+		"content": "Ooh. It did look a lot like Mario, with a few Keen-ish elements.<br />Actually, when you went down that stone staircase where the sand and the door was, it reminded me more of Cave Story... (Anyone remember that from a year or two ago?)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 28735,
+		"title": "keen",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-13T21:00:28.000Z",
+		"content": "You are right that i am including a little bit of Mario-style. It's not gonna be a Keen clone, i want to make a mix of Keen gameplay, Jill of the Jungle gameplay, Mario gameplay and.. maybe Jazz Jackrabbit. Even some Charlie the Duck (if anyone knows that game) Basically all the games i love. <br /><br />But ofcoarse i love Keen the most, so it will be Keen-style for the most part! I agree the last level looks very Mario-esque, but that was a testing level. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28736,
+		"title": "Re: f",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-13T21:01:13.000Z",
+		"content": "I remember Cave Story. I finally got it to work a while ago. I should play it some more...------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 28737,
+		"title": "Re: f",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-13T21:08:57.000Z",
+		"content": "&gt;&gt; What kind of level editing utility would be used for this game? I'm sort of interested in possibly making levels for it...<br /><br />The level editing sucks pretty much now, i don't really know how to make a level editor, so i am using bitmaps for levels. Every pixel has a color that represents a tile. Maybe sometimes i can code a level editor that is WYSIWYG. <br /><br />Thanks for the nice replies here [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	},
+	{
+		"id": 28738,
+		"title": "Re: f",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-13T21:22:21.000Z",
+		"content": "That sounds like it'd be pretty awkward for level editing, but maybe I could give it a go if you send me a beta/alpha/whatsitsface of the game.<br /><br />I'd be interested in working on levels, this game looks like it has some potential.------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 28739,
+		"title": "Re: f",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-13T21:34:43.000Z",
+		"content": "I will post a small alpha-version of it soon in this topic, and if you'll look in the \\res\\ folder you can open level2.bmp in any graphics editor. First i have to fix some bugs before i can release a version. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img] <br /><br /><br />Some screenshots:<br />[img]http://img103.imageshack.us/img103/6292/superland1ff9.png[/img]<br /><br />[img]http://img168.imageshack.us/img168/5093/superland2nm2.png[/img]<br /><br />[img]http://img168.imageshack.us/img168/3797/superland3zi9.png[/img]<br /><br />[img]http://img168.imageshack.us/img168/5550/superland4at0.png[/img][img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	},
+	{
+		"id": 28740,
+		"title": "Re: f",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-03-13T21:39:23.000Z",
+		"content": "Okay. It's looking pretty good so far. Nice work on the tiles! ------------------<br />www.ericmushroomwilson.co.uk My website is going to go back online <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 28741,
+		"title": "Re: f",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-13T22:16:42.000Z",
+		"content": "Actually, I think it's just the oversized backgrounds that makes it seem un-keenish to me. Maybe have smaller backgrounds, that better match the tiles (these ones look more like photos).-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 28742,
+		"title": "Re: f",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-03-13T22:22:30.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Even some Charlie the Duck (if anyone knows that game)[hr][/quote]<br /><br />Here! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  And now that I look at your detailed shots, it does look like a Keen/Charlie mix to me, nice! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]The level editing sucks pretty much now, i don't really know how to make a level editor, so i am using bitmaps for levels.[hr][/quote]<br />I tried that once too, and it isn't actually THAT bad of a method. Good alternative between making a level editor and making the game customizable, and you could always base a level editor off the pixels in a bitmap (or png!) anyway.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 28743,
+		"title": "Re: g",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-03-13T23:28:56.000Z",
+		"content": "Wow, impressive work so far. I presume since you're using SDL that it'll be cross-platform? It'd be nice to see some more games of this quality for the non-Windows world.<br /><br />[hr]<b>Dreams</b> The level editing sucks pretty much now, i don't really know how to make a level editor, so i am using bitmaps for levels.<br />[hr]I've always found level editors to be the easy part. The hard stuff for me is managing the sprites and AI, which I'm only just starting to get my head around now."
+	},
+	{
+		"id": 28744,
+		"title": "Re: g",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-14T14:45:57.000Z",
+		"content": "I am using SDL, so it could be ported to other OS'es in the future. I do use some Win32 calls, but they can be converted to SDL too. That's just a bit lazy programming from me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Level editing isn't difficult, but it is not WYSIWIG, so you must know what you are doing, and you have to picture what the level looks like in your head.<br /><br /><b>For people who think it does not look Keen-ish:</b>[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img] [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] <br /><br /><br />[img]http://img178.imageshack.us/img178/6666/vortiville2fj4.png[/img]<br /><br />[img]http://img201.imageshack.us/img201/8029/vortivilletx2.png[/img]<br /><br />[img]http://img201.imageshack.us/img201/4382/vortiville3fz8.png[/img]<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	},
+	{
+		"id": 28745,
+		"title": "Re: g",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-03-14T19:14:15.000Z",
+		"content": "Okay... well can you at least fix that little \"error\" that they made with the polka dots? One of them is split in the middle. It's always bugged me.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 28746,
+		"title": "Nice!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-15T04:53:28.000Z",
+		"content": "This is a nice little game here; I am itching to play it already; I can see a mix of Jaz Jackrabbit, Commander Keen and Shadow Knights myself."
+	},
+	{
+		"id": 28747,
+		"title": "WOW.",
+		"author_id": 1486896,
+		"author_name": "bp",
+		"timestamp": "2007-03-16T19:30:51.000Z",
+		"content": "Awesome. Game.<br /><br />    Is there a storyline?"
+	},
+	{
+		"id": 28748,
+		"title": "Re: WOW.",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-03-17T13:15:52.000Z",
+		"content": "&gt;&gt;Awesome. Game.<br /><br />Thank You [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />&gt;&gt;Is there a storyline?<br /><br />There is very little storyline now. When you start the game, you can see Sarah jumping of a spaceship that's exploding, and she falls down until she lands in the jungle on some planet. <br /><br />If someone has some ideas for a story i would like to hear it, as i don't have much inspiration. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yawn.gif[/img] <br /><br />&gt;&gt;Okay... well can you at least fix that little \"error\" that they made with the polka dots? One of them is split in the middle. It's always bugged me.<br /><br />That's a temporary tile. <br /><br />&gt;&gt; This is a nice little game here; I am itching to play it already; I can see a mix of Jaz Jackrabbit, Commander Keen and Shadow Knights myself.<br /><br />I didn't know Shadow Knights but i googled for some screenshots and it looks like a nice game![img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	},
+	{
+		"id": 28749,
+		"title": "Re: WOW.",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-03-17T23:02:42.000Z",
+		"content": "It's Keen engine based.<br /><br />Yeah! Go Sarah!<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 28750,
+		"title": "Re: WOW.",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-01T06:45:56.000Z",
+		"content": "looks like a nice game[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 28751,
+		"title": "Re: WOW.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-05-01T12:12:29.000Z",
+		"content": "Looks very uber.  I never cease to be amazed by the talent and dedication some people have.  Two thumbs up!------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 28752,
+		"title": "Re: WOW.",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-03T12:26:34.000Z",
+		"content": "it looks like mario too"
+	},
+	{
+		"id": 28753,
+		"title": "Re: WOW.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-03T18:19:06.000Z",
+		"content": "Yeah, specially the ground textures.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 28754,
+		"title": "aaa",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2007-06-03T19:24:05.000Z",
+		"content": "Woah! Very classy! Good job on mixing all those games! It is indeed going to be a great game. I'm looking forward for it."
+	},
+	{
+		"id": 28755,
+		"title": "w00t!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-06-03T20:13:26.000Z",
+		"content": "I see Krackens, Foppies, and Struttin' Shrooms!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Earthbound much?<br /><br />Looks great--I like how the character changes animation frames mid-jump."
+	},
+	{
+		"id": 28756,
+		"title": "Re: w00t!",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-06-04T10:44:46.000Z",
+		"content": "Now that you mention it, that does look like the Kraken from Earthbound in some of those screenshots...------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 28757,
+		"title": "Re: w00t!",
+		"author_id": 1486385,
+		"author_name": "Dreams",
+		"timestamp": "2007-09-11T16:28:22.000Z",
+		"content": "Wow, i just googled for some Kraken images and it REALLY looks the same! <br /><br />Better change it a bit then for the next version. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img] [img]http://members1.chello.nl/~j.demeij/keenav.gif[/img] [url=http://www.64kpixels.net]<b>www.64kpixels.net</b>[/url]"
+	}
+]

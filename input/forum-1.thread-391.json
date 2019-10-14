@@ -1,0 +1,82 @@
+[
+	{
+		"id": 48,
+		"title": "Advice for running Keen in DOSBox?",
+		"author_id": 1485726,
+		"author_name": "Master Inferno",
+		"timestamp": "2007-04-11T20:10:48.000Z",
+		"content": "Ok, I just downloaded DOSBox 0.70 and Keen is running pretty smoothly on it, but there's a bit of slowdown whenever the screen scrolls. Does anyone who's a bit more knowledgeable about DOSBox than me have a way to fix this?\"A man is the less likely to become great the more he is dominated by reason: few can achieve greatness - and none in art - if they are not dominated by illusion.\"<br />--Mr. Doctor"
+	},
+	{
+		"id": 2192,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-11T22:12:39.000Z",
+		"content": "Press Ctrl+F12 a few times to give more 'cycles' to DOSBox, since it defaults to only using a small amount of the available CPU power on your system.  Don't give it too much though, because once it's using 100% of your CPU things get really bad (if you're running Windows, put Task Manager in the background so you can see how much CPU power is being used while you're adjusting things.)"
+	},
+	{
+		"id": 2193,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-13T14:46:25.000Z",
+		"content": "Use this configuration file:<br />[url=http://www.tengusoft.net/DaVince/misc/Keen4.conf]www.tengusoft.net/DaVince...Keen4.conf[/url]<br /><br />It has a few things that optimize gameplay, like 15000 cycles, dynamic core, high-frequency music, 1 frame frameskipping, and fullscreening. The 15000 cycles and dynamic core things are what make the game run better.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 2194,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-14T00:13:44.000Z",
+		"content": "Don't forget that 15,000 cycles will only work well on whatever CPU you're using - I've found that 10,000 cycles works best for me, 15,000 is too much for some games (especially when not using the dynamic core.)<br /><br />Also if you have a Creative Labs sound card (SBLive, Audigy, etc.) you get slightly better sound by upping the sample rates to 48000 (instead of 44100) because all Creative cards internally resample to 48kHz anyway, so starting out at 48k means less resampling and better sounding quality (not that it makes a huge difference though, most games of this era didn't exactly have high quality sound effects - but you can hear the difference with the percussion in OPL music.)"
+	},
+	{
+		"id": 2195,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-16T17:11:18.000Z",
+		"content": "Uh...<br /><br /><b>Wrote in DaVince's dosbox.conf for Keen, section \"mixer\"</b><br /><i>nosound=false<br />rate=44100<br />blocksize=3072<br />prebuffer=10</i><br /><br />My DOSBox complains about blocksize's value not being a power of two, and disables the sound support until I change the value back to 2048. It's DOSBox 0.70, compiled by me for Linux, etc.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 2196,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-16T21:11:13.000Z",
+		"content": "Sorry for that. Some settings in teh config file were automatically applied by my frontend. 2048 will do just fine.<br /><br />That file is just advice anyway, as anyone would have to tweak the settings a bit to run Keen best with their computer.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 2197,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-04-17T19:13:41.000Z",
+		"content": "I think 0.70 uses \"max\" as the default cycles setting, which makes some games act funny. You may want to set it to something specific and lower. Just about anything should work for Keen, I think.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 2198,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-17T19:35:25.000Z",
+		"content": "It works fine for me under Linux. I can even run Duke Nukem 3D at 640x480 from DOSBox 0.7 without performance issues. (I had some, but it was my fault... too many applications running at the same time, he).<br /><br />The only problem I can notice is with Keen4-6. When Keen walks, the engine tends to leave \"trails\" of him, at random moments. That didn't happen with DOSBox 0.65; I only had music performance issues there [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 2199,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-04-17T22:17:00.000Z",
+		"content": "That's odd - if I use the dynamic core with Duke3D then DOSBox tends to crash fairly often (320x200).  It seems fine with the normal core, but then it's way too slow.<br /><br />Never noticed any problems with Keen though, and this is DOSBox 0.70 under Linux."
+	},
+	{
+		"id": 2200,
+		"title": "Re: Advice for running Keen in DOSBox?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-18T17:23:59.000Z",
+		"content": "Ultra-weird. I use the dynamic core and DN3D never crashes.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	}
+]

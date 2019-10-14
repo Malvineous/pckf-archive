@@ -1,0 +1,66 @@
+[
+	{
+		"id": 210,
+		"title": "Commander Keen in KeenCommander (Help Wanted!)",
+		"author_id": 1486620,
+		"author_name": "pacdan729",
+		"timestamp": "2007-07-25T23:49:54.000Z",
+		"content": "Warning: The following Keen fangame is barely out of planning stages and given my past history with actually finishing and releasing things (not very good[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  ), well...you get the picture. Thank you for reading this unnecessarily disappointing warning. You may now continue to the main post.<br /><br />I have started working on a Commander Keen fangame (again, Commander Keen 2004 anyone[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]   doubt anybody remembers that anyways, that was (not surprisingly) back in 2004 and never got far[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  ). Anyways, here's the plan of awesomeness!<br /><br />Story: Goes something like this: Mortimer, tired of Keen spoiling his evil plans of toasting the universe, decides that since all of his previous attempts to defeat Keen have resulted in miserable failure, he must force Keen to join his side so that there would be no one to stop him from WORLD DOMINATION(tm). In order to  achieve this, he created a device called the KeenCommander, which would allow him to control our good Commander Keen and use his inferior intellect to perform menial labor like quantum physics calculations. Thinking that his plan is perfect, Mortimer disguises the KeenCommander as an ordinary package that when touched by Keen will transform him into Mortimer's slave (Mwahahaha). Fortunately for the universe, Keen's pet Yorp, Spot touches the package first and comes under Mortimer's control intead. Now Keen must hunt down Mortimer McMire to deactivate the KeenCommander and save Spot. This looks like a job for the one, the only Commander Keen!<br /><br />Technical: Game is planned to be done in Game Maker (7 if it matters to anyone, more or less the same as 6 anyways). I ABSOLUTELY want a level editor, this is one of my first priorities. If anyone knows in detail how a level editor and/or reading level files into a game is best managed, PLEASE let me know I need major help in this area[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stunned.gif[/img]  . I wasn't planning on doing the editor in GM, I was thinking VB would be easier, although any help I can get in either or just in general concepts would be much appreciated. The reason this isn't being done in a real language (Java) is because it's much easier to handle drawing functions, animation, and keyboard input in GM. I am however planning on this being done with fairly sophisticated GML scripts, none of those premade events and whatnot[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-korath.gif[/img]  .<br /><br />Graphics:I need sprites, bad[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  . I started working on my own Keen sprites but the results were less than terrific, though I guess I'm stuck with that if no one wants to volunteer.  I also need new baddies, items, etc. as well as new tiles (I can give better tech specs as to what I need size wise as everything progresses, but figure roughly proportional to about what things were originally (see * for more technical) except obviously at a higher resolution and with more colors. Nothing needs to be set in stone yet, this is just at the beginning and to a degree I can work around what, if anything, I get. Also I have no idea what a \"KeenCommander\" would look like undisguised, so if you've got a neat idea, post it.<br /><br />*Back to technical: I'm assuming my best bet for dealing sprites is to generate game maker objects based on the level file. Does this mean that things will have to be a consistent size. I'm assuming to make enemies work dynamically will require both some semblance of a physics engine, I wasn't really planning proper physics, just as they apply to Keen, but I suppose I'll at least need something on the level of \"If it's solid below you stop, which is easy to implement anyways. The harder part will be to make enemies deal with slopes properly, this should basically be a matter of borrowing the code from Keen, it just makes things more in depth than just \"move left, stop, move right, etc.), presumably enemies will move either to the edge of a platform (easy enough to check, I think) or simply a set distance, obviously turning when they hit something solid<br /><br />Sound: No idea, except to rip at least some of it, this will be dealt with much, much laster. Though, as always, suggestions/help are appreciated.<br /><br />Music: No idea. I actually wouldn't mind trying to make something myself, although I don't necessarily know how to make it Keen-ish. As always, help appreciated.<br /><br />Features: All this is only as planned, and subject to change<br /> Pogo (although I might have trouble getting it to feel \"authentic\")<br />Ledge grabbing[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]  <br />Level editor<br />New minigames (but that's like last priority)<br /><br />Levels: When (and if, ughh this is gonna be a lot of work) we get to the point where all of the basic game elements are done, I'll probably be looking for people to do levels, but this won't be for a long time. Same goes for beta testers.<br /><br />My ultimate ambition is to release all of the sources (if it's all right with any and all other parties who may be crazy enough to get involved) for others to work with, though this depends on a lot of things (most notably, actually finishing[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ).<br /><br />Comments on my insanity are always appreciated and, as stated above help is always welcome, especially in programming at this point (more details as I actually have something to work with).<br /><br />Bleh, now I have a headache from thinking about all this[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sick.gif[/img]  . This is way too much work. Also do note my spare time is limited. I work on a construction site an hour from home and will be starting College in September. I will, however, work on this as much as I can, just remember this will take quite a while, and I can't make any promises about things getting done, though I'm sincerely going to try to have something done by 2011 [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopefish.gif[/img]  . Thanks for reading.<br /><br />P.S. KeenCommander is my name on a couple of other forums, that's where the title came from.<br /><br />Edit: Dropped 360 engine at DaVince's advice. He's quite right that it would require significant effort to convert it so that it fit the Keen feel---------<br />www.eternalwanderer.com"
+	},
+	{
+		"id": 5154,
+		"title": "Re: Commander Keen in KeenCommander (Help Wanted!)",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-26T02:05:11.000Z",
+		"content": "I've got a lot of work to do on my own Keen project, but I'd be happy to contribute in whatever small way I can. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 5155,
+		"title": "help",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-07-26T03:02:12.000Z",
+		"content": "I have recently been working on a game similar to keen in Game Maker 7. It has a lot of features already in it so if you want me to make it an engine for you, I would be glad to help.<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5156,
+		"title": "Re: help",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-26T07:03:24.000Z",
+		"content": "Sounds like a good idea, but don't use an existing engine to base the Keen movement off, ESPECIALLY not something that feels entirely different like Sonic. It'd require recoding half of the movement system, so what's the point in using one then?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 5157,
+		"title": "Re: Commander Keen in KeenCommander (Help Wanted!)",
+		"author_id": 1486620,
+		"author_name": "pacdan729",
+		"timestamp": "2007-07-26T22:14:15.000Z",
+		"content": "@KeegTech:<br />Thanks for the support<br /><br />@jimmyjames:<br />Thanks a lot for the offer. I might be interested depending on how things go.<br /><br />@DaVince:<br />Your probably right, it would make things a bit odd having rotating Keen sprites. I hadn't thought of that. I just thought that it would save me from having to do code for slopes, which is what has always held me up in writing a platform engine. I guess I'll just have to work it out since, you're right, it would change the \"feel\", even when slowed down to Keen speed. It's a little too \"flippy\", your right you'd really need to take out the sprite rotation and get it down to it's most basic components to make it work properly for our purposes. Thanks for pointing this out before I wasted my time, though I might still use it as a reference to see how to properly handle dynamic slopes (it's all done mathematically [in Sonic], and I wouldn't know how to do that, although I'm sure I can figure out a way to make it work, especially since we're talking much simpler movement for a Keen game).<br /><br />Also, I didn't mean to sound like I wanted someone to do everything, I was just kind of laying out my plans and mentioning what I might need over time. My first priority is still getting a basic tile engine that loads from proper map files rather than levels that are hard coded in GM, which is what I have always used before, and working from there.---------<br />www.eternalwanderer.com"
+	},
+	{
+		"id": 5158,
+		"title": "Re: Commander Keen in KeenCommander (Help Wanted!)",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-28T20:37:17.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I just thought that it would save me from having to do code for slopes, which is what has always held me up in writing a platform engine.[hr][/quote]<br />Sonic has inertia to the movement, which means he speeds up, slows down etc. Keen doesn't, he just walks at a constant rate (except when pogoing). So if you change the movement to something like this, you'll probably break the slope system anyway. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  <br /><br />Now, about slopes, I managed to make Keen walk on slopes correctly. Basically what I did is have a \"jumping\" flag, and then the following conditions (that are run each frame):<br /><br />if (Keen is not jumping and not obstructed)<br />{<br />  if (Keen has an obstruction below him a few pixels)<br />  {<br />    move him down 1 pixel.<br />  }<br /><br />  else<br />  {<br />    Turn jumping flag on.<br />  }<br />}<br /><br />Note that I don't know what GM code looks like, so I just turned my (JavaScript) code into pseudo-code.<br /><br />EDIT: oh yeah, Globox is right. Inertia only in the air, but not as fast as Sonic's.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 5159,
+		"title": "...",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-07-30T15:02:37.000Z",
+		"content": "Well, sorta DaVince.  Keen has inertia in the air, but he doesn't accelerate while running, this is true."
+	},
+	{
+		"id": 5160,
+		"title": "Slopes",
+		"author_id": 1486620,
+		"author_name": "pacdan729",
+		"timestamp": "2007-07-30T21:47:40.000Z",
+		"content": "Ah, interesting. That rather makes since, but your basically just making him fall if there's nothing below him. How would he go upwards. You'd need to know the slope in order to determine how he should move, unless you only use one so it's hard coded, but that would be cheating. I'm assuming you could start checking at the end to see if it's free, and then work back every x pixels to determine if the space is free, thereby determining how he needs to move, I was just hoping it could be done more efficiently. How do you even work that since the tile itself isn't angled due to the odd perspective. Probably a tile mask would work and have Keen's collisions be detected with the mask, actually that makes a lot of sense [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ."
+	}
+]

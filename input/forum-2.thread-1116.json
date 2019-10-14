@@ -1,0 +1,106 @@
+[
+	{
+		"id": 215,
+		"title": "new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T08:32:11.000Z",
+		"content": "I seem not to be able to post long posts here ..hm. So I'll be splitting posts, those are not double posts, sorry, see  no other way.<br /><br />Hi, I'm new here (but a great fan of Ck series), and a pixel artist. I'm known in Doom and wolf3D modding communities for my mods, graphics and projects. By the way for keen I've made in the past double resolution sprites of some pickups - can post them if you want.<br /><br />I've started  2 days ago making Keen engine in Game Maker (5.3), somewhat like Shadow Master is doing.<br />The goal is to recreated and support both keen trilogies, as accurate as I can. as it's on Game Maker engine, it'll be open-sourced project and os easily editable/moddable to add more creatures, features, levels, mods.....it's also support splitscreen and 2 player game (coop/dm)."
+	},
+	{
+		"id": 5304,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T08:33:43.000Z",
+		"content": "The progress is currently slow (but what you can expect from 2day old project? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  ). Currently works - standing, walking ,shooting (including shooting down and such) beside shooting up while standing - that is still buggy.<br /><br />If someone knows GM and want to help - please do. I'm more a graphics artist than a programmer and hate to do programming work. Even if you don't know GML (game maker scripting language) - it's easier than C++ and fast to learn. for example here is a code for shooting as currently implemented:"
+	},
+	{
+		"id": 5305,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T08:39:01.000Z",
+		"content": "[pre] shoot_state=1if (sprite_index = k_stand_r) sprite_index = k_shoot_rif (sprite_index = k_stand_l) sprite_index = k_shoot_lif (sprite_index = k_walk_r) sprite_index = k_shoot_rif (sprite_index = k_walk_l) sprite_index = k_shoot_lif (sprite_index = k_jump_r) sprite_index = k_jshoot_rif (sprite_index = k_jump_l) sprite_index = k_jshoot_lif (sprite_index = k_look_up) sprite_index = k_shoot_up[/pre]"
+	},
+	{
+		"id": 5306,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T08:41:05.000Z",
+		"content": "<b>...continued...</b><br />[pre]  if (shot_en = 1) //if can shoot{if (sprite_index=k_jshoot_down) instance_create(x, y+sprite_height, shot)if (sprite_index=k_jshoot_up) instance_create(x, y, shot)if (sprite_index=k_shoot_up) instance_create(x, y, shot)if (sprite_index=k_shoot_r) instance_create(x+sprite_width/2, y, shot)if (sprite_index=k_shoot_l) instance_create(x, y, shot)if (sprite_index=k_jshoot_r) instance_create(x+sprite_width/2, y, shot)[/pre]"
+	},
+	{
+		"id": 5307,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T08:42:53.000Z",
+		"content": "<b>...continued...</b><br />[pre]  if (sprite_index=k_jshoot_l) instance_create(x, y, shot)shot_en = 0if (ammo &gt; 0) ammo = ammo - 1}[/pre]"
+	},
+	{
+		"id": 5308,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-06-12T08:53:44.000Z",
+		"content": "I hope you're not going to put all the code here. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 5309,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-12T14:12:53.000Z",
+		"content": "Sounds cool.<br />BTW, perhaps you should use a newest browser, for example Internet Explorer 6, 7, or Firefox 2.0.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5310,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T15:13:13.000Z",
+		"content": "I'm a member of many forums, including many gaming forums (newdoom, diehardwolfers, zdoom, skulltag, korax-heritage, realms3d, wolf3d heaven.......) yet I didn't have any problems posting there. So I'm not sure my browser is to blame. Yet, it's a possibility. Maybe firefox can help it out.<br /><br />..and no, I won't post all the code, don't worry [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Though for shooting it's all the code there currently is (at least for the player object class), but it'll grow larger when I'll add shooting while climbing and such."
+	},
+	{
+		"id": 5311,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T15:14:17.000Z",
+		"content": "Currently I'm studying examples of advanced platform games on Game Maker, to get some ideas how to implement climbing and such stuff. On Game Maker, colissions and solid objects are hard ot make bug-free, so it's a challenge<br /><br /><br />I still hope someone will be able to help me out"
+	},
+	{
+		"id": 5312,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1485822,
+		"author_name": "lv4n",
+		"timestamp": "2007-06-12T15:25:39.000Z",
+		"content": "I'd love to see more code [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] . So I'll be happy if you post some code from time to time [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] . Btw welcome and good luck with your new project!----<br /><br />[img]http://img294.imageshack.us/img294/1923/untitled116qa.gif[/img]<br />Tough Bloogs eat princesses"
+	},
+	{
+		"id": 5313,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-12T16:34:10.000Z",
+		"content": "Home-made engines seem to be more underestimated than prefabricated ones here.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5314,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-12T17:46:31.000Z",
+		"content": "Thank you. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  It's a hard challenge, and I don't promice anything, it all depends on many factors including my free time.<br /><br />Shadow Master - I preciate your project more, as if it'll be able to duplicate Keen gameplay it's be far more of a value, as in Game Maker I can't control 100% of everything, and many functions are indeed pre-fabricated. Also GM projects usually take more space and loading time."
+	},
+	{
+		"id": 5315,
+		"title": "Re: new project - Keen engine on Game Maker",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-06-26T11:34:16.000Z",
+		"content": "I'm going to continue working on my fangame today after a 3 week absence (I must say, Europe is an interesting place indeed), which will mainly be graphics.<br /><br />However, I've also begun programming my physics engine in the last few months, and all of it looks very promising.  If you'd like to spend some time under my help and play a preview demo, by all means.  You can contact me at globox88 at-yahoo-dot-com on YIM (I'd rather you didn't send an e-mail, honestly, but if that's all the suffices go ahead), goldphoenix99 at-hotmail-dot-com for MSN, and I have several AIM accounts, one of which being Pitchblack44.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	}
+]

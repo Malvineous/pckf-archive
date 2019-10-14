@@ -1,0 +1,138 @@
+[
+	{
+		"id": 681,
+		"title": "RCA video output to VGA input.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-06T23:09:50.000Z",
+		"content": "Hello, I, yet again, have another technical question to petition to the Public Commander Keen Forum. I'm asking here because well... Probably SOMEONE here knows how to help me.<br /><br />I am looking for a way to convert, as the title said, a standard RCA Plug [url=http://en.wikipedia.org/wiki/RCA_connector]en.wikipedia.org/wiki/RCA_connector [/url] (The yellow video one.) to a standard VGA output. [url=http://en.wikipedia.org/wiki/VGA_connector]en.wikipedia.org/wiki/VGA_connector[/url]<br /><br />Why do I want to do this? Well simple. I HATE USING MY TV to display Oblivion. I would LOVE to output the NTSC signal to my 21 inch CRT moniter that is capable of 1600 x 1200 resolution. <br /><br />I know that the XBox 360 is capable of rendering at 640x480 (NTSC output standard for videogame consoles. All the way back to PS1 which used 320x200/240? for most games but also could display 640x480 as is the case with Chrono Cross.) 1280720 resolution (720 HD standard) or 19201080 (1080 HD standard)<br /><br />Honestly... I don't know how those work directly with the RCA connector its self but I DO know that is the only connector that came with my 360. I am sick and tired of useing a fuzzy TV screen to display my games which I KNOW can be displayed at a VERY high resolution, and good frame rate when I have a good quality computer moniter RIGHT in front of me. I am asking specifically how to go from an RCA plug to VGA because if I can get a device to do this for me I can then hook up ALL my consoles to the computer screen. (NES, PS1, Gamecube etc. etc.)<br /><br />Although if this is impossible my second question is \"How do I get my 360 SPECIFICALLY to output to a standard computer moniter.\" Because lets face it, Bio Shock deserves more than 500-some lines of resolution. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br /><br />I know most of you are thinking, \"Why don't you get a gaming computer?\"<br /><br />Well first I already HAVE a GOOD computer (A pentium 3 - 900 MHZ which, quite frankly, keeps par and sometimes SURPASSES in speed in both Windows GUI and rendering with some single core Pentium 4s. No lie. It is an excellent system especially considering its age.) and second I had a choice of paying 1000+ USD for a new computer vs 300 USD for a X-Box 360.<br /><br />Third... I just want to know how to do this. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />So yeah... any help OR suggestion I would LOVE to hear. It could be anything from a third party device to having to get a new videocard. (If anyone knows of a PCI video card that has this kind of input let me know because I already have my AGP port taken up by a nice card.) Heck... if you can give me directions on splicing the WIRES I'm down for that. (Already done that so much in the past.)<br /><br />So yeah... um... -Gal out.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18277,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-07T02:39:20.000Z",
+		"content": "Splicing wires unfortunately won't work in this case, because a computer monitor has five separate inputs: red, green, blue, horizontal sync and vertical sync.  In an RCA plug all five signals are mashed together on the same wire.  In a monitor all these signals are separate (which is why there are so many pins in a VGA connector - and my 21\" CRT actually has five RCA plugs on the back to accept a signal that's been separated out into individual wires.)<br /><br />This means that you need to get a device to convert the RCA signal (or \"composite\" as it's known) into VGA, or \"RGBHV\" as that's known.  Composite to RGBHV converters are probably not that hard to find, you can probably pick up a cheap one on eBay.  You have to be careful though, because some just convert the bare signal so for NTSC the monitor ends up seeing a 30Hz signal - and given that the minimum refresh rate for a monitor is 60Hz, it'll appear like you're sitting in front of a strobe light because of the flicker - assuming your monitor even accepts the signal, most just say \"signal out of range\" because it's too low.  You need to get a converter that at least doubles the refresh rate.<br /><br />The main problem of course is that your monitor may be able to display 1600x1200, but the composite/RCA signal is only 720x576 tops.  So even if you do display the image on a computer monitor, it won't be any sharper - in fact it'll probably look worse than on the TV for various reasons.<br /><br />This is fine if all you want is to use one display device for everything, and for older consoles that aren't capable of anything more, but for something like an XBox that's capable of HDTV, you're far better off buying a proper XBox adapter to output RGBHV signals.  This replaces the low-res RCA connector with a different connector, rather than converting it.  I'm not sure whether you can get an XBox RGBHV output option, but given that you can connect it to HDTV I'd be surprised if you can't.  It may be in the form of a DVI connector, so providing the DVI connector supports DVI-A (analogue RGB over the DVI connector) then you can get a DVI -&gt; HD15 converter which just connects the VGA pins to the proper DVI ones.<br /><br />This all assumes you've got some way of unplugging your monitor and plugging it into something else, which would be a hassle if you haven't got a KVM you could use.  You may want to investigate alternatives, like analogue TV capture cards, which will take an RCA video signal and either record it to disk or display it in a window on the computer screen (which you can make full-screen, just like any other video you watch on a PC.)  You do have to be wary with that though, because depending on the card you choose there'll be a lag when the video is encoded and another lag when it's decoded again to be displayed on the screen.  This is no problem when watching video, but when you're playing an interactive game you don't want to fire a gun and have to wait a second or two before you see it happen on-screen.  Of course cards to do this are a dime a dozen on eBay, so even if it doesn't work out it's unlikely to be an expensive experiment.<br /><br />Anyway, hopefully this gives you something to go on...!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18278,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-09-08T19:51:02.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]This all assumes you've got some way of unplugging your monitor and plugging it into something else, which would be a hassle if you haven't got a KVM you could use. You may want to investigate alternatives, like analogue TV capture cards, which will take an RCA video signal and either record it to disk or display it in a window on the computer screen (which you can make full-screen, just like any other video you watch on a PC.)[hr][/quote]<br /><br />I use this method to play sega-cd and gamecube games on my computer.  What i do is connect my console to my video camera, then connect the video camera to my laptop via firewire, and fire up a program that outputs the video/audio to my screen.  And there's no lag at all which is quite cool. The only problem about this setup is that it takes up a lot of room.  The camera and wires can become quite a mess, but im too lazy to buy a usb capture card.[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 18279,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-08T22:11:35.000Z",
+		"content": "Well hey, the room I have. I am mainly worried about the quality of the picture. What resolution would I get from running it through a camera as opposed to running it through a video card. Also I don't exactly have a camera and I don't feel like having to shell out 100 +  some for a camera. (100? That's a low estimate!)<br /><br />Also, is there some capure cards I should look out for? Some I should stay away from? Keep in mind I already have a GeForce 6600 LE (or some numbered crap) in my AGP slot already. Soo... any decent capture card (for cheap) that would fit into a PCI slot would be AWESOME!<br /><br />And, Blue-X, about how much better DOES it look as compared to a TV?<br /><br />Right now I have an S-Video out and a device to hook it up to a TV and use that as a moniter, but I don't think I can go the other way.<br /><br />Also I wanted to get a capture card for my PC anyway so I can record all the terrible goofs and glitches I found in all my console games (ESPECIALLY Oblivion.) AND off of my old VGA laptop. (That would be cool.)<br /><br />And I looked into it, YES microshaft DOES sell VGA output cables to a computer moniter... But that's like 40 some because Microsoft can jack up the price. Now all I need is a modded OS that recognizes and lets me use a USB keyboard and mouse instead of those terrible controllers. (Something like this also exists but I heard it wasn't all that good and is also expensive. It's also just a hardware spoof of a controller, not software driven.)-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18280,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-09T01:41:14.000Z",
+		"content": "That's interesting - if I use my camera to pass through data over firewire there's a lag of about 200 milliseconds - enough that if I wave my hand in front of the camera you can see it's slightly delayed on screen.  Of course that little delay might not be a big issue for gaming, it's probably an individual preference.<br /><br />If you want a rough idea of the quality you can expect from capturing composite video, take a screenshot, resize it down to about 512x384 and then enlarge it to 768x576 - that's assuming PAL, NTSC is lower again.  Personally I think US$40 is a bargain for the improvement in quality you'll get by going native VGA the whole way.<br /><br />I've got a couple of TV capture cards, one is built into a PCI digital TV tuner card, and the other one I pulled out of a PC in a dumpster one day.  I've only ever used the dumpster one just to see if it worked (which it did) but once I saw the quality coming out of it I never bothered again...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18281,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-09-09T14:55:19.000Z",
+		"content": "Why not get the VGA cable for the 360?<br /><br />[img]http://media.teamxbox.com/xbox-hardware/ss/40/1133487764.jpg[/img]<br /><br />I haven't tested/used it (we have a 1080p 42\" TV, which makes any game look fantastic), but I'm pretty sure that's what you're after...------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18282,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-09-10T19:18:17.000Z",
+		"content": "well, considering my lcd monitor is a cicero 15 inch screen, I dont notice any improvement.  If anything, id rather play it on my crt tv just because the screen is bigger. I dont have a 360, so i cant take advantage of the higher resolutions anyways. Nearly all my consoles use the old ntsc res. <br /><br />If you have a little money to burn, id probably get that vga cable, or invest in a decent capture card.  Can't really tell you which one is good though. For me it was a matter of being able to play my consoles in my room since i never get a chance to use the tv.  Quality wasn't really an issue.[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 18283,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-11T02:21:24.000Z",
+		"content": "Okay... but hooking my 360 up to the computer isn't what I meant... I said that was only if I wasn't able to get ANY standard video output to the moniter. I also want to play Metroid on the computer screen too.<br /><br />I am still interested in getting a capture card though.<br /><br />But what I am REALLY looking for is a COMPLETELY seperate device that lets me go from TV - VGA witout a computer. System independent. (Which means I could hook up a VCR if I wanted to!)<br /><br />Does anything like THAT exist?-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18284,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-09-11T05:13:15.000Z",
+		"content": "not to my knowledge :/<br />Those sort of devices are usually either hard to find, or crafted by individuals. but you never know, you might find one after some intensive searching.[img]http://www.cocoanut.org/images/cocoa-forum.png[/img]<br /><font color=\"BLUE\"><br />[url=http://www.cocoanut.org]www.cocoanut.org[/url]</font>"
+	},
+	{
+		"id": 18285,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-09-11T07:53:36.000Z",
+		"content": "So...an RCA-to-VGA converter?<br /><br />[img]http://www.ibmcctv.com/prodimages/RCATOVGA-170.jpg[/img]<br /><br />This one seems fairly standard, $65 from most places...google 'RCA2VGA'.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18286,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-15T16:45:29.000Z",
+		"content": "Oh... no WONDER I cound't find what I was looking for... Apparently my google search engine techniques are still in the 90's. I need to upgrade from \"RCA <i>plug</i> <b>to</b> VGA <i>adapter</i>\" and subtitute in \"Leetspeak\"/\"TXTspeak\" so that it is now simply \"RCA<b>2</b>VGA\" with \"<i>adapter</i>\" and \"<i>plug</i>\" removed entirely. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />Thank you Szevvy! That is *EXACTLY* what I was looking for.<br /><br />No I mean... for real... that little device is really, actually what I wanted.<br /><br />I might as well get all three though. The adapter, the video capture card, (Perhaps not...) and the '360 cable.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18287,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-16T01:55:51.000Z",
+		"content": "Don't forget to get a cheap KVM switch off eBay if you don't have one already, so that you can switch between your PC and the other VGA input with a button press instead of unplugging cables.<br /><br />And you don't need to Google in Leetspeak, Google only returns pages containing all the words you search for - so if you search for \"RCA plug to VGA adapter\" you'll only get pages with the words \"plug\" and \"adapter\" on them as well - if they call it a converter instead of an adapter, it won't show up.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18288,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1486808,
+		"author_name": "Galaxieretter",
+		"timestamp": "2007-09-16T05:36:42.000Z",
+		"content": "Mal, I was kidding. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />But that is a good sugesstion. As of right now, I really don't mind swapping out the cable every time I want a new device. I remember swapping out my video card between computers when I only had one good one... I don't mind moving a cable. Although a switch would be nice.<br /><br />Then again so would a new computer.-----------------------<br />The end of this post. You may stop reading now."
+	},
+	{
+		"id": 18289,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-16T21:33:33.000Z",
+		"content": "Oh, fair enough [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oops.gif[/img] <br /><br />And last time I checked one of those two-port KVMs was about the same price as a decent VGA cable, so it won't break the bank.  (Certainly you could buy a stack of them for the same price as that Xbox adapter.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18290,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-09-17T17:14:05.000Z",
+		"content": "my monitor [eizo flexScan f57] has build in bnc plugs so all i need is a bnc 2 rca adapter[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 18291,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-09-17T22:04:07.000Z",
+		"content": "Does it have five BNC plugs?  If it does it's unlikely to support composite video, you need an adapter to split the normal VGA connector into five BNC plugs.  Both my monitors have this, and I had to use it because running them at 1600x1200@85Hz through the normal VGA connector caused noticeable ghosting.<br /><br />It won't accept a normal composite/RCA signal though.<br /><br />[img]http://www.altinex.com/Products/Cables/Accessories/VGA-to-RGB/MS810-/MS8102CA_img.gif[/img]<br /><font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18292,
+		"title": "Re: RCA video output to VGA input.",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-09-18T19:12:53.000Z",
+		"content": "yes my monitor has 5 bnc plugs [url=http://www.eizo.com/support/discontinued/crt/f57.asp]here is the eizo site with more info[/url]<br />normaly i run it at 1024x768 at 100hz i did push it to 1600x1200 to test <br />sadly the pc that uses the monitor is dead [cpu] so i can't use it now i'm using my laptop for over a year now and the quality gap is HUGE [the best thing is that i paid only 45euro for it][url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	}
+]

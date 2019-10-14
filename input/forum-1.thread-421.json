@@ -1,0 +1,66 @@
+[
+	{
+		"id": 78,
+		"title": "help wanted",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-19T11:12:34.000Z",
+		"content": "can some one extract all the graphic's from keen 4,5,6 ? <br />i can't do this because i i don't know how to use modkeen<br />and don't say use cku it's crappy[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 2771,
+		"title": "Re: help wanted",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-19T13:40:20.000Z",
+		"content": "Tried Wombat 0.4? It gave marvelous results for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2772,
+		"title": "Re: help wanted",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-19T13:58:54.000Z",
+		"content": "it only forks for keen4[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 2773,
+		"title": "Re: help wanted",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-19T14:36:14.000Z",
+		"content": "Strange, it works for 5 and 6 too for me... At least, last time I checked...____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 2774,
+		"title": "Re: help wanted",
+		"author_id": 1485688,
+		"author_name": "Litude",
+		"timestamp": "2006-08-19T19:45:07.000Z",
+		"content": "Using modkeen is not that hard, just make sure that you have version 1.4 of Keen 4-5 and version 1.4 (which isn't the most recent one) of Keen 6 so that you can use it. You must uncompress your exe file first using UNLZEXE from [url=http://dosclassics.com/download/198]here[/url].<br /><br />Then put modkeen into your Keen 4 directory, make a shortcut and go edit the target and add \"-export -episode=4\" save, and run the shortcut.<br /><br />Then repeat the step for Keen 5-6, changing the -episode= command to -episode=5 and -episode=6."
+	},
+	{
+		"id": 2775,
+		"title": "Re: help wanted",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-19T21:48:08.000Z",
+		"content": "Indeed.<br /><br />However, if this *still* doesn't work; I shall provide zipped graphics for thee.A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 2776,
+		"title": "Re: help wanted",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2006-08-19T23:06:22.000Z",
+		"content": "thanks ll[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 2777,
+		"title": "Re: help wanted",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-08-22T20:48:53.000Z",
+		"content": "Here y' go: [url=http://www.freewebs.com/levellord_keen/sounds.htm]www.freewebs.com/levellor...sounds.htm[/url]A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

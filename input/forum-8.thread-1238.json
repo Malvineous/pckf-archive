@@ -1,0 +1,50 @@
+[
+	{
+		"id": 895,
+		"title": "Looking for Web Host",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-15T21:53:45.000Z",
+		"content": "I'm looking for a cheap web host. Anyone know of any good ones?<br />It needs to have a good amount of space and transfer, and plenty of subdomains, emails, and MySQL accounts, and all kinds of scripts, no ads, etc.<br /><br />Also, i don't know if it exists, but i need a host that won't ask for many personal details. (for privacy reasons.)<br /><br />So can anyone help me? (I've looked everywhere on google)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 22118,
+		"title": "Looking for Web Host",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-02-15T22:17:50.000Z",
+		"content": "What qualifies as \"cheap\"?"
+	},
+	{
+		"id": 22119,
+		"title": "Re: Looking for Web Host",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-02-16T12:20:12.000Z",
+		"content": "I'm assuming that by cheap, you mean it would be affordable on the average allowance. I assume you're also looking for a host with cPanel.<br /><br />The cheapest host I know of is [url=http://www.nearlyfreespeech.net]NearlyFreeSpeech.NET[/url] - they charge by the byte so you can pay as little as $10 a year if you don't get much traffic. You do get all the subdomains and FTP accounts you want, but their control panel is pretty sparse and you don't get much else in the way of features.<br /><br />You can also get really cheap hosting at [url=http://www.dreamhost.com]DreamHost[/url] if you use a coupon (only $22 for a year's hosting!) - the coupon I used was BEST, but there are others that also give you a full discount. They give you everything you could possibly want, but remember that it'll be expensive after the first year.<br /><br />The host I used before these two was [url=http://www.jswf.co.uk]JSWF[/url]. They have great tech support and plenty of features (and cPanel). They do charge in UK pounds, but their servers are in the US and their prices are very low.<br /><br />EDIT: There are a few good free web hosts that have cPanel, but I strongly recommend that you pay for a proper host. These free hosts have a tendency to disappear after a year or so and take all your hard work with them.<br />[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url] | 2 pence an hour for godawful tech support job... [url=http://www.jobsite.co.uk/cgi-bin/vacdetails.pl?selection=915675807]yes please![/url]"
+	},
+	{
+		"id": 22120,
+		"title": "Re: Looking for Web Host",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-02-17T00:07:37.000Z",
+		"content": "www.hasweb.com[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 22121,
+		"title": "Looking for Web Host",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-02-17T15:07:08.000Z",
+		"content": "Of course it depends on what you want your website to do.<br />As graphix said, the pure lowest price will probably be www.nearlyfreespeech.net.<br />So if you just want cheap and don't need the extra features, definitely do that.<br /><br />The host I use has a \"monthly\" rate, though it's all billed annually. However, if you cancel during the year, they refund all the remaining months. There's also a $20 one-time setup fee. They have three prices at $5, 10 and 20 per month. But lets go with the cheap plan. You asked for:<br />Space: 1GB<br />Transfer: Unlimited.<br />Subdomains: Unlimited.<br />Emails: 10<br />MySQL: Yes. And 1GB database space.<br />Scripts: Yes.<br />No ads: Of course no ads.<br />Etc:<br />+ Excellent web email interface.<br />+ FTP access. This is really nice, either use an FTP program, or just Windows lets use it like a folder on your hard drive. So you can just copy your files directly from your computer to theirs like you're moving them around your computer. (Of course, they have a file manager on the control panel too.)<br /><br />What really makes it worth the price:<br />1. php <b>and</b> asp. So you can have things like [url=http://f.keenx.com/]f.keenx.com/[/url] and [url=http://forums.keenx.com/]forums.keenx.com/[/url]<br />(as well as CGI/perl.)<br />2. Customer support is excellent. I've only used the web support ticket system, but they have live chat and phone support too. Regardless, I think the longest I've waited for an answer to a question was about 20 minutes. But almost all of them have been answered within 5 minutes.<br />Also, if you use this link: [url=http://www.webhost4life.com/default.asp?refid=zperkins]www.webhost4life.com/defa...d=zperkins[/url] they will give me a commission. And that doesn't cost you anything."
+	},
+	{
+		"id": 22122,
+		"title": "Re: Looking for Web Host",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-02-17T19:05:45.000Z",
+		"content": "I'm not sure yet, but im probably gonna go with the nearly free speech one.<br />Thanks-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"id": 343,
+		"title": "Modkeen help",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-05-02T00:07:32.000Z",
+		"content": "I am making a Keen 1 mod and need help getting modkeen to work using the command line. What can I say im only 12.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]   aka What do i need to type so it starts working!"
+	},
+	{
+		"id": 10198,
+		"title": "Hmm",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-02T15:11:13.000Z",
+		"content": "Edit: Garg!  Sorry about that."
+	},
+	{
+		"id": 10199,
+		"title": "Re: Hmm",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-02T17:26:12.000Z",
+		"content": "Aww, there goes your comment.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 10200,
+		"title": "Re: Hmm",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-02T20:55:47.000Z",
+		"content": "So:<br /><br />1. Make a folder in your C: drive called modding (or something like that, doesn't matter too much as long as it doesn't have a space in it).<br />2. Make a folder inside that folder (call it keen or something) and copy all the files from one of your Keen games into it. (don't move them, or you won't be able to play Keen again when you make a mistake!)<br />3. Also make a folder called bmps.<br />4. Go to the Start menu, click Run, type \"command\" (without the quote marks) and click OK.<br />5. Change to the directory in the C: drive that you just made. To do so, type:[pre] cd \"C:\\modding\"[/pre]and press enter. (If the folder's name is not C:\\modding, change the bit after the C:\\.)<br />6. Type modkeen -export -keendir=keen -bmpdir=bmps -episode=X (replace X with the number of the Keen version you copied into the Keen folder) and press enter.<br />7. Open the bmps directory and look through the images. Edit some if you want.<br />8. Once you've edited them and want to see them in the game, repeat steps 4-6 above, except change the \"-export\" in step 6 to \"-import\".<br />9. Go into the keen directory and play the game. Observe the new graphics.<br /><br />This isn't perfect, but it should work OK.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 10201,
+		"title": "Re: Hmm",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-05-04T20:13:51.000Z",
+		"content": "in the folder where should i put modkeen.exe"
+	},
+	{
+		"id": 10202,
+		"title": "Re: Hmm",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-05T09:30:38.000Z",
+		"content": "In the C:\\modding folder."
+	},
+	{
+		"id": 10203,
+		"title": "Re: Hmm",
+		"author_id": 1485694,
+		"author_name": "jimmyjames",
+		"timestamp": "2007-05-10T01:12:56.000Z",
+		"content": "thanks"
+	}
+]

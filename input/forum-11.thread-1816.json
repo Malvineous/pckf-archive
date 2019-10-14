@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1473,
+		"title": "Extracting Monster Bash sounds",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-03-13T04:42:36.000Z",
+		"content": "Well, I finally got some time to poke around with the code on Gerald Lindsly's site and it works like a charm!  Szevvy, I recall you mentioning somewhere you had some issues with the decompression code (dropping bytes at the end I think.)  Which files did you have trouble with?  I haven't encountered any problems so far, but I've only tried it with a few files.<br /><br />I also did up a 4-bit VOC decoder so I can listen to some of the sounds - here's one that's been decompressed and decoded.  I've resampled it to 11025Hz and converted to .wav so you can listen to it in your favourite proggy [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />[url=http://members.optushome.com.au/malvineous/digi_dog-11k.wav]digi_dog-11k.wav[/url]"
+	},
+	{
+		"id": 30492,
+		"title": "Re: Extracting Monster Bash sounds",
+		"author_id": 1485549,
+		"author_name": "Nickssoft",
+		"timestamp": "2005-03-13T23:21:46.000Z",
+		"content": "wow this is a pretty neat find[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 30493,
+		"title": "Re: Extracting Monster Bash sounds",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-03-14T02:34:23.000Z",
+		"content": "Heh, I fixed that decompression bug ~6 months ago [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />Wombat *should* auto-magically let you play the .vocs from Monster Bash, and let you export them as .wav - but if that's not working for you do let me know.<br /><br />If you need any info on Monster Bash stuff (other than sprites) do let me know and I'll send you what I have.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 30494,
+		"title": "Re: Extracting Monster Bash sounds",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-03-14T22:42:03.000Z",
+		"content": "Oh ok, I've been catching up on about two years' worth of forum reading, so I've lost track of what happened when [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I'm using Wombat 0.4, but it won't convert the VOCs - it only extracts them unchanged.  Of course I'm running it under Linux through Wine, so it's quite possibly a Wine issue instead.<br /><br />Thanks for the offer of the Monster Bash info - once I've got my editor to a more usable state, I'll probably take you up on that [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 30495,
+		"title": "hmm",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-03-16T01:27:13.000Z",
+		"content": "Did you use the export button?  That should convert them to .wavs just fine, as it doesn't use Windows calls at all."
+	},
+	{
+		"id": 30496,
+		"title": "Re: hmm",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-03-17T12:37:13.000Z",
+		"content": "Nope, the export button is greyed out...it flicks on and off when viewing the levels, but for the sounds it's always greyed out."
+	}
+]

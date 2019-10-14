@@ -1,0 +1,586 @@
+[
+	{
+		"id": 211,
+		"title": "Isis II source code?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-28T17:11:13.000Z",
+		"content": "I'm pretty sure I read something about the guys who made the Isis II demos releasing the source code soon after giving up the project. If someone else knows about this...<br /><br />(I mean, if you can giv... er, lend me the source code, I'd pretty happy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] )------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5161,
+		"title": "Re: Isis II source code?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-30T17:29:21.000Z",
+		"content": "Excellent. I guess META engine development will continue abandoned for another 2 years. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5162,
+		"title": "I HAS 1337 CODE. LOL!!1",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-05-30T23:54:12.000Z",
+		"content": "Indeed. I've never come across the ISIS II source code, and I know not whether it was ever released. Though hopefully it's floating around on the developers' puter somewhere.<br /><br />Z-1 sent me the source to his engine last year, which I can send if you like. I don't expect he's done much more work on it since then, but you might want to contact him to find out."
+	},
+	{
+		"id": 5163,
+		"title": "Re: I HAS 1337 CODE. LOL!!1",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-31T14:11:53.000Z",
+		"content": "I'd have to try a demo of the engine before asking for its source code. In the case of Isis II, I know it's worth reading, but...------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5164,
+		"title": "Re: my god...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-31T16:29:51.000Z",
+		"content": "In the first place, I asked for this due to the following quote:<br /><br />[quote]<b><i>Quote:</i></b>[hr]The source code of some time ago stopped project Isis is now on the web.<br />If you're interested, take a look.[hr][/quote]<br /><br />There's a link provided, but it's broken: [url=http://pub128.ezboard.com/fpimentogamedevelopment.showMessage?topicID=832.topic]pub128.ezboard.com/fpimen...=832.topic[/url]<br /><br />I found this here:<br />[url=http://dosclassics.com/ckn/newsletter/issues/2003-09-30.txt]Old CK newsletter issue[/url]<br /><br />Damnit, halfway:<br />[url=http://web.archive.org/web/20031231072818/http://pub128.ezboard.com/fpimentogamedevelopment.showMessage?topicID=832.topic]The ISIS II source code release announcement[/url]<br />However, the links to the zip files are broken.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5165,
+		"title": "Re: my god...",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-05-31T18:18:54.000Z",
+		"content": "Dude, Z-1 is a great programmer, I'd go for his source code.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5166,
+		"title": "HAI:CAN HAS ISIS:KTHXBYE",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-01T01:57:44.000Z",
+		"content": "Well, how about that. While reading SM's latest post, I had a sudden flashback to when I was studying the code myself a long time ago. I opened up the Keen folder on my previous machine that my sister now uses; lo and behold:<br /><br />[url=http://jimsoft.spatang.com/keen/community/IsisSrc.zip]Isis II Source Code[/url]<br /><br />And as a bonus:<br /><br />[url=http://jimsoft.spatang.com/keen/community/CK_2005_dec_24.zip]Z-Keen Source Code[/url] (including data)<br /><br />Enjoy!"
+	},
+	{
+		"id": 5167,
+		"title": "Re: NOOOOOOOOOOO",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-01T16:59:50.000Z",
+		"content": "YOU ROCK, THANKS A LOT!!!!<br /><br />EDIT: by the way, kittyyorp had already told me you had the source code once, Spleen.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5168,
+		"title": "O WHYYYYYYYYYYY?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-02T01:44:10.000Z",
+		"content": "Not a problem.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />It's interesting that I was so certain \"I've never come across the ISIS II source code\". And I wonder how kittyyorp knew I had it. Must've blocked some stuff out of my memory for some reason. Quite fascinating when that happens."
+	},
+	{
+		"id": 5169,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-06-02T15:41:51.000Z",
+		"content": "Yeah, I think he meant some one else.  I dunno how she could have known...<br /><br />But who knows, she surprises me all the time.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5170,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-03T04:52:03.000Z",
+		"content": "Hello everyone.<br /><br />I haven't checked these forums for several years now, so I was kinda surprised when I saw Isis II still being discussed at all.<br /><br />I programmed Worminator and the more recent Worminator 3, and was the original Isis II programmer.  I still tinker with Worminator on and off, and the game has undergone many improvements over the years.<br /><br />If you are interested, I can provide you with code from one of the more recent builds, though it is largely the same structurally.  Honestly though, I'd do things totally different if I were making another sidescroller today, so don't be fooled into thinking that Isis II or Worminator is a really good example of how to code a sidescroller.  None the less, it should be easy to understand at least the basic flow of the game."
+	},
+	{
+		"id": 5171,
+		"title": "Mindtrip.",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-03T13:41:14.000Z",
+		"content": "Wow, greetings! Good to have you here! Of course Isis II is still being talked about... besides Z-1's engine, it's the best fan game yet to be created. I'd definitely be interested to see some more recent code.<br /><br />It would also be helpful if you could point out some books, websites or other resources you use to learn the artform in the first place. In particular, things like sprite management and general code and data structure.<br /><br />Woah... I can't believe Terminator 3 was released almost four years ago! I haven't watched it since it was at the cinema. Actually... it was barely a month before I discovered this forum! How very intriguing. This thread just keeps dredging up memories.<br /><br />You might find [url=http://fortvortabella.commanderkeen.org/forum/index.php]The Barricades[/url] interesting, if you plan to partake in the community more permanently. It's a quiet place at the moment, but there's one way to change that..."
+	},
+	{
+		"id": 5172,
+		"title": "Re: Mindtrip.",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-03T18:08:26.000Z",
+		"content": "Hmm well honestly, I didn't really find any useful articles or books about game programming when I started fooling around with this stuff.  I had some experience making simple games with QBasic in the past, but that was about it.<br /><br />Worminator actually started off as just a tile map editor, I was originally going to make it edit keen 1-3 levels.  Then I just fooled around with making a little stick man walk around the levels instead (no slopes, no other sprites, no animations at this point).  It turned out to be pretty easy, just had to check a few tiles every time you moved to see if they were solid or not.<br /><br />After that I just slowly hacked more and more into the game over the next year or so.  I just learned everything by trial and error (even though the game contains a good many errors still!).<br /><br />The basic approach is really simple.  You have 4 tile grids, a background graphics layer, a foreground graphics layer, an info tile layer, and a graphic properties layer.  Background/foreground layers just have pointers to graphical tiles, the info layer contains info about what the tile is (a slope, a wall, a breakable tile, empty space, etc...) and the graphical properties layer is used for special masking effects (like making the foreground translucent).<br /><br />For sprites, I just made a fixed size array of sprite structures, which look something like this:<br /><br />typedef struct SPRITE {<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int sprite_active;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int sprite_type;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp char in_range;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int timer;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp char animation_state;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int width, height;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int action_state;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int frame;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp float hit_points_left;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp float x_position_in_pixels, y_position_in_pixels;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp float x_acceleration, y_acceleration;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp char direction;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned char rotate_factor;<br />&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp } SPRITE;<br /><br />Then I made a bunch of functions to spawn sprites, move sprites, etc...  Each of these functions would take an index number that references a sprite in the array.  There were also separate AI functions for every type of sprite.  Then every frame I just loop through the sprite array and call the appropriate AI routine for every sprite, and pass it its index within the array.<br /><br />Its all really basic honestly.  I'll zip up the latest worminator code for you later if you like.  You need MSVC 6.0+ and winallegro to run it though."
+	},
+	{
+		"id": 5173,
+		"title": "Re: Mindtrip.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-04T10:40:42.000Z",
+		"content": "Funny how you pop up just as an Isis II topic was made... I don't think I've seen an Isis II topic before ever since I joined.<br /><br />I also find it funny how a topic like this pops up, just as I'm learning C++... This will be interesting and useful to learn. (Once I know how to install Allegro on my MinGW compiler... The instructions delivered with Allegro don't work at all.)____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5174,
+		"title": "Slice Dice Thrice",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-04T11:33:05.000Z",
+		"content": "[hr]<b>DML</b> For sprites, I just made a fixed size array of sprite structures<br />[hr]I'm determined to establish a linked list sprite system. It just seems so untidy working with straight arrays. I've been adopting some C++ features throughout the course of this year, so there's been much experimentation with vectors and lists. They make things a bit simpler, but I don't think I like their abstractness so much.<br /><br />All this backflipping in my approach is probably <i>the</i> main hurdle I face, moreso than any lack of understanding. Hearing other people describe how they structure things helps a lot though.<br /><br />[hr]<b>DML</b> I'll zip up the latest worminator code for you later if you like.<br />[hr]That'd be great. I look forward to it.<br /><br />[hr]<b>DaVince</b> (Once I know how to install Allegro on my MinGW compiler... The instructions delivered with Allegro don't work at all.)<br />[hr]What problems are you having? I've been able to setup Allegro with MinGW many times in the past following the provided instructions, so I may be of some help.<br /><br />Though I don't think I've updated MinGW in a year or so (the website confuses me now), so things may have changed in some ways.<br /><br />You might want to investigate Dev-C++ if you've not already. It can be setup to run straight out of the box (including MinGW). Allegro, along with its examples and various associated libraries, can be downloaded and installed via the package system. <br /><br />However, I would suggest setting MinGW up manually first--that way you have a better understanding of how it fits together. Although I find all that low-level work can be habit-forming. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img]"
+	},
+	{
+		"id": 5175,
+		"title": "Allegro Presto",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-04T11:39:31.000Z",
+		"content": "I'll uh, make a new topic about this to avoid clutter, ok?<br /><br />EDIT: no, nevermind. As I was writing my help needed topic and walking through the steps again, I noticed I forgot to unpack the minimal DX package to my compiler directory. After I did that, no problems appeared again (I was able to run fix.bat where I couldn't before). Sigh.<br /><br />EDIT 2: okay, compilation error. Hooray.<br /><br />[pre]  I posted lots of errors here. Problem fixed, ignore.[/pre]<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img]   <br /><br /><br />[quote]<b><i>Quote:</i></b>[hr]<b>Commander Spleen</b> - You might want to investigate Dev-C++ if you've not already. It can be setup to run straight out of the box (including MinGW). Allegro, along with its examples and various associated libraries, can be downloaded and installed via the package system.[hr][/quote]<br />Already done that - I like Code::Blocks better. Better interface, extendable, open-source, cross-platform, has workspaces where Dev-C++ has not. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]    <br />Not sure if that can include libs automatically, but I do know it doesn't support devpacks (yet). Or maybe it requires a script (extension) to support devpacks.<br /><br />EDIT: okay, C::B DOES support Devpacks, there's a plugin for it, but it doesn't support drag and drop installing of the packs. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5176,
+		"title": "Re: Allegro Presto",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-04T12:20:31.000Z",
+		"content": "Try these threads at the allegro.cc forums:<br />[url=http://www.allegro.cc/forums/thread/590904]Allegro install errors[/url]<br />[url=http://www.allegro.cc/forums/thread/590170/652372]problem compiling allegro[/url]<br /><br />They're both the same thing, but in one the solution looks prettier and the other has a slightly more thorough explanation.<br /><br />What versions of Allegro and MinGW are you using?<br /><br />[hr]<b>DaVince</b> Already done that - I like Code::Blocks better.<br />[hr]Good point. I only discovered that a week or two back, and am yet to test it. I must do so in the near future."
+	},
+	{
+		"id": 5177,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-04T14:06:49.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Glo:</b> Yeah, I think he meant some one else. I dunno how she could have known...[hr][/quote]<br /><br />I contacted her via AIM. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I've done quite a lot of progress in writing META from scratch using Isis' source code, so I guess I'll do an announcement. I'll look at the Worminator source code when I get to the adequate point of progress, and when I have more spare time. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 5178,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-04T14:30:39.000Z",
+		"content": "That worked surprisingly well, thanks. Now there are some project-specific problems (like randomize() not defined), but I'm sure I'll find the solution to these.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5179,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-09T06:59:52.000Z",
+		"content": "OK, I zipped the source to my latest build of Worminator 3 (I am actually working on a few minor additions, and plan to release a small patch for the game soon with some new content).<br /><br />Here is a dump of my source ATM.  Keep in mind, this is far from the best way to make a platform game.  A lot of this code is over 7 years old now.  You won't be able to run this if you compile it as is, since the data files have been modified since my last public release of the game.  However, you can still browse through it to see how things are done.<br /><br />[url=http://rapidshare.com/files/36085880/WorminatorSrc.zip.html]rapidshare.com/files/36085880/WorminatorSrc.zip.html[/url]"
+	},
+	{
+		"id": 5180,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-06-09T15:56:20.000Z",
+		"content": "Good heavens up high, DML.  Next thing you know, Yorpy, eK, Thea, and Geoff will be crashing through the door...--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5181,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-09T16:00:05.000Z",
+		"content": "You forgot about Cho'gall. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5182,
+		"title": "Re: O WHYYYYYYYYYYY?",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-06-20T04:07:32.000Z",
+		"content": "Flaose - I just crashed through the door [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Timing eh?  I honestly hadn't looked here since Y2K, can't believe DML posted just a few days ago.<br /><br />Whats happening?"
+	},
+	{
+		"id": 5183,
+		"title": "what!?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-06-20T04:49:48.000Z",
+		"content": "No way!  Geoff!  Holy crap!  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif?ttinline=true\"/>  Welcome back, dude!"
+	},
+	{
+		"id": 5184,
+		"title": "Re: what!?",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2007-06-20T05:03:29.000Z",
+		"content": "I think this is the first time I've seen someone who stopped showing up before I showed up show up.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 5185,
+		"title": "Re: what!?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-20T05:22:10.000Z",
+		"content": "Ah! There's life in them yet![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 5186,
+		"title": "Synchronistic",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-20T05:48:50.000Z",
+		"content": "Wow. Utterly amazing. Welcome back."
+	},
+	{
+		"id": 5187,
+		"title": "Re: Synchronistic",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-20T13:09:09.000Z",
+		"content": "I must be overly newbie compared to you. Hi. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5188,
+		"title": "Isis II files",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-06-22T01:12:45.000Z",
+		"content": "So does anyone actually have all the original Isis II files?<br /><br />I recently went through some Zip Disks I found and found my whole Isis directory tree with folders such as tiles, enemies, weapons, music, sound fx, etc, but all the folders were empty.<br /><br />DML, do you have all those old graphics &amp; files, I'd love to see them again.<br /><br />Email me if you do - geoffrey d0t sims @ gmail d0t com<br /><br />I might try and have another look for them too... love the KeenWiki BTW.<br /><br />Also great to see all the new mods &amp; levels etc that were only just starting back when I was involved... I will have to look into DosBox to get into it again!"
+	},
+	{
+		"id": 5189,
+		"title": "Re: Isis II files",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-22T12:55:34.000Z",
+		"content": "Are you Geoff Sims, the same person who...?<br />Oh, my god. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5190,
+		"title": "Re: Isis II files",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-06-22T21:39:53.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  if this continues the pckf activity will double<br />look out id pckf is comming back [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] <br /><br />nice to see that some first generation bembers are back [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 5191,
+		"title": "blah",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-24T22:43:30.000Z",
+		"content": "I have a good amount of old isis stuff lying around, i'll try to zip it all up sometime and upload it somewhere.<br /><br />i have the version we released that was basically a mod for worminator, and then a bunch of later builds that added more and more features, though im not sure if i have the absolute latest data files."
+	},
+	{
+		"id": 5192,
+		"title": "Isis",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-06-25T03:47:06.000Z",
+		"content": "Hey DML, that would be great, thanks!"
+	},
+	{
+		"id": 5193,
+		"title": "KeenWiki",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-06-25T05:19:43.000Z",
+		"content": "BTW, whoever does KeenWiki should update the levels with all the tips found on CC314 (compiled by pLeitorian ages ago).  He wrote up info for all the specific levels."
+	},
+	{
+		"id": 5194,
+		"title": "Re: KeenWiki",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:24:22.000Z",
+		"content": "We all can do that. KeenWiki is a wiki. Everyone can contribute by fixing/adding information. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5195,
+		"title": "Re: KeenWiki",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-28T08:57:12.000Z",
+		"content": "I zipped up most of what I have and uploaded it here:<br /><br />[url=http://www.hurtntime.com/david/IsisStuff.zip]www.hurtntime.com/david/IsisStuff.zip[/url]<br /><br />I have a few other files around i can clean up and release if people really want them."
+	},
+	{
+		"id": 5196,
+		"title": "Thanks!",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-06-29T13:18:19.000Z",
+		"content": "Wow, Thanks DML!<br /><br />I had forgotten just how far we really got!  Seeing those screenshots of Keen in the green jungle level really brought back memories... pity we never got it finished.<br /><br />Do you recall exactly what we DIDN'T do / still had to finish off, apart from the actual Level design &amp; In-between sequences, from my memory, most stuff worked fine (items, keys, etc). Oh, the enemies weren't complete were they..."
+	},
+	{
+		"id": 5197,
+		"title": "wow",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-06-30T00:00:28.000Z",
+		"content": "Holy crap, it's been a while since someone who hasn't posted since before I came on here came back. (Been here since 2001, under various accounts)<br /><br />Welcome back, Geoff."
+	},
+	{
+		"id": 5198,
+		"title": "Re: wow",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-30T00:56:45.000Z",
+		"content": "Well, I left the project well before it was canceled.  I believe I did everything code wise up to the first demo, but past that others took over.<br /><br />There really was a lot done and working.  I think the biggest issue with the game was that it kept ballooning out of control.  Every time I finished a feature, I got requests for 5 more.  I just didn't have the time to work on the game that much anymore so I had to bail.  If you remember, the original idea I had for the game was basically a worminator clone with Keen graphics, so I never planned on having it grow so much.<br /><br />I think there were at least 3-4 full tilesets done, most if not all of the weapons, and a good number of enemies.  The biggest problem was just content, getting all the levels done, finishing the art, etc..."
+	},
+	{
+		"id": 5199,
+		"title": "Re: wow",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-06-30T00:58:23.000Z",
+		"content": "Oh, incidentally, any pixel artists here willing to do a little work for Worminator 3.1?  I need a few cartoon portraits drawn and a few other small things.  If anyone can help out, please let me know.<br /><br />I can't pay you of course, but you will get full credit for any work and alpha versions of the game to play with.  Everything that I need done shouldn't take a competent artist more than a few hours to complete I don't think."
+	},
+	{
+		"id": 5200,
+		"title": "Isis",
+		"author_id": 1486085,
+		"author_name": "eK",
+		"timestamp": "2007-06-30T13:56:48.000Z",
+		"content": "I have, I think, the latest source code from the game. After DML left, we got another programmer who added some additional features for us (such as transparent tiles, if I remember). If you get ahold of me on AIM or ICQ I'll be happy to send it to you:<br /><br />AIM: \"eK AIMSUCKS\"<br />ICQ: 1937632<br /><br />Hey Geoff, how's it going?<br /><br />Oh, and I still have everything I did for the game... I haven't looked through it all, and it's pretty disorganized, but it's ALL there. Multiple builds of the game, levels in various stages of development, unused character art, everything."
+	},
+	{
+		"id": 5201,
+		"title": "Re: Isis",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2007-07-01T15:01:03.000Z",
+		"content": "greetings on my part too! Any of you Isonians still use the IRC channel we occupied at some point ?"
+	},
+	{
+		"id": 5202,
+		"title": "eK!",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-07-02T00:37:15.000Z",
+		"content": "Hey eK!<br /><br />I'd love to get a hold of that stuff actually...<br /><br />Drop me a line via email, I don't have ICQ anymore or AIM.<br /><br />geoffrey d0t sims at gmail d0t com<br /><br />Ta!"
+	},
+	{
+		"id": 5203,
+		"title": "Re: eK!",
+		"author_id": 1486326,
+		"author_name": "adurdin",
+		"timestamp": "2007-07-02T18:30:08.000Z",
+		"content": "Wow, look what I missed while my back was turned -- the grand reunion!"
+	},
+	{
+		"id": 5220,
+		"title": "Re: Isis",
+		"author_id": 1486970,
+		"author_name": "Yorpy.e",
+		"timestamp": "2007-07-03T02:47:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]greetings on my part too! Any of you Isonians still use the IRC channel we occupied at some point ?[hr][/quote]<br /><br />yes, we are still there!  I'm gone all day at work but you should stop by.  I can't remember the last time we talked.[img]http://public.clunet.edu/~ebuckle/yorpylogo.jpg[/img]"
+	},
+	{
+		"id": 5204,
+		"title": "Re: eK!",
+		"author_id": 1486085,
+		"author_name": "eK",
+		"timestamp": "2007-07-03T02:48:34.000Z",
+		"content": "I idle in #keeners all the time, but I don't look at the window very much.. it's a nearly dead channel at this point, and we just talk about music in there."
+	},
+	{
+		"id": 5205,
+		"title": "Re: eK!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-03T14:16:49.000Z",
+		"content": "OMG, I never imagined what my project would cause here. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  Resurrection?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5206,
+		"title": "Hmm",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-07-03T22:22:10.000Z",
+		"content": "It's good to get in touch with everyone again but a lot has changed in all these years - I think resurrection might be taking it a bit too far!  Personally, I don't really have the time or passion to do anything Keenish anymore, but that's not to say I don't enjoy seeing the new projects and hopefully one day I'l get my act together and download Dosbox and try to play all this stuff coming out!"
+	},
+	{
+		"id": 5207,
+		"title": "...",
+		"author_id": 1486693,
+		"author_name": "DML1001",
+		"timestamp": "2007-07-04T01:09:23.000Z",
+		"content": "I don't have the time or desire to work on the game again either.<br /><br />However, I am wrapping up worminator 3.1, and I am thinking about including a little homage to Isis II hidden in one of the levels if no one involved with the game minds.<br /><br />I want to have a hidden secret portal in one of the new levels that teleports you to another dimension, which will be a short little segment of Isis II art with 1-2 enemies mabye.  Would this bother anyone?  I was planning on using the outdoor forest tileset for this.  I have a secret little alternate ending planned too if this goes through."
+	},
+	{
+		"id": 5208,
+		"title": "Re: ...",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-04T08:34:57.000Z",
+		"content": "Oooh! C'mon everyone! Say yes![img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 5209,
+		"title": "Re: ...",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2007-07-04T09:39:30.000Z",
+		"content": "Geez, how much returning oldbies in one topic can you get!<br /><br />Hi Marky, long time no see.<br /><br />[&lt;--- post because I couldn't resist]-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 5210,
+		"title": "Aaaawwww, GROUP HUG!!",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-04T10:16:51.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />*waves to Djaser*<br /><br />It's been so long I don't have your sig Adblocked any more. *re-adds*"
+	},
+	{
+		"id": 5211,
+		"title": "Re: Aaaawwww, GROUP HUG!!",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2007-07-04T14:26:25.000Z",
+		"content": "I still have some desire to bring out stuff designed few years backwards.. but that small spark is probably gonna fade away in a few years."
+	},
+	{
+		"id": 5212,
+		"title": "Re: Aaaawwww, GROUP HUG!!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-04T14:46:08.000Z",
+		"content": "I hope all this wasn't caused just by my little comments about Isis II. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <br /><br />Too bad I can't use the graphic material of Isis II in my project, even with permission, as I'll use 32x32 tiles instead of 16x16, and obviously Isis II sprites wouldn't fit in so huge blocks of stuff.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5213,
+		"title": "Re: ...",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-07-04T20:31:42.000Z",
+		"content": "wow even more member came back but we are still missing levellord<br /> i wonder if she will come back too [url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 5214,
+		"title": "Re: ...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-04T20:42:53.000Z",
+		"content": "Who knows. Only Cho'gall, Snaily and Levellord are still missing here. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br />Oh, and one of Isis II developers, who I contacted via e-mail.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5215,
+		"title": "Re: ...",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2007-07-05T12:18:23.000Z",
+		"content": "hah, I'm waiting to see Snortimer come out of hiding.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 5216,
+		"title": "Isis in Worminator",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-07-06T03:35:38.000Z",
+		"content": "Go for it DML!<br /><br />While you're at it, you may as well put in 10 secret levels, with all the tilesets &amp; enemies &amp; items &amp; keys &amp; doors &amp; backgrounds that are lying around for Isis, too!<br /><br />Haha, just kidding...  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5217,
+		"title": "-",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2007-07-06T10:43:51.000Z",
+		"content": "Geoff, if you happen to receive some of the artwork from Isis project could you kindly forward them to my email? Especially might need that blank tileset we used to create custom sets. thx in advance !<br /><br />+ greetings to ya too, Djaser. missed your thread eariler [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5218,
+		"title": "Isis",
+		"author_id": 1485529,
+		"author_name": "ckGeoff",
+		"timestamp": "2007-07-10T11:22:01.000Z",
+		"content": "Sure I can email it... what was your nick when you were working on Isis, sorry don't recognise your name, and what's your email?"
+	},
+	{
+		"id": 5221,
+		"title": "-",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2007-07-10T15:55:45.000Z",
+		"content": "That would be A.A."
+	},
+	{
+		"id": 5222,
+		"title": "I had to do this.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-11T15:28:15.000Z",
+		"content": "Amazing, I don't know half these people, I always knew Isis wasn't dead.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 5223,
+		"title": "Re: I had to do this.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-11T17:16:17.000Z",
+		"content": "Hi LL! You might want to go and check the rest of the forums, lots of members have joined/returned a while after you left, and there are a bunch of fangames/mods going, too. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />(Luring you in worked, heh. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] )____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5219,
+		"title": "Re: ...",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-07-11T23:53:48.000Z",
+		"content": "I swear it's the end of the world.<br /><br />Oh yeah, and lol@xtra--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5224,
+		"title": "Re: Isis II source code?",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-07-12T00:04:26.000Z",
+		"content": "And while we're reminiscing, I just couldn't resist:<br />[url=http://web.archive.org/web/*/http://www.insidetheweb.com/messageboard/mbs.cgi/mb5517]web.archive.org/web/*/htt...cgi/mb5517[/url]<br /><br />Ah, the good old days.  Now I have to solve the mystery as to why, even though I've been posting for 10 years, I only show up in 2000...--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5225,
+		"title": "Re: Isis II source code?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-07-12T01:55:47.000Z",
+		"content": "[hr]Saturday, 28-Nov-98 20:35:30<br /><br />      Message:<br />      137.186.209.156 writes:<br /><br />      I send ID an email saying 15 of us are boycotting ID. I hope it works, or simply I get a reply, I left my Email.<br />[hr][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] <br /><br />Such nostalgia, even though I wasn't there at that point.<br /><br />Btw, greetings to LL.<br /><br />[hr]<b>Shadow Master</b> Only Cho'gall, Snaily and Levellord are still missing here.<br />[hr]Well, that's one down.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]"
+	},
+	{
+		"id": 5226,
+		"title": "Re: Isis II source code?",
+		"author_id": 1486966,
+		"author_name": "MRC Marky",
+		"timestamp": "2007-07-12T08:38:11.000Z",
+		"content": "How bout Forge315, is he still hanging around the board maybe by some other nickname? Used to be on the newsletter team.&lt;hr&gt;<br />&lt;p&gt;&lt;font size=\"4\" face=\"Times New Roman\"&gt;&lt;font color=\"#0033CC\"&gt;MRC Marky&lt;br&gt;<br />&lt;/font&gt;&lt;i&gt;&lt;font color=\"#009933\"&gt;Appears&lt;/font&gt; &lt;font color=\"#009933\"&gt; courtesy of<br />&lt;/font&gt;&lt;/i&gt;&lt;b&gt;&lt;font color=\"#0033CC\"&gt; AEWorld Interactive&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;"
+	},
+	{
+		"id": 5227,
+		"title": "Re: Isis II source code?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-12T12:57:53.000Z",
+		"content": "Shadow Master: OMG! IT'S THE END OF THE UNIVERSE! RUN FOR YOUR LIVES!!! NOOOOW!!!<br />KeenRush: But where? We can't escape from the universe!<br />Shadow Master: Right, escape anyway, RUN!<br />Shikadi #5: Master, it is here.<br />Shadow Master: What is here?<br />Shikadi #2: The Universal Toaster<br />Shadow Master: NOOOO!!<br />KABOOOM!!!<br /><br />(The Universe is Toast!)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 5228,
+		"title": "Re: Isis II source code?",
+		"author_id": 1485565,
+		"author_name": "memsys",
+		"timestamp": "2007-07-16T23:10:07.000Z",
+		"content": "wow ll long time no see i hope you stay , without you it's much less fun[ny] here[url=http://profile.xfire.com/memsys][img]http://miniprofile.xfire.com/bg/bg/type/2/memsys.png[/img][/url]"
+	},
+	{
+		"id": 5229,
+		"title": "re: Forge",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-17T18:50:07.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]How bout Forge315, is he still hanging around the board maybe by some other nickname? Used to be on the newsletter team. [hr][/quote]<br /><br />If I remember correctly, he switched to JosephBurke for a while, and then departed from the community sometime in 2002 or 2003.  It's a shame, because he was really looking forward to the potential of Keen4-6 modding... which became a reality less than a year after he left.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif?ttinline=true\"/><br /><br />Man, seeing that Oueff stuff brings back memories.  I was only on that style board for maybe a month, before the switch.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 5230,
+		"title": "Re: re: Forge",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-18T17:59:23.000Z",
+		"content": "This is why we need a list of Keener contacts, so we can keep them informed after they leave.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 5231,
+		"title": "Re: re: Forge",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2007-07-18T20:28:45.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]And while we're reminiscing, I just couldn't resist:<br />web.archive.org/web/*/htt...cgi/mb5517<br /><br />Ah, the good old days. Now I have to solve the mystery as to why, even though I've been posting for 10 years, I only show up in 2000... [hr][/quote]<br />Wow Flaose that's a real awesome way to look back. Am I crazy if I know half of these Keeners even when I was not around back then?<br /><br />Some gems:<br /><br />[quote]<b><i>Quote:</i></b>[hr]I believe that you are trying deliberatly to look like an extremely stupid person too see what stupid messages I'll post, then show them to your friends and laugh your head off all night. Really, what kind of person wouldn't even think to learn from their mistakes? Of course you're pretending! Just like your various alianses, just like your \"various ages\"... And now you're probably laughing your head off saying \"NOW he realises! What an idiot!... Hay, Joe, you want som' ore beer, dude? Hay, can 'ou believe this guy?! Even his last post which was supposed to shock me or som'ing looked like something posted by an idiot Keen-admirer nerd that he is.\" So how old are you really, Peter? Neil? Brian? Gee, what am I thinking; do you have any friends? Is what I said close to the truth? Looks like it, either that or it comes close; noone can be as much of an idiot as you pretend to be. I guess unless the person was mentally ill, of course... (n/t) (Snortimer)[hr][/quote]<br /><br />[quote]<b><i>Quote:</i></b>[hr]I don't think Jesus Christ ever talked about that forum. (n/t) (Cho'gall)[hr][/quote] -----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 5232,
+		"title": "Re: re: Forge",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-20T23:23:36.000Z",
+		"content": "Ah the memories, especially of those whom I never met and never will.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"id": 689,
+		"title": "Odd.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-22T17:00:23.000Z",
+		"content": "And my 3.5 GB download is still in progress:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/sickdude_again.png[/img]<br /><br />Notice it's <b>-</b>314% completed.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18416,
+		"title": "Re: Odd.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-22T19:23:15.000Z",
+		"content": "That IS a weird error. Especially considering it's not related to any computer limits (like 256 and 512). Little easter egg when it can't get the correct percentage, perhaps?<br /><br />Nah... unlikely.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18417,
+		"title": "Re: Odd.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-22T19:37:17.000Z",
+		"content": "It's not technically an error, as the download continues fine, and data is actually being written to the disk. It's a 4 GB download anyway. I guess this is what happens when you run a UNIX-oriented tool (wget) on Windows Vista. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  But better that than using some spyware-loaded download managers, isn't it?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18418,
+		"title": "Re: Odd.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-22T20:09:29.000Z",
+		"content": "When I say error, I sometimes mean \"bug\", \"warning\" or \"exception\". [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18419,
+		"title": "Re: Odd.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-22T20:33:39.000Z",
+		"content": "Oh, sorry. We, programmers, tend to use the word error exclusively for refering to exceptions.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18420,
+		"title": "Re: Odd.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-22T20:34:02.000Z",
+		"content": "Heh, first time I've seen negative percent of something. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18421,
+		"title": "Re: Odd.",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-22T20:49:43.000Z",
+		"content": "\"We programmers\"<br />Oh, thanks for implying I am not one.<br /><br />Seeing a negative number would make you think a signed variable went over its limits, but considering the limit is always 100 for percentages it's a bit weird____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18422,
+		"title": "Re: Odd.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-23T02:00:31.000Z",
+		"content": "You'll probably find the size of the download was a number &gt; 31 bits, so when the calculation was performed, instead of something like 1570/2000*100 = 78.5% the \"2000\" wraps around and you get something silly like 1570/-500*100 = -314%<br /><br />Still, quite a fluke it came up with that particular number - if you'd left it too much longer the number wouldn't have been anywhere near as entertaining [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18423,
+		"title": "Re: Odd.",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-24T12:13:34.000Z",
+		"content": "It indicated -100% complete around the first 150 MB of the download. Then, it continued to decrease by 1. I took that screenshot, somehow, in the exact moment it was indicating -314% complete. Quite a coincidence, perhaps it's a sign of our future? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-potter.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

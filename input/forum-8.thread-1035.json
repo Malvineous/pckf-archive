@@ -1,0 +1,90 @@
+[
+	{
+		"id": 692,
+		"title": "Half Life 1 problem",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-08-20T11:59:42.000Z",
+		"content": "I got a problem with Half Life 1: if i go into the water the water is very dark and i can't see anything, how can i make it brighter? <br />i remember that some years ago when i played HL, i din'dt had this problem. weird [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img]"
+	},
+	{
+		"id": 18433,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-20T12:52:18.000Z",
+		"content": "I've played Half Life once at a LAN party, so I'm of no direct help. You'd be better off searching (or posting on if you're sure there's no existing thread) a HL forum--it's a popular game and someone's bound to have had a similar problem.<br /><br />As a work around, might I suggest playing with the gamma settings?"
+	},
+	{
+		"id": 18434,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-08-20T12:55:27.000Z",
+		"content": "ok i will try to ask on a hl forum like you said.<br />and yes, i tried to do the gamma setting some higher but it din'dt work<br /><br />anyway, thanks for your help<br /><br />edit: i got this question now on the planet half life forum.<br />just waiting for some answers"
+	},
+	{
+		"id": 18435,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-20T14:09:50.000Z",
+		"content": "If I remember some button toggled flashlight that one could use to see in dark. And as said, yeah, this isn't any misc game forum...3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18436,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2007-08-20T14:16:53.000Z",
+		"content": "'Classic games'?------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 18437,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-08-20T14:25:30.000Z",
+		"content": "@Keenrush: the flashlight din'dt helped in the water, already tried that[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img] <br />and i think the classic games forum is for very old games and not for a 3D game like this one"
+	},
+	{
+		"id": 18438,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2007-08-20T16:47:09.000Z",
+		"content": "Which level?<br /><br />Tried a walkthrough? Gamefaqs.com?-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 18439,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-08-20T19:20:15.000Z",
+		"content": "Yeah, that's why I haven't moved this to classic games. Maybe I should anyways, for lack of more suitable areas.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 18440,
+		"title": "Re: Half Life 1 problem",
+		"author_id": 1486058,
+		"author_name": "BlueIllusionX",
+		"timestamp": "2007-08-20T22:24:36.000Z",
+		"content": "you have your gamma settings on your monitor, your gamma settings for your os, and half lifes own gamma settings. Did you check all three?<br /><br />As for the moving this topic around. it is miscellaneous to everything about the pckf, so i dont see a problem of it staying here."
+	},
+	{
+		"id": 18441,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-08-20T23:05:51.000Z",
+		"content": "http://collective.valve-erc.com<br /><br />It's been a long, long, time since I edited any Half-Life maps, but I could swear there's a vis-distance variable in there somewhere.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Good luck."
+	},
+	{
+		"id": 18442,
+		"title": "Re: well...",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-08-21T08:36:29.000Z",
+		"content": "@XkyRauh2001: you mean in the variable console cheats list?<br />@djaser: i know how to come through, but i can't  see anything because the water is'nt transparent (like someone in an other forum said to me, and who is helping me now)<br /><br />edit: problem solved, i play with openGL now[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-helmet.gif[/img]"
+	}
+]

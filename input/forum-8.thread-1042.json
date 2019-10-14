@@ -1,0 +1,122 @@
+[
+	{
+		"id": 699,
+		"title": "Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T02:41:50.000Z",
+		"content": "I don't use Winamp and I don't use xmms much. Is there any chance of there ever being a standalone Adplug player?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18617,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T09:18:12.000Z",
+		"content": "Adplug comes with Adplay which is a standalone player.  It looks like the only platforms are DOS and *nix though.  It works well through DOSBox using DOSBox's OPL synth.<br /><br />[url=http://adplug.sf.net]adplug.sf.net[/url]<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18618,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T11:56:13.000Z",
+		"content": "Yeah, I remember seeing that, but would a Windows (or at least something with a graphical interface) player be feasible?____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18619,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T12:59:09.000Z",
+		"content": "DOS's Adplay has its own graphical interface, actually.<br />EDIT: and the next person that tells me that a text user interface is not graphical will get his butt kicked.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18620,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T13:39:29.000Z",
+		"content": "Yes, and it's DOS-based, making me have to use DOSBox to use it, which creates an unnecessary CPU hog... What if I want to listen to it casually? A seperate program, or perhaps a plugin for Foobar2000 would be nice, but I don't know how to do that.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18621,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-08-16T13:52:22.000Z",
+		"content": "What's wrong with using Winamp for that purpose? It's the simplest solution I can think of. What do you use for other music formats?<br /><br />Or, of course, you could setup a DOS computer for the singular purpose of playing adlib music...<br /><br />That, and playing Keen, of course."
+	},
+	{
+		"id": 18622,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T14:08:38.000Z",
+		"content": "<b>There is another way.</b><br /><br />Use Winamp, XMMS or something else to record those IMF files to wav format. Convert'em to Ogg Vorbis or MP3 if you like, and then you have something playable in your player. And it's permanent as long as you don't delete your conversions. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-potter.gif[/img] <br /><br />EDIT: the next person that tells me that there is no way to do that will get his butt kicked.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18623,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T14:14:52.000Z",
+		"content": "I don't particulary like Winamp, but I'll be recording MP3s as soon as I boot in Linux. Better than nothing.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18624,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-16T14:34:08.000Z",
+		"content": "I could do it too, if Malvineous agrees, as I'll use his XMMS plugin. Besides, I'd like to know if I can reduce its output rate from 48000 Hz to 44100 Hz easily without modifying the source code.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18625,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-16T19:47:45.000Z",
+		"content": "SM: I have a whole bunch of rare FM synth songs, and tests created by myself, so I think I'll just output the stuff myself.<br /><br />Oh no! I just realized I can't use MP3 in OpenSuSE! Well, I can guess I can output as ogg instead. Or, er, play in Adplay/Adtracker2 and output as wav. Plenty of ways to convert, though it might have been cool/useful to be able to play these natively in Windows instead.<br /><br />[quote]<b><i>Quote:</i></b>[hr]Or, of course, you could setup a DOS computer for the singular purpose of playing adlib music...[hr][/quote]<br />About that, I had a Windows XP computer which I installed Windows 98 on, and it played MIDI through OPL3. Yes, in Windows. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  Actually, a software driver that emulates that would be awesome (a MIDI driver that imitates an FM synth through software).____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18626,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-16T22:12:26.000Z",
+		"content": "My XMMS plugin is open source, so you can do whatever you want with it as long as you release the source code of your changes.  If you want to change the samplerate it's defined in src/global.h, so just change it there and recompile (sorry, I couldn't be bothered with a user interface.)  I haven't fully tested that though, so if you get noise out of your speakers after changing it let me know.<br /><br />@DaVince: The old method of playing MIDIs (starting with the early Sound Blaster cards under DOS, and then continuing on to Windows) was to play MIDI files through the OPL synth.  It's difficult to do that today, because it sounded so bad (compared to a wavetable synth) that everyone tried to avoid it.  Adplug can do it, and if you want I can post the original SB16 'play' utility that will play MIDIs in DOSBox through the OPL synth (which you can then capture to .wav or .dro)  It uses different MIDI patches to the Windows synth, so it sounds different again.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18627,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-17T10:30:31.000Z",
+		"content": "Sure. I'm almost collecting Adlib songs and apps now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] ____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 18628,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-17T12:19:34.000Z",
+		"content": "As I consider your plugin far from complete, as it minimum should have had a config file facility, even without GUI, I guess it's up to me to make some changes on it. Specially for GCC 4, that is something I really need.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 18629,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-17T13:34:38.000Z",
+		"content": "Yep, it works fine for me so I've stopped coding on it now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]   The next version will be integrated with my game editor, which after all, was the point of the plugin in the first place (proof of concept.)<br /><br />Here's the [url=http://www.shikadi.net/pckf/sb16pnp.zip]Sound Blaster 16 PnP installation[/url].  There are a bunch of folders, just run INSTALL.EXE in each folder within DOSBox and it'll ask where you want it installed - C:\\SB16 is the norm.  If it asks for a Windows directory you can make one up or just opt not to install the Windows stuff (whatever you do don't point it at your *real* Windows install, it's meant for Win3.1 and will probably break something on a modern version.)<br /><br />Once it's done it'll modify autoexec.bat to set some environment variables (BLASTER and SOUND are the important ones, the DOSBox BLASTER default is missing \"P330\" from the end), these must exist for stuff to work.  If all is well, you can \"cd\\sb16\" and then \"play samples\\*.mid\" to see if it worked.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 18630,
+		"title": "Re: Adplug... As a seperate program?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-08-17T22:05:18.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr](whatever you do don't point it at your *real* Windows install, it's meant for Win3.1 and will probably break something on a modern version.)[hr][/quote]<br />Then I'll be sure to install it to my very special DOSBox-mounting directory C:\\win31. That won't hurt, will it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-potter.gif[/img] <br /><br />Thanks for the file and info. Time to check it out.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	}
+]

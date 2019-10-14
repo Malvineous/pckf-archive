@@ -1,0 +1,266 @@
+[
+	{
+		"id": 652,
+		"title": "Ultra's CK Sprites",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-14T22:24:47.000Z",
+		"content": "Yeah, I'm a spriter. Ever since joining and playing the game again, I started to sprite. I'll post some of my CK work here when I finish them.<br /><br />Anyways, here's a sheet that I did a while back.<br />[img]http://img99.imageshack.us/img99/2553/lidpritesfg9.png[/img]<br />Yeah, I took the opportunity to name the character. &lt;.&lt;;[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16718,
+		"title": "Hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-15T03:03:18.000Z",
+		"content": "Skins!?  Well, that's a start.  Do you do original work, too?  We're big fans of new Keen sprites... at least, I am.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif?ttinline=true\"/>  I'm a sucker for a good run cycle.[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 16719,
+		"title": "Re: Hehe",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-15T03:24:57.000Z",
+		"content": "Well, I've been trying to do some original sprites, but I've got no ideas...[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16720,
+		"title": "Re: Hehe",
+		"author_id": 1485988,
+		"author_name": "Lava89",
+		"timestamp": "2007-05-15T03:32:10.000Z",
+		"content": "What about original enemies? I don't if you're actually going to make game with these, but even if it was just fun, because every original game needs to have original enemies. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 16721,
+		"title": "Re: Hehe",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-15T03:33:56.000Z",
+		"content": "That's what I was trying to make for original enemies. I can post what I have so far, but it's not all the way done. =/<br /><br />I can't code to save my life. No game for this guy.[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16722,
+		"title": "what?",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-15T03:56:22.000Z",
+		"content": "Seriously, KeenModding is about 5% coding.... and that coding is very often cut-and-paste.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />It works like this:<br /><br />1) Use ModKeen to rip out all the graphics.  Use your favorite paint program to change them all--create new monsters, or just do a sprite skin like you've demonstrated here.  Just be sure you don't make things too large.<br /><br />2) Use one of the many level editors to piece together new levels, using your changed graphics.  Be sure to playtest them!<br /><br />3) Use a bunch of the pre-existing patches (cut and paste) to change the text in the game around--this lets you have your own story, help info, and so on.  It's a lot easier than it sounds--most of the work is you typing up what you want it to say!<br /><br />4) Set up a .bat file to run your mod.  This is the tiny bit of coding you'd have to do--but honestly, if you know anything about filenames, you're good.<br /><br />That's it!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  You should really consider it.  KeenModding is awesome."
+	},
+	{
+		"id": 16723,
+		"title": "Re: what?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-15T06:14:51.000Z",
+		"content": "And we need more entrants for Andy's mod competition.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16724,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-15T15:04:38.000Z",
+		"content": "And me's goin' to need betatesters. My mod's coming next month, If Nothing Stops Me From Doing So (INSMFDS).<br /><br />LLa, I don't think modding Keen 4 would be a good start. I'd rather prefer to start with Keen 1... wait, I'm doing that right now! ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16725,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-15T22:12:46.000Z",
+		"content": "I've been trying to get ModKeen, but the download at the Modding Forum isn't working... =/<br /><br />EDIT: Scratch that, I just found a way to get it. Now I need help running it...[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16726,
+		"title": "Re: what?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-16T05:40:13.000Z",
+		"content": "Check the TED5 forum.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16727,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-16T17:23:54.000Z",
+		"content": "I wonder why you didn't follow the link to MY modkeen. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16728,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-16T21:35:02.000Z",
+		"content": "@ Levelass: Can I get a link?<br /><br />@ShadowMaster: I just tried your link, and it isn't working.[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16729,
+		"title": "Re: what?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-16T22:41:12.000Z",
+		"content": "Ha, that's bad luck. Keen:Modding is offline for some.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16730,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-17T14:05:21.000Z",
+		"content": "Follow the following one while I wait for K:M to be up again. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />I suppose that you use Windows, btw.<br />[url=http://shadowm2006.sitesled.com/lmodkeen2-rel1-win32.zip]shadowm2006.sitesled.com/lmodkeen2-rel1-win32.zip[/url]<br /><br />The link above this line is a direct one to the ZIP file in my website, btw.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://www.keenmodding.org/viewtopic.php?t=922]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16731,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-17T21:37:41.000Z",
+		"content": "Thanks. I just downloaded it and clicked on the program, and a screen flashed on screen and went away. =( This happened to me with the other ModKeen file.[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16732,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-17T21:42:22.000Z",
+		"content": "You're not supposed to run it just by double clicking. You must open a DOS window. (It's not a DOS program, but runs on DOS windows)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16733,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-17T21:46:50.000Z",
+		"content": "OH. So I open DOS, then the program?[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16734,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-17T21:49:34.000Z",
+		"content": "Only a DOS windows.<br />For example, click on Start Menu, Run and type the following in the text box, depending on your windows version:<br />- Windows 95/98/ME: command<br />- Windows NT/2000/XP (Vista too?): cmd<br /><br />Then, click on OK. A dos-like window should appear. Then just change dir (\"cd\" command) to the mod's directory (i.e. \"cd C:\\MyMods\\mod1\"). Then, run Modkeen.<br /><br />You might want to check the Readme I included in the package.<br /><br />EDIT: o.O I meant <b>L</b>ModKeen. I hope Andy didn't read this. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-disguised.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16735,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-17T22:00:05.000Z",
+		"content": "YAY! Thanks. I'll try doing it later.[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16736,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-18T21:52:29.000Z",
+		"content": "Any progress?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16737,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-19T17:04:07.000Z",
+		"content": "Well, I sometimes have trouble with my hard drives, and Keen is on one of them. I got a friend to help me with opening the program with DOS, and now I just have to wait for my computer to find my hard drives.[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16738,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-20T05:08:03.000Z",
+		"content": "Okay, new problem... @_@<br /><br />I copied Keen 4 into the folder for lmodkeen, and I tried to import it in, and it said:<br /><br /><b>ERROR:  ./KEEN4E.EXE must be version 1.4 (Keen 4-6) or 1.13 (Dreams), and must be uncompressed!</b><br /><br />So close... I don't know what I have to do... T_T[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16739,
+		"title": "Re: what?",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-05-20T07:52:32.000Z",
+		"content": "UNZLEXE it. Find unzlexe.exe and drag the Keen exe on top of it.<br /><br />[quote]<b><i>Quote:</i></b>[hr]- Windows 95/98/ME: command<br />- Windows NT/2000/XP (Vista too?): cmd[hr][/quote]<br />Actually, command works for XP too. Both command AND cmd.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16740,
+		"title": "Re: what?",
+		"author_id": 1486631,
+		"author_name": "Niborius",
+		"timestamp": "2007-05-20T10:54:34.000Z",
+		"content": "i had same problem too, but its still not fixed by me[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-shikadi.gif[/img]"
+	},
+	{
+		"id": 16741,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-20T21:25:21.000Z",
+		"content": "Where exactly is thisunzlexe.exe file at?[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16742,
+		"title": "Download!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-05-20T22:58:15.000Z",
+		"content": "A lot of modding tools can be found at http://www.dosclassics.com , if you go to the \"Beyond the Pogo\" section, and Downloads. <br /><br />Unlzexe can be found [url=http://dosclassics.com/download/198]here[/url]."
+	},
+	{
+		"id": 16743,
+		"title": "Re: Download!",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-21T00:20:20.000Z",
+		"content": "Sweet, thanks. Maybe I can start doing stuff now. =P<br /><br />UPDATE: Okay, the message popped up again, and I just noticed that the version I have is 1.0. Any chance I could somehow get the 1.4 version?[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16744,
+		"title": "Re: Download!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-05-21T18:23:19.000Z",
+		"content": "Go to the Beyond the Pogo [url=http://dosclassics.com/keen/dl.php?id=of]download page[/url], scroll down to Commander Keen 4, and download version 1.4 (not version 1.4 by Goodtimes Software!)"
+	},
+	{
+		"id": 16745,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-22T15:01:24.000Z",
+		"content": "I know you found it already, but...<br /><br />[quote]<b><i>Quote:</i></b>[hr]Where exactly is thisunzlexe.exe file at?[hr][/quote]<br /><br />I'm pretty sure I wrote a link to it in LModkeen's readme, section \"2. WHAT'S NEW - 2.1 MODKEEN 2.0.x VS. MODKEEN 1\".<br /><br />I'm now learning how often people read readme files properly. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img]  <br /><br />Direct link to Keen 4 download:<br />[url=http://spatang.com/dl.php?a=4keen14&b=orig]Keen 4 v1.4 by Apogee[/url]<br /><br />I've gotta remember to add Keen 1 and 4 downloads to Emodkeen's readme------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16746,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-22T21:56:53.000Z",
+		"content": "Thanks for 1.4. =D<br /><br />Now I have another error... \"Can't open bitmap file ./fon0000.bmp!\"[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16747,
+		"title": "Re: what?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-22T23:55:35.000Z",
+		"content": "No, Shadow Master. It can't be a bug in your program.<br /><br />Ultra, please check whether you're calling lmodkeen with the parameter -export or not. You must export first, import later.<br /><br />EDIT: try to check this As Soon As Possible, please. I need to know whether this is my fault or not, really. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to."
+	},
+	{
+		"id": 16748,
+		"title": "Re: what?",
+		"author_id": 1486072,
+		"author_name": "UltraByte",
+		"timestamp": "2007-05-23T00:27:44.000Z",
+		"content": "OH. I've been typing Import.... &gt;_&lt;[hr][img]http://img53.imageshack.us/img53/6843/cksighu8.png[/img]<font color=\"BLACK\">Swim</font><br /><font color=\"DARKBLUE\">Swim</font><br /><font color=\"BLUE\">Hungry</font>"
+	},
+	{
+		"id": 16749,
+		"title": "Re: what?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-05-28T09:03:54.000Z",
+		"content": "Hey, great work. Didn't notice this until now. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  This'd look nice in the actual game.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	}
+]

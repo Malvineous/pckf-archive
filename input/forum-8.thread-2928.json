@@ -1,0 +1,106 @@
+[
+	{
+		"id": 1121,
+		"title": "Yet another browser thread...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-06-07T15:01:12.000Z",
+		"content": "We used to have one of these, but we don't anymore so I decided to post another.<br /><br />I just installed Opera to check if my test phpBB theme worked in Opera, and have to say I quite like it. I probably won't use it on a daily basis because the text ads distract me, but it's quite a nice browser. It also supports IE's non-standard scrollbar theming, which makes pages look nicer.<br /><br />I'm sure most of the people use Firefox, followed closely by IE. Of course, I don't know that - what <i>do</i> you use?<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 25354,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-06-07T17:29:01.000Z",
+		"content": "Firefox.<br /><br />(Warning! Rant in near proximity!)<br /><br />I dropped coloured scrollbars from my HTML even before I switched though.<br />They used to work, until I got my act together and wrote some proper HTML.<br />After that I just got regular old bars again, and after some experimenting it was actually the DOCTYPE declaration at the beginning that broke it.<br />Of course your entire site is broken without it, and since all validators kept telling me those scrollbars aren't proper HTML to begin with... dropped.<br /><br />Unless you use a framed design you only get 1 bar anyway, which doesn't have to fit with the site, since it'll fit with the window borders.<br />Only with many frames and many bars in the middle of the site, with non-corresponding colours get annoying.<br />Microsoft should spend its time better, and work on getting their HTML (even the archaic 1.0 version) and PNG support together, along with security of course, but at least the latter is already confirmed.<br /><br />Anyway, I love Fx.<br />\"Necesary\" extension: [url=http://216.55.161.203/theonekea/tabprefs/]216.55.161.203/theonekea/tabprefs/[/url]<br />Another that comes in handy often:<br />[url=http://imagezoom.yellowgorilla.net/]imagezoom.yellowgorilla.net/[/url]Retodon8<br />You live, you die, you are remembered, you are forgotten."
+	},
+	{
+		"id": 25355,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-06-07T17:39:04.000Z",
+		"content": "I know they're non-standard HTML - that's why I'm not going to bother putting them on my site - but they look nice anyway."
+	},
+	{
+		"id": 25356,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-06-07T18:09:46.000Z",
+		"content": "firefox foolz!"
+	},
+	{
+		"id": 25357,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-06-07T18:24:21.000Z",
+		"content": "Should that be \"rules!\" or \"fools\"?"
+	},
+	{
+		"id": 25358,
+		"title": "Browz0r.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-06-08T00:14:35.000Z",
+		"content": "Firefox 53mic010nz0rises.Cave assectatorem Ductoris Alacris <br /><br />\"You are so afraid to <i>live</i>--so afraid of <i>life itself</i>--that you've given up the <i>very nature of your being</i> in trade for security.\"<br />-CWG Book 3, Neale Donald Walsh<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 25359,
+		"title": "Re: Browz0r.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-06-08T07:25:37.000Z",
+		"content": "Ph34r 0p3r4!<br />I surf mainly in Opera, which is my favourite, but these forums I read in Firefox for some reason.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] <b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 25360,
+		"title": "Re: Subliminal Messages in topic titles",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2005-06-08T12:16:10.000Z",
+		"content": "Ah, restoring my old topic, eh?<br /><br />Well, I use firefox [heavily customised] most of the time. but for some odd reason i'm using the mozilla suite now. I have opera (for testing my website in) and i WOULD use it but a) it doesn't support semitransparency and b) the customised version of the latest firefox pre-alpha is just as fast."
+	},
+	{
+		"id": 25361,
+		"title": "Re: Subliminal Messages in topic titles",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-06-08T15:28:47.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]a) it doesn't support semitransparency[hr][/quote]<br />*hiss* I spent a long, <i>long</i> time designing a page that used transparent PNGs that also worked in IE - it wasn't pleasant. The only thing keeping me from ripping it out of Windows is that I use it for testing - oh, and the fact that Windows doesn't like IE being removed.<font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 25362,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-06-08T16:05:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Should that be \"rules!\" or \"fools\"?[hr][/quote]<br /><br />Firefox, fools"
+	},
+	{
+		"id": 25363,
+		"title": "Re: Yet another browser thread...",
+		"author_id": 1485567,
+		"author_name": "GMixer",
+		"timestamp": "2005-06-09T02:58:30.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<i>Mr12000 said</i><br />Firefox, fools[hr][/quote]<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br />Firefox fools. . .what?<b><i>If the universe were toast, what jelly would you put on it?</i></b>"
+	},
+	{
+		"id": 25364,
+		"title": "Grammar.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-06-09T04:40:22.000Z",
+		"content": "[hr]<b>GMixer</b> Firefox fools. . .what?<br />[hr]No: Firefox, fools; Not Firefox fools.Cave assectatorem Ductoris Alacris <br /><br />\"You are so afraid to <i>live</i>--so afraid of <i>life itself</i>--that you've given up the <i>very nature of your being</i> in trade for security.\"<br />-CWG Book 3, Neale Donald Walsh<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 25365,
+		"title": "Re: Grammar.",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-06-10T03:09:19.000Z",
+		"content": "hahaha<br /><br />Firefox = Browser<br />Fools = You"
+	}
+]

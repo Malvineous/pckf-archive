@@ -1,0 +1,138 @@
+[
+	{
+		"id": 643,
+		"title": "New here",
+		"author_id": 1486339,
+		"author_name": "ObliviousSoul",
+		"timestamp": "2007-07-15T14:46:15.000Z",
+		"content": "Hello, I've been looking around a \"Commander Keen Map Editor,\" haven't really found one other than some weird ShareWare version of ModKeen (or something); Which I think is rather complex for being an \"Editor,\" for a game that's almost 20 years old (no offense). But anways,<br /><br />I just found these forums while looking and I've read quite a few posts and I was just wondering, are there any programs to extract the \"graphics\" from the EGAHEAD.CK3 file or EGASPRIT.CK3, files?<br /><br />Because if not, I can always screen shot each individual tiling myself (For myself). I use a program called DOSBox which I'm sure most of you use.<br /><br />Thanks in advance! Help's always appreciated."
+	},
+	{
+		"id": 16570,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-15T18:15:09.000Z",
+		"content": "Yes, yes, and yes.  I'd recommend going over to [url=http://www.keenmodding.org]KeenModding[/url], which has links to many editors for the Keen games, as well as the ModKeen utility, which you can use to extract graphics.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 16571,
+		"title": "welcome!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-07-16T17:25:15.000Z",
+		"content": "The tools you'll want are:<br /><br /> * <b>[url=http://www.keenmodding.org/viewtopic.php?t=912]Mindbelt[/url]</b> - probably the best Keen 1-3 level editor there is. You shouldn't have trouble picking it up.<br /> * <b>[url=http://shadowm2006.sitesled.com/lmodkeen2-rel1-win32.zip]LModKeen 2[/url]</b> - this is an updated version of the famous ModKeen tool, and will allow you to extract and import graphics so that you can edit them in an image editor of your choice (like MSPaint).<br /> * <b>[url=http://www.keenmodding.org/viewtopic.php?t=883&start=75]Ck456Tli[/url]</b> - You won't need this until you start creating complex custom tilesets, but it'll come in handy when you do. It allows you to edit the properties of tiles - for example, you can make tiles that behave like ice, or kill the player.[url=http://toxicsheep.com]toxicsheep.com[/url] | [url=http://commanderkeen.org]coming up next...[/url]"
+	},
+	{
+		"id": 16572,
+		"title": "Re: welcome!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-18T18:09:16.000Z",
+		"content": "And welcome stranger! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16576,
+		"title": "Extracting Graphics",
+		"author_id": 1486339,
+		"author_name": "ObliviousSoul",
+		"timestamp": "2007-07-19T22:52:55.000Z",
+		"content": "Thanks; It helped to get a few of what I wanted; Like the \"Please Wait\" and Apogee startup (where it scrolls).<br /><br />It also got a lot of the unit sprites; But it doesn't have all the world tiles, or any of the others. Is there a program that can do that... Or does it not exist?<br /><br />Thanks a lot for the current bitmap extractor. It helped. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />EDIT: In-case anybody is interested, I can edit the startup background (the main selection screen) and where the stars are when the Apogee scrolls up. I'm still unable to find out where the \"World Map\" view's located; So you can completely entirely 100% edit the Commander Keen universe. So you can begin to make your own Campaigning Series."
+	},
+	{
+		"id": 16577,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-20T22:42:03.000Z",
+		"content": "Extracting the BMPs with ModKeen lets you change the APPEARANCE of sprites/tiles.  If you want to change the LAYOUT of the maps, you'll need something like the Mindbelt, VortLev, or KeenWright.<br /><br />All the tools are there, for complete campaign conversions and so on.  You just have to paw around a little more, first!  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif?ttinline=true\"/> <br /><br />1) Extract BMPs, change tiles, change sprites.<br />2) Create MAPs, place enemies.<br />3) Patch the snot out of things--change text, point values, jump heights, behavior, etc (see the Patch Index for help there)<br />4) PLAYTEST (please oh please oh please)<br />5) Release!  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/>[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 16578,
+		"title": "Re: well...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2007-07-20T23:41:36.000Z",
+		"content": "Indeed, people here will help you till their arms fall off.Szevvy Forever!<br />And Spleen never!<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.jpg[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 16579,
+		"title": "Re: well...",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-21T05:04:51.000Z",
+		"content": "It's so welcome here it could be Disneyland. Except during the SPAM vs. Anti-SPAM period. Anyone remember that?<br /><br /><br /><br />Q90 sometimes!-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 16580,
+		"title": "Re: well...",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-07-25T17:31:54.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]It's so welcome here it could be Disneyland. Except during the SPAM vs. Anti-SPAM period. Anyone remember that?[hr][/quote]<br /><br />I don't think I remember that... do tell.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 16581,
+		"title": "Re: well...",
+		"author_id": 1486339,
+		"author_name": "ObliviousSoul",
+		"timestamp": "2007-07-25T19:35:02.000Z",
+		"content": "Sorry; Side-tracked with DirectX\\OpenGL programming. Last time I used a forum; Most people weren't the most helpful. They said \"Go refer to this,\" and that's about it.<br /><br />It's like telling somebody who wants to know what destruction means, to go read a dictionary. What's the point? They know, you asked.<br /><br />But anyways, thanks!"
+	},
+	{
+		"id": 16582,
+		"title": "ooh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-25T22:07:19.000Z",
+		"content": "Good point, Oblivious; sorry for not giving more details.  <br /><br />In this case, there's really not many tools you'll need to create a Keen mod, especially if you're content to cut your teeth on Keen1-3 (which are much more documented).  <br /><br />ModKeen is a command line program that will export and import your graphics--it comes with a helpfile, or you can just type \"modkeen /help\" at the command prompt.  Typically you'll run \"modkeen -export -episode=n\" once, to get all the graphics out, and then rig a batch file to do \"modkeen -import -episode=n\" from there on, for your testing.  From there, it's just file after file of MSPaint, Gimp, Photoshop, or what have you--changing all those frames of animation and background takes time!<br /><br />After you've finished enough of the tiles that you want to see them in action, you'll need one of the editors... that's where your choice comes in.  All of them work, (arguably,) but each has functions exclusive to it.  I'm not even sure what the editor of choice is, these days--but I'm confident you'll find one that works for you.  Plop your tiles down, and playtest to your heart's content. <br /><br />Finally, (and some might say most importantly,) there's the Patching process.  The CKxPatch utilities are another command line program--your final mod will have a batch file that simply runs \"CKxPatch mymod.pat\", which starts the episode of Keen with your patch file's info.  Use any text editor to put in your patches; change jump height, change enemy AI, change the text of all the menus, etc.  <br /><br />Your final product will be a collection of LEVELxx.CKn files, the graphics files, and your patch file.  Any users who download your mod will have to provide their own copy of Keen, and then unzip your mod's files into their directory, overwriting as necessary.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />A lot of this might SOUND complicated, but it becomes almost self-explanatory if you just download a few mods and give them a shot.  Not to sound like another \"refer to\" post, but check out http://www.keenmodding.org for more info. <br /><br />Hope that was useful!  :k[img]http://www.classicgaming.com/cc314/msgboard/posted-pics/XkyRauhKeenLogo.png[/img]"
+	},
+	{
+		"id": 16583,
+		"title": "Re: ooh",
+		"author_id": 1485645,
+		"author_name": "Q90",
+		"timestamp": "2007-07-26T05:10:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I don't think I remember that... do tell.[hr][/quote]<br />I barely remember it myself. Something about me and UnFleexable having weapons of mass destruction and being part of a \"terrorist\" group called S.P.A.M. and something about Memsys and Djaser hating us. It lead to a [short-lived] limit on the size of signatures.<br /><br />Or something like that.-----------------------------------<br />[url=http://youtube.com/watch?v=izxrocVNVOk]Dnde Esta Jeff? [/url]<br />Take a look at these hands! The hands speaks. The hand of a government man."
+	},
+	{
+		"id": 16584,
+		"title": "Re: ooh",
+		"author_id": 1486239,
+		"author_name": "ElecDude33",
+		"timestamp": "2007-07-28T16:13:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Your final product will be a collection of LEVELxx.CKn files, the graphics files, and your patch file. Any users who download your mod will have to provide their own copy of Keen, and then unzip your mod's files into their directory, overwriting as necessary. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [hr][/quote]<br /><br />Well, technically you can provide an executable if you're modding Keen 1.------------------<br />[url=http://www.ericmushroomwilson.co.uk/] My website[/url]<br />[url=http://ericmushroom.livejournal.com/]My stupid journal thing[/url]"
+	},
+	{
+		"id": 16585,
+		"title": "Re: ooh",
+		"author_id": 1486339,
+		"author_name": "ObliviousSoul",
+		"timestamp": "2007-07-28T21:07:59.000Z",
+		"content": "Oh, sorry! I wasn't refering to You not giving specifics. I thought what you said was quite clear... Umm, thanks a lot for all that information overload though. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br /><br />I'll try all that out (Thanks again). Then I'll see if I can make a more.... Not-so-13 year old editor. Not that there's anything wrong with it; I just dislike Command Line editors. I love DOS though. Quite ironic."
+	},
+	{
+		"id": 16573,
+		"title": "Re: welcome!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-07-30T15:59:05.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]LModKeen 2 - this is an updated version of the famous ModKeen tool, and will allow you to extract and import graphics so that you can edit them in an image editor of your choice (like MSPaint).[hr][/quote]<br />Any problems, ask here. I think I have the download link in my signature.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16574,
+		"title": "well...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-30T20:53:06.000Z",
+		"content": "The only utility that is command-line is the export/import utility... and with a batch file, it's faster and more convenient than any GUI-based utility would be (IMKO)."
+	},
+	{
+		"id": 16575,
+		"title": "Re: well...",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-08-01T15:38:39.000Z",
+		"content": "I'd gladly try to write a GUI front-end that worked on Windows and Linux, if there was enough interest. But you guys seem to be as keen as me in just using the cmdline version of programs and don't annoy the author to write a GUI one.<br /><br />Note: GUI stands for Graphical User Interface. Such applications are commonly seen in modern Windows and MacOS environments, i.e. Internet Explorer, Notepad, Paint, etc.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	}
+]

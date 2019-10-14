@@ -1,0 +1,122 @@
+[
+	{
+		"id": 4548,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4549,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4550,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4551,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4552,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4553,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4554,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4555,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4556,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4557,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4558,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4559,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4560,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 4561,
+		"title": "Unknown",
+		"author_id": 0,
+		"author_name": "Anonymous",
+		"timestamp": "2004-12-31T22:00:00.000Z",
+		"content": "(This post is missing and can not be restored)"
+	},
+	{
+		"id": 193,
+		"title": "Inspired",
+		"author_id": 1485889,
+		"author_name": "Root16",
+		"timestamp": "2005-03-07T18:31:26.000Z",
+		"content": "Well, once again, Xky Rauh has inspired me and excited me about the possibilities of game design, specifically how it pertains to Keen, so here's another useless rant on how to make keen even better. <br /><br />One thing that's sorta pointless about keen since you can save the game is that extra lives aren't really necessary.  You just reload after you die.  So you end up getting tons of lives that you don't really need.  Well, maybe instead of extra lives, amassing points gives you extra health.  So let's say instead of dying everytime you touch death inducing stuff, you lose a bar of health.  You start with 4 bars of health.  Every time you get 10,000 (or 20,000 or whatever amount seems good) points, you get another bar of health.  So it's sorta like you lose \"lives\" without having to reset the level, so that your lives aren't useless.  Whether or not you'd have a cap on how many bars of health you could get would be up to discussion.  Perhaps every 100,000 points your max health increases by 1 bar.  This would give points and high scores more purpose in the game and get rid of the obselescence of many lives.<br /><br />This would also allow the keen game designer to add more challenging stuff, since he doesn't have to worry about making a level beatable without touching any bad things throughout the level. It also allows for longer levels.<br /><br />This shouldn't be too hard to program.  Would anyone be willing to program this into the game?<br /><br />Yay for keen and the endless possibilities.<br /><br />Keen needs to get modified the way that doom 2 gets modified.  The envelope of doom 2 is always being stretched - we need that kind of modding community with keen.  So far it's just graphical changes.  We need to add gameplay elements to improve the game, like the one I have just suggested here.<br /><br />I would take this on myself, but, alas, I am hopeless when it comes to programming. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]"
+	}
+]

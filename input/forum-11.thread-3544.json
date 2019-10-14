@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1429,
+		"title": "Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-05T07:52:55.000Z",
+		"content": "Hi.  How is everyone? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Basically, the idea is this:  I don't really want to keep working on Wombat by myself any more - it's just too bloody big.  I haven't touched it in a while, and I just had some guy email me with some game stuff he's managed to decrypt, and it'd be a shame for that to go to waste.  Is there anyone who'd like to team up with me, so that we can design and code a good, stable, proper game extractor tool that's open source and so forth?<br /><br />I remember someone saying they wanted to make one, no idea who it was though.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29784,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-05T14:42:25.000Z",
+		"content": "\"How is everyone?\"<br />Well, not good in the sense summer annoys me a lot. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-bloody.gif[/img] <br /><br />I'd like to help but I'm not that good at decrypting file formats. Hardly can do that at all. As well, I really hate writing error checking stuff in programs, like cheking if the file is in right format. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] <br />So, probably I can't help at this. Too bad, it's really cool program and it would be even better if continued.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 29785,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-05T15:33:11.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I remember someone saying they wanted to make one, no idea who it was though.[hr][/quote]<br />That would probably be kMod. I was working on kMod, but have given it up for now - partly because Q90 insisted it be written in VB, which I now only use to create \"throwaway\" utilities I never plan to use again. The difficulties associated with trying to create a program in VB that could support dynamically loaded C++ plugins would be a nightmare.<br /><br />I'd love to help (maybe I could learn some C++ along the way) but I'm busy on another project right now. Not to mention I can barely keep on the same project for more than a week... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] <font color=\"BLACK\"><br />My [url=http://kevan.org/brain.cgi?grafix5000]MindBending Power[/url] is 5.43 points.<br />Possibly the [url=http://legion.gibbering.net/misterx/troutwar.php?s=grafix5000]funniest thing[/url] on the interweb.<br />Go to [url=http://www.toxicsheep.com]www.toxicsheep.com[/url] to see my site!<br /></font><br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 29786,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-06T03:45:05.000Z",
+		"content": "I would like to help, but I'm not exactly well versed in the subject. I'm a decent programmer, but I have no experience encrypting and decrypting files and whatnot. I don't know if you'd want to put up with me while I learned what was going on.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 29787,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-06T09:04:37.000Z",
+		"content": "I would Loooove to help, but I like the above, I'm not that hot at decrypting, and I'm also as lazy as hell. [And will be up to my armpits in code next term with my computer courses.]A proud member of the signature stealing society"
+	},
+	{
+		"id": 29788,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-06T13:41:09.000Z",
+		"content": "OK guys - despite being very en-inbriated (I hate making these sort of posts, sorry in advance) - I have one thing to say.  Yes.<br /><br />I don't need someone to work out game formats.  I really don't care about that.  I need someone to work with, as this lone wolf sh*t is getting old.  All I need is someone to work with to figure out the best way to make a game extractor/replace thing, to throw ideas around with as to how to best write a proggie that can handle images/sound/etc - even if you want to do something unrelated to games.  You want to do the plugin core?  Go for it.  You want to only take care of music playback/extracting?  Sure.  I just don't want to take the whole f*cking thing on, as the thousands of lines of code is too much for one peep.  Even if you just want to design it, that's fine with me.  All I ask is that someone takes some of the load off my back, as it's too big an ask for one person.<br /><br />I know that some people have managed to make this sort of deal by themselves, but I simply don't want to.  Call me weak, but when I do this sort of sh*t I put my whole heart into it, and end up snowed under.  You want a game tool like this? In that case, let's put our people force together and make it happen.  Seriously, I've written programs that get to 40,000 lines of code and it is not possible to manage it all by myself, and Wombat is slowly getting close.  I want to open source this thing, but that requires a re-write and I'm not willing to do that on my own.<br /><br />I know you guys appreciate what I put in - but I'm really full up and don't have the time or energy to put in 100% all by my ittty bitty self.<br /><br />Peace out - szev.<br /><br />-- If no-one's up for it, I'll put up a link to the mess that Wombat is currently in, hopefully someone can make use of it.  If someone does want to give me a hand, then the creature we make is guaranteed to be open to eveyone.  That was always my plan, but the code was not a level I felt I could give out.  Hope no-one's pissed off cause of that.<br /><br />*pirate, yo. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29789,
+		"title": "Contributisationness.",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2005-07-06T14:58:29.000Z",
+		"content": "Well, I'd like to help out in any way I can. My coding skills are still being refined, but I can give it a whirl.Cave assectatorem Ductoris Alacris <br /><br />\"This is how liberty dies--with thunderous applause.\" -Padme<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 29790,
+		"title": "Re:",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-06T20:38:29.000Z",
+		"content": "In that case, I'm glad to help however I can. I have trouble with program structure myself sometimes, but I'm glad to be a second set of eyes (w/ brain)."
+	},
+	{
+		"id": 29791,
+		"title": "Re: Teaming up",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-06T21:55:09.000Z",
+		"content": "Hmm, well if you want someone to bounce ideas off feel free to get in touch with me, I've put a lot of effort into the design of my game editor so I can certainly give you a hand with that.  I'm not sure whether teaming up would be wise though, as I'm extremely stubborn in my ways and I'm coding my game editor in my own special way...which basically means it's straight C++, and since I hate using other people's libraries I'm writing my own cross platform UI as I go (it's being designed first and foremost for Linux, with the eventual intention to implement Windows support in the UI library.)  So if you did want to team up, you'd have to use my library [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mort.gif[/img] <br /><br />Of course that only really matters if you're programming the UI, I've designed it so that each area is completely independent, so if you wanted to write a file extractor you'll only have to deal with a small part of the library for reading and writing 'streams' (the idea behind that being if you write a file extractor that takes in an input stream and produces a ton of output streams, you can feed one of those output streams into another extractor/editor/music player/etc. and effectively work on files within files within files without having to extract any of them.)<br /><br />I guess my point is rather than trying to maintain the whole thing yourself, you could split it up into smaller mostly independent chunks, and then just work on each little bit at a time - once the design is done you can always have different people working on each area without any problems."
+	},
+	{
+		"id": 29792,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-15T01:32:36.000Z",
+		"content": "Progress:<br /><br />Got wxWidgets up and running, cross-platform opensource Wombat here we come.<br /><br />Also started on the new text driver system (not a correct driver for Cosmo, but you get the idea):<br /><br />[pre] driver Cosmo's Cosmic Adventurefile *.stn *.vol&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp packed Reploglefile size_equals 4000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp dos_screenfile size_equals 32000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ega tiles width 16 heigh 16 layout scanline draw_width 320&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp folder Fullscreen imagesfile data 0 3 S n d&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp sound sndgroup actors&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp folder Sprites&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp file actrinfo.mni actors.mni#complex types like the one below is not importable yetfile actrinfo.mni&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp struct [all]&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int width&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp int heightfile actors.mni&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ega indexed actrinfo.mni ignore 5 13 layout planar#animation frames?file cosmo3.lib&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp tag check_common # I have this file - does anyone else?file someother.dat&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp meta description I suspect that Foorbar is stored here - no sure though[/pre]<br /><br />Self-documenting, non-code descriptions of data, which Wombat will read and work out itself how to read/extract/inport packed files, images, sound, music - maybe even levels one day.<br /><br />Hoohoo haahaa.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29793,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2005-07-15T03:58:24.000Z",
+		"content": "Cool. That's going to be a real time saver in the future.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/YorpEye.png[/img]"
+	},
+	{
+		"id": 29794,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-15T06:44:41.000Z",
+		"content": "Nifty. If you do take extra programmers on board, wouldn't it be a good idea to use CVS? ([url=http://tortoisecvs.org/]TortoiseCVS[/url] is a really good Windows CVS client, in case you haven't already heard of it)[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 29795,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-15T08:38:45.000Z",
+		"content": "If I did take extra programmers on, it'd chuck it up on SourceForge with its magic inbuilt CVS - I've got a project up there, and combined with Tortoise it's very handy.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29796,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-16T03:20:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]driver Cosmo's Cosmic Adventure[hr][/quote]Hmm, that looks good - I had the same idea for my editor only I'm using an XML-based file format rather than a custom one (a rare time where I did give in and use someone else's library to save time.)  An excerpt of the Xargon file looks like this: (some of the numbers are made up just to illustrate how it will work.)[pre] &lt;game title=\"Xargon\"&gt;  &lt;files&gt;    &lt;group name=\"Episode 1 - Beyond Reality\"&gt;      &lt;group name=\"Levels\"&gt;        &lt;file name=\"map.xr1\" type=\"xargon_map\"&gt;Overhead map&lt;/file&gt;        &lt;file name=\"board_01.xr1\" type=\"xargon_map\"&gt;Level 1 - This bizarre world&lt;/file&gt;        &lt;file name=\"board_02.xr1\" type=\"xargon_map\"&gt;Level 2 - A strange new dimension&lt;/file&gt;        &lt;file name=\"demo1.xr1\" type=\"xargon_map\"&gt;Demo Level 1&lt;/file&gt;      &lt;/group&gt;      &lt;group name=\"Audio\"&gt;        &lt;file name=\"song_0.xr1\" type=\"cmf\"&gt;Theme song&lt;/file&gt;        &lt;file name=\"song_1.xr1\" type=\"cmf\"&gt;Level music&lt;/file&gt;      &lt;/group&gt;      &lt;group name=\"Miscellaneous\"&gt;        &lt;file name=\"xrfile01.exe\" type=\"strings\"&gt;          Main executable          &lt;stringlist offset=\"0x282b6\"&gt;            &lt;string type=\"asciiz\"&gt;Map name for main menu background&lt;/string&gt;            &lt;string type=\"asciiz\"&gt;Demo macro filename&lt;/string&gt;            &lt;group name=\"In-game statusbar comments\"&gt;              &lt;string type=\"asciiz\" maxlength=\"0x45\"&gt;Comment #1&lt;/string&gt;              &lt;string type=\"asciiz\" maxlength=\"0x49\"&gt;Comment #2&lt;/string&gt;              &lt;string type=\"asciiz\" maxlength=\"0x5a\"&gt;Comment #3&lt;/string&gt;              &lt;string type=\"asciiz\" maxlength=\"0x3f\"&gt;Comment #4&lt;/string&gt;            &lt;/group&gt;          &lt;/stringlist&gt;        &lt;/file&gt;      &lt;/group&gt;&lt;!-- miscellaneous ---    &lt;/group&gt;&lt;!-- episode one ---  &lt;/files&gt;&lt;/game&gt;&lt;!-- end Xargon ---[/pre]Like your file format, this will allow the reuse of various components, like EGA graphic loaders, music players/editors and map editors between many different games.  In this case I have opted to list the names of all files in the game as it suited Xargon best, however for other games I will have to use file size/signature comparisons as your script uses.<br /><br />I do like this method though as it allows you to add extra information to the editor that may not be stored in the games (like level names or song titles.)"
+	},
+	{
+		"id": 29797,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2005-07-16T06:15:50.000Z",
+		"content": "Well, I for one don't want to see wombat go to waste, however, like you, I don't have unlimited spare time and most of it is currently taken up by various other pursuits.<br /><br />I can try to get some info on some file formats, or help code some of the importing or exporting routines, but I won't have much time for it either, sorry.<br /><br />And, Malvineous, I think that the XML based format is a good idea, but I'd rather spend the time cracking lemmings' custom compression algorithm.<b><i>We want Keen 7</i></b><br />[url=http://kevan.org/brain.cgi?MultiMANIA]We want it now![/url]"
+	},
+	{
+		"id": 29798,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2005-07-16T11:43:58.000Z",
+		"content": "You do know there's already a [url=http://lemcrazy370.tripod.com/stuff/program.htm]Lemmings level editor[/url], right?Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29799,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486183,
+		"author_name": "MultiMania",
+		"timestamp": "2005-07-16T14:21:18.000Z",
+		"content": "You do know there's already a Lemmings level editor, right?<br /><br />Yes, used it before. However, I still can't decode the format myself. Grrr...<b><i>We want Keen 7</i></b><br />[url=http://kevan.org/brain.cgi?MultiMANIA]We want it now![/url]"
+	},
+	{
+		"id": 29800,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-22T01:20:47.000Z",
+		"content": "Made some progress, this now works:[pre] file *.mni and size_is 34000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 width&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 height&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp image ega layout planar palette internal_bla&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp palette internal_bla type ega[/pre]Basically, the names you use for data auto-magically are used for drawing and so forth - although you can name variables anything you want (the next two are planned to work) - [pre] file *.mni and size_is 34000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 foo&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 bar&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp image ega layout planar palette internal_bla width foo height bar&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp palette internal_bla type ega[/pre]or even[pre] file *.mni and size_is 34000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned32 foobar&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp image ega layout planar palette internal_bla width 32 height ( bar / 32 )&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp palette internal_bla type ega[/pre]Also wrote EGA drawing code properly for the first time, Wombat up til now has:<br /><br />1. Allocated memory for planes * width * height<br />2. Split image data into planes, 1 bit per pixelpixel<br />3. Allocated memory for width * height<br />4. Compressed the planes into single values per pixel<br />5. Wrote out the bitmap<br /><br />As opposed to now:<br />1. Read in 4 or 5 bytes, draw out 8 pixels<br /><br />It's getting there.  Additionally, in-memory decompression of LZ91 exe's - browse the resources of Keen exe's (amongst others) as if they were uncompressed, support for exe patching (with a library of known patches to choose from, or write your own) and text-driver based level editors are all in some stage of being implemented - and in the very, very early stages are a hex editor and image editor.<br /><br />So - don't give up on Wombat just yet.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29801,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-22T09:35:29.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]in-memory decompression of LZ91 exe's[hr][/quote]Have you any thoughts about on-the-fly decompression?  My editor currently does in-memory decompression for a few things as well, but I don't like the idea of allocating a big chunk of memory to store the decompressed data - I'd much prefer just decompressing the data required and ignoring the rest, but I think that'll be pretty tricky..."
+	},
+	{
+		"id": 29802,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-23T09:24:36.000Z",
+		"content": "I'm experimenting with decompression as a stream, with seek() and read() methods.  The stream only gives back the data that's needed, and discards the rest.  This only works for compression types that don't require previous data - so, for example Dune 2 wouldn't work this way, while LZW and Huffman would.  Still to see it working 100% yet, got some of this to work for exe's but not completely yet.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29803,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-29T03:46:45.000Z",
+		"content": "Tables work:<br /><br />[pre] game 7 Cities of Gold (VGA)file *.m52&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 width&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp unsigned16 height&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp data 8 unknown&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp image vga interlaced 4 palette palette_tabletable palette_table name palette&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp ea_logo.m52  ealogo.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp harbmast.m52 harbmast.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp harb*.m52    harbor.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp tit*.m52     title.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp comm*.m52    commish.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp logbook.m52  logbook.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp palace.m52   palace.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp grass.m52    grass.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp dirt.m52     dirt.pal[/pre]<br /><br />Hopefully that's a system that's easy to understand.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29804,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-29T08:20:58.000Z",
+		"content": "Shiny! This should make adding games really easy once you've worked out the file format. (So it'll still be hard, but easier than writing a mod utility from the ground up)<br /><br />I assume that the \"game\" command specifies the name of the game, the \"file\" command specifies the format of an image file (with a pallete chosen from palette_table) and \"table\" describles a table of files (this one being called \"palette_table\" and containing a list of palette files).<br /><br />BTW, Are you ever going to update your sig to point to szevvy.com? Shiny new CPanel hosting is no good without people visiting it, you know.[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	},
+	{
+		"id": 29805,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2005-07-29T13:00:53.000Z",
+		"content": "Yeah, I should change my sig [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br /><br />You're partly correct - \"file\" is just a method of dividing files.<br /><br />So, [pre] file *.pal&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp palette vga[/pre] is valid, as is<br />[pre] file *.mni AND size_equals 4000&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp dos_screen[/pre] or even [pre] file *.bob&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp folder Some sort of level data[/pre] just so you can start to group common files when starting on a game.<br /><br />The \"image\" command specifies an image - in the above case, the image data is read after the width, height, and 12 bytes of unknown data.  The palette is chosen from the table, yes - but only as palette_table refers to something you've defined - otherwise Wombat looks for a file with the name you've given; the palette can even be field in the file, much like width, height or any other property.<br /><br />Tables are generic; they can hold any sort of data.  The idea is that Wombat will match on fileds it has values for, and fill in the values it doesn't.  They can hold filenames, or data offsets in exes, or even XOR encryption data; this way you can seperate file formats and data.<br /><br />The basic idea I'm going for is zero code - you don't have to write any code for most game formats (except custom compresion type things).  Additionally, once you've given Wombat the format of a file, it knows how to import into it - as soon as a packed file is worked out, it's possible to mod that game format; once you work an image format out, it's possible to import any other image into it, and so on.  That's the grand idea, anyway.  I suspect that the text driver language will have about 15 commands all up, so it won't be hard to figure out.  If I pull this off, of course.----------------------<br />Support (at least partially) for 27 games!<br />Check out the progress of Wombat Game Tools [url=http://student.ci.qut.edu.au/~n4738667/index.php?section=wombatwip]here[/url]"
+	},
+	{
+		"id": 29806,
+		"title": "Re: Game extractor et al.",
+		"author_id": 1486240,
+		"author_name": "grafix5000",
+		"timestamp": "2005-07-29T15:03:47.000Z",
+		"content": "It should be possible to extend Wombat's compression algorithms with some sort of external file, such as a .dll/.so file or a Javascript file. (Javascript would be better since it's cross-platform, but harder to implement and slower)[url=http://www.toxicsheep.com]www.toxicsheep.com[/url]<br />[img]http://www.toxicsheep.com/sigs/scrobblersig.php[/img]"
+	}
+]

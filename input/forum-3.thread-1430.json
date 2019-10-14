@@ -1,0 +1,58 @@
+[
+	{
+		"id": 372,
+		"title": "Background music for Keen1/2/3 original games/mods",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-03T20:39:36.000Z",
+		"content": "I've tried more than 5 times to write this and post it. I just don't know why I forget to post every time I remember this project! Well, back to the topic...<br /><br />I was wondering if anybody has tried to write an application that adds Music support for Keen1/2/3 original games and mods. Because the other day I was thinking there must be a way to signal a Windows application from a DOS program (a TSR, for example) so that the Windows app executes a command (i.e. \"%ProgramFiles%\\winamp\\winamp.exe c:\\dos\\keen1\\k1music\\level12.mp3\") in response. At least I remember to have read something from Microsoft about Win95 adding support for DOS-Windows apps interaction.<br /><br />The idea is to have something similar, at least for Win2k/XP. The mod's batch file (i.e. \"KeenX.bat\") installs a TSR before starting CKPatch and Keen*.exe, that sends some file usage information to the Windows app, so this can detect when (for example) LEVEL01.CK1 is read. And when that occurs, the Windows app reads the first entry from the file c:\\dos\\keenx\\k1music.lst and launches the media player (WinAmp for this example) with the contents of the first entry as command line parameters (\"%ProgramFiles%\\winamp\\winamp.exe c:\\dos\\keen1\\k1music\\level12.mp3\"), where the contents of that entry are just the level number (LEVEL*.CK?, and * is the level number) and the music file to play, located in a subdirectory with the same filename of the listing file (k1music.lst).<br /><br />Has anybody done anything similar? The other day I was thinking in trying to do it myself if you're interested in such a thing.<br /><br /><b>EDIT:</b> I got the idea while working on the tileset of my Keen1 mod. I thought: \"why not use Bio Menace music here?\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 11184,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 1486572,
+		"author_name": "matlarsen",
+		"timestamp": "2006-12-03T20:55:56.000Z",
+		"content": "if the program is in Visual Basic then you can use the shell() command. check it out on google (been bloody ages since used VB)."
+	},
+	{
+		"id": 11185,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-03T22:11:15.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] if the program is in Visual Basic then you can use the shell() command. check it out on google (been bloody ages since used VB).[hr][/quote]<br /><br />I know that. I know Visual Basic; I wrote some useless programs with it some years ago, and I learned plain BASIC when I was 7 years old.<br /><br />No, no, no. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-no.gif[/img]  I <i>know</i> how to launch programs inside another program using C/C++, with CreateProcess(Ex), system, wsystem, etc. The main problem in this case is detecting when the keen engine reads a level file, to provide <i>per-level music</i> (like Keen4/5/6).[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 11186,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-12-03T23:15:15.000Z",
+		"content": "I thought about doing that a while ago, the only thing that stopped me was that I have no idea how to tell from a TSR what level Keen is currently in.<br /><br />Also it wouldn't be worth it signalling a Windows application, because then not surprisingly it would only work if you ran Keen under Windows - all those people that either can't run it natively or don't run Windows would miss out.<br /><br />You'd be much better off writing something like an IMF player which would be part of the TSR itself, and then providing you can hear music in Keen 4, you'd be able to hear the music produced by the TSR (under Windows, DOSBox or even native DOS, which would be pretty cool.)"
+	},
+	{
+		"id": 11187,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-03T23:47:06.000Z",
+		"content": "Oh. That makes thing more complex. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  Maybe someday. I haven't even tried to learn *native* DOS programming. Win32 and UNIX are more comfortable for me. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  (Or am I too lazy? Am I? huh?)[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 11188,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-12-04T01:44:41.000Z",
+		"content": "I brought this topic up at K:M ([url=http://andy.durdin.net/keen/modding/viewtopic.php?t=704]here[/url]) last year, and apparently another time much earlier, but got no reply. I expect Andy would have some idea where to look, as he understands disassembled Keen 1-3 better than anyone. However, he's somewhat busy these days.<br /><br />Based on [url=http://andy.durdin.net/keen/modding/viewtopic.php?t=428&highlight=level]this thread[/url], it would appear there's at least a variable that keeps track of how many levels have been completed.<br /><br />[url=http://andy.durdin.net/keen/modding/viewtopic.php?t=67&highlight=level]This one[/url] contains a patch that references level 1 specifically, so there must be another counter that keeps track of the current level. I expect if you look around the DONE code (which [url=http://levellord.toxicsheep.com/Index/Keen1/D.txt]these patches[/url] affect), the current level wouldn't be too far off.<br /><br />[hr]<b>Shadow Master</b> that sends some file usage information to the Windows app<br />[hr]A much better plan would be a stand-alone application, kind of like a trainer except that instead of manipulating the games variables (though that could be built-in too, if one were so inclined) it reads the relevant one(s) and plays a different song for each level. This would be dead easy to code, except for two things: I don't know how to write a TSR (Malvineous apparently does, though), and the obvious missing in-game information.<br /><br />I believe Transport Tycoon did something similar, with its music.exe TSR.<br /><br />[hr]<b>Shadow Master</b> I haven't even tried to learn *native* DOS programming.<br />[hr]It all uses the same code, it's just the specifics of accessing the hardware. If you use Allegro, it's all the same across DOS, Win32, Unix, Mac, etc."
+	},
+	{
+		"id": 11189,
+		"title": "Re: Background music for Keen1/2/3 original games/mods",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-12-04T10:54:18.000Z",
+		"content": "I've tinkered around with TSRs, just check your C manual for the keep() function, IIRC it's all pretty automatic - just hook an interrupt (in this case probably the timer one), call keep() and you're done.  Whatever function you attached to the timer interrupt will get called 18.2 times/sec, and in there you check the current level and play some music.  Actually because of the music timing you may need some other method to get finer grained timing, it's been a while since I looked into that part of Adlib programming.<br /><br />I'd try to write it myself out of curiosity if someone can figure out how to tell what level Keen is currently in..."
+	}
+]

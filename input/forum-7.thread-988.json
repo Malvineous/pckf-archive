@@ -1,0 +1,266 @@
+[
+	{
+		"id": 645,
+		"title": "Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-11T02:49:11.000Z",
+		"content": "Well, after fiddling around and *almost* succeeding in converting the Vinyl Goddess From Mars music into CMF (the instruments are still a bit off) I ended up with some leftovers.<br /><br />Here are some [url=http://www.shikadi.net/pckf/newimfs.zip]CMF songs that have been converted into IMF[/url] (21kB), in case anyone out there is looking for some new music for their mod.  There are a few from Jill of the Jungle, and one each from Kiloblaster, TD2192 and Xargon.  Just bear in mind that AdPlug doesn't play them all properly, so download [url=http://adplug.sf.net]AdPlay[/url] and play them from within DOSBox if you want to hear them the way they're supposed to sound (jill-funky.imf, the Jill of the Jungle level music, is a prime example of this.)<br /><br />Enjoy!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16589,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-11T12:04:57.000Z",
+		"content": "How are these used for a mod?[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16590,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-11T14:08:19.000Z",
+		"content": "Importing them in CK4-6 AUDIO.CKx file. I must research on how to do that for my next emodkeen release, though.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16591,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-15T08:00:38.000Z",
+		"content": "Indeed; I don't know how either. Tell me, are you planning on making it possible to convert images into those .BIN files (Like the COMMANDER KEEN text that scrolls across at the start, it'd be nice to have that in bitmap format.)[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16592,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-15T14:11:48.000Z",
+		"content": "Didn't think about that before. While doing my homework, I found a related program in my hard disk, with its source code. No idea who wrote it or where I got it, but I guess I could use it to add that stuff. Although, I personally would prefer a patch to skip the Terminator screen; I never liked it.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16593,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-16T06:05:59.000Z",
+		"content": "Well, getting back on topic for a moment I thought DRO2IMF, the program I wrote to create those IMF files from DOSBox .dro captures, might come in handy for someone else, so I tidied it up and [url=http://www.shikadi.net/utils/]stuck it online[/url].  It's source only, so sorry non-Linux people!  (If anyone wants to compile it for DOS and e-mail me the .exe, I'll stick that on the page too.)<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16594,
+		"title": "Re: Some new IMF music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-17T11:21:24.000Z",
+		"content": "Done. Sent an email. For the people who can't wait, it'll be available here for a few weeks or so:<br />[url=http://www.tengusoft.net/davince/dro2imf.zip]www.tengusoft.net/davince/dro2imf.zip[/url]<br /><br />It was surprisingly easy to compile, btw... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16595,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-17T22:00:03.000Z",
+		"content": "Great, thanks!  Yes, I tried to write it so that it would be fairly portable and simple to compile.<br /><br />Are you able to compile a version without debugging info?  The .exe is about 10 times larger than I expected it to be!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16596,
+		"title": "Re: Some new IMF music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-18T11:22:41.000Z",
+		"content": "Woops, sorry about that. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]    I have some knowledge on how to make and compile C++ apps, but not much. Will try.<br /><br />EDIT: I got it down to 278 kb when optimizing for file size. Still way too big. Can't find the debugging options, shows how much of a C++ newbie I am... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  <br /><br />EDIT 2: looks like GNU GCC just makes huge executables. Even when compiling with a Release configuration, the thing gets 278 kb. Bwargh.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16597,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-18T12:39:39.000Z",
+		"content": "Tush! That's nearing the size of more than one DOS game executable! [img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 16598,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T14:09:48.000Z",
+		"content": "Dav, did you STRIP it?------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16599,
+		"title": "Re: Some new IMF music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-18T18:39:48.000Z",
+		"content": "Is that the -s compile option? Because I'm using that. Also using -Os (optimizes for size, according to the nice lil' compiler options menu I can see in Code::Blocks).<br />Also turned on \"expensive optimizations\", whatever that is.<br /><br />Sorry, as I said, still very new to compiling. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-embarrassed.gif[/img]  Anyway, I uploaded the twice-less-size version for now.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16600,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T18:47:50.000Z",
+		"content": "I don't know about the -s switch.<br /><br />For example, when I built the precompiled binaries for Lmodkeen2, I did:<br /><br />make<br />Linux binary: strip ./lmodkeen<br />Windows binary: ~/cross-tools/bin/strip.exe ./lmodkeen.exe<br />------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16601,
+		"title": "Re: Some new IMF music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-18T20:08:27.000Z",
+		"content": "After fiddling a lot with both MinGW and an MS-DOS specialized compiler called djgpp (thanks for helping Shadow Master (Edit: here you go, a space. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] )!), I did not manage to get it smaller than 278 kb. Sorry.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16602,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T20:18:28.000Z",
+		"content": "It's some sort of tradition, isn't it? It's a space between Shadow and Master. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-freud.gif[/img] <br /><br />But, anyway, let me see what I can do for you.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16603,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-18T21:44:47.000Z",
+		"content": "Yes, if you're using GCC the \"strip\" command strips all the debugging info from the .exe, producing a significantly smaller file.  It usually makes more of a difference than all the compiler's optimisation flags.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16604,
+		"title": "Re: Some new IMF music",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-19T01:10:21.000Z",
+		"content": "Wow, it seems there's a DOS version of [url=http://upx.sourceforge.net/]UPX[/url]. Every programmer needs to add that to their bin folder (go do it now, Davince). Here we go:<br /><br />[url=http://jimsoft.spatang.com/keen/community/dro2imf.zip]dro2imf[/url] @ 80kb"
+	},
+	{
+		"id": 16605,
+		"title": "Re: Some new IMF music",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-06-19T06:56:56.000Z",
+		"content": "Thanks for the tip, UPX will help immensely. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 16606,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-19T13:58:09.000Z",
+		"content": "You got there first. I already had done it. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-redeyes.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16607,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-19T13:59:55.000Z",
+		"content": "No, not really. Mine is 77.5 KB. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />[url=http://shadowm.rewound.net/dro2imf.exe]dro2imf[/url]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16608,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-19T21:34:39.000Z",
+		"content": "UPX is cheating [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16609,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-19T21:41:50.000Z",
+		"content": "Somehow. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-rolleyes.gif[/img] <br /><br />[pre] #!/bin/sh# by Shadow Master# requires: UPX in its win32 exe, unless somebody knows of a Linux version#           Mingw32 cross-compiler with GNU C++ compiler and stuff# FIXME: might need to edit this manually to replace the cross-compiler root!!if [ x$1 = x ]; then&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp CROSS_TOOLS_ROOT=\"$HOME/cross-tools\"else&amp;nbsp &amp;nbsp &amp;nbsp &amp;nbsp CROSS_TOOLS_ROOT=\"$1\"fiecho \"I'm using $CROSS_TOOLS_ROOT as the cross-compiler root.\"echo \"Fix this script if in doubt (or in case error messages appear &lt;!--EZCODE EMOTICON START <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif ALT=\":D\"&gt;&lt;!--EZCODE EMOTICON END--&gt; ).\"echo \"Running GNU C++ Compiler... (dro2imf.cpp ---- dro2imf-inf.exe)\"# Let me produce a stripped down version &lt;!--EZCODE EMOTICON START <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif ALT=\":)\"&gt;&lt;!--EZCODE EMOTICON END--&gt; $CROSS_TOOLS_ROOT/bin/i386-mingw32msvc-g++ -g dro2imf.cpp -o dro2imf-inf.exe -Os -s# Sure, you must have this in path or something &lt;!--EZCODE EMOTICON START <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif ALT=\";)\"&gt;&lt;!--EZCODE EMOTICON END--&gt; # I recommend to configure the kernel with the binfmt_misc module, btw. &lt;!--EZCODE EMOTICON START <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/> --&gt;&lt;img src=http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif ALT=\":D\"&gt;&lt;!--EZCODE EMOTICON END--&gt; echo \"Packing executable... (dro2imf-inf.exe ---- dro2imf.exe)\"./upx.exe -o dro2imf.exe dro2imf-inf.exe# Ready for action?echo \"Done! dro2imf.exe is ready!\"[/pre]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16610,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-20T21:47:23.000Z",
+		"content": "Wouldn't the file come out smaller if you stripped it before compressing it?<br /><br />And there are versions of UPX for other platforms (including Linux) on its homepage: [url=http://upx.sourceforge.net]upx.sourceforge.net[/url]<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16611,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-22T13:14:08.000Z",
+		"content": "g++ -s produces binaries that can't be stripped more (strip -s on them does nothing). From the g++ man page:<br /><br />[quote]<b><i>Quote:</i></b>[hr]-s  Remove all symbol table and relocation information from the executable.[hr][/quote]<br /><br />Interesting, isn't it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] ------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16612,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-06-23T00:17:52.000Z",
+		"content": "Oh, that's interesting - but does \"g++ -s\" produce a different result to \"g++ ; strip\"?<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16613,
+		"title": "Re: Some new IMF music",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-25T13:31:33.000Z",
+		"content": "Lemme see...<br />gcc ; strip<br />[pre] [igriquel@nodo26 igriquel]$ gcc test.c -o test[igriquel@nodo26 igriquel]$ dir -l ./test-rwxr-xr-x  1 igriquel alumnos 4796 jun 25 09:29 ./test[igriquel@nodo26 igriquel]$ strip ./test[igriquel@nodo26 igriquel]$ dir -l ./test-rwxr-xr-x  1 igriquel alumnos 2976 jun 25 09:29 ./test[/pre]<br /><br />Now, gcc -s<br />[pre] [igriquel@nodo26 igriquel]$ gcc -s ./test.c -o test[igriquel@nodo26 igriquel]$ dir -l ./test-rwxr-xr-x  1 igriquel alumnos 2976 jun 25 09:30 ./test[igriquel@nodo26 igriquel]$ strip ./test[igriquel@nodo26 igriquel]$ dir -l ./test-rwxr-xr-x  1 igriquel alumnos 2976 jun 25 09:30 ./test[igriquel@nodo26 igriquel]$ [/pre]<br /><br />Definitively not. (OK, if it was C++ code it should work the same)------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 16614,
+		"title": "Re: Some new IMF music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-07-05T14:54:20.000Z",
+		"content": "whay can't someone write a RAW2MID or RAW2IMF, beacuse winamp a.k.a Adplug , can dump many many formats into RAW"
+	},
+	{
+		"id": 16615,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-05T21:55:49.000Z",
+		"content": "I already did - search for dro2midi or dro2imf.  You could either tweak them to read in .raw files, or use Adplay to play the file and capture it in DOSBox to get a .dro file instead of a .raw file.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16616,
+		"title": "Re: Some new IMF music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-07-06T16:00:23.000Z",
+		"content": "yay! well, but sometimes i get issues when capturing raw in dosbox to dro. tempo issues. and sometimes other problems<br /><br />only if adplug had a DRO disk writer...<br /><br />a raw2dro or something , .. :P<br /><br />i just asking beacuse some tunes is hard to convert, like a TIM tune i tryed, and it didnt work"
+	},
+	{
+		"id": 16617,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-10T10:46:06.000Z",
+		"content": "A raw2dro should be possible, but the .raw format can change the tempo during playback, whereas .dro has a fixed playback speed.  It should be possible to adjust for this and put more or less delays into the output .dro file, but it could get complicated.<br /><br />Do you still have problems if you load Adplay under DOSBox and play the .raw file, while capturing it to .dro?  Bear in mind that I discovered a bug in the Adplug .dro player while I was doing all this stuff, and the fix for that is only in CVS at the moment so if your copy of Adplug is more than a month old you won't have the fix if you try to play the freshly captured .dro files.  This is unlikely to affect the tempo though, mainly the sound of the instruments.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16618,
+		"title": "Re: Some new IMF music",
+		"author_id": 1486822,
+		"author_name": "Batteryman Darksoul",
+		"timestamp": "2007-07-11T10:40:22.000Z",
+		"content": "ah. i'm sorry, i should told you.<br />I use Adplug for winamp, to translate from any format to raw.<br />But i use Adplay in DosBox to translate to *.dro<br /><br />Also an another bug for capturing in dosbox, is that the start of the song, isn't start, maybe not before half of the file is played, so i get only 40 or 50% of the song"
+	},
+	{
+		"id": 16619,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-12T02:45:39.000Z",
+		"content": "What version of DOSBox are you running?  I've never had recordings cut off before.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 16620,
+		"title": "Re: Some new IMF music",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-07-13T16:26:07.000Z",
+		"content": "I have to agree, Dosbox is usually great for recording songs.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	}
+]

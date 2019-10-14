@@ -1,0 +1,74 @@
+[
+	{
+		"id": 129,
+		"title": "Keen 6 bug or help?",
+		"author_id": 1486253,
+		"author_name": "KeenzTheKing",
+		"timestamp": "2005-11-07T04:50:56.000Z",
+		"content": "I noticed in Keen 6 that you don't need to get the green key in Bloogfoods, you actually go right through the wall onto that roller belt.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] ---<br />*I'm Kristen, I'm 16 and I'm a Bloogoholic*<br />[img]http://tinypic.com/fdydub.jpg[/img]<br />\"I &lt;3 Bloogs\""
+	},
+	{
+		"id": 3411,
+		"title": "Re: Keen 6 bug or help?",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-07T07:48:43.000Z",
+		"content": "That is not a bug; rather what is know has a hidden easter egg...<br /><br />BTW:<br /><br />[quote]<b><i>Quote:</i></b>[hr]*I'm Kristen, I'm 16 and I'm a Bloogoholic*<br />&lt;img src=\"[url=http://tinypic.com/fdydub.jpg\"]tinypic.com/fdydub.jpg\"[/url] alt=\"Image hosted by TinyPic.com\"&gt;<br />\"I &lt;3 Bloogs\"[hr][/quote]<br /><br />That is HTML; the board uses [] instead of &lt;&gt;<br /><br />Try that instead<br /><br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] Proud Leader of the \"Tough Guys Wear Pink\" Society<br />[img]http://i15.photobucket.com/albums/a371/najawa/Modding/LLMod.jpg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />-- NAJAWA --"
+	},
+	{
+		"id": 3412,
+		"title": "Re: Keen 6 bug or help?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-07T13:40:39.000Z",
+		"content": "It's a level design bug, not an easter egg. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-oldy.gif[/img] <b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3413,
+		"title": "Re: Keen 6 bug or help?",
+		"author_id": 1486128,
+		"author_name": "najawa.e",
+		"timestamp": "2005-11-10T06:18:11.000Z",
+		"content": "It's one of those things you see if you press F10 Y in debug mode.Proud Leader of the \"Tough Guys Wear Pink\" Society<br />[img]http://www.najawa.com/LLMod.jpeg[/img]<br />\"Tough Guys Wear Pink!!!\"<br />Visit My site at [url=http://www.najawa.com]www.najawa.com[/url]<br />[url=http://kevan.org/brain.cgi?Najawa]Click Here!!! Please!!![/url]<br />-- NAJAWA --"
+	},
+	{
+		"id": 3414,
+		"title": "Re: Keen 6 bug or help?",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2005-11-18T23:31:03.000Z",
+		"content": "A secret passage [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[img]http://i16.photobucket.com/albums/b33/freeyorp101/signat.jpg[/img]<br /><br />[hr]<br /><br />The yorp shalt inherit the mars"
+	},
+	{
+		"id": 3415,
+		"title": "heh",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-11-19T03:04:14.000Z",
+		"content": "I always liked pogoing up and grabbing the hole in the wall where the platform (which helps you get the Yellow Keygem) hides in the beginning of the First Dome of Darkness... Keen darts through the wall in about 5 frames.  Whee!"
+	},
+	{
+		"id": 3416,
+		"title": "Re: heh",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-11-19T10:00:27.000Z",
+		"content": "[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-lol.gif[/img]  I do that as well! It's a cool level bug.<b>Eat your veggies!</b>"
+	},
+	{
+		"id": 3417,
+		"title": "Re: heh",
+		"author_id": 1485574,
+		"author_name": "SupFanat",
+		"timestamp": "2005-12-17T18:39:09.000Z",
+		"content": "The strange thing you noticed is a program bug. It doesn't happen in Keen 6 v 1.4.<br />In Keen 6 v. 1.0 you can jump through some other walls in this levels: Go to the obluse-angeled corner and press Ctrl-Left (if the wall in the left) or Crtl-Right (if the wall in the right) many times. Could someone explain, why it happends.[img]http://classicgaming.com/cc314/encyclopedia/images/enemyk4-wormouth.gif[/img]"
+	},
+	{
+		"id": 3418,
+		"title": "Re: heh",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-12-18T01:07:29.000Z",
+		"content": "There are two parts to it.<br /><br />Firstly the Keen engine accidentally puts Keen inside  a block he shouldn't be in. This happens in some rare circumstances where the sprite clipping and alignment and the tile conspire to allow Keen to enter the tile.<br /><br />Secondly, solid tiles behave slightly like the Doors in Keen 1-3; when the engine notices Keens where he shouldn't be, it merely follows its programming, in this case push Keen out of the tile with force. However, this puts him into another block, and so on until Keen is ejected from whatever wall he has entered.<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

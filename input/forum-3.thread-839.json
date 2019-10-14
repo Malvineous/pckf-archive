@@ -1,0 +1,146 @@
+[
+	{
+		"id": 496,
+		"title": "Working on a Keen sprite!",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-18T16:01:21.000Z",
+		"content": "I am making my own Keen sprite![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   here is my opinion about it so far...<br /><br />Walking animation: Average<br />It looks nice so far but not perfect. The worst thing about it is the fact that his arms only change position when he is shooting, in an ice block, when he dies, and when he uses his pogo, making him look weird when he walks. Don't worry, I will make his arms animate in the walking animation.<br /><br />Jumping animation: Poor<br />When he jumps, his legs shrink! (basically because I'm bad at making jumping animations) Also, his arms might look better if they move as he jumps, but I'm not sure. One more thing. Part of his helmet (the black part at the very top)  disappears at the \"falling\" frame. I don't feel like fixing this.<br /><br />Map animations: Terrible<br />There aren't any new map sprites yet! Yay!<br /><br />Pogo animation: Bad<br />The black part at the very top disappears at the first pogo frame and comes back at the \"pogo landed\" frame. Also, the pogo animation looks (sort of) weird.<br /><br />Ice block animation: Bad<br />The Keen sprite inside the ice looks nice, but it's barely an animation. (His head just flips. That's it.) Also, the ice Keen is in looks horrible.<br /><br />Gun animation: Horrible<br />It is just a walking sprite holding a gun straight out. Boo!<br /><br />Total: Average<br />It's not very good but not very bad either. :P-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13654,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T16:03:03.000Z",
+		"content": "Show us!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13655,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-18T16:09:08.000Z",
+		"content": "Unfortunately, it is on my windows 98 witch doesn't read blank CDs as blank and has no access to the internet. Acutely, it give me an error message that says that it could not copy The file I put my unfinished skin in and I have to make sure the CD not full or write protected and make sure the file is not being used. The CD is completely empty, I don't think write protected and the file is not being used. So I don't know what to do.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]   I will do something though.-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13656,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T16:43:23.000Z",
+		"content": "Can't you use floppy disks?<br />If not, then i guess the only way is to copy each sprite on a piece of grid paper and copy it onto your other computer. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13657,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-18T16:58:16.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Can't you use floppy disks?[hr][/quote] I don't have floppy disks.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  [quote]<b><i>Quote:</i></b>[hr]If not, then i guess the only way is to copy each sprite on a piece of grid paper and copy it onto your other computer.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-crazy.gif[/img] [hr][/quote][img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img]  I don't think I would figure out how to use ModKeen on XP.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13658,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-18T17:04:41.000Z",
+		"content": "Do you mean you don't have floppy disks, or no floppy disk drive?<br />Cause floppy disk are cheap (i think)<br /><br />Modkeen in XP:<br />Go to Start/Programs/Accesories/command prompt<br />Type in \"X:\" (replace x with the drive letter) to change drives.<br />Type \"cd folder/folder/etc...\" to change folders.<br />Type \"cd ..\" to go up a folder.<br />Type \"dir\" to see the contents of a folder.<br />Now find the folder with modkeen. Run modkeen by typing \"modkeen\"<br /><br />Ok?<br />[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 13659,
+		"title": "Re: Working on a Keen sprite!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-18T17:28:16.000Z",
+		"content": "Good luck with the sprites. IMKO sprite working is the most difficult part of mod making. I hate spriteing! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-garg.gif[/img]  *drinks Sprite*<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 13660,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T19:13:33.000Z",
+		"content": "If you look at the normal Keen:Vorticons sprite, the black line at the top of Keen's helmet disappears during their pogo frame, too.  I always thought the default \"shoot\" frame was lame, and the jump/fall sprite was mediocre.  *shrug*<br /><br />Hope you find a way to show us, soon!"
+	},
+	{
+		"id": 13661,
+		"title": "Just finishe it!",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-18T21:39:48.000Z",
+		"content": "I just got the entire skin done! Now to give my review...<br /><br />Walk/Stand: Poor/Average<br />The standing sprite doesn't look good but doesn't look bad either. The problem is that it's arms move strange when walking (Yes, I (obviously) did animate the arms!).<br />Pros: The arms now move<br />Cons: The standing sprite falls down one tile in the beginning of the level. Can some one email me/post a download a file with 16 levels where keen starts a little higher than usual? (make sure there are no viruses in them!)[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-confused.gif[/img] <br /><br />Jump: Poor<br />As I said, when he jumps, his legs shrink. Also on the \"falling\" sprite, the black part at the very top disappears. An other thing with the \"falling\" sprite is that all Keen is doing on this frame is standing on his toes (not the tips though), yet he manages to jump rather high with his \"magical\" foot. Wow.<br />Pros: Uh.. Keen blinks in one frame, I geuss?<br />Cons: There might be to many to type.<br /><br />Map: Good<br />I like the map sprite I drew. It's not too god but it looks nice.<br />Pros: It looks adorable!<br />Cons:At first you could walk out of mars with out cheating by pressing Left/Right and Up/Down quickly. I had already  fixed this a few minutes before posting this post, though, and now you have to cheat to get out of mars.<br /><br />Ice: Terrible<br />As I said, The Keen sprite inside the ice looks nice, but it's barely an animation. (His head just flips. That's it.) Also, the ice Keen is in looks horrible.<br />Pros: It is finally a different sprite (my own sprite!).<br /><br />Gun: Horrible<br />Just a modified walking sprite. Boo!<br />Pros: No<br />Cons: Yes<br /><br />Total: Average<br />It is not good but it is not bad either. It might be worth a try. I'm planning on getting cable for my 98, so I can let everyone see my work with out going through more work.<br /><br />Download: Maybe<br /><br />Host: Maybe<br /><br />//: It's not , , or  but I would still like it if you gave me credit before you used it any where.-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13662,
+		"title": "hehe",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2005-07-18T23:27:58.000Z",
+		"content": "You know how to upload it, right?  You can either get yourself a free host (like Tripod, Angelfire, Geocities, etc.) or you can email it to somebody else to put online for you."
+	},
+	{
+		"id": 13663,
+		"title": "Re: Just finishe it!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2005-07-19T09:41:38.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I'm planning on getting cable for my 98[hr][/quote]You could always pick up a pair of cheap network cards and cable for a couple of dollars and use that - I couldn't cope if my PCs weren't networked..."
+	},
+	{
+		"id": 13664,
+		"title": "Changed ice sprite",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-20T14:16:53.000Z",
+		"content": "I've added horizontal cyan lines to the ice sprites. It looks better, but not perfect.<br /><br />REVEIW<br /><br />Walk/Stand: Poor/Average<br />The standing sprite doesn't look good but doesn't look bad either. The problem is that it's arms move strange when walking (Yes, I (obviously) did animate the arms!).<br />Pros: The arms now move<br />Cons: The standing sprite falls down one tile in the beginning of the level. Can some one email me/post a download a file with 16 levels where keen starts a little higher than usual? (make sure there are no viruses in them!) <br /><br />Jump: Poor<br />As I said, when he jumps, his legs shrink. Also on the \"falling\" sprite, the black part at the very top disappears. An other thing with the \"falling\" sprite is that all Keen is doing on this frame is standing on his toes (not the tips though), yet he manages to jump rather high with his \"magical\" foot. Wow.<br />Pros: Uh.. Keen blinks in one frame, I guuss?<br />Cons: There might be to many to type.<br /><br />Map: Good<br />I like the map sprite I drew. It's not too god but it looks nice.<br />Pros: It looks adorable!<br />Cons:At first you could walk out of mars with out cheating by pressing Left/Right and Up/Down quickly. I had already fixed this a few minutes before posting this post, though, and now you have to cheat to get out of mars.<br /><br />Ice: Terrible<br />As I said, The Keen sprite inside the ice looks nice, but it's barely an animation. (His head just flips. That's it.) Also, the ice Keen is in looks horrible.<br />Pros: It is finally a different sprite (my own sprite!).<br /><br />Gun: Horrible<br />Just a modified walking sprite. Boo!<br />Pros: No<br />Cons: Yes<br /><br />Die: Poor<br />A modified standing sprite. It just inverts rapidly. (You will under stand a little better if you see it.)<br /><br />Total: Average<br />It is not good but it is not bad either. It might be worth a try. I'm planning on getting cable for my 98, so I can let everyone see my work with out going through more work.<br /><br />Download: Maybe<br /><br />Host: Maybe<br /><br />//: It's not , , or  but I would still like it if you gave me credit before you used it any where.-------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />[url=http://s12.invisionfree.com/Harveys_Forum/index.php?act=idx]Click here to go to my forum[/url]<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13665,
+		"title": "Re: Changed ice sprite",
+		"author_id": 297693,
+		"author_name": "Retodon8",
+		"timestamp": "2005-07-20T22:26:36.000Z",
+		"content": "This would just work so much better if you simply showed us the images. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br />(Even if that isn't actually so \"simply\" for you.)Retodon8<br />You live, you die, you are remembered, you are forgotten. [url=http://keen.retodon8.net/][img]http://retodon8.net/Graphics/Keen_Yorp.gif[/img][/url]"
+	},
+	{
+		"id": 13666,
+		"title": "Re: Changed ice sprite",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-07-21T01:24:55.000Z",
+		"content": "Pics or STFU [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]"
+	},
+	{
+		"id": 13667,
+		"title": "Re: Changed ice sprite",
+		"author_id": 1485591,
+		"author_name": "alex87",
+		"timestamp": "2005-07-22T03:38:01.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] Pics or STFU [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr][/quote]<br /><br /><b>Pics or STFU</b> [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ---------<br />[img]http://img250.echo.cx/img250/9885/comicstrip9vf.gif[/img]"
+	},
+	{
+		"id": 13668,
+		"title": "Re: Changed ice sprite",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2005-07-22T11:16:12.000Z",
+		"content": "I concur, post pictures or we will deploy the deadly Stick The Forumer Underwater tortutre. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-pirate.gif[/img] A proud member of the signature stealing society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/Kazz.gif[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 13669,
+		"title": "Re: Changed ice sprite",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-22T13:05:54.000Z",
+		"content": "I have an idea: I will recreate it on my XP, then email the skin to someone, or find a download host![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />EDIT: It'll take too much work, I will have to find out how to burn CDs on my 92 or get internet access.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] -------------------<br />A proud member of the beta testing society<br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br />Down with VGA! Up with EGA!<br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 13670,
+		"title": "?",
+		"author_id": 1486477,
+		"author_name": "Mr12000",
+		"timestamp": "2005-07-22T13:23:13.000Z",
+		"content": "if you have no way of moving it how will you ever be able to share it with us? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]"
+	}
+]

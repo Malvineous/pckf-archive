@@ -1,0 +1,34 @@
+[
+	{
+		"id": 230,
+		"title": "Keen Multiplayer Possibility",
+		"author_id": 1486519,
+		"author_name": "Damien SR",
+		"timestamp": "2006-11-15T20:46:52.000Z",
+		"content": "Theoretically, how credible is the following idea:<br /><br />Design a program to run behind Commander Keen which records keystrokes and sends them across the internet or an IPX network, and at the same time receives information from the internet or IPX and uses those keys to emulate the pressing of other keys on the keyboard.<br /><br />Then, make subtle modifications to Commander Keen so that a new creature with the collision properties of the Bounder but the appearance of Commander Keen exists and can be moved with a very awkward set of controls.<br /><br />Then, when Commander Keen in run at the same time as this other program (Program X) on two different computers connected via IPX or internet, Program X will receive all the keyboard input which controls Commander Keen and forward it to the other computer's Program X.  The other computer will translate those controls into the format to control the new Bounder-like creature.<br /><br />So in essence, you will be playing a cooperative multiplayer Commander Keen game over your network or internet connection.<br /><br />If this concept is totally incredible, that's because I know practically nothing about modifying Commander Keen."
+	},
+	{
+		"id": 5988,
+		"title": "Re: Keen Multiplayer Possibility",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-11-15T22:07:56.000Z",
+		"content": "<i>Design a program to run behind Commander Keen which records keystrokes and sends them across the internet or an IPX network</i><br /><br />Pretty easy.<br /><br /><i>receives information from the internet or IPX and uses those keys to emulate the pressing of other keys on the keyboard</i><br /><br />Somewhat harder, but not impossible.<br /><br /><i>make subtle modifications to Commander Keen so that a new creature with the collision properties of the Bounder but the appearance of Commander Keen exists and can be moved with a very awkward set of controls.</i><br /><br />Pretty much impossible [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   You'd almost certainly need the Keen source code for a change this extensive, and if you had the source there'd be no need to stuff around with TSRs recording keystrokes..."
+	},
+	{
+		"id": 5989,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-15T22:44:16.000Z",
+		"content": "I couldn't even figure out how to make the Bounder kill Keen when touched, let alone create a duplicate entity which is controllable.  :$  <br /><br />Why not come help us remaster Keen4 for patching, over at K:M?  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 5990,
+		"title": "Re: ...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-16T02:55:30.000Z",
+		"content": "Yeah, even if the idea would work in theory, it's pretty impossible to make true. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  But yeah, if the Keen source is ever released I'm sure there'll be multiplayer ports of the game then. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	}
+]

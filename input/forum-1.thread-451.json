@@ -1,0 +1,114 @@
+[
+	{
+		"id": 108,
+		"title": "Mystery Version?",
+		"author_id": 1388047,
+		"author_name": "Afgncaap5",
+		"timestamp": "2006-03-30T19:41:43.000Z",
+		"content": "Are there versions of Keen 3 other than Version 1.0 and 1.31?  I can't seem to get any mods to run for my Keen 3 (it normally says \"out of memory!  Try resetting TSRs\" or something; sometimes it runs, but the graphics are impossible to see).  I thought I might not have a good version so I tried patching it to version 1.31, and I was told that I had an unrecognized version.  I then tried patching it to 1.0, and was still told that I had an unrecognized version.<br /><br />Is there some third version of Keen 3 out there that I might have a copy of?  My computer came with Keen on it so I've got no way of checking just what it's supposed to be."
+	},
+	{
+		"id": 3155,
+		"title": "Re: Mystery Version?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-30T19:56:53.000Z",
+		"content": "Hmmm, I've never heard of any other version! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  Are you sure you have unlzexed it? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3156,
+		"title": "Re: Mystery Version?",
+		"author_id": 1388047,
+		"author_name": "Afgncaap5",
+		"timestamp": "2006-03-30T20:10:59.000Z",
+		"content": "I just tried that again and I get the message \"'keen3.exe' is not LZEXE file.\"  Not sure what that means."
+	},
+	{
+		"id": 3157,
+		"title": "Re: Mystery Version?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-30T21:32:03.000Z",
+		"content": "I always get that error with Unlzexe. I don't know what causes it, i just assume that (like all of the other errors) my computer hates me. It really does. (actually, I'm gonna have to format drive c one of these days. I want a newer windows, and the system files are all messed up when i moved my harddrive to a new*er* PC.)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3158,
+		"title": "Re: Mystery Version?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-30T23:13:42.000Z",
+		"content": "Hmmm, no idea then. :\\<br />It may just be Windows causing some problems and affecting it so it doesn't work. I had problems with modkeen which before worked well but then some Windows patch changed something and it didn't work anymore at all. Well, I'm glad there's modkeen32 and it works now again.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3159,
+		"title": "Re: Mystery Version?",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-03-31T00:12:52.000Z",
+		"content": "Yeah, but wasn't that bug just in Windows ME and up? I'm using 98. (Well, and XP, but mostly 9[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dexter.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 3160,
+		"title": "Hmm...",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-31T00:19:25.000Z",
+		"content": "This sort of thing occasionally used to happen to me, but that was when I was using old random copies of the game I had (Keen6 was the most problematic--the patch couldn't recognise its version). I just Googled up some fresh copies and patched them to the latest versions.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 3161,
+		"title": "Re: Hmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-03-31T06:08:40.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr] I just tried that again and I get the message \"'keen3.exe' is not LZEXE file.\" Not sure what that means.[hr][/quote]<br /><br />It means the the program cannot find the tiny start string that says '$FF ZOMG! this is a file compressed by LZEXE! Yays! $F8' So it seems to be just an ordinary exe file, and can't be compressed.<br /><br />Can you look at it? What values are at $1CDC?<br /><br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3162,
+		"title": "Re: Hmm...",
+		"author_id": 1388047,
+		"author_name": "Afgncaap5",
+		"timestamp": "2006-03-31T08:01:42.000Z",
+		"content": "I don't think I can look at it...what are the normal ways of looking at file coding?"
+	},
+	{
+		"id": 3163,
+		"title": "Re: Hmm...",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-31T08:26:18.000Z",
+		"content": "You'll need a hex editor. And excellent freeware one can be obtained here: [url=http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm]www.chmaas.handshake.de/d.../xvi32.htm[/url]<br /><br />Then just scroll down until you see the current byte's address being $1CDC.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 3164,
+		"title": "Re: Hmm...",
+		"author_id": 1388047,
+		"author_name": "Afgncaap5",
+		"timestamp": "2006-04-04T00:45:28.000Z",
+		"content": "Okay, assuming that I'm doing this right, it says 7E."
+	},
+	{
+		"id": 3165,
+		"title": "Re: Hmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-04T07:02:37.000Z",
+		"content": "Damn, I think you're right, that doesn't match any version I know of, uncompressed or no. I'm going to cure this the old fashioned way; take this file and put it in your Keen3 folder, mods will now work.<br /><br />[url=http://www.net2ftp.com/index.php?ftpserver=toxicsheep.com&ftpserverport=21&username=levellord&password_encrypted=30686E3033737433683376696C&language=en&skin=blue&ftpmode=automatic&passivemode=no&sslconnect=no&viewmode=list&sort=&sortorder=&directory=/htdocs&entry=KEEN3.EXE&state=downloadfile]www.net2ftp.com/index.php...wnloadfile[/url]<br /><br />A proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	},
+	{
+		"id": 3166,
+		"title": "Re: Hmm...",
+		"author_id": 1388047,
+		"author_name": "Afgncaap5",
+		"timestamp": "2006-04-05T01:24:05.000Z",
+		"content": "Okay, I try that file and it opens as a bunch of weird, messed up graphics.<br /><br />It's probably safe to assume that the problem is with the user, not the software.  Right?<br /><br />-Edit-<br /><br />Hmm.  I tried copying all the relevant files into a new folder, and they seemed to work better.  My only problem now is that is tells me \"out of memory, try unloading your TSRs\" every time I try to run the xkykeen3.bat file."
+	},
+	{
+		"id": 3167,
+		"title": "Re: Hmm...",
+		"author_id": 1485602,
+		"author_name": "LevelLord00",
+		"timestamp": "2006-04-06T05:30:36.000Z",
+		"content": "Dood, the world really doesn't like you today does it?<br /><br />I'm afraid there's not a lot you can do with that except try to run it through DosboxA proud member of the Spleen Extinction society<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/rcwn.png[/img]<br /><br />\"No one should be here.\"<br />-Levellord"
+	}
+]

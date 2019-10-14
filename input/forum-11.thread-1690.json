@@ -1,0 +1,242 @@
+[
+	{
+		"id": 1347,
+		"title": "MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-21T13:01:13.000Z",
+		"content": "Does anyone know where I can find a really good MIDI to CMF converter? Not the type of CMF that is used in Math Rescue and Word Rescue... the type in Hocus Pocus and Clyde's Revenge. One program that comes close is Melody Assistant by Myriad... but it's kinda.... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-barf.gif[/img] . The drums don't work, and neither does the piano, and it doesn't support pitch bends, volume control, or any other MIDI events. Also, if the MIDI file has more than 4 tracks, one track becomes a drum track, and it isn't the track that you want to become the drum track! Also, some instruments are quiet in the beginning of the CMF file, but then they suddenly get loud after about 20 seconds.<br /><br />So, if anyone knows of a good MIDI to CMF converter besides Melody Assistant, that would be great!"
+	},
+	{
+		"id": 28864,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-24T01:09:58.000Z",
+		"content": "Well, I'm not sure about Clyde's Revenge, but the Hocus Pocus music is already in MIDI format, not CMF - you can extract the .mid files from HOCUS.DAT either by hand, or using a standard file ripper.<br /><br />They're just standard MIDI files too, nothing special.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28865,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-24T01:45:58.000Z",
+		"content": "These CMF files are weird, though. They aren't the normal CMF files with IBK files that store instrument data. When I imported these CMF files into IMF Creator ([url=http://winwolf3d.dugtrio17.com/),]winwolf3d.dugtrio17.com/),[/url] the instruments were completely screwed up and did not sound right at all. When I was playing around with Melody Assistant one day, I opened bubbles.mid from Hocus Pocus, and I exported it as a CMF file... and when I played it through Winamp, it sounded just like in Hocus Pocus.<br /><br />[url=http://www.sharebigfile.com/file/197399/4-zip.html]www.sharebigfile.com/file...4-zip.html[/url]<br /><br />Those are a few songs from Hocus Pocus, only converted to the CMF format using Melody Assistant (pretty bad, I know). With the improved IMF synth, these might sound even more like in Hocus Pocus.<br /><br />I don't know too much about CMF files or how the different sound cards in Hocus Pocus work, but I did find it weird how these CMF files sounded like the adlib soundcard in Hocus Pocus."
+	},
+	{
+		"id": 28866,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-24T08:29:10.000Z",
+		"content": "You're right in that they're weird CMF files.  It looks like that program did a very quick and nasty conversion - there are notes played on CMF channel 11 (which is an invalid channel) but the instruments are the most surprising of all.  My improved synth plays them as silence because I reset all the instruments to silence (and there's obviously no instrument data to \"override\" these default silent instruments) but most intriguing of all they're not even proper CMF instrument values.  Normal CMF songs might have say 10 instruments, and they might set a channel to instrument #5 - whereas these songs set channels to instrument #108, or #81, which is *way* out of range - *except* if those values were treated as General MIDI instrument patches, which range from 0-127 - which they probably are, given that they came from a MIDI file.<br /><br />So that program is doing the nastiest, dirtiest possible conversion, and I'm surprised it even works.  It looks like both Adplug and Creative's own CMF player internally use a MIDI synth to play their songs, and they override the synth's MIDI patches with those loaded from the CMF file - but if there are no patches in the CMF, you get 128 standard MIDI instruments instead.  Who knew?<br /><br />I think I know where you're coming from now though.  Since MIDI files don't store instruments, they'll sound different depending on the hardware you play them back on.  The game has its own Adlib MIDI player, which will sound different to all other MIDI players.  Trying to convert them into CMF was a good start, because that format is the closest you can get to MIDI while being able to specify similar instruments to the game.  Of course if you don't specify *exactly* the same instruments as those used in-game, then you won't get quite the same sound (as you've discovered.)<br /><br />I'm sure you've noticed when you load Hocus Pocus that comment about the Fat Man at the start?  Well, those are the instruments you'll need to pinch and attach to the CMF file in order to get it to sound the same as the game.<br /><br />You should also bear in mind that a conversion to CMF isn't perfect, because CMF files don't support some MIDI features, like note velocity - all CMF notes play at the same volume, even though the format can store a different volume for each note - it's just ignored during playback (unless you use AdPlug, which does use these note velocities, making many CMF files sound different!)<br /><br />At any rate, hopefully this helps explain what's going on...!<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28867,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-24T12:45:46.000Z",
+		"content": "Yes. Thank you! That helped me understand it more. The explanation of a CMF file in Melody Assistant is \"CMF is a format derived from MIDI 0, used as proprietary format by some sound cards (SoundBlaster)\"<br /><br />Melody Assistant is a French program, by the way...[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  <br /><br />EDIT: One time I simply changed the file extension of a midi file from .mid to .cmf, and it did a better job than Melody Assistant, which is sad."
+	},
+	{
+		"id": 28868,
+		"title": "wow",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-24T22:58:51.000Z",
+		"content": "Thanks for the rundown, Malv... is there anywhere we can get more info about converting MIDI drum sounds into CMF sounds?  This would be useful for applying new tunes to our Keen4+ mods, in the future.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 28869,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-25T03:22:32.000Z",
+		"content": "MIDI and CMF are different enough that renaming the file extension won't work - the only reason why you would've still been able to play the file after renaming it was because the playback program supported both file formats, and it automatically detected the file type without looking at the extension (I think AdPlug does this.)  If you try the same trick with something that only supports CMF and not MIDI, it won't work.<br /><br />I'm not sure what you mean by converting MIDI drum sounds, Xky - do you mean that you want to convert a MIDI tune into CMF, then pick your own nice-sounding CMF instruments, then convert that into IMF?<br /><br />If so, percussion is relatively complicated in a CMF file, particularly if you're converting from MIDI.  Under General MIDI, channel 10 is reserved for percussion.  Any note played on channel 10 will be a percussion instrument, and the note pitch indicates which instrument to play (e.g. a middle-C might be a hi-hat, and the next F# might be a snare drum.)<br /><br />CMFs on the other hand have five percussion channels (channels 12 though 16), with each channel predefined for a particular percussive instrument (e.g. channel 12 is a bass drum, channel 16 is a hi-hat.)  You still need to load instrument patches into these channels (so it's possible to tweak the sound of the instruments a bit in the process) but because of the predefined use for each channel, you're limited in how much you can change the sound of the instrument.  You can't for example load the same patch onto the bass drum channel and the hi-hat channel and expect them to sound the same.<br /><br />This also means that in a CMF file you can play any note you want on a percussive instrument (ever heard \"Mary Had a Little Lamb\" played on a hi-hat?) but in a MIDI file the note is fixed - if you play a different note on the percussion channel, you get a different instrument.<br /><br />These differences make converting between MIDI and CMF less than trivial, even though the actual raw music is stored in the same format.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28870,
+		"title": "whoops",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-25T03:28:25.000Z",
+		"content": "Dangit, I got too caught up in things, and totally breezed over the *C*MF part of this.  I should've asked how to go about converting a MIDI drum track into an IMF drum track.<br /><br />That's really interesting stuff about CMF--An old, old Game Maker utility I had for DOS used CMF files for its music, and I remember spending quite some time looking for MIDI to CMF converters, without luck.  Knowing how they work now explains a lot of that.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  <br /><br />If I'm tracking drums for an IMF, would it be better to simply use MIDI instruments like the MelodicToms, TaikoDrums, or SynthDrums (all over 100) and hope the IMF conversion makes them sound drum-y?  Or is there another method?<br /><br />In the past, when I've loaded my MIDI files into the IMF converter, the snare drums have been absent, though some bass drums (B0, not C1), the high hat, and tambourine have come through fine.  Is there a trick to it?  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 28871,
+		"title": "Re: whoops",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-25T03:56:02.000Z",
+		"content": "I was wondering whether you were thinking of IMF instead of CMF [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <br /><br />I'm not sure of the best way of \"designing\" your source MIDI file - it would depend on how the IMF converter works.  The problems seem to crop up when you have a single MIDI channel with multiple instruments on it (i.e. percussion.)  These will often get converted as-is onto a single channel, with the one instrument assigned to all notes on the channel (so all your MIDI percussion gets assigned to the same instrument.)<br /><br />If you sequence your MIDI file with each instrument on a separate track, with only one channel per track (and you were careful not to have any overlapping instruments on the same channel/track, which will get cut off on an OPL synth) then I suspect you'd have less trouble during conversion - because you can very easily rearrange the channels and even combine channels and tracks to keep the converter happy if they're all separate to start off with, but it's much harder to separate out the tracks later on if they were combined to start off with.<br /><br />Hmm...I feel like tinkering around with file format converters now... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28872,
+		"title": "alright",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-07-25T18:44:56.000Z",
+		"content": "Alright--so keep drums on seperate tracks; that's no sweat.  I was mostly concerned that there wouldn't be a translation from the general MIDI drum notes to IMF instruments.  I'll toy with it a bit, next chance I get.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/><br /><br />Thanks again!"
+	},
+	{
+		"id": 28873,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-25T23:32:17.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]Well, I'm not sure about Clyde's Revenge, but the Hocus Pocus music is already in MIDI format, not CMF - you can extract the .mid files from HOCUS.DAT either by hand, or using a standard file ripper.[hr][/quote]<br /><br />Is it at all possible to replace the MIDI files in Hocus Pocus? I've tried Wombat by szevvy, but it says that replacing with different-sized files is not yet supported. It also says that for replacing images in Hocus Pocus, but wasn't there a Christmas Mod for Hocus Pocus?"
+	},
+	{
+		"id": 28874,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-25T23:45:15.000Z",
+		"content": "It is possible, but at the moment there are probably no tools to do it.  The reason why Wombat is limited to same-size replacements is because that's a simple matter of overwriting the existing data in the .dat file.<br /><br />If you want to replace a file with a larger version, not only do you have to make room for it by shifting *every* other file forward, but depending on how the main file works, you may have to update any number of file offsets - if the file you want to insert is 10 bytes larger, everything after that will be shifted forward by 10 bytes.  This means that all the existing file offsets will point to the old positions, which are now 10 bytes behind.  So you need to go through and increase all those offsets by 10 as well, so they point to the new location of all the files.<br /><br />In games like Commander Keen where these offsets are stored in the .exe file itself, there are a number of different files you need to update to make this work - which is why it's far easier just to say \"same-sized replacements only\" [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] <font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28875,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-26T03:00:43.000Z",
+		"content": "Thanks! However, I tried to replace a picture with a picture with the exact same size, however, instead of saying that I couldn't replace it with a different-sized file, it said \"Access violation at address 00405654 in module 'Wombat.exe'. Read of address 00EA0C72.\" Is it a bug in Wombat?"
+	},
+	{
+		"id": 28876,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-07-26T04:24:55.000Z",
+		"content": "Quite possibly - Wombat was only ever in beta, and because of its limitations the author is busy working away on a complete rewrite - as far as I know, \"Wombat 2\" shouldn't be too far off now.<br /><br />You also need to be careful when you say a \"picture of the same size\" - as not only does this mean the same dimensions (width and height) but most importantly of all, it must be the same *file* size.  Compressed formats like PCX can change size even if the image is the same width and height.<br /><br />Try \"replacing\" it with the same image you extracted, without modifying anything.  If that works then there's hope, but if even that fails then it's unlikely to be any more successful after you've changed the image too.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28877,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-26T13:39:28.000Z",
+		"content": "I checked the file sizes of the original image and the modified image.... they were both the same, so I took your advice. I extracted the image and replaced it with an unmodified image. It worked [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  .<br /><br />EDIT: Uh Oh..... I just played the level that contained the tiles I was trying to replace... here's a screenshot...<br /><br />[img]http://www.filenanny.com/files/44f7b9c9f14e0/kj.bmp[/img]"
+	},
+	{
+		"id": 28878,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485983,
+		"author_name": "KeegTech",
+		"timestamp": "2007-07-26T18:34:58.000Z",
+		"content": "It looks like Hocus has been taking bites out of those mushrooms. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img] [img]http://i91.photobucket.com/albums/k284/KeegTech/WarholDopefishPNG2.png[/img]"
+	},
+	{
+		"id": 28879,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-26T18:57:38.000Z",
+		"content": "Haha!! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  That level also runs a lot slower now, along with the music. I kinda like the music slower. If replacing midi files with different-sized midi files ever becomes supported by Wombat, I'll slow bubbles.mid down."
+	},
+	{
+		"id": 28880,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-07-26T21:55:49.000Z",
+		"content": "Slowing down a song is a matter of changing exactly one value in a MIDI (the beats per second), so the file would still be the same size if you did this right now.____________<br />Don't see me as an ordinary man.<br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]<br />Oh, and [url=http://www.tengusoft.net/]Team[/url]."
+	},
+	{
+		"id": 28881,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-07-26T23:33:54.000Z",
+		"content": "Well.....<br /><br /><br /><br />It kinda worked.... only now for some reason, some MIDI tracks come in late. And any level that has that song in it runs slower now.<br /><br />EDIT: Never mind! I just needed to convert it to MIDI 0. There is a little bit of space in the beginning of the song for some reason, but that's ok! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 28882,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-06T22:43:34.000Z",
+		"content": "I replaced a song with a different song that was the same size and when it played in Hocus Pocus, it was amazing. Everything worked. Pitch bends, channel volume, velocity, even the drums! So I was just wondering what the algorithm mentioned in the beginning of Hocus Pocus was. Is it in the Hocus.dat file? What do I have to do to a normal MIDI file to make it sound like the songs in Hocus Pocus?"
+	},
+	{
+		"id": 28883,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-07T08:51:44.000Z",
+		"content": "You'll need to start by finding a program that will play MIDI files through an OPL synth.  AdPlug is probably a good start, but bear in mind that it only works with type-0 files too.<br /><br />Then you need to extract the instruments from the hocus.dat file (that's what's mentioned at the start) and then somehow convert them into the format that AdPlug uses for its MIDI synth.<br /><br />I imagine you'll need to be quite familiar with [url=http://www.shikadi.net/moddingwiki/VGFM_Instrument_Format]Adlib instruments[/url] before attempting something like that.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28884,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-07T15:18:27.000Z",
+		"content": "The instruments wouldn't happen to be in that incredibly long list of unknown files that appears when you open Hocus.dat into Wombat? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-stoned.gif[/img]"
+	},
+	{
+		"id": 28885,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-08T22:07:28.000Z",
+		"content": "Yep, one of those is the instrument file.  Your best bet would be to extract them all and open them one by one in a decent file viewer until you see one that 'looks' like FM instruments (I still can't go past 'List' from the early 90's on account of it displaying all the control/nonprinting characters, which is crucial when you're trying to identify a file format.)<br /><br />It sounds a bit weird, but after you've seen enough files in a certain format you realise they all have a characteristic look, and being able to pick up on that is most helpful when you're trying to reverse engineer a format.<br /><br />You'll probably want to start by downloading a bunch of .IBK instrument files to 'train' yourself, and once you're familiar with that (ignoring the instrument names in the .IBK file which are *probably* not going to be in the Hocus file) you could take a look at the hocus.dat files and see how you go.<br /><br />Actually I think Duke3D has a 'timbre' file which stores Adlib instruments - I can't remember the name now, but I think it's one of the .bin files in duke3d.grp.  That might be an even better bet to see what one of these files should look like.  At any rate the Hocus timbre file would be about the same size, so you could ignore all the large files in the .dat which would save some time.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28886,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-09T20:40:55.000Z",
+		"content": "I found the timbre file in Duke Nukem 3D... there are 2 or 3 files in the unknown file list that are close to the same size as the one in Duke. I also realized that Clyde's Revenge uses the same instruments as Hocus Pocus, and there is a much smaller list of unknown files in there. I can't seem to find anything in Clyde's Revenge... except something called GUSMIDI.INI, but that's also in Hocus Pocus. I am a little familiar with IBK files, but I wouldn't be able to recognize one. I guess I should start looking at some more IBK files."
+	},
+	{
+		"id": 28887,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-09T22:10:34.000Z",
+		"content": "You probably want to ignore anything to do with the GUS, as that uses sampled instruments - so although it sounds more realistic than the Adlib synth, it won't help if you *want* the Adlib sound.<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28888,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-12T23:45:49.000Z",
+		"content": "Well, I haven't found anything yet, but I did find something kinda interesting in the beta version of Hocus Pocus... unknown files 197-207 are the songs in IMF format. I don't have the registered version of the beta version, but since all of the songs are in there, I'm guessing that all of the levels are stored in there too? Is there a registered version? I don't know how to view the levels.<br /><br />Anyways, I'll keep on trying to find the instruments in Hocus Pocus!"
+	},
+	{
+		"id": 28889,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-13T08:15:33.000Z",
+		"content": "IMF?  Are you sure?  That'd be quite odd.  Can you post a link to one?  There don't appear to be any in my version, just the MIDIs.<br /><br />Also I don't follow about the levels - they're almost certainly stored in hocus.dat, but that doesn't affect the music...<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28890,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-13T13:07:14.000Z",
+		"content": "Here they are:<br /><br />[url=http://www.mediafire.com/?4berbtc40ny]Unknown File #197[/url]<br />[url=http://www.mediafire.com/?emtozepxikv]Unknown File #198[/url]<br />[url=http://www.mediafire.com/?cbattb1nvwh]Unknown File #199[/url]<br />[url=http://www.mediafire.com/?6wgbyj0j3xm]Unknown File #200[/url]<br />[url=http://www.mediafire.com/?42zytnb5wbe]Unknown File #201[/url]<br />[url=http://www.mediafire.com/?8zsdnaewzaw]Unknown File #202[/url]<br />[url=http://www.mediafire.com/?7fumwxiked2]Unknown File #203[/url]<br />[url=http://www.mediafire.com/?8bztqjn4t3m]Unknown File #204[/url]<br />[url=http://www.mediafire.com/?5m8jjvclrdv]Unknown File #205[/url]<br />[url=http://www.mediafire.com/?8vzxtomjnc0]Unknown File #206[/url]<br />[url=http://www.mediafire.com/?9wnxgtbilcb]Unknown File #207[/url]<br /><br />Just rename them to .IMF at the ends of there file names. This really kinda surprised me, though. I don't have the registered beta version, I don't know if they made one, but they store all of the music for the registered version in the beta version..."
+	},
+	{
+		"id": 28891,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-08-13T21:47:52.000Z",
+		"content": "Wow that's interesting, they really are in IMF format.  Some of them also sound like early versions of the final songs used.  They must've decided to include an Adlib MIDI player in the final release instead of using IMFs, as it doesn't look like there are any in the version I have.<br /><br />Here's a mirror for those irritated by Mediafire: [url=http://www.shikadi.net/pckf/hocusimf.zip]hocusimf.zip[/url]<font color=\"#EEF2EE\">[url=http://www.shikadi.net/keenwiki/]KeenWiki[/url] | [url=http://www.shikadi.net/moddingwiki/]ModdingWiki[/url]</font>"
+	},
+	{
+		"id": 28892,
+		"title": "Re: MIDI to CMF converter",
+		"author_id": 1485980,
+		"author_name": "Caribbean Blue",
+		"timestamp": "2007-08-13T22:39:46.000Z",
+		"content": "Yup. They probably revised the songs before they put them into the final version, because some of them are in a different key, and some have notes in there that aren't in the final versions.<br /><br />EDIT: [url=http://apogeegames.com/beta2.html]Here[/url] is where I downloaded the beta version of Hocus Pocus."
+	}
+]

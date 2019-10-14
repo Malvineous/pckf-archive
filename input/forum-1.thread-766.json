@@ -1,0 +1,58 @@
+[
+	{
+		"id": 40,
+		"title": "Keen6 -- missing platform?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-12T22:19:31.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<br /><b>I wrote:</b> WHY in the hell I stumbled upon a Keen 6 v1.0 savegame of level 14 \"Bloogbase Management District\" in which one of the floating platforms near the end (you know, just above the bridge that you must open) wasn't there, thus making the level impossible to finish without cheats?\" I remember that didn't happen if I started a new game and made it there, it was just the saved game. A bug or something? It was very frustrating before I could made it there by the regular way. (NOTE: I didn't know the cheats back then)<br />[hr][/quote]------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2067,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-06-13T01:31:21.000Z",
+		"content": "Wow, that was rather difficult to read. Italics inside a quote is not a good look.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  Why is that a quote, anyway?<br /><br />Do you still have the save file?"
+	},
+	{
+		"id": 2068,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-13T14:06:08.000Z",
+		"content": "No, I no longer have the saved game, the floppy disk was lost somewhere in the garbage. It's a quote because I already mentioned that in my supposed-departure topic. Noone noticed, though [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smoke.gif[/img]  <br /><br />I was just wondering if anyone else found anything similar when playing Keen 6. I don't know the person who played that game originally, but I guess he or she jumped onto the platform and a bug caused the platform to fall to the bottom edge like if there was no BLOCK below it.<br /><br />I've been wondering about this strange issues since I was 9 years old.<br /><br />edit: de-italicized it.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2069,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-06-17T01:01:21.000Z",
+		"content": "I've never heard of (or experienced) this cheat.  Weird stuff.--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 2070,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-18T12:30:23.000Z",
+		"content": "I've had this happen before when my saved games were corrupted; even done it once on purpose. (With a Bip though, not a platform.) the saved game keeps track of all the sprites in the sprite array, and, if like a point that's been got, it isn't in the file, it won't be in the level. Thus you can, if you're smart, customize your saved games, both with score, lives and such, and sprites. (You can even shift Keen somewhere impossible, that's how I did my impossible places in Biomenace.)[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 2071,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-06-18T14:07:02.000Z",
+		"content": "Biomenace loads game with the default pos at the beginning of every level, since it doesn't allow you to save your game in-situ.------------------------------<br />[url=http://shadowm2006.sitesled.com/]My website[/url]<br />[url=http://p072.ezboard.com/fpubliccommanderkeenforumfrm20.showMessage?topicID=12.topic]Get Windows/Linux native LModKeen 2 with integrated FIN2BMP![/url]. You know you want to.<br />[url=http://shadowm2006.sitesled.com/meta/projectpage.htm]The META engine for 2D games[/url]."
+	},
+	{
+		"id": 2072,
+		"title": "Re: Keen6 -- missing platform?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-06-20T05:11:33.000Z",
+		"content": "Indeed, something you can see in the saved game files.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	}
+]

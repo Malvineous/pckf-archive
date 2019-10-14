@@ -1,0 +1,42 @@
+[
+	{
+		"id": 164,
+		"title": "TED5 ERROR: Error loading file GFXINFOE.CK4",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-11T22:37:45.000Z",
+		"content": "I get the error \"TED5 ERROR: Error loading file GFXINFOE.CK4\" every time I try to run TED5 to open Keen 4![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-offended.gif[/img]  (obviously because I don't have that file.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  ) What do I do???[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-furious.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dead.gif[/img]  [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-mortlol.gif[/img] -------------------<br />A proud member of the beta testing society<br /><br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br /><br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 3964,
+		"title": "Re: TED5 ERROR: Error loading file GFXINFOE.CK4",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-12T00:03:19.000Z",
+		"content": "Letsee:<br /><br />Are you using XP? If so, try DOSbox.<br /><br />Did you run tedsetup first?<br /><br />Is your game version 1.0? it has to be 1.4<br /><br />Is the graphics edited? They can't be.[img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	},
+	{
+		"id": 3965,
+		"title": "Re: TED5 ERROR: Error loading file GFXINFOE.CK4",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2005-07-12T08:50:46.000Z",
+		"content": "Grrg.. I wish I'd knew more about TED5 problems.. But well, try those that Genius314 suggested, often the problem has something to do with wrong version of Keen or un-unlzexed exe.<b>You hear in your mind: GAAARRRRRGG!</b>"
+	},
+	{
+		"id": 3966,
+		"title": "Re: TED5 ERROR: Error loading file GFXINFOE.CK4",
+		"author_id": 1486547,
+		"author_name": "Harvey",
+		"timestamp": "2005-07-12T11:30:44.000Z",
+		"content": "The problem was that I wasn't using version 1.4, thanks![img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] -------------------<br />A proud member of the beta testing society<br /><br />[url=http://www.garfield.com/comics/comics_todays.html]www.garfield.com/comics/comics_todays.html[/url]<br /><br />Email me a beta at [url=mailto:HarveySmiths3rdemail@hotmail.com] HarveySmiths3rdemail@hotmail.com[/url]! :-)"
+	},
+	{
+		"id": 3967,
+		"title": "Re: TED5 ERROR: Error loading file GFXINFOE.CK4",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2005-07-12T14:38:41.000Z",
+		"content": "Actually, i thought the only problem that could come from using the wrong version was that there weren't any of the icons. I guess not. [img]http://img.photobucket.com/albums/v609/genius314/picturekeen.bmp[/img]"
+	}
+]

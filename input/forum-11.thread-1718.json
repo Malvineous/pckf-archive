@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1375,
+		"title": "Star Wars Shadows Of The Empire video problems",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-10T02:03:38.000Z",
+		"content": "i purchased a copy of this game off ebay 4 9.67 AUD &amp; when the game loads 1st with the starting video it's all jerked up i know it's my video card (Geforce 6200 128mb) i downloaded a game patch but everything's still the same, will the latest driver updates fix this?<br /><br />help me if you can<b>Rorie</b>"
+	},
+	{
+		"id": 29285,
+		"title": "Re: Star Wars Shadows Of The Empire video problems",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-08-11T09:09:54.000Z",
+		"content": "Shouldn't you run the latest drivers anyway?  I tend to update as soon as new ones come out.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 29286,
+		"title": "Re: Star Wars Shadows Of The Empire video problems",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-08-11T09:58:32.000Z",
+		"content": "Yeah, update your drivers first, and if that doesn't help, then put on the ol' thinking cap.________________<br />[img]http://img80.imageshack.us/img80/8498/missouriansf9.png[/img]"
+	},
+	{
+		"id": 29287,
+		"title": "Re: Star Wars Shadows Of The Empire video problems",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-21T05:28:31.000Z",
+		"content": "updated the video drivers for my video card<br />nothing happened so i gonna try &amp; sell it to my friend<b>Rorie</b>"
+	},
+	{
+		"id": 29288,
+		"title": "Re: Star Wars Shadows Of The Empire video problems",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-08-22T15:20:28.000Z",
+		"content": "If only the movies are jerked up, I'd check your codecs and search on the net what kind of codecs the game might need.____________<br />I have a boring signature.<br /><br />...<br />Ah, [url=http://DaVince.sitesled.com/]site[/url]."
+	},
+	{
+		"id": 29289,
+		"title": "Re: Star Wars Shadows Of The Empire video problems",
+		"author_id": 297417,
+		"author_name": "rorie1983",
+		"timestamp": "2006-08-31T04:43:06.000Z",
+		"content": "already sold it to my friend, the movies &amp; game worked perfectly on his computer<b>Rorie</b>"
+	},
+	{
+		"id": 29290,
+		"title": "Re",
+		"author_id": 1485611,
+		"author_name": "BBalazs",
+		"timestamp": "2006-10-16T18:11:02.000Z",
+		"content": "Meh.. It's just that your computer is too fast for the game. I know - I own that game myself. Try to run it on a good system config and most likely you will fail. Give it a go like this:<br /><br />Set screen resolution and ALL graphics options to the Maximum available<br />Also, try to cut back on system performance by, for example, modifying the game's CPU priority to low and running about 10-15 Microsoft Words in the background (or, a Keen game made in Multimedia Fusion or The Games Factory, because these apps use 90-99% of processor speed)<br /><br />Also, play around with switching subtitles on-off and using -or not using- DirectShow."
+	}
+]

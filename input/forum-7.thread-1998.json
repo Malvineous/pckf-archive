@@ -1,0 +1,42 @@
+[
+	{
+		"id": 656,
+		"title": "Animation frames (INCOMPLETE)",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-11-15T02:41:42.000Z",
+		"content": "I was writing a guide to animating tiles, with Adis' help, but she's kind of 'fizzled out' leaving me with a half written topic, but I decided to post anyway.<br /><br />--------------------------------------------------------------<br />LL's and Sarah's  quick guide to animation:<br />--------------------------------------------------------------<br /><br />In Keen 1-3 you have 2 options for animating tiles; 2-frame or 4-frame. We'll look at each individually.<br /><br /><br /><br />* * *<br />2-Frame Animations<br />* * *<br /><br />These are the simplest and shortest and are most effective in two types of situation:<br /><br /><br />* You have something that will only be animating slightly, usually the change is a simple color change or minor shift in position of something. These animations are generally background and not really noticeable:<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img1.gif[/img]<br /><br /><br />* You have a large number of tiles to animate together and need to conserve space. Known as sacrificial animation; again its usually wise to make the animation a simple color change. The fact that you have a large number of tiles to animate together usually means that the finnished object looks more impressive:<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img2.gif[/img]<br /><br /><br />The colors can be grouped into 8 sets of two, for example dark grey and light grey; these are pretty intuitive. There are however colorschemes; collections of 3 or more colours that 'go together' These are more applicable in 4 frame animations and tile design, but we shall examine them here to get a grip on them first.<br /><br />All colorschemes start with black and dark grey, and end with white, for example: Black -&gt; Dark grey -&gt; Dark red -&gt; Light red -&gt; Yellow -&gt; White; some of the most common and useful colorschemes are:<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img3.gif[/img]<br /><br /><br />If you use a palette patch you may make your own colorschemes; the most useful is to make all four 'blue' colors grade better and to make the brown color mix better with both red and yellow [i.e make it an orange]<br /><br /><br />* * *<br />4-Frame Animations<br />* * *<br /><br />These are much more versitile than 2-frames, and it is quite possible 2-frame animations were left in the game only as an afterthought. Although rather limited compared to modern graphics, they nevertheless allow an interesting variety of animation types which can be related to a number of tile  and tileset design issues of which we will examine the most basic and useful first.<br /><br /><br />1-1-2-2: Also known as false 2-frame animation, this uses two pairs of identical frames the nett result being to have a two frame aniamtion that animates at half the speed of the normal 2-frame. This is useful in two cases; the first when you want to give the impression of something animating or moving rather slower or less than normal, such as a simple tar or lava animation that you want to appear sluggish and slow, or a floating orb that doesn't move much. The second case is when you want to contrast this slower animation with a faster normal 2-frame; such as two flashing lights flashing at different speeds; if done right this can have quite an impressive effect.<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img4.gif[/img] [img]http://img.photobucket.com/albums/v410/Gannalev/img1.gif[/img]<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img5.gif[/img]<br /><br /><br />1-1-1-2: Also known as the 'flick'; this involves 3 identical frames with the fourth differing. This is useful for a more 'sudden' animation effect, such as a brief spark or flash<br /><br /><br />1-2-3-2: Also known as sine animation, this involves three different frames with the second and fourth identical. These are the most commonly used in game and are useful especially for color changes. The idea behind them is low-med-hi-med variation such as a light going from dim to high to dim...<br /><br />[img]http://img.photobucket.com/albums/v410/Gannalev/img6.gif[/img]<br /><br /><br />More may come later.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 16836,
+		"title": "Animation!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-15T04:43:45.000Z",
+		"content": "This is spectacular--please make a similar topic over at K:M in the General section, if you get a chance!"
+	},
+	{
+		"id": 16837,
+		"title": "Re: Animation!",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2006-11-19T20:38:29.000Z",
+		"content": "Nice. I never thought to classify four frame animation like that.<br />Btw, I like that nice little animated machine. Who drew that? (Or is it from an actual game?)-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 16838,
+		"title": "Re: Animation!",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-21T17:24:05.000Z",
+		"content": "I saw it in ShadowKeen2. It looks like a modified version of an artifact seen in Crystal Caves.[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 16839,
+		"title": "Re: Animation!",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-24T18:49:54.000Z",
+		"content": "Neat.  I like these classifications.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	}
+]

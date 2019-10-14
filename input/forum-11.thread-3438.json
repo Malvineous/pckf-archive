@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1376,
+		"title": "Cosmo levels?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-13T03:33:38.000Z",
+		"content": "Does anyone know if the specs for Cosmo are available anywhere - saves me working it out.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 29291,
+		"title": "Re: Cosmo levels?",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2006-10-13T04:05:27.000Z",
+		"content": "Not that I've been able to find. [url=http://home.online.no/~p-olstad/apogee/cosmo.html]This site[/url], in case you haven't come across it before, may be of some help. It links to a level editor, but there's no source available for it. Might make it a bit easier to work out the format at least."
+	},
+	{
+		"id": 29292,
+		"title": "Re: Cosmo levels?",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-10-13T10:32:39.000Z",
+		"content": "I shall say only one thing; that editor is bunk, you have to place 8x8 tiles, one by one! (Unless you cut and paste)<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 29293,
+		"title": "Re: Cosmo levels?",
+		"author_id": 1486071,
+		"author_name": "Frenkel",
+		"timestamp": "2006-10-13T16:18:39.000Z",
+		"content": "I've got the source code of an old version of that editor, when it was still called Cosmos Cosmic Adventure Level Viewer. But I don't know if Karl will let me give it to you.<br /><br />I can tell you that the first byte of a level file indicates which background is shown in the game and the second byte which music is played. The rest of the file is probably just like the level format of Duke Nukem II.Groeten van Frenkel<br />Visit [url=http://www.sfprod.cjb.net]The Official S&amp;F Prod. Homepage[/url]"
+	},
+	{
+		"id": 29294,
+		"title": "Re: Cosmo levels?",
+		"author_id": 1485864,
+		"author_name": "szevvy",
+		"timestamp": "2006-10-15T04:22:28.000Z",
+		"content": "\"just like the level format of Duke Nukem II\" was the hint I was looking for.  Cheers.------------------<br />[url=http://www.szevvy.net]www.szevvy.net[/url], for all your Wombat needs.  You know you want to.<br />A member of the LevelLord fan club."
+	},
+	{
+		"id": 29295,
+		"title": "Re: Cosmo levels?",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-10-15T16:07:37.000Z",
+		"content": "Good luck, and yeah, haven't heard of any other editor than that.<br /><br />And as semi-related question, anyone heard of that Crystal Caves level editor? Is it making any progress, or perhaps already released somewhere? (Or dead.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-sad.gif[/img] )3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	}
+]

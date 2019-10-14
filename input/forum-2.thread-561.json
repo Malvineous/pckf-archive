@@ -1,0 +1,586 @@
+[
+	{
+		"id": 218,
+		"title": "Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-10T15:55:19.000Z",
+		"content": "Well, I feel the need to announce it. I have been working on a Keen1 mod last month. It's titled \"Commander Keen The Return of the Shikadi, Episode One: 'Lost in the Shadows'\". It takes place after \"the Universe is Toast\". I wrote a storytxt.ck1 with the story, but I think it needs improvement. One of my goals with this mod is to give the perspective illusion with tiles (like Keen4).<br /><br />I'll upload a screenshot of the title screen soon. The story is very simple.<br /><br />---<br /><br />After the defeat of Mortimer McMire, nothing special has happened, and the Universe seems to be in peace again. However, one day, when Commander Keen was listening to a sitcom with the Photacyion Transceiver, a strange transmission is heard. It was a message of the Shikadi, who plan to take over the Milky Way! They're led by someone called the \"shadow master\". They say their first objective is to kill Keen. Billy jumps into the BWB Megarocket and heads to Gnosticus IV.<br /><br />With the help of the Oracle, Commander Keen learns who's his enemy, although very little information is known about him. He travels to the Shikadi's secret base on Umbria V, where the Omega Force Shikadi joined the Alpha Force Shikadi under the command of the Shadow Master.<br /><br />However, when reaching Umbria V, the BWB Megarocket is attacked and gets serious damage. After an emergency landing, Keen begins his adventure in Umbria V, to find 4 magic crystals the Shadow Master hid in different places of Umbria V. If Keen collects the 4 crystals, he'll be able to defeat this new enemy.<br /><br />---<br /><br />I think I need some suggestions about the Commander Keen sprite. The height of the sprite is limited to the original Keen sprite of the Vorticons trilogy (because changing the size could cause some problems with tiles and Keen's movements), and I'd like a Keen4-looking sprite. I might also have problems with the Shikadi sprites (they replace the Gargs).<br /><br />Here is a screenshot of the title screen:<br />[img]http://img245.imageshack.us/img245/3769/modtitlejq7.png[/img]<br /><br />I expect this to be finished next year, but since it depends on my spare time, I can't promise anything. Also note that I'm online only once or twice a week.<br /><br />EDIT: The vorticons are replaced by the Shadow Master. I have some ideas about it, but I won't be sure until I start making the levels.<br /><br />[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 5349,
+		"title": "new mod!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-10T18:16:07.000Z",
+		"content": "Yay!  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  Looking forward to the new mod."
+	},
+	{
+		"id": 5350,
+		"title": "Re: new mod!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-11-10T19:45:22.000Z",
+		"content": "A new mod, nice to hear that! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5351,
+		"title": "Re: new mod!",
+		"author_id": 989154,
+		"author_name": "Djaser",
+		"timestamp": "2006-11-11T19:46:39.000Z",
+		"content": "You shouldn't post tilesets unless necessary; they give away to much away information.<br />I remember Xky posting only his title screen of his first mod in advance to make the surprise bigger.-----------------<br />[img]http://www.jamster.co.uk/s/jcw/img/logo_jamster_navi.gif[/img][img]http://www.jamster.co.uk/storage/view/335/0/cr/CrazyFrog___Axel_F_Falling.gif[/img]"
+	},
+	{
+		"id": 5352,
+		"title": "Re: new mod!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-11-12T01:57:54.000Z",
+		"content": "All I can say is 'Good luck!' I now know how hard modding is.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5353,
+		"title": "Re: new mod!",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2006-11-12T18:21:57.000Z",
+		"content": "Good luck!<br /><br />Graphics are awesome.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5354,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-11-14T16:39:25.000Z",
+		"content": "I did a small modification to the title screen bitmap:<br />[img]http://img132.imageshack.us/img132/2192/modtitlenj4.png[/img]<br /><br />And I also removed the tileset preview:<br />[quote]<b><i>Quote:</i></b>[hr]You shouldn't post tilesets unless necessary; they give away to much away information.[hr][/quote]<br /><br />Well, I think that preview will be obsolete next month. I've changed many tiles after uploading the preview. I got the idea of including tiles for perspective-illusion after playing KeenNull by Xky Rauh.<br />[hr]<br />\"<i>Eat your veggies!</i>\""
+	},
+	{
+		"id": 5355,
+		"title": "perspective!",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-14T21:02:03.000Z",
+		"content": "Good luck with the tileset... that's always what takes me the longest and slows me down.  Try to find a new way to do something traditional, or come up with something entirely new.  <img src=\"http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 5356,
+		"title": "Re: perspective!",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2006-11-15T02:09:38.000Z",
+		"content": "There is a patch that allows you to move the title screen around; and to make it a full screen; so you can have a nice big neat looking title; at the very least you might want to get rid of that grey border on the edges.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5357,
+		"title": "...",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2006-11-15T02:17:45.000Z",
+		"content": "There's nothing wrong with a conservative / traditional title screen.  <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>  To each their own!"
+	},
+	{
+		"id": 5358,
+		"title": "Re: I'm sorry",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-05T02:05:16.000Z",
+		"content": "I'm sorry to announce that... I won't be able to add Keen4+-style tiles due to several reasons:<br /><br />1) I can't draw a new Keen sprite, and the old one won't fit in a Keen4+-looking level.<br />2) I want to have more tiles for good-looking backgrounds and platforms, and that won't be possible due to the engine restrictions (i.e. you can't have more tiles than the original tileset in Keen1) unless I get rid of non-essential tiles.<br />3) If I draw more perspective tiles, it will take more time than drawing simple tiles.<br />4) Duke Nukum and Bio Menace have graphically great levels even without perspective tiles.<br /><br />That's the only thing I have to announce. Don't worry, I won't abandon this mod. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   I've always wanted to make my own Keen levels and graphics.<br /><br />About the title screen, I've thought many times about the fullscreen idea, but I won't do that unless I draw something really worthy for a title-screen. And yeah, I already knew the patch.<br /><br />Following Djaser's advice, I'm posting the tileset, <b> but only partially</b>. I just need your opinion about the artwork, since this is the very first time I do *actual* artwork for a game or mod:<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/tileprev.png[/img]<br /><br />I'll anyway keep a copy of the tileset bitmap which included the perspective tiles, on my harddisk, so I can use them later for something.<br />[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 5359,
+		"title": "Re: I'm sorry",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-12-05T13:08:30.000Z",
+		"content": "Looks very good to me. In my opinion, only the lollypop would need some editing.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5360,
+		"title": "Re: I'm sorry",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-12-05T15:59:19.000Z",
+		"content": "Not bad at all! Seems rather promising -- a bit dark high-tech stuff, and the like.. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5361,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-05T18:19:52.000Z",
+		"content": "Um, nobody seems to have noticed that I ripped and scaled some of those backgrounds from Bio Menace. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  <br /><br />But the background artifacts, the statue with blue glowing eyes, and the gray floor tiles were all drawn by me, with some inspiration (specially the statue). [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  The blue laser field was also drawn from scratch. I haven't tested it in action, but I *think* it should look pretty good when animated.<br /><br />Yeah, the lollypop wasn't my best idea, and I'll probably replace it later. The donut was ripped from Keen4, but I'll try to draw one myself and add some candy to it. The blue pack thing at the left is supposed to be a pack of marsh-mellows. I hope it looks like it is.<br /><br />The brown yorp is a chocolate yorp. You guess where I got the idea from. (Hint: I consider it the best Keen fangame ever made for DOS.)<br /><br />The framed picture of the Shadow Master, well, it should be like the Grand Intellect picture we saw in Keen3. I drew it, converted it and reduced its colors all by myself. (It was the result of a very, very, very boring afternoon; I have adapted it to be my avatar, user account picture, and part of my mod's tileset.)<br /><br />BTW, the mod's codename is \"SHIKADI1\". It's the name of its folder and batch file, actually.<br />[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 5362,
+		"title": "Re: Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-08T19:45:41.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Shadow Master:</b> I think I need some suggestions about the Commander Keen sprite. The height of the sprite is limited to the original Keen sprite of the Vorticons trilogy (because changing the size could cause some problems with tiles and Keen's movements), and I'd like a Keen4-looking sprite. I might also have problems with the Shikadi sprites (they replace the Gargs).[hr][/quote]<br /><br />I wish I could help that guy. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]   (quoting myself, wow...)<br /><br />After deciding to not include Keen4-style tiles, a Keen4-style sprite is obviously useless. But I never liked the Keen1 player sprite, and I don't like mods lacking a MODified player sprite. Thus, I need some help.<br /><br />[quote]<b><i>Quote:</i></b>[hr]<b>Xky:</b> Good luck with the tileset... that's always what takes me the longest and slows me down.[hr][/quote]<br /><br />The tileset has proved to be the easiest thing to do for my mod. I've drawn a lot of tiles, more than what I expected to have at this time, but in my opinion sprites are really difficult to do, specially Keen's one.<br /><br />So, what should I do about the Keen sprite? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img]  <br /><br />BTW, this is my second lollypop: [img]http://i144.photobucket.com/albums/r176/shadowm2006/lolly1.gif[/img]<br /><br />... and a donut drawn from scratch, replacing the one ripped from Keen4: [img]http://i144.photobucket.com/albums/r176/shadowm2006/donut1.gif[/img]<br /><br />EDIT: Better save these image files on your hard disk, and then view them with a zoom-capable application.[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 5363,
+		"title": "Re: Re:",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-12-10T01:12:34.000Z",
+		"content": "You can use the width and height tags when you post images here, so the web browser enlarges them for you:<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/lolly1.gif[/img] [img]http://i144.photobucket.com/albums/r176/shadowm2006/donut1.gif[/img]"
+	},
+	{
+		"id": 5364,
+		"title": "Re:",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2006-12-20T00:30:21.000Z",
+		"content": "OK, that wasn't funny at all it seems. Ripped background tiles? Yeah. So you might think I can't draw background tiles from scratch.<br /><br />Well, what do you think about the following?<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/hitechbackgrnd.gif[/img]<br /><br />I now have enough time to continue working on this. I've already solved the CK sprite problem by talking with the friend of an expert. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />I started replacing ripped tiles with my own, but using the originals as reference for coloring, style and shading. For the case of these tiles, I'll soon draw more variants, so the levels won't be graphically monotonous.<br /><br />[hr][img]http://img136.imageshack.us/img136/983/vegetableswk2.gif[/img]"
+	},
+	{
+		"id": 5365,
+		"title": "Great",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2006-12-29T06:48:25.000Z",
+		"content": "Great looking tiles so far. The background looks alright, id have to see a screenshot of how it looks in-game to give much input.<br /><br />[quote]<b><i>Quote:</i></b>[hr]I started replacing ripped tiles with my own, but using the originals as reference for coloring, style and shading. [hr][/quote]<br /><br />Thats what I do with most of my mods [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5366,
+		"title": "Re: Great",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-01T21:52:33.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]<b>Ceilick:</b> Great looking tiles so far. The background looks alright, id have to see a screenshot of how it looks in-game to give much input.[hr][/quote]<br /><br />Oh, this is an old screenshot:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/shikadi1_test.gif[/img]<br /><br />The tileset has been modified a lot since then, so that screenshot is now obsolete, as the tiles published above are. This is my most active project, and I have the tileset almost finished. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  I think I have improved a lot since I started it.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5367,
+		"title": "Re: Great",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-01-01T22:04:01.000Z",
+		"content": "It looks alright, but you're gonna have a problem with points and other tile placement useing that background. It wouldnt look good if a point is collected and either a blank tile or a random background tile appears. You can see in your screen shot that the platforms on the right would need specific backgrounds or else they wouldnt fit in right.<br /><br />You might want to use a simpler main background (solid color or a 1 tile deseign) and use this for only specific areas where there arent any points."
+	},
+	{
+		"id": 5368,
+		"title": "Re: Great",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-01T22:07:40.000Z",
+		"content": "That's the idea. That's why I said that screenshot is completely obsolete. The level displayed there is also obsolete, because I rearranged many tiles for compatibility with some patches, and miscellaneous stuff. I might have more screenshots before going to beta, anyway, if I start making levels.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5369,
+		"title": "Re: Great",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-01-01T22:10:28.000Z",
+		"content": "I understand the screenshot is obsolete, but i was strictly refering to the background. It sounds like you have a plan though, so good luck with the levels [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]"
+	},
+	{
+		"id": 5370,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-06T19:10:18.000Z",
+		"content": "Two screenshots of my current progress (up to date!). The first is the level in-game (yeah, there are some tiles misplaced because I haven't modified all the tile props with Tileinfo yet); the second is the iKeen view:<br /><br /><b>1st screenshot:</b><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/shadow_1.gif[/img]<br /><br /><b>2nd screenshot:</b><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/level1.png[/img]<br /><br /><i><b>EDIT (3 minutes after original post):</b> I decided to put the 2nd screenshot as a link because its a somewhat big PNG file and it takes too long to load  on my Internet connection.</i><br /><br />I currently have replaced 2 of the Keen 1 enemies. The other will be replaced as soon as I have a solid concept for them. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]     <br /><br />I think I'm near to finish the tileset and spriteset (88% and 25%, respectively, but I don't think the sprites will take too long). So, a beta could appear this February or March. I'll probably be looking for beta-testers by then.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5371,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-06T19:52:26.000Z",
+		"content": "Looks nice so far... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] -Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5372,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486722,
+		"author_name": "Battleguy01",
+		"timestamp": "2007-01-06T21:11:08.000Z",
+		"content": "Keep up the good work [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 5373,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-01-07T18:16:35.000Z",
+		"content": "I don't know, the steel/technical parts are kinda clashing with the other parts. It fits in, but there's... something... that could be done better.<br /><br />I think it's the background of the technical parts.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5374,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-07T18:57:18.000Z",
+		"content": "Ah, I love criticism! It helps me do a better work! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   <br /><br />DaVince, maybe you can tell me if I got the point. \"the background of the technical parts\". Well, the grayish background will be deprecated for beta, since I have a better, blueish background:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/fordav.gif[/img]<br />Is a background replacement what you think I need?<br />Or is the purple terrain/steel surface contrast? (About it, yes, I need to draw some transition tiles, I thought about it after partially-making the test level.)<br /><br />While we are at it, criticize the following sprites (they replace the Tank and Buttler Robot, I'm sure you'll guess who's who):<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/sprtest.gif[/img]<br /><br />They are called \"SentryBot\" and \"Baby Shikadi\" (while I think of a better name). Many of them were already converted to Modkeen's Masked Bitmap Specification (or Whatever It Is Called)."
+	},
+	{
+		"id": 5375,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-01-07T23:36:21.000Z",
+		"content": "I like the sprites you have there. the 'baby shikadi' reminds me of the green blob in xkykeen1. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />maybe add a visible weapon to the tankbot?<br /><br />Nice level, but I think I preferred the grey background..<br /><br />This is going to make an awesome mod [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5376,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-07T23:51:54.000Z",
+		"content": "Don't worry, I will keep the grey background. My levels will have rooms with different backgrounds, actually [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  But the grey background has been improved this afternoon.<br /><br />Yeah, the green blob and the baby shikadi are relatives. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img]  (Conceptual relatives, that is.)<br /><br />I've to draw a garg replacement (which will be a shikadi), but I haven't even got the concept on paper, so it may take some time.<br />As I said before, beta coming soon (February? March?).<br />[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5377,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-01-08T00:33:22.000Z",
+		"content": "Looks excellent, can't wait to get playing this one day. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img]  Love the blue background tiles.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5378,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-01-09T07:38:49.000Z",
+		"content": "One of the first things I notice is that your enemy sprites are two dimensional while your keen sprite has a more three dimensional look. This isnt nescessarily a bad thing, just thought I'd point that out.<br /><br />Your tank bot looks particularly interesting, though unless theres a reason its so small (which im guessing there is [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]  ), you should probably make him taller.<br /><br />And I agree with Keenrush, that blue background is hot [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]"
+	},
+	{
+		"id": 5379,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-09T22:19:43.000Z",
+		"content": "Those are some nice tiles.<br />Some minor details:<br />-The light switch (unless you're not gonna use the ripped one), should use a different color than cyan for \"ON\". It just seems to clash.<br />-The lit up light at the top isn't round enough.<br />-The green bottles should have some shading or something, they seem to flat.<br />Everything looks good so far. Keep it up!-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5380,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-09T23:17:13.000Z",
+		"content": "- The lightswitch that you see there is a <b>ripped placeholder</b> that will be replaced with something better when I get an idea for drawing. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  (Note that I won't release the mod beta with ripped placeholders in the tileset [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] )<br />- The lit up light... yeah, I don't like it. Its current tile sequence is an experiment on lighting and shading-<br />- The bottles (which have red, green and yellow variants) have proved to be troublesome for me. I have to think about that.<br />[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5381,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-10T17:43:09.000Z",
+		"content": "So, I've just tried to correct the issues.<br /><br />1) Bottle and lit up spinning roof-light:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/bugfix1.gif[/img]<br /><br />2) New bridge switches:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/bridgeswitchtiles.gif[/img]<br /><br />I read somewhere in K:M tht if you use the same tiles used for the K2 bridge switch in Keen 1, you'll get the toggle effect. About the lightswitch, I drew a custom place holders a few minutes ago, but I doubt it'll actually be used in this mod. No big ideas for lightswitches yet.<br /><br />I recommend you saving the images and viewing them with a external application instead, because the img size tags cause the image to look somewhat ugly in some browsers.<br /><br />EDIT: yay, 100th post of me! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] [hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5382,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-01-10T19:29:29.000Z",
+		"content": "Indeed, you progress fast.<br /><br />The thing about switches is correct.<br /><br /><br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5383,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-10T22:09:52.000Z",
+		"content": "[quote]<b><i>Quote:</i></b>[hr]I recommend you saving the images and viewing them with a external application instead, because the img size tags cause the image to look somewhat ugly in some browsers.[hr][/quote]<br /><br />Or, if you use Firefox (which you should, if you don't [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ), you can use the [url=http://https://addons.mozilla.org/firefox/139/]Image Zoom[/url] add-on to zoom in on them right in the browser.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5384,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-10T22:31:11.000Z",
+		"content": "I use it, version 2.0. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  I just didn't know about the add-on. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] <br />Err... back on topic please. Criticize the updates above, specially the green bottle item shading.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5385,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2007-01-10T23:10:19.000Z",
+		"content": "Why don't you just resize the images *before* you post them and solve all the problems at once?  It's not like they're that large.<br /><br />...and you should know by now that nothing here ever stays on topic for long [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img]  (especially not when someone posts a message that says \"please stay on topic\" instead of giving us something new on-topic to discuss [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-dopekeen.gif[/img] )"
+	},
+	{
+		"id": 5386,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-10T23:25:46.000Z",
+		"content": "In that case... [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-cheeky.gif[/img] <br />Let's see. Exactly, what does the Keen6 bottle have that mine doesn't have (about shading)?<br /><br />Keen 6 bottle:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/bottle_keen6.gif[/img]<br />My bottle:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/greenbottle_shikadi1.gif[/img][hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5387,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-10T23:29:12.000Z",
+		"content": "For one, it doesn't exactly have shading, just lighting.<br />Second, yours looks fine. Except, I personally would use dark gray for shading, rather than black.<br />Also, maybe in the top-left corner of the light green, add a pixel of dark green. It might make it look slightly rounder.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5388,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-01-10T23:30:35.000Z",
+		"content": "hmm. your bottle has a stright line differnce between light and dark; it could look better if it was curved. The cap is also green, which makes could be confusing, maybe make it a round top with a different color; the black checkerboard gives to much contrast (I think) perhaps change it to grey?<br /><br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5389,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-10T23:53:08.000Z",
+		"content": "Hopefully I have improved:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/bugfix2.gif[/img]<br />Wanna drink some? Heh. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />EDIT: And what you've been waiting for...<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/shikadigrunt-wip1.gif[/img]<br />* applause *<br />[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-birthday.gif[/img]  <br /><br />Hey, wait a second. Before you start criticizing it, I have to tell you that it's work-in-progress. I posted this sketch for the sole purpose of receiving feedback on this shikadi's body proportions.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5390,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-11T00:51:17.000Z",
+		"content": "Looks good so far... The eyes, however, would probably look better as a 1-pixel-thick vertical line.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5391,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-01-11T03:54:36.000Z",
+		"content": "I like the new bottle [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />[quote]<b><i>Quote:</i></b>[hr]The eyes, however, would probably look better as a 1-pixel-thick vertical line. [hr][/quote]<br /><br />yeah... Maybe 2 by 1 lines which flash between shades of blue?<br /><br />Speaking of shades, that could probably be applied to the entire shikadi. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] <br /><br />Neat- is that the garg or the vorticon?<br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5392,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-01-11T05:33:15.000Z",
+		"content": "The Shikadi is a great start, but like you said it needs some work. Here's some suggestions:<br /><br />It doen't seem to have much of a facial expression, perhaps you should make him look angrier (by slanting the eyes or somthing). <br /><br />Another thing is that his arms seem too long and snaky, it looks like they should be at least a pixel shorter and they need a more prominent shoulder base. <br /><br />Most importantly, his feet have the same 3d look as the keen 5 shikadi. Since it appears the rest of your mod has a general 2d look, his feet probably should'nt stick out like that."
+	},
+	{
+		"id": 5393,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-01-11T19:29:29.000Z",
+		"content": "I like the Shik, but it looks too solid; it is an energy being after all, and needs to look more electriky.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5394,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-11T20:48:48.000Z",
+		"content": "- For Levellass:<br />I think you didn't read the part where I say: <i>\"Before you start criticizing it, I have to tell you that it's work-in-progress. I posted this sketch for the sole purpose of receiving feedback on this shikadi's body proportions.\"</i><br /><br />I'll add the \"special effects\" after making sure that his body proportions are correct. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br />------<br />- For Freeyorp101:<br />It's the Garg replacement. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br />------<br />- For Ceilick &amp; All-Of-Above:<br />I'm not sure if I corrected it:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/newshikadi.gif[/img]<br />In this image I also added some special effects, Just-In-Case (JIC), and made the second animation frame of four.<br /><br />I shortened his arms too, edited his face and enhanced the shoulders. I also modified his feet, tring to make him look not so 3D. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />EDIT: By the way, if you're wondering what the light-blue pixel at the left of his mouth is, it is some sort of fang. It's something to do with the way I imagine the shikadi out of Keen 5. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] [hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5395,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486548,
+		"author_name": "ceilick",
+		"timestamp": "2007-01-11T21:12:41.000Z",
+		"content": "Wow, awsome job! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-surprise.gif[/img]  I can't wait to see how it looks in your mod.<br /><br />The only thing that might need modification is how big the head is. From looking at the keen 5 shikadi sprite, the shikadi's head doesnt have neck, but is part of the body. I'd make his head shorter by at least one pixel, but even without this change it looks great!<br /><br />[quote]<b><i>Quote:</i></b>[hr]By the way, if you're wondering what the light-blue pixel at the left of his mouth is, it is some sort of fang. It's something to do with the way I imagine the shikadi out of Keen 5.[hr][/quote]<br /><br />haha, for some reason I thought it was drool [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-drool.gif[/img]"
+	},
+	{
+		"id": 5396,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-01-11T21:38:30.000Z",
+		"content": "It looks fat/muscely. I personaly think a mix between the old version and the new one will do fine.____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5397,
+		"title": "Shique",
+		"author_id": 360657,
+		"author_name": "Commander Spleen",
+		"timestamp": "2007-01-11T23:43:11.000Z",
+		"content": "Yeah, the new one does look bulky. The limbs need a bit of work. The symmetry is in need of attention too. The expression looks good, though. Maybe a few light-blue or cyan highlights inside the body might make it look a bit shinier, though it takes some experimenting to get the right distribution.<br /><br />Overall, this mod is looking tasty!<br /><br />Btw, if you really want criticism, I suggest you spend less time defending yourself against the feedback you're getting.[img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img]"
+	},
+	{
+		"id": 5398,
+		"title": "Re: Shique",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-01-15T14:13:11.000Z",
+		"content": "I personally like this version of Shikadi a lot! [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  It looks great. I don't think it needs to look just like the original, and thus this a bit heavier version is excellent. The expression on its face is great.3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5399,
+		"title": "Re: Font preview",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-15T19:55:48.000Z",
+		"content": "While I work on the shikadi, I present the preview of the charset:<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/fontpreview.gif[/img]<br /><br />The idea is that the font looks more... innovative, new, er... [insert name of that style used by space movies/cartoons here].<br />NOTE: some tiles were intentionally removed from this preview.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5400,
+		"title": "Re: Font preview",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-15T20:01:40.000Z",
+		"content": "And screenshots of it in-game:<br /><br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/font_ingame2.gif[/img]<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/font_ingame1.gif[/img]<br /><br />EDIT:<br />Don't comment on that planet, please. It was just a 1 minute try of a round shape. I have not finished it (nor tried to) yet.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5401,
+		"title": "Re: Font preview",
+		"author_id": 1485981,
+		"author_name": "freeyorp101",
+		"timestamp": "2007-01-15T23:32:22.000Z",
+		"content": "Nice font. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]   <br /><br />The Big planet on the screen looks a bit wobbly.. maybe it could be changed to be more round ? [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img]  <br /><br />[hr]<br /><br />---Freeyorp"
+	},
+	{
+		"id": 5402,
+		"title": "Re: Font preview",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-01-16T00:28:07.000Z",
+		"content": "Don't comment on that planet, please. It was just a 1 minute try of a round shape. I have not finished it (nor tried to) yet.[hr]<b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5403,
+		"title": "Re: Font preview",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-01-16T13:17:05.000Z",
+		"content": "The font looks really good!3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5404,
+		"title": "Re: Font preview",
+		"author_id": 1485695,
+		"author_name": "Genius314",
+		"timestamp": "2007-01-18T16:20:54.000Z",
+		"content": "Nice font. It reminds me a lot of a font I tried to make, once.-Genius314<br />[url=http://planetck.spatang.com]PlanetCK[/url]"
+	},
+	{
+		"id": 5405,
+		"title": "sweet",
+		"author_id": 1296984,
+		"author_name": "XkyRauh2001",
+		"timestamp": "2007-01-19T01:23:09.000Z",
+		"content": "Looks nice <img src=\"https://groups.tapatalk-cdn.com/smilies/27135/1534636883.9457-smiley.gif?ttinline=true\"/>"
+	},
+	{
+		"id": 5406,
+		"title": "Re: sweet",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-03-13T16:47:00.000Z",
+		"content": "Modification:<br />[img]http://i144.photobucket.com/albums/r176/shadowm2006/1SPR0004.png[/img]<br /><br />I've officially made it a standard for my Shikadi1-6 series to have Keen wearing a red shirt. The pogo is green, supposedly an enhanced version of the one he found on Mars. Additionally, he has a blue, enhanced, neural stunner (although in episodes 3 and 5 he'll use different weapons).<br /><br />Keen GBC authors should be happy now [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5407,
+		"title": "Re: sweet",
+		"author_id": 1486279,
+		"author_name": "LordOfGlobox",
+		"timestamp": "2007-03-29T20:36:16.000Z",
+		"content": "lol, looks nice, SM.~~~~~~~~~~~~~~~~~~~~~~~<br />I've changed a lot since my last time on this forum..."
+	},
+	{
+		"id": 5408,
+		"title": "Re: update",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-24T17:19:24.000Z",
+		"content": "I started making level 1. 15 is finished and 16 is almost.<br /><br />I also drew some new sprites:<br />[img]http://img112.imageshack.us/img112/1797/img1px1.png[/img]<br /><br />The lower one is a plant that moves around and replaces the Yorp, and I have all its frames drawn and converted to Modkeen's format. The other is called the Shikadi Warlord, and only has one frame drawn.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5409,
+		"title": "Re: update",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-04-25T01:46:09.000Z",
+		"content": "Looking good!  (The Yorp replacement looks like a the Pokmon Oddish.  Not that that's a bad thing.)--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5410,
+		"title": "Re: update",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2007-04-25T10:19:43.000Z",
+		"content": "More like an Oddish/Tangela hybrid. It IS kinda weird, but not bad for a Keenish monster. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-grin.gif[/img] ____________<br />Don't think of me as an ordinary man.<br /><br />Even though I am an ordinary man.<br /><br />Ah, [url=http://DaVince.sitesled.com/]site.[/url]"
+	},
+	{
+		"id": 5411,
+		"title": "Re: update",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-25T17:16:52.000Z",
+		"content": "I don't consider myself a Pokemon fan, but some creatures are cute. I didn't remember the name of the creature when I drew this one anyway, but that's the original \"inspiration\". It was initially gonna be yellow, for a 256-color game I haven't made yet.<br /><br />The Shikadi warlord is based on the Battlelord (Duke Nukem 3D).------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5412,
+		"title": "Re: update",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2007-04-25T19:29:29.000Z",
+		"content": "The yorp replacement/plant is awesome. The Shikadi Warlord is probably going to be a right pain to animate, but should look pretty good once done. Keep up the good work!"
+	},
+	{
+		"id": 5413,
+		"title": "Re: update",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2007-04-26T13:59:46.000Z",
+		"content": "Whoaly garg, excellent sprites. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-yorp.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 5414,
+		"title": "Re: update",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-04-27T17:08:51.000Z",
+		"content": "I'm currently working on the death animation for the warlord. I wonder, what does a \"dying\" Shikadi look like?------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5415,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486917,
+		"author_name": "Flaose",
+		"timestamp": "2007-04-27T23:32:01.000Z",
+		"content": "I think something like \"the energy of the Shikadi discharges into the ground as the metal armor clinkles down due to gravity no longer nullified by electromagnitism\".  If you get what I'm getting, I think it'd be pretty cool (especially if the helmet ended with a 45 degree tilt).--------------------<br />[url=http://www.classicgaming.com/cc314/]Cerebral Cortex 314[/url] - For All of your Commander Keen Needs.<br />[url=http://www.classicgaming.com/cc314/dave/joes.html]Eat at Joes[/url]"
+	},
+	{
+		"id": 5416,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-04-28T09:57:16.000Z",
+		"content": "Excellent progress.<br />[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Cute bunny!"
+	},
+	{
+		"id": 5417,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-02T21:51:54.000Z",
+		"content": "I don't remember exactly who saw my Tank-bot replacement graphics. I just want to say... it's toast.<br /><br />Well, I decided that my mod needs a darker ambient, with a really scary monster and... you'll see \"when it's done\".<br /><br />And the tileset, yikes, the tileset. I replaced 30% of the tiles (15% of them ripped from other games/mods) with my new, own tiles which look pretty cool. I'll leave the criticism for the betatesters though.<br /><br />I got the idea, Flaose. Excellent, did you know that the Vorticon death animation has so many frames that I was using less than 50% of them? Your idea is great, I can now use all that empty space. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5418,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1485832,
+		"author_name": "Levelass",
+		"timestamp": "2007-05-04T05:38:40.000Z",
+		"content": "You can alter the number of animation frames a dying Vorticon uses you know.[img]http://img.photobucket.com/albums/v499/Nevad/menbun.gif[/img]<br /><br />Awww! Feel the love!"
+	},
+	{
+		"id": 5419,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 338828,
+		"author_name": "Shadow Master",
+		"timestamp": "2007-05-04T17:19:49.000Z",
+		"content": "It wouldn't look dramatic enough with less frames.------------------<br /><b>SM:</b> <i>\"I could go and write a page about the Theory of Relativity (or whatever it's called), but, what is the point if I don't know what the Theory of Relativity is?\"</i><br /><br />[url=http://shadowm2006.sitesled.com/]My website[/url]"
+	},
+	{
+		"id": 5420,
+		"title": "Re: Keen 1 Mod: \"Lost in the Shadows\"",
+		"author_id": 1486860,
+		"author_name": "doomjedi",
+		"timestamp": "2007-06-14T05:52:10.000Z",
+		"content": "Nice work...<br /><br />maybe we should make a graphic library of pickup items for keen 1-3 modding.<br />I can sure make many nice ones."
+	}
+]

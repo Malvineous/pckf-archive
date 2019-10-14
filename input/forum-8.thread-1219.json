@@ -1,0 +1,114 @@
+[
+	{
+		"id": 876,
+		"title": "I wanna convert lots of jpegs!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-29T06:26:50.000Z",
+		"content": "Does anybody know of a freeware [Win/DOS] utility that can perform JPEG conversion on multiple files at once? Either with a GUI or a command-line based program would be fine.<br /><br />There's always Advanced Batch Converter, but I loathe shareware--I'll donate to freeware projects, but I won't pay for shareware, especially $40 (US!) for a simple image conversion utility. And I'm sick of looking up cracks.<br /><br />If there's nothing around, I guess I'll have to invest some time into making my own.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21919,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 1485753,
+		"author_name": "KeenRush",
+		"timestamp": "2006-03-29T07:35:12.000Z",
+		"content": "Too bad I know none. But I'm 99% there are many freeware programs since that task is quite common. Although making an own program would be cool, and there should be ready libraries for reading and writing image formats, so you don't need to do that part yourself unless you really want to. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-smile.gif[/img] 3D Realms: \"Do you think there'll ever be a sequel to your game(s)?\"<br /><b>Tom Hall</b>: \"<i>If</i> I owned Keen, there sure would be. I <b>don't consider</b> that GBA game canon by any means.\""
+	},
+	{
+		"id": 21921,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 297097,
+		"author_name": "grafix",
+		"timestamp": "2006-03-29T07:55:40.000Z",
+		"content": "[url=http://www.imagemagick.org/script/binary-releases.php#windows]ImageMagick[/url]!"
+	},
+	{
+		"id": 21920,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-03-29T15:45:34.000Z",
+		"content": "I've used Irfanview and Xnview. I believe both are freeware, but I think older versions of Irfanview came with spyware, so I wouldn't recommend it."
+	},
+	{
+		"id": 21922,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 40038,
+		"author_name": "DaVince21",
+		"timestamp": "2006-03-29T16:05:13.000Z",
+		"content": "IrfanView doesn't come with Spyware anymore, you can trust me on that one. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-wink.gif[/img] ___________________<br />DaVince, Yet Another Amateur Game Creator! :P"
+	},
+	{
+		"id": 21923,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 1485672,
+		"author_name": "Malvineous",
+		"timestamp": "2006-03-29T23:09:57.000Z",
+		"content": "Paint Shop Pro also has a batch convert function, and although it's shareware it never used to matter if you didn't register it."
+	},
+	{
+		"id": 21931,
+		"title": "Wanna convert jpegs...",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-03-30T04:59:11.000Z",
+		"content": "No special features, but a clean interface, maybe this will work?<br />[url=http://www.simpleforme.com/files/ImageConvert.zip]www.simpleforme.com/files...onvert.zip[/url]<br /><br />At 9kb, it's hard to imagine there's any space for spyware. Actually, there isn't any spyware or anything. I know this because I made the program.<br /><br />You'll need to have the .Net runtime installed. (It's part of Windows XP.)<br /><br />And it's absolutely free. [img]http://www.classicgaming.com/cc314/msgboard/emotikeen-christmas.gif[/img]"
+	},
+	{
+		"id": 21924,
+		"title": "Re: I wanna convert lots of jpegs!",
+		"author_id": 1485788,
+		"author_name": "lemur821",
+		"timestamp": "2006-03-30T08:43:49.000Z",
+		"content": "Go with ImageMagick. Nothing's easier than a command line.________________<br />[img]http://img.photobucket.com/albums/v462/lemur821/toughyorp.png[/img]"
+	},
+	{
+		"id": 21925,
+		"title": "*experiments*",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-30T09:36:42.000Z",
+		"content": "That's a tasty piece of software you've whipped up, Zach, but I forgot to mention one thing: I need to be able to modify the compression settings and image size. Thanks for the effort, though--it may be handy for PNGs and such.<br /><br />I tried ImageMagick, but couldn't work out how to do multiple files at once. <b>convert</b> doesn't seem to accept wildcards like * for the filename.<br /><br />Oooh. XnView seems perfect for converting, though it doesn't seem to allow me to change the image size.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21926,
+		"title": "Re: compression and size",
+		"author_id": 1485919,
+		"author_name": "Vitamin Zach",
+		"timestamp": "2006-03-30T14:39:34.000Z",
+		"content": "If you don't find another option that works, I should be able to add compression settings. (It will be a little more work, but I was looking at it yesterday and it should be possible.)<br /><br />When you say \"image size\", are you talking width and height (pixels) or size on disk (bytes)?<br />Pixels should be quite easy. But size on disk is entirely dependent on compression settings (and color depth).<br />In either case, could you suggest how you'd like to input these settings?<br />(For example, would you want to say \"I want all of the pictures I select to be converted and be the same size.\" or if you want different sizes for each image, how would you like that to work out?)"
+	},
+	{
+		"id": 21927,
+		"title": "Re: compression and size",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-31T00:33:08.000Z",
+		"content": "By image size I mean the x and y dimensions. By compression I mean size on disk. So both.<br /><br />Something like [img]http://img.photobucket.com/albums/v192/Jimage/keenlike/illustration/jpgdialog.jpg[/img], but including width/height.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	},
+	{
+		"id": 21930,
+		"title": "Re: compression and size",
+		"author_id": 1486364,
+		"author_name": "Xtraverse",
+		"timestamp": "2006-03-31T01:18:58.000Z",
+		"content": "Irfanview is awesome.[url=http://spatang.com/ck][img]http://spatang.com/ck/bannersm.jpg[/img][/url] [url=http://spatang.com/cosmo][img]http://spatang.com/cosmo/bannersm.jpg[/img][/url] [url=http://spatang.com/nukem][img]http://www.spatang.com/nukem/bannersm.jpg[/img][/url] [img]http://spatang.com/scrobblersig.php[/img]"
+	},
+	{
+		"id": 21928,
+		"title": "Re: compression and size",
+		"author_id": 1485853,
+		"author_name": "Zorath",
+		"timestamp": "2006-03-31T09:07:56.000Z",
+		"content": "Spleen, when you select 'Batch convert' in XnView, there's a 'Transformations' tab that'll let you resize etc.<br /><br />[img]http://personal.inet.fi/koti/meklund/batchconvert.png[/img]"
+	},
+	{
+		"id": 21929,
+		"title": "Ooomsage!",
+		"author_id": 1486940,
+		"author_name": "CommanderSpleen",
+		"timestamp": "2006-03-31T11:10:53.000Z",
+		"content": "*checks Transformations tab*<br /><br />Wow. That's awesome.<br /><br />Also gave Irfanview a shot. Seems to be perfect for the job as well, and much smaller. I'll keep them both until I can decide which suits me best.<br /><br />Cheers. These utilities will make my life much easier.<b></b> Cave assectatorem Ductoris Alacris <b></b><br /><br />A concerned member of the Preservation of Endangered Spleens Society<br /><br />[url=http://jimsoft.spatang.com/]JimSoft Lair[/url]"
+	}
+]
