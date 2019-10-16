@@ -5,7 +5,7 @@ const fixURLs = require('./urlfix.js');
 
 const INPUT_DIR = './input/';
 const OUTPUT_DIR = './public/';
-const OUTPUT_DIR_AVATARS = OUTPUT_DIR + 'avatars/';
+const OUTPUT_DIR_AVATARS = 'avatars/';
 
 // At least this many posts is needed to flag the thread as 'hot'.
 const HOT_THREAD_POST_COUNT = 20;
